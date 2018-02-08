@@ -1,0 +1,13 @@
+# General Jekyll Config
+highlighter: rouge
+url: https://pinedance.github.io
+lsi: false
+exclude: [LICENSE, README.md, .gitignore, Gemfile, Gemfile.lock, _build.rb]
+
+# Site Settings
+baseurl:            "/lecture" # Base URL must end WITHOUT a slash, default: ""
+timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Build settings
+host: 0.0.0.0
+port: 8384
