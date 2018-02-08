@@ -11,3 +11,8 @@ ruby _buildPostFromMP3.rb
 bundle exec jekyll build
 bundle exec jekyll serve
 ```
+
+
+ref
+
+https://gist.github.com/smutnyleszek/9803727
