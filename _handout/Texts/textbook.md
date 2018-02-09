@@ -7,6 +7,17 @@ src_path: template_shanghanlun.md
 ---
 
 
+六經病의 證治
+------------
+
+六經病 證治의 大綱
+
+{% assign noo = "007" %}{% include {{page.src_path}} %}
+
+{% assign noo = "011" %}{% include {{page.src_path}} %}
+
+
+
 제Ⅰ장 太陽病의 脈證과 治法
 -----------------------
 
