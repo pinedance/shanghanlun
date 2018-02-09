@@ -226,7 +226,7 @@ src_path: template_shanghanlun.md
 
 #### 3) 邪熱下利證
 
-34
+{% assign noo = "034" %}{% include {{page.src_path}} %}
 
 
 

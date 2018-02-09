@@ -6,7 +6,8 @@
 {% endunless %}
 
 {% assign items = site.data.shanghanlun | where:notype, noo %}
-> {{noo}}	{{ items | map: 'TXT' | join: " " }}
+
+> {{noo}}	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl }}
 
 {% assign anns = items | map: 'ANN'  %}
 {% assign ann_test = anns | join: "" | replace: "；", "" %}
