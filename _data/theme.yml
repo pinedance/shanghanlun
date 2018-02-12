@@ -6,10 +6,11 @@ highlight_color: '#3498db'
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: pinedance
+  gravatar: fc746ff5d8579298993f87ac2bf84e48.png
 
 # "Hi, I'm _______"
-name: Caster
-#email: test@example.com
+name: Bruce
+email: pinedance@gmail.com
 #tagline: "weak opinions, strongly held"
 
 # Google Analytics key, leave blank to ignore
@@ -19,4 +20,4 @@ name: Caster
 show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: true
+show_atom_feed: false

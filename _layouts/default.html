@@ -9,11 +9,12 @@
   <title>{{ site.data.theme.name }} | {{ page.title }}</title>
   <meta name="author" content="{{ site.data.theme.name }}" />
   <meta name="description" content="The blog of {{ site.data.theme.name }}" />
-  <link rel="canonical" href="{{ site.url }}{{site.baseurl}}{{ page.url | replace:'index.html','' }}" />
+  <link rel="canonical" href="{{site.baseurl}}{{ page.url | replace:'index.html','' }}" />
 
   <link href="//fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
-  <link rel="shortcut icon" href="/favicon.png">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.name }}" href="{{site.url}}/atom.xml" />
+  <!-- <link rel="shortcut icon" href="{{site.baseurl}}/favicon.png"> -->
+  <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.name }}" href="{{ site.url }}{{site.baseurl}}/atom.xml" />
 
   <!-- <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css"> -->
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/all.css">

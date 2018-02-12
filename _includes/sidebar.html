@@ -1,17 +1,29 @@
 <nav>
   <h1>Hi.</h1>
+
   <a href="{{site.baseurl}}/">
     {% if site.data.theme.social.gravatar %}
-    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="My photo"/>
+    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=160" id="gravatar" alt="My photo"/>
     {% else %}
     <img src="{{site.baseurl}}/logo.png" id="logo" alt="Blog logo"/>
     {% endif %}
   </a>
-  <h2>I'm <a href="{{site.baseurl}}/">{{ site.data.theme.name }}</a>.</h2>
+
+  <h3 style="text-align: center;">I'm <a href="{{site.baseurl}}/">{{ site.data.theme.name }}</a>.</h3>
+  <p style="text-align: center;">Please feel free to contact me <em>{{ site.data.theme.email }}</em></a>.</p>
+
   <div id="bio">
-    <p>Private Space for Learning English</p>
-	<p>Including Podcast Feed <a href="{{site.baseurl}}/ap_news.xml">'ap news'</a></p>
+    <p>Space for Learning Shanghanlun</p>
   </div>
+
+  <div id="ref">
+		<ul>
+			<li>
+				<a href="https://pinedance.github.io/zayo-gofang/formulafinder.html" target="_blank">상한론 처방 검색기</a>
+			</li>
+		</ul>
+  </div>
+
   <div id="social">
     {% include social.html %}
   </div>
