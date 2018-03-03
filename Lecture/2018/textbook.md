@@ -7,6 +7,11 @@ src_path: template_shanghanlun.md
 ---
 
 
+<div id="03week"></div>
+```
+1-03주
+```
+
 六經病의 證治
 ------------
 
@@ -21,11 +26,20 @@ src_path: template_shanghanlun.md
 제Ⅰ장 太陽病의 脈證과 治法
 -----------------------
 
-
 ### 제1절 太陽病의 提綱
 
 {% assign noo = "001" %}{% include {{page.src_path}} %}
 
+
+
+
+
+
+
+<div id="04week"></div>
+```
+1-04주
+```
 
 ### 제2절 太陽經證
 
@@ -49,6 +63,9 @@ src_path: template_shanghanlun.md
 {% assign noo = "054" %}{% include {{page.src_path}} %}
 
 
+<i class="fa fa-bookmark"></i> [계지탕]({{site.formulaurl}}/계지탕)
+
+
 ##### (2) 桂枝湯을 쓰면 안되는 경우
 
 {% assign noo = "016" %}{% include {{page.src_path}} %}
@@ -62,16 +79,21 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "014" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지가갈근탕]({{site.formulaurl}}/계지가갈근탕)
+
 ###### ② 喘證을 겸한 증
 
 {% assign noo = "018" %}{% include {{page.src_path}} %}
 
 {% assign noo = "043" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지가후박행자탕]({{site.formulaurl}}/계지가후박행자탕)
 
 ###### ③ 營氣가 부족하여 身痛을 겸한 증
 
 {% assign noo = "062" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [계지가신가탕]({{site.formulaurl}}/계지가신가탕)
 
 ###### ④ 胸滿을 겸한 증
 
@@ -79,16 +101,36 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "022" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지거작약탕]({{site.formulaurl}}/계지거작약탕)
+
+<i class="fa fa-bookmark"></i> [계지거작약가부자탕]({{site.formulaurl}}/계지거작약가부자탕)
+
+
 ###### ⑤ 陽虛漏汗을 겸한 증
 
 {% assign noo = "020" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [계지가부자탕]({{site.formulaurl}}/계지가부자탕)
+
 
 ###### ⑥ 脾虛水停을 겸한 증
 
 {% assign noo = "028" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지거계가복령백출탕]({{site.formulaurl}}/계지거계가복령백출탕)
 
 
+
+
+
+
+
+
+
+<div id="05week"></div>
+```
+1-05주
+```
 
 #### 2) 太陽傷寒(表實)證
 
@@ -104,6 +146,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "036" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [마황탕]({{site.formulaurl}}/마황탕)
 
 ##### (2) 麻黃湯을 쓰면 안되는 경우
 
@@ -135,11 +178,27 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "031" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕)
+
 ###### ② 嘔逆과 下利를 겸한 증
 
 {% assign noo = "032" %}{% include {{page.src_path}} %}
 
 {% assign noo = "033" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕)
+
+<i class="fa fa-bookmark"></i> [갈근가반하탕]({{site.formulaurl}}/갈근가반하탕)
+
+
+
+
+
+
+<div id="06week"></div>
+```
+1-06주
+```
 
 ###### ③ 內熱煩躁를 겸한 증
 
@@ -147,12 +206,16 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "039" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕)
+
+
 ###### ④ 水飮咳喘을 겸한 증
 
 {% assign noo = "040" %}{% include {{page.src_path}} %}
 
 {% assign noo = "041" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕)
 
 
 
@@ -162,6 +225,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "023" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지마황각반탕]({{site.formulaurl}}/계지마황각반탕)
 
 ##### (2) 表鬱內熱證
 
@@ -169,6 +233,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "048" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지이월비일탕]({{site.formulaurl}}/계지이월비일탕)
 
 #### 4) 溫病
 
@@ -176,6 +241,17 @@ src_path: template_shanghanlun.md
 
 
 
+
+
+
+
+
+
+<div id="07week"></div>
+
+```
+1-07주
+```
 
 ### 제3절 太陽腑證
 
@@ -185,6 +261,8 @@ src_path: template_shanghanlun.md
 {% assign noo = "071" %}{% include {{page.src_path}} %}
 
 {% assign noo = "072" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [오령산]({{site.formulaurl}}/오령산)
 
 
 #### 2) 蓄血證
@@ -196,6 +274,13 @@ src_path: template_shanghanlun.md
 {% assign noo = "125" %}{% include {{page.src_path}} %}
 
 {% assign noo = "126" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [도인승기탕]({{site.formulaurl}}/도인승기탕)
+
+<i class="fa fa-bookmark"></i> [저당탕]({{site.formulaurl}}/저당탕)
+
+<i class="fa fa-bookmark"></i> [저당환]({{site.formulaurl}}/저당환)
+
 
 
 
@@ -211,6 +296,14 @@ src_path: template_shanghanlun.md
 
 
 
+
+
+
+<div id="09week"></div>
+```
+1-09주
+```
+
 ### 제5절 太陽病의 變證
 
 
@@ -225,11 +318,14 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "162" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [마행감석탕]({{site.formulaurl}}/마행감석탕)
+
 
 #### 3) 邪熱下利證
 
 {% assign noo = "034" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [갈근황금황련탕]({{site.formulaurl}}/갈근황금황련탕)
 
 
 #### 4) 心陽虛證
@@ -240,22 +336,35 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "075" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지감초탕]({{site.formulaurl}}/계지감초탕)
+
+
 ##### (2) 心陽虛 煩躁證
 
 {% assign noo = "118" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [계지감초용골모려탕]({{site.formulaurl}}/계지감초용골모려탕)
+
 
 ##### (3) 心陽虛 驚狂證
 
 {% assign noo = "112" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지거작약가촉칠모려용골구역탕]({{site.formulaurl}}/계지거작약가촉칠모려용골구역탕)
+
+
 ##### (4) 心陽虛 欲作奔豚證
 
 {% assign noo = "065" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [영계감조탕]({{site.formulaurl}}/영계감조탕)
+
 
 ##### (5) 心陽虛 奔豚證
 
 {% assign noo = "117" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지가계탕]({{site.formulaurl}}/계지가계탕)
 
 
 #### 5) 心陰心陽兩虛證  	
@@ -264,6 +373,17 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "178" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [자감초탕]({{site.formulaurl}}/자감초탕)
+
+
+
+
+
+
+<div id="10week"></div>
+```
+1-10주
+```
 
 #### 6) 脾胃陽虛證
 
@@ -273,11 +393,16 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "067" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [영계출감탕]({{site.formulaurl}}/영계출감탕)
+
 ##### (2) 胃虛 水停證
 
 {% assign noo = "073" %}{% include {{page.src_path}} %}
 
 {% assign noo = "356" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [복령감초탕]({{site.formulaurl}}/복령감초탕)
+
 
 ##### (3) 脾虛 心悸證
 
@@ -285,10 +410,14 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "100" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [소건중탕]({{site.formulaurl}}/소건중탕)
+
+
 ##### (4) 脾虛 氣滯腹脹證
 
 {% assign noo = "066" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [후생반감인탕]({{site.formulaurl}}/후생반감인탕)
 
 
 #### 7) 腎陽虛證
@@ -298,10 +427,14 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "061" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [건강부자탕]({{site.formulaurl}}/건강부자탕)
+
+
 ##### (2) 陽虛 厥逆煩躁證
 
 {% assign noo = "069" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [복령사역탕]({{site.formulaurl}}/복령사역탕)
 
 
 #### 8) 火邪傷陰內熱證
@@ -323,6 +456,14 @@ src_path: template_shanghanlun.md
 
 
 
+
+
+
+<div id="11week"></div>
+```
+1-11주
+```
+
 #### 10) 陰陽轉化證과 陰陽兩虛證
 
 
@@ -330,11 +471,18 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "029" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [감초건강탕]({{site.formulaurl}}/감초건강탕)
+
+<i class="fa fa-bookmark"></i> [작약감초탕]({{site.formulaurl}}/작약감초탕)
+
+
 ##### (2) 陰陽兩虛證
 
 {% assign noo = "068" %}{% include {{page.src_path}} %}
 
 {% assign noo = "060" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [작약감초부자탕]({{site.formulaurl}}/작약감초부자탕)
 
 
 #### 11) 結胸證
@@ -355,16 +503,34 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "133" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [대함흉탕]({{site.formulaurl}}/대함흉탕)
+
+<i class="fa fa-bookmark"></i> [대함흉환]({{site.formulaurl}}/대함흉환)
+
+
+
 ###### ② 小結胸證
 
 {% assign noo = "138" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [소함흉탕]({{site.formulaurl}}/소함흉탕)
+
 
 ##### (2) 寒實結胸
 
 {% assign noo = "141" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [삼물백산]({{site.formulaurl}}/삼물백산)
 
 
+
+
+
+
+<div id="12week"></div>
+```
+1-12주
+```
 
 #### 12) 痞證
 
@@ -374,9 +540,16 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "164" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [대황황련사심탕]({{site.formulaurl}}/대황황련사심탕)
+
+
+
 ##### (2) 熱痞에 表陽虛를 겸한 증
 
 {% assign noo = "155" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [부자사심탕]({{site.formulaurl}}/부자사심탕)
+
 
 ##### (3) 脾胃가 不和한데 寒熱이 뒤섞여 된 痞證
 
@@ -384,14 +557,21 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "149" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [반하사심탕]({{site.formulaurl}}/반하사심탕)
+
+
 ###### ② 水飮과 食滯로 인한 痞證
 
 {% assign noo = "157" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [생강사심탕]({{site.formulaurl}}/생강사심탕)
+
 
 ###### ③ 胃虛하여 痞證과 下利가 모두 심한 증
 
 {% assign noo = "158" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [감초사심탕]({{site.formulaurl}}/감초사심탕)
 
 
 #### 13) 結胸과 臟結 및 痞證
@@ -412,12 +592,23 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "173" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [황련탕]({{site.formulaurl}}/황련탕)
 
 #### 15) 胃中不和로 인한 噫氣證
 
 {% assign noo = "161" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [선복대자석탕]({{site.formulaurl}}/선복대자탕)
 
+
+
+
+
+
+<div id="13week"></div>
+```
+1-13주
+```
 
 ### 제6절 太陽病類似證
 
@@ -426,15 +617,21 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "174" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지부자탕]({{site.formulaurl}}/계지부자탕)
 
 #### 2) 風濕이 關節에 유착된 증
 
 {% assign noo = "175" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [감초부자탕]({{site.formulaurl}}/감초부자탕)
+
+
 
 #### 3) 懸飮證
 
 {% assign noo = "152" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [십조탕]({{site.formulaurl}}/십조탕)
 
 
 #### 4) 胸膈痰實證
@@ -443,6 +640,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "355" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [과체산]({{site.formulaurl}}/과체산)
 
 
 
@@ -458,6 +656,10 @@ src_path: template_shanghanlun.md
 {% assign noo = "092" %}{% include {{page.src_path}} %}
 
 {% assign noo = "387" %}{% include {{page.src_path}} %}
+
+
+
+
 
 
 
