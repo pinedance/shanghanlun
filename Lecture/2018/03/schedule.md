@@ -234,7 +234,8 @@ tags: 상한론
 
 ### 상한론 본초
 
-
+* <i class="fa fa-pagelines"></i> [감초]({{site.herburl}}/감초)
+* <i class="fa fa-pagelines"></i> [시호]({{site.herburl}}/시호)
 
 
 ## 15주：조별과제발표
