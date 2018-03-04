@@ -14,11 +14,15 @@ port: 8384
 
 # ref : https://jekyllrb.com/docs/collections/
 collections:
-  handout:
-    output: true
-    permalink:  /:collection/:path
-    author: host
+  reference:
+        output: true
+        permalink:  /:collection/:path
+        author: host
+  lecture:
+        output: true
+        permalink:  /:collection/:path
+        author: host
 
 # Global Variables
-formulaurl: "/shanghanlun/handout/Formulas"
-herburl: "/shanghanlun/handout/Herbs"
+formulaurl: "/shanghanlun/reference/Formulas"
+herburl: "/shanghanlun/reference/Herbs"
