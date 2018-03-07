@@ -5,29 +5,36 @@ tags: 상한론, 강의
 ---
 
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
+{% assign pdfurl = "/lecture/2018/presentation" %}
 
 ## 01주
 
-### 강의 및 과제 소개
+### 강의 소개
 
-[slide]( {{site.baseurl}}/Lecture/2018-03/01.html )
+* 수업개요 [pdf]( {{site.baseurl}}{{pdfurl}}/00수업개요.pdf )
+* 상한과 상한론 [pdf]( {{site.baseurl}}{{pdfurl}}/01상한과_상한론.pdf )
 
 ## 02주：태양병
 
 ### 상한론 택스트의 이해
 
-[slide]( {{site.baseurl}}/Lecture/2018-03/02.html )
+* 상한론의 성립과 전승  [pdf]()
+* 상한론이라는 책들 [pdf]()
 
 ## 03주：태양병
 
-### 상한론 조문 #주교재(pp.029-039) #[slide]( {{site.baseurl}}{{textbookurl}}#03week )
+### 상한론 조문
 
 * 육경병증치의 대강
 * 태양병의 제강
 
+[text]( {{site.baseurl}}{{textbookurl}}#03week ) \(주교재 pp.029-039\)
+
+* 태양병 개요  [pdf]()
+
 ### 상한론 본초
 
-* <i class="fa fa-pagelines"></i> [생강]({{site.herburl}}/생강)
+* <i class="fa fa-pagelines"></i> [생강]({{site.herburl}}/생강), [건강]({{site.herburl}}/건강)
 * <i class="fa fa-pagelines"></i> [대조]({{site.herburl}}/대조)
 
 
