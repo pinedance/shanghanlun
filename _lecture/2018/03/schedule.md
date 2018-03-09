@@ -14,6 +14,8 @@ tags: 상한론, 강의
 * 수업개요 [pdf]( {{site.baseurl}}{{pdfurl}}/00수업개요.pdf )
 * 상한과 상한론 [pdf]( {{site.baseurl}}{{pdfurl}}/01상한과_상한론.pdf )
 
+※ [즉석과제결과](https://photos.app.goo.gl/OytFgYSomDdKBIwx1)
+
 ## 02주：태양병
 
 ### 상한론 택스트의 이해
