@@ -83,7 +83,6 @@
 	}
 
 	p { margin: 0 0 20px 0; }
-	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
 	em { font-style: italic; font-size: small; color: DarkCyan }
@@ -127,9 +126,23 @@ blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; /* f
 /* #Images
 ================================================== */
 
+	p img {
+	    max-width: 100%;
+	    height: auto;
+	    width: auto\9; /* ie8 */
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	p img:hover {opacity: 0.7;}
+
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
+
+	img {
+	}
+
 
 
 /* #Buttons

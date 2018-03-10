@@ -27,10 +27,10 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
+[text]( {{site.baseurl}}{{textbookurl}}#03week ) \(주교재 pp.029-039\)
+
 * 육경병증치의 대강
 * 태양병의 제강
-
-[text]( {{site.baseurl}}{{textbookurl}}#03week ) \(주교재 pp.029-039\)
 
 * 태양병 개요  [pdf]()
 
