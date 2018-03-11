@@ -1,0 +1,24 @@
+<style>
+#herbimgs {
+	text-align: center;
+}
+</style>
+
+<div id="herbimgs">
+
+{% for img in page.imgs %}
+
+<p>
+
+	<img src="{{site.baseurl}}/img/Herbs/{{img.ref}}/{{img.name}}" alt="{{img.ref}} {{ page.title }} {{ img.name }}">
+	<em> {{ img.ref }}</em>
+</p>
+
+
+
+{% endfor %}
+
+</div>
+
+
+{% include imgmodal.html %}

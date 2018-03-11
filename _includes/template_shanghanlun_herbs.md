@@ -1,12 +1,9 @@
+
+
 {% if page.imgs %}
 
-{% for img in page.imgs %}
+## 도상
 
-![ {{img.ref}} {{ page.title }} {{ img.name }} ]( {{site.baseurl}}/img/Herbs/{{img.ref}}/{{img.name}} )
-*{{img.ref}}*  
-
-{% endfor %}
+{% include template_herbimg.html %}
 
 {%endif%}
-
-{% include imgmodal.html %}

@@ -15,6 +15,12 @@ imgs.forEach(function( img ){
 	    modal.style.display = "block";
 	    modalImg.src = this.src;
 	    captionText.innerHTML = this.alt;
+
+		// When the user clicks on modalImg, close the modal
+		modalImg.onclick = function() {
+		  modal.style.display = "none";
+		}
+
 	}
 
 })
