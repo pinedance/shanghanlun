@@ -57,6 +57,17 @@
 
 {% endfor %}
 
+### 관련설명
+
+{% assign frm = site.data.bangk | where: "name_kr", page.title %}
+
+[방극/방극산정]( {{site.baseurl}}/reference/Books/bangk#{{page.title}})
+
+> {{ frm[0].bangk }}
+
+> {{ frm[0].bangksj }}
+
+
 ### 외부자료
 
 Ref : {{ formula.Page }}
