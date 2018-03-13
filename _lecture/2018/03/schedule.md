@@ -4,10 +4,14 @@ title: 2018년 1학기 상한론 강의 계획
 tags: 상한론, 강의
 ---
 
+일시 : 2018년 1학기, 목요일 13:30-15:20
+장소 : 원광대학교 한의과대학
+
+
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
 {% assign pdfurl = "/lecture/2018/presentation" %}
 
-## 01주
+## 01주 〔180308〕
 
 ### 강의 소개
 
@@ -16,7 +20,7 @@ tags: 상한론, 강의
 
 ※ [즉석과제결과](https://photos.app.goo.gl/OytFgYSomDdKBIwx1)
 
-## 02주：태양병
+## 02주 〔180315〕：태양병
 
 ### 상한론 택스트의 이해
 
@@ -24,7 +28,7 @@ tags: 상한론, 강의
 * 상한론이라는 책들 [pdf]( {{site.baseurl}}{{pdfurl}}/02b상한론이라는_책들.pdf )
 
 
-## 03주：태양병
+## 03주 〔180322〕：태양병
 
 ### 상한론 조문
 
@@ -42,7 +46,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [대조]({{site.herburl}}/대조)
 
 
-## 04주：태양병
+## 04주 〔180329〕：태양병
 
 ### 상한론 조문 #주교재(pp.039-055) #[slide]( {{site.baseurl}}{{textbookurl}}#04week )
 
@@ -66,7 +70,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [작약]({{site.herburl}}/작약)
 
 
-## 05：태양병
+## 05 〔180405〕：태양병
 
 ### 상한론 조문 #주교재(pp.055-068), #[slide]( {{site.baseurl}}{{textbookurl}}#05week )
 
@@ -85,7 +89,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [갈근]({{site.herburl}}/갈근)
 
 
-## 06：태양병  
+## 06 〔180412〕：태양병  
 
 ### 상한론 조문 #주교재(pp.068-082), #[slide]( {{site.baseurl}}{{textbookurl}}#06week )
 
@@ -106,7 +110,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [세신]({{site.herburl}}/세신)
 
 
-## 07：태양병
+## 07 〔180419〕：태양병
 
 ### 상한론 조문 #주교재(pp.082-092), #[slide]( {{site.baseurl}}{{textbookurl}}#07week )
 
@@ -127,13 +131,13 @@ tags: 상한론, 강의
 
 
 
-## 08：중간고사
+## 08 〔180426〕：중간고사
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)
 
 
 
-## 09：태양병
+## 09 〔180503〕：태양병
 
 ### 상한론 조문 #주교재(pp.092-106), #[slide]( {{site.baseurl}}{{textbookurl}}#09week )
 
@@ -157,7 +161,7 @@ tags: 상한론, 강의
 
 
 
-## 10주：태양병
+## 10주 〔180510〕：태양병
 
 ### 상한론 조문 #주교재(pp.106-121), #[slide]( {{site.baseurl}}{{textbookurl}}#10week )
 
@@ -178,7 +182,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [부자]({{site.herburl}}/부자)
 
 
-## 11주：태양병
+## 11주 〔180517〕：태양병
 
 ### 상한론 조문 #주교재(pp.121-132), #[slide]( {{site.baseurl}}{{textbookurl}}#11week )
 
@@ -199,7 +203,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [대황]({{site.herburl}}/대황)
 * <i class="fa fa-pagelines"></i> [망초]({{site.herburl}}/망초)
 
-## 12주：태양병
+## 12주 〔180524〕：태양병
 
 ### 상한론 조문 #주교재(pp.132-147), #[slide]( {{site.baseurl}}{{textbookurl}}#12week )
 
@@ -220,7 +224,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [반하]({{site.herburl}}/반하)
 * <i class="fa fa-pagelines"></i> [인삼]({{site.herburl}}/인삼)
 
-## 13주：태양병
+## 13주 〔180531〕：태양병
 
 ### 상한론 조문 #주교재(pp.147-169) #[slide]( {{site.baseurl}}{{textbookurl}}#13week )
 
@@ -239,7 +243,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [감수]({{site.herburl}}/감수)
 * <i class="fa fa-pagelines"></i> [과체]({{site.herburl}}/과체)
 
-## 14주：태양병
+## 14주 〔180607〕：태양병
 
 태양병 총괄 #[slide]( {{site.baseurl}}/Lecture/2018-03/14.html )
 
@@ -249,11 +253,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [시호]({{site.herburl}}/시호)
 
 
-## 15주：조별과제발표
+## 15주 〔180614〕：조별과제발표
 
 ![boss vs leader](https://i0.wp.com/phildourado.com/wp-content/uploads/2016/06/BossLeaderInfographic.jpg?resize=300%2C300)
 
 
-## 16주：기말고사
+## 16주 〔180621〕：기말고사
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)
