@@ -2,7 +2,7 @@
 layout: reference
 title: "방극/방극산정"
 desc:
-tags: 방극, 방극산정, 원문
+tags: [방극, 방극산정, 원문]
 src_path: template_shanghanlun.md
 ---
 

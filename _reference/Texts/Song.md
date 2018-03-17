@@ -2,7 +2,7 @@
 layout: reference
 title: "상한론 조문"
 desc: "송본〔조문번호 '상한론수책' 기준〕"
-tags: 상한론, 원문
+tags: [상한론, 원문]
 src_path: template_shanghanlun.md
 ---
 

@@ -33,8 +33,8 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-* 상한론 서문 [pdf]()
-* 태양병 개요  [pdf]()
+* 상한론 서문 [web]( {{site.baseurl}}/reference/Books/sinipets/상한잡병론_집론 )
+* 태양병 개요  [pdf]( {{site.baseurl}}{{pdfurl}}/03태양병_개요.pdf )
 
 [text]( {{site.baseurl}}{{textbookurl}}#03week ) \(주교재 pp.029-039\)
 
@@ -43,8 +43,8 @@ tags: 상한론, 강의
 
 ### 상한론 본초
 
-* <i class="fa fa-pagelines"></i> [생강]({{site.herburl}}/생강), [건강]({{site.herburl}}/건강)
 * <i class="fa fa-pagelines"></i> [대조]({{site.herburl}}/대조)
+* <i class="fa fa-pagelines"></i> [생강]({{site.herburl}}/생강), [건강]({{site.herburl}}/건강)
 
 
 ## 04주 〔180329〕：태양병
