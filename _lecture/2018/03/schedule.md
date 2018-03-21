@@ -43,6 +43,7 @@ tags: 상한론, 강의
 
 ### 상한론 본초
 
+* [상한론 처방과 본초의 지형]( {{site.baseurl}}/lecture/2018/03/herb_network )
 * <i class="fa fa-pagelines"></i> [대조]({{site.herburl}}/대조)
 * <i class="fa fa-pagelines"></i> [생강]({{site.herburl}}/생강), [건강]({{site.herburl}}/건강)
 
