@@ -1,14 +1,16 @@
 ## 참고자료
 
-### [방극/방극산정]( {{site.baseurl}}/reference/Books/bangk#{{page.title}})
-
 {% assign frm = site.data.bangk | where: "name_kr", page.title %}
+
+{% if frm.size > 0 %}
+
+### [방극/방극산정]( {{site.baseurl}}/reference/Books/bangk#{{page.title}})
 
 > {{ frm[0].bangk }}
 
 > {{ frm[0].bangksj }}
 
-
+{% endif %}
 
 <!-- 내용 정리
 

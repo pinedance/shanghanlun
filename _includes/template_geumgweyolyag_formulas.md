@@ -34,11 +34,11 @@
 
 {% endif %}
 
-{% if formula.Formula.Indications %}
+{% if formula.Indications %}
 
 목표
 
-> {{ formula.Formula.Indications }}
+> {{ formula.Indications }}
 
 {% endif %}
 
@@ -53,13 +53,24 @@
 
 ### 금궤요략 조문
 
+{% if formula.NoA.size > 0 %}
+
 {% for noo in formula.NoA %}
 
 {% include template_geumgweyolyag.md %}
 
 {% endfor %}
 
+{% else %}
+
+없음
+
+{% endif %}
+
+{% if formula.NoA.size > 1 %}
+
 ***
+{% endif %}
 
 {% endfor %}
 
