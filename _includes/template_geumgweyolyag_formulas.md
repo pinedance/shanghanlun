@@ -2,60 +2,64 @@
 
 {% if formulas.size > 0 %}
 
+{% assign gg_fm_names_kr = [] %}
+
 ## 금궤요략
 
-{% for formula in formulas %}
+{% for formula2 in formulas %}
 
 ### 명칭
 
-이름：__{{ formula.Name] }}__
+이름：__{{ formula2.Name }}__
 
-한글명：{{ formula.NameK | join: '；'}}
+한글명：{{ formula2.NameK | join: '；'}}
 
-{% if formula.NameS %}
-이명：{{ formula.NameS | join: '；'}}
+{% if formula2.NameS %}
+이명：{{ formula2.NameS | join: '；'}}
 {% endif %}
+
+{% assign gg_fm_names_kr = gg_fm_names_kr | concat: formula2.NameK %}
 
 ### 처방 내용
 
 처방 구성
 
-> {{ formula.Formula.Ingredients }}
+> {{ formula2.Formula.Ingredients }}
 
 제법
 
-> {{ formula.Formula.Directions }}
+> {{ formula2.Formula.Directions }}
 
-{% if formula.Formula.Treat %}
+{% if formula2.Formula.Treat %}
 
 처치
 
-> {{ formula.Formula.Treat }}
+> {{ formula2.Formula.Treat }}
 
 {% endif %}
 
-{% if formula.Indications %}
+{% if formula2.Indications %}
 
 목표
 
-> {{ formula.Indications }}
+> {{ formula2.Indications }}
 
 {% endif %}
 
 
-{% if formula.Formula.Explanation %}
+{% if formula2.Formula.Explanation %}
 
 참고
 
-> {{ formula.Formula.Explanation }}
+> {{ formula2.Formula.Explanation }}
 
 {% endif %}
 
 ### 금궤요략 조문
 
-{% if formula.NoA.size > 0 %}
+{% if formula2.NoA.size > 0 %}
 
-{% for noo in formula.NoA %}
+{% for noo in formula2.NoA %}
 
 {% include template_geumgweyolyag.md %}
 
@@ -67,7 +71,7 @@
 
 {% endif %}
 
-{% if formula.NoA.size > 1 %}
+{% if formula2.NoA.size > 1 %}
 
 ***
 {% endif %}

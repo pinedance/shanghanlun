@@ -36,7 +36,7 @@ tags: 상한론, 강의
 * 상한론 서문 [web]( {{site.baseurl}}/reference/Books/sinipets/상한잡병론_집론 )
 * 태양병 개요  [pdf]( {{site.baseurl}}{{pdfurl}}/03태양병_개요.pdf )
 
-[text]( {{site.baseurl}}{{textbookurl}}#03week ) \(주교재 pp.029-039\)
+[원문]( {{site.baseurl}}{{textbookurl}}#03week ) \(주교재 pp.029-039\)
 
 * 육경병증치의 대강
 * 태양병의 제강
@@ -50,10 +50,11 @@ tags: 상한론, 강의
 
 ## 04주 〔180329〕：태양병
 
-### 상한론 조문 #주교재(pp.039-055) #[slide]( {{site.baseurl}}{{textbookurl}}#04week )
+### 상한론 조문
+
+[원문]( {{site.baseurl}}{{textbookurl}}#04week ) \(주교재 pp.039-055\)
 
 * 태양경증-태양중풍증
-
 
 ### 상한론 처방
 

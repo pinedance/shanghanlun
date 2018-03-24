@@ -4,47 +4,49 @@
 
 ## 상한론
 
-{% assign formula = formulas[0] %}
+{% assign formula1 = formulas[0] %}
 
 ### 명칭
 
-이름：__{{ formula.Name] }}__
+이름：__{{ formula1.Name }}__
 
-한글명：{{ formula.NameK | join: '；'}}
+한글명：{{ formula1.NameK | join: '；'}}
 
-{% if formula.NameS %}
-이명：{{ formula.NameS | join: '；'}}
+{% if formula1.NameS %}
+이명：{{ formula1.NameS | join: '；'}}
 {% endif %}
+
+{% assign sh_fm_names_kr = formula1.NameK %}
 
 ### 처방 내용
 
 처방 구성
 
-> {{ formula.Formula.Ingredients }}
+> {{ formula1.Formula.Ingredients }}
 
 제법
 
-> {{ formula.Formula.Directions }}
+> {{ formula1.Formula.Directions }}
 
-{% if formula.Formula.Treat %}
+{% if formula1.Formula.Treat %}
 
 처치
 
-> {{ formula.Formula.Treat }}
+> {{ formula1.Formula.Treat }}
 
 {% endif %}
 
-{% if formula.Formula.Explanation %}
+{% if formula1.Formula.Explanation %}
 
 참고
 
-> {{ formula.Formula.Explanation }}
+> {{ formula1.Formula.Explanation }}
 
 {% endif %}
 
 ### 상한론 조문
 
-{% for nn in formula.NoA %}
+{% for nn in formula1.NoA %}
 
 {% assign noo = nn %}{% assign notype = "NOO.NoA" %}
 {% include template_shanghanlun.md %}

@@ -85,11 +85,15 @@ src_path: template_shanghanlun.md
 
 ##### (3) 風寒表虛의 兼證
 
+* ④胸滿 ②喘證 ⑥心下滿微痛
+* ⑤小便難 ⑥小便不利
+* ③身疼痛 ⑤四肢微急
+
 ###### ① 項背强几几를 겸한 증
 
 {% assign noo = "014" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [계지가갈근탕]({{site.formulaurl}}/계지가갈근탕)
+<i class="fa fa-bookmark"></i> [계지가갈근탕]({{site.formulaurl}}/계지가갈근탕) : 계지탕 + 갈근04냥
 
 ###### ② 喘證을 겸한 증
 
@@ -97,13 +101,13 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "043" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [계지가후박행자탕]({{site.formulaurl}}/계지가후박행자탕)
+<i class="fa fa-bookmark"></i> [계지가후박행자탕]({{site.formulaurl}}/계지가후박행자탕) : 계지탕 + 후박02냥, 행인50매
 
 ###### ③ 營氣가 부족하여 身痛을 겸한 증
 
 {% assign noo = "062" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [계지가신가탕]({{site.formulaurl}}/계지가신가탕)
+<i class="fa fa-bookmark"></i> [계지가신가탕]({{site.formulaurl}}/계지가신가탕) : 계지탕 + 작약01냥, 생강01냥, 인삼03냥
 
 ###### ④ 胸滿을 겸한 증
 
@@ -113,21 +117,21 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [계지거작약탕]({{site.formulaurl}}/계지거작약탕)
 
-<i class="fa fa-bookmark"></i> [계지거작약가부자탕]({{site.formulaurl}}/계지거작약가부자탕)
+<i class="fa fa-bookmark"></i> [계지거작약가부자탕]({{site.formulaurl}}/계지거작약가부자탕) : 계지거작약탕 + 부자01매
 
 
 ###### ⑤ 陽虛漏汗을 겸한 증
 
 {% assign noo = "020" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [계지가부자탕]({{site.formulaurl}}/계지가부자탕)
+<i class="fa fa-bookmark"></i> [계지가부자탕]({{site.formulaurl}}/계지가부자탕) : 계지탕 + 부자01매
 
 
 ###### ⑥ 脾虛水停을 겸한 증
 
 {% assign noo = "028" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [계지거계가복령백출탕]({{site.formulaurl}}/계지거계가복령백출탕)
+<i class="fa fa-bookmark"></i> [계지거계가복령백출탕]({{site.formulaurl}}/계지거계가복령백출탕) : 계지탕 + 복령03냥, 백출03냥
 
 
 
