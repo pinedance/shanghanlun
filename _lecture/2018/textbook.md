@@ -72,6 +72,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "054" %}{% include {{page.src_path}} %}
 
+* 先其時發汗 : ⓐ發熱自汗 하기 전 ⓑ막 發熱自汗할 때 ⓒ傳經 하기 전
 
 <i class="fa fa-bookmark"></i> [계지탕]({{site.formulaurl}}/계지탕)
 
@@ -94,6 +95,8 @@ src_path: template_shanghanlun.md
 {% assign noo = "014" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [계지가갈근탕]({{site.formulaurl}}/계지가갈근탕) : 계지탕 + 갈근04냥
+
+* 几 : "音殊, 几爲短羽鳥不能飛騰, 動先伸引其頭項."(成無己) ; 掔(견)의 通假字, "救强拘緊不舒之貌"(钱超尘)
 
 ###### ② 喘證을 겸한 증
 
