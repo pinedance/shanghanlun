@@ -90,13 +90,15 @@ src_path: template_shanghanlun.md
 * ⑤小便難 ⑥小便不利
 * ③身疼痛 ⑤四肢微急
 
+
 ###### ① 項背强几几를 겸한 증
 
 {% assign noo = "014" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [계지가갈근탕]({{site.formulaurl}}/계지가갈근탕) : 계지탕 + 갈근04냥
 
-* 几 : "音殊, 几爲短羽鳥不能飛騰, 動先伸引其頭項."(成無己) ; 掔(견)의 通假字, "救强拘緊不舒之貌"(钱超尘)
+* 几 : "音殊, 几爲短羽鳥不能飛騰, 動先伸引其頭項."(成無己) ; 掔(견)의 通假字, "拘緊不靈活貌"(钱超尘)
+
 
 ###### ② 喘證을 겸한 증
 
@@ -106,11 +108,13 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [계지가후박행자탕]({{site.formulaurl}}/계지가후박행자탕) : 계지탕 + 후박02냥, 행인50매
 
+
 ###### ③ 營氣가 부족하여 身痛을 겸한 증
 
 {% assign noo = "062" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [계지가신가탕]({{site.formulaurl}}/계지가신가탕) : 계지탕 + 작약01냥, 생강01냥, 인삼03냥
+
 
 ###### ④ 胸滿을 겸한 증
 
