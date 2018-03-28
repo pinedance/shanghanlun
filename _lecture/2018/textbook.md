@@ -95,9 +95,9 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "014" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [계지가갈근탕]({{site.formulaurl}}/계지가갈근탕) : 계지탕 + 갈근04냥
-
 * 几 : "音殊, 几爲短羽鳥不能飛騰, 動先伸引其頭項."(成無己) ; 掔(견)의 通假字, "拘緊不靈活貌"(钱超尘)
+
+<i class="fa fa-bookmark"></i> [계지가갈근탕]({{site.formulaurl}}/계지가갈근탕) : 계지탕 + 갈근04냥
 
 
 ###### ② 喘證을 겸한 증
