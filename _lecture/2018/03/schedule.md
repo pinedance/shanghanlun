@@ -38,8 +38,8 @@ tags: 상한론, 강의
 
 [원문]( {{site.baseurl}}{{textbookurl}}#03week ) \(주교재 pp.029-039\)
 
-* 육경병증치의 대강
-* 태양병의 제강
+* <i class="fa fa-book"></i> 육경병증치의 대강
+* <i class="fa fa-book"></i> 태양병의 제강
 
 ### 상한론 본초
 
@@ -54,7 +54,7 @@ tags: 상한론, 강의
 
 [원문]( {{site.baseurl}}{{textbookurl}}#04week ) \(주교재 pp.039-055\)
 
-* 태양경증-태양중풍증
+* <i class="fa fa-book"></i> 태양경증-태양중풍증
 
 ### 상한론 처방
 
@@ -75,9 +75,11 @@ tags: 상한론, 강의
 
 ## 05 〔180405〕：태양병
 
-### 상한론 조문 #주교재(pp.055-068), #[slide]( {{site.baseurl}}{{textbookurl}}#05week )
+### 상한론 조문
 
-* 태양경증-태양상한증(1)
+[원문]( {{site.baseurl}}{{textbookurl}}#05week ) \(주교재 pp.055-068\)
+
+* <i class="fa fa-book"></i> 태양경증-태양상한증(1)
 
 ### 상한론 처방
 
@@ -94,11 +96,13 @@ tags: 상한론, 강의
 
 ## 06 〔180412〕：태양병  
 
-### 상한론 조문 #주교재(pp.068-082), #[slide]( {{site.baseurl}}{{textbookurl}}#06week )
+### 상한론 조문
 
-* 태양경증-태양상한증(2)
-* 태양경증-태양경증
-* 태양경증-온병
+[원문]( {{site.baseurl}}{{textbookurl}}#06week ) \(주교재 pp.068-082\)
+
+* <i class="fa fa-book"></i> 태양경증-태양상한증(2)
+* <i class="fa fa-book"></i> 태양경증-태양경증
+* <i class="fa fa-book"></i> 태양경증-온병
 
 ### 상한론 처방
 
@@ -115,10 +119,12 @@ tags: 상한론, 강의
 
 ## 07 〔180419〕：태양병
 
-### 상한론 조문 #주교재(pp.082-092), #[slide]( {{site.baseurl}}{{textbookurl}}#07week )
+### 상한론 조문
 
-* 태양부증
-* 태양병의 전변
+[원문]( {{site.baseurl}}{{textbookurl}}#07week ) \(주교재 pp.082-092\)
+
+* <i class="fa fa-book"></i> 태양부증
+* <i class="fa fa-book"></i> 태양병의 전변
 
 ### 상한론 처방
 
@@ -142,9 +148,11 @@ tags: 상한론, 강의
 
 ## 09 〔180503〕：태양병
 
-### 상한론 조문 #주교재(pp.092-106), #[slide]( {{site.baseurl}}{{textbookurl}}#09week )
+### 상한론 조문
 
-* 태양병의 변증(1)
+[원문]( {{site.baseurl}}{{textbookurl}}#09week ) \(주교재 pp.092-106\)
+
+* <i class="fa fa-book"></i> 태양병의 변증(1)
 
 ### 상한론 처방
 
@@ -166,9 +174,11 @@ tags: 상한론, 강의
 
 ## 10주 〔180510〕：태양병
 
-### 상한론 조문 #주교재(pp.106-121), #[slide]( {{site.baseurl}}{{textbookurl}}#10week )
+### 상한론 조문
 
-* 태양병의 변증(2)
+[원문]( {{site.baseurl}}{{textbookurl}}#10week ) \(주교재 pp.106-121\)
+
+* <i class="fa fa-book"></i> 태양병의 변증(2)
 
 ### 상한론 처방
 
@@ -187,9 +197,11 @@ tags: 상한론, 강의
 
 ## 11주 〔180517〕：태양병
 
-### 상한론 조문 #주교재(pp.121-132), #[slide]( {{site.baseurl}}{{textbookurl}}#11week )
+### 상한론 조문
 
-* 태양병의 변증(3)
+[원문]( {{site.baseurl}}{{textbookurl}}#11week ) \(주교재 pp.121-132\)
+
+* <i class="fa fa-book"></i> 태양병의 변증(3)
 
 ### 상한론 처방
 
@@ -208,9 +220,11 @@ tags: 상한론, 강의
 
 ## 12주 〔180524〕：태양병
 
-### 상한론 조문 #주교재(pp.132-147), #[slide]( {{site.baseurl}}{{textbookurl}}#12week )
+### 상한론 조문
 
-* 태양병의 변증(4)
+[원문]( {{site.baseurl}}{{textbookurl}}#12week ) \(주교재 pp.132-147\)
+
+* <i class="fa fa-book"></i> 태양병의 변증(4)
 
 ### 상한론 처방
 
@@ -229,10 +243,12 @@ tags: 상한론, 강의
 
 ## 13주 〔180531〕：태양병
 
-### 상한론 조문 #주교재(pp.147-169) #[slide]( {{site.baseurl}}{{textbookurl}}#13week )
+### 상한론 조문
 
-* 태양병 유사증
-* 표증과 리증의 치료 순서
+[원문]( {{site.baseurl}}{{textbookurl}}#13week ) \(주교재 pp.147-169\)
+
+* <i class="fa fa-book"></i> 태양병 유사증
+* <i class="fa fa-book"></i> 표증과 리증의 치료 순서
 
 ### 상한론 처방
 
