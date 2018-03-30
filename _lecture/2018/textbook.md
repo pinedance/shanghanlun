@@ -64,6 +64,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "012" %}{% include {{page.src_path}} %}
 
+* 脈陰陽：ⓐ尺寸 ⓑ浮沈
+
 {% assign noo = "024" %}{% include {{page.src_path}} %}
 
 {% assign noo = "057" %}{% include {{page.src_path}} %}
@@ -161,6 +163,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "003" %}{% include {{page.src_path}} %}
 
+* 脈陰陽：ⓐ尺寸 ⓑ浮沈
+
 {% assign noo = "035" %}{% include {{page.src_path}} %}
 
 {% assign noo = "046" %}{% include {{page.src_path}} %}
@@ -171,10 +175,21 @@ src_path: template_shanghanlun.md
 
 ##### (2) 麻黃湯을 쓰면 안되는 경우
 
+* `尺中脈微`［裏虛］<small>（若下之 身重心悸）</small> ; `尺中遲`［營血不足］
+* 汗家；淋家；衄家；亡血家；瘡家
+* 咽喉乾燥
+
+
+表證에 陽虛 증상, 表證에 營血不足을 겸한 경우
 
 {% assign noo = "049" %}{% include {{page.src_path}} %}
 
 {% assign noo = "050" %}{% include {{page.src_path}} %}
+
+{% assign noo = "088" %}{% include {{page.src_path}} %}
+
+
+陰分을 傷하여 內熱한 경우
 
 {% assign noo = "083" %}{% include {{page.src_path}} %}
 
@@ -186,7 +201,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "087" %}{% include {{page.src_path}} %}
 
-{% assign noo = "088" %}{% include {{page.src_path}} %}
+
+胃中이 虛冷한 경우
 
 {% assign noo = "089" %}{% include {{page.src_path}} %}
 
@@ -199,17 +215,19 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "031" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕)
+<i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕) : 계지탕(감량) + 마황(3냥) 갈근(4냥)
 
 ###### ② 嘔逆과 下利를 겸한 증
 
 {% assign noo = "032" %}{% include {{page.src_path}} %}
 
+* 逆流挽舟（喻嘉言, 以人蔘敗毒散治痢疾）
+
 {% assign noo = "033" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕)
 
-<i class="fa fa-bookmark"></i> [갈근가반하탕]({{site.formulaurl}}/갈근가반하탕)
+<i class="fa fa-bookmark"></i> [갈근가반하탕]({{site.formulaurl}}/갈근가반하탕) : 갈근탕 + 반하(반승)
 
 
 
@@ -227,7 +245,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "039" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕)
+<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕) : 마행감석탕 + 계지거작약탕
 
 
 ###### ④ 水飮咳喘을 겸한 증
@@ -236,7 +254,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "041" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕)
+<i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕) : 계지탕(생강§건강) + 마황 오미자 반하 세신
 
 
 
