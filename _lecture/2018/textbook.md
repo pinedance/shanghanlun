@@ -167,7 +167,11 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "035" %}{% include {{page.src_path}} %}
 
+* 發熱 惡風 ; 頭痛 身疼 腰痛 骨節疼痛 ; 無汗而喘
+
 {% assign noo = "046" %}{% include {{page.src_path}} %}
+
+* cf) 047 "⒁太陽病 脈浮緊 發熱 身無汗 自衄者愈"
 
 {% assign noo = "036" %}{% include {{page.src_path}} %}
 
@@ -180,7 +184,7 @@ src_path: template_shanghanlun.md
 * 咽喉乾燥
 
 
-表證에 陽虛 증상, 表證에 營血不足을 겸한 경우
+###### ① 表證에 陽虛 증상, 表證에 營血不足을 겸한 경우
 
 {% assign noo = "049" %}{% include {{page.src_path}} %}
 
@@ -189,7 +193,7 @@ src_path: template_shanghanlun.md
 {% assign noo = "088" %}{% include {{page.src_path}} %}
 
 
-陰分을 傷하여 內熱한 경우
+###### ② 陰分을 傷하여 內熱한 경우
 
 {% assign noo = "083" %}{% include {{page.src_path}} %}
 
@@ -202,7 +206,7 @@ src_path: template_shanghanlun.md
 {% assign noo = "087" %}{% include {{page.src_path}} %}
 
 
-胃中이 虛冷한 경우
+###### ③ 胃中이 虛冷한 경우
 
 {% assign noo = "089" %}{% include {{page.src_path}} %}
 
@@ -245,7 +249,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "039" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕) : 마행감석탕 + 계지거작약탕
+<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕) : 마행감석탕(마황 6냥) + 계지거작약탕
 
 
 ###### ④ 水飮咳喘을 겸한 증
@@ -254,7 +258,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "041" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕) : 계지탕(생강§건강) + 마황 오미자 반하 세신
+<i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕) : 계지탕(건강代생강) + 마황 세신(3냥) 반하(반승) 오미자(반승)
 
 
 
