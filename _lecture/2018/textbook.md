@@ -167,13 +167,17 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "035" %}{% include {{page.src_path}} %}
 
-* 發熱 惡風 ; 頭痛 身疼 腰痛 骨節疼痛 ; 無汗而喘
+* ⓐ發熱 惡風  ⓑ頭痛 身疼 腰痛 骨節疼痛  ⓒ無汗而喘
 
 {% assign noo = "046" %}{% include {{page.src_path}} %}
 
-* cf) 047 "⒁太陽病 脈浮緊 發熱 身無汗 自衄者愈"
+* 047 "⒁太陽病 脈浮緊 發熱 身無汗 自衄者愈."
+* ［순화본］"太陽病, 脈浮緊, 無汗, 發熱, 身痛, 心煩目瞑, 劇者必衄, 衄者欲解也, 宜麻黃湯."
 
 {% assign noo = "036" %}{% include {{page.src_path}} %}
+
+* 242	"⒁病人小便不利 大便乍難乍易 時有微熱 喘冒不能臥者 有燥屎也 宜大承氣湯"
+* 07-12	"肺癰, 喘不得臥, 葶藶大棗瀉肺湯主之."
 
 <i class="fa fa-bookmark"></i> [마황탕]({{site.formulaurl}}/마황탕)
 
@@ -249,7 +253,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "039" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕) : 마행감석탕(마황 6냥) + 계지거작약탕
+<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕) : 마행감석탕(增마황 6냥) + 계지거작약탕
 
 
 ###### ④ 水飮咳喘을 겸한 증
