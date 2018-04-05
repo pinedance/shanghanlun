@@ -207,6 +207,9 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "086" %}{% include {{page.src_path}} %}
 
+* ⓐ額上陷, 脈急緊 ⓑ額上陷脈急緊
+  - 《脈》 "汗出必額陷, 脈上促急而緊" 《玉》 "汗出則額陷, 脈上促急而緊"
+
 {% assign noo = "087" %}{% include {{page.src_path}} %}
 
 
