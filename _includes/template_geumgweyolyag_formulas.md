@@ -8,9 +8,7 @@
 
 {% for formula2 in formulas %}
 
-### 명칭
-
-이름：__{{ formula2.Name }}__
+### 명칭： __{{ formula2.Name }}__
 
 한글명：{{ formula2.NameK | join: '；'}}
 
@@ -54,6 +52,13 @@
 > {{ formula2.Formula.Explanation }}
 
 {% endif %}
+
+{% if formula1.Formula.Ann %}
+
+<p class="ann"><sup>¶</sup>{{ formula1.Formula.Ann | join: " <sup>¶</sup>"}} </p>
+
+{% endif %}
+
 
 ### 금궤요략 조문
 

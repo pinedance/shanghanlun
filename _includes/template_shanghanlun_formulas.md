@@ -6,9 +6,7 @@
 
 {% assign formula1 = formulas[0] %}
 
-### 명칭
-
-이름：__{{ formula1.Name }}__
+### 명칭： __{{ formula1.Name }}__
 
 한글명：{{ formula1.NameK | join: '；'}}
 
@@ -47,7 +45,7 @@
 
 {% if formula1.Formula.Ann %}
 
-<p class-"ann">{{ formula1.Formula.Ann }} </p>
+<p class="ann"><sup>¶</sup>{{ formula1.Formula.Ann | join: " <sup>¶</sup>"}} </p>
 
 {% endif %}
 
