@@ -172,7 +172,7 @@ src_path: template_shanghanlun.md
 {% assign noo = "046" %}{% include {{page.src_path}} %}
 
 * 047 "⒁太陽病 脈浮緊 發熱 身無汗 自衄者愈."
-* ［순화본］"太陽病, 脈浮緊, 無汗, 發熱, 身痛, 心煩目瞑, 劇者必衄, 衄者欲解也, 宜麻黃湯."
+* 《惠》"太陽病, 脈浮緊, 無汗, 發熱, 身痛, 心煩目瞑, 劇者必衄, 衄者欲解也, 宜麻黃湯."
 
 {% assign noo = "036" %}{% include {{page.src_path}} %}
 
@@ -275,6 +275,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "023" %}{% include {{page.src_path}} %}
 
+* 《惠》"傷寒病, 六日後, 至八日九日, 如瘧, 熱多寒少, 一日再發, 其脈微緩者, 爲欲愈. 脈微而惡寒者, 爲陰陽俱虛, 不可復吐下也, 發汗面色赤有熱者, 爲欲解, 宜服桂枝麻黃湯. "
+
 <i class="fa fa-bookmark"></i> [계지마황각반탕]({{site.formulaurl}}/계지마황각반탕)
 
 ##### (2) 表鬱內熱證
@@ -283,13 +285,16 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "048" %}{% include {{page.src_path}} %}
 
+* 〔轉屬陽明〕 185	⒀本太陽初得病時 發其汗 汗先出不徹 因轉屬陽明也 ⒁傷寒發熱無汗 嘔不能食 而反汗出濈濈然者 是轉屬陽明也
+* 《康平》"設面色緣緣正赤者 陽氣怫鬱不得越 其人短氣但坐 更發汗則愈"
+
 <i class="fa fa-bookmark"></i> [계지이월비일탕]({{site.formulaurl}}/계지이월비일탕)
 
 #### 4) 溫病
 
 {% assign noo = "006" %}{% include {{page.src_path}} %}
 
-
+* 《康平》"太陽病 發熱而渴 不惡寒者 爲溫病. 風溫爲病 脈陰陽俱浮 自汗出 身重 多眠睡 鼻息必鼾 語言難出."
 
 
 

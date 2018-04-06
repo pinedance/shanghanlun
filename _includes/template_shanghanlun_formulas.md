@@ -45,6 +45,13 @@
 {% endif %}
 
 
+{% if formula1.Formula.Ann %}
+
+<p class-"ann">{{ formula1.Formula.Ann }} </p>
+
+{% endif %}
+
+
 
 ### 상한론 조문
 
