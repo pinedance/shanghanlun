@@ -9,14 +9,17 @@
 
 {% assign items = site.data.shanghanlun | where:notype, noo %}
 
-> {{noo}}	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl }}
+> {{noo}}	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
 
-{% assign anns = items | map: 'ANN'  %}
-{% assign ann_test = anns | join: "" | replace: "；", "" %}
-{% if ann_test != ""  %}
+{% assign anns = items | map: 'ANN' | where_exp: "item", "item"  %}
+
+{% if anns.size > 0  %}
+
 {% assign annd = anns | join: "；" | replace: "；", "  <sup>¶</sup>" %}
 
-<p class="ann"><sup>¶</sup>{{annd}}</p>
+<p class="ann" markdown="1">
+	<sup>¶</sup>{{ annd }}
+</p>
 
 {% endif %}
 
