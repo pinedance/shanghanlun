@@ -1,11 +1,19 @@
+<!--원문인용 시작.  상위에서 data_src, noo, bookinit 지정 필요-->
 
 
-<!--원문인용 시작.  상위에서 data_src, noo 지정 필요-->
-
+<div id="{{bookinit}}{{noo}}" class="shanghanlun text others" markdown="1">
 
 {% assign items = data_src | where: 'NOO', noo %}
 
-> {{noo}}	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
+{% if noo contains "-00" %}
+
+### {{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
+
+{% else  %}
+
+> 《{{bookinit}}》{{noo}}	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
+
+{% endif %}
 
 {% assign anns = items | map: 'ANN' | where_exp: "item", "item"  %}
 
@@ -19,5 +27,5 @@
 
 {% endif %}
 
-
+</div>
 <!--원문인용 끝-->

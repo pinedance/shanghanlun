@@ -3,7 +3,10 @@ layout: reference
 title: "상한론 조문 비교"
 desc: "상한론 조문 비교〔송본 기준〕"
 tags: [상한론, 원문]
-src_path: template_shanghanlun.md
+conf:
+  template: template_shanghanlun.md
+  data_src: 
+  bookinit: 
 ---
 
 
@@ -18,16 +21,17 @@ src_path: template_shanghanlun.md
 
 {% assign noo = idx | prepend: '000' | slice: -3, 3 %}
 
+<div id="no{{noo}}" >
 
 <div class="origin" markdown="1">
-
 {% assign notype = "NOO.NoA" %}
-{% include {{page.src_path}} %}
+{% include {{ page.conf.template }} %}
+</div>
 
 <div class="compared" markdown="1">
-
-{% include template_shanghanlun_text_compare.md %}
-
+{% assign from = "Song" %}
+{% include template_shanghanlun_text_compare_with_Tang.md %}
+{% include template_shanghanlun_text_compare_with_Chunhe.md %}
 </div>
 
 </div>

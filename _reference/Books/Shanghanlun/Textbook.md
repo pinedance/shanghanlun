@@ -1,7 +1,7 @@
 ---
 layout: reference
-title: "상한론 조문"
-desc: "송본상한론〔교재 순서〕"
+title: "상한론"
+desc: "송본 상한론〔교재 순서〕"
 tags: [상한론, 원문]
 src_path: template_shanghanlun.md
 ---

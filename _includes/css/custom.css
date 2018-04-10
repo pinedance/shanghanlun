@@ -1,3 +1,15 @@
 p.ann {
 	padding-left: 20px;
 }
+
+div.song {
+	background: aliceblue;
+}
+
+div.text {
+    margin: 20px 0px 20px 0px;
+}
+
+blockquote p {
+	margin-bottom: 6px;
+}

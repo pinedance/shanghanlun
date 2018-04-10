@@ -1,11 +1,9 @@
-
+<div id="Song{{noo}}" class="shanghanlun text song" markdown="1">
 
 <!--원문인용 시작.  상위에서 notype, noo 지정 필요-->
 {% unless notype %}
 	{% assign notype = "NOO.NoA" %}
 {% endunless %}
-
-
 
 {% assign items = site.data.shanghanlun | where:notype, noo %}
 
@@ -23,5 +21,5 @@
 
 {% endif %}
 
-
+</div>
 <!--원문인용 끝-->
