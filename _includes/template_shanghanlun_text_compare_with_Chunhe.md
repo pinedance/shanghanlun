@@ -2,9 +2,9 @@
 
 <!--원문인용 시작. 상위에서 from, noo 지정 필요-->
 
-{% assign items = site.data.shanghanlun_text_compare | where: from, noo %}
+{% assign itemms = site.data.shanghanlun_text_compare | where: from, noo %}
 
-{% assign targets = items | map: 'Chun' %}
+{% assign targets = itemms | map: 'Chun' %}
 
 {% for ts in targets %}
 {% for t in ts %}
@@ -18,8 +18,5 @@
 {% endif %}
 {% endfor %}
 {% endfor %}
-
-
-
 
 <!--원문인용 끝-->

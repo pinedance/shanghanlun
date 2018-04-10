@@ -1,6 +1,5 @@
 <!--원문인용 시작.  상위에서 data_src, noo, bookinit 지정 필요-->
 
-
 <div id="{{bookinit}}{{noo}}" class="shanghanlun text others" markdown="1">
 
 {% assign items = data_src | where: 'NOO', noo %}
@@ -11,7 +10,7 @@
 
 {% else  %}
 
-> 《{{bookinit}}》{{noo}}	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
+> <sup>《{{bookinit}}》{{noo}}</sup>	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
 
 {% endif %}
 
@@ -28,4 +27,5 @@
 {% endif %}
 
 </div>
+
 <!--원문인용 끝-->

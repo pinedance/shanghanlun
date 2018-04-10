@@ -7,7 +7,7 @@
 
 {% assign items = site.data.shanghanlun | where:notype, noo %}
 
-> {{noo}}	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
+> <sup>《全書》{{noo}}</sup>	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
 
 {% assign anns = items | map: 'ANN' | where_exp: "item", "item"  %}
 

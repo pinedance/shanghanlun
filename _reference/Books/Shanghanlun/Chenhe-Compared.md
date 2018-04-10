@@ -1,23 +1,23 @@
 ---
 layout: reference
 title: "상한론 조문 비교"
-desc: "〔송본 기준〕"
+desc: "〔순화본 기준〕"
 tags: [상한론, 원문]
 conf:
-  template: template_shanghanlun.md
-  bookinit: "全書"
+  template: template_shanghanlun-others.md
+  bookinit: "淳和"
 ---
 
-
-
+{% assign data_src = site.data.shanghanlun-chunhe %}
+{% assign bookinit = page.conf.bookinit %}
 
 {{ page.desc }}
----------
+--------------------
 
 <br>
 
-{% for idx in (1..398) %}
-{% assign number = idx | prepend: '000' | slice: -3, 3 %}
+{% for t in data_src %}
+{% assign number = t.NOO %}
 
 {% if number contains "-00" %}
 {% else %}
@@ -25,16 +25,16 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-{% assign notype = "NOO.NoA" %}
+
 {% assign noo = number %}{% include {{ page.conf.template }} %}
 </div>
 
 <div class="compared" markdown="1">
-{% assign from = "Song" %}
+{% assign from = "Chun" %}
 {% assign bookinit = page.conf.bookinit %}
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Tang.md %}
 {% assign bookinit = page.conf.bookinit %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Chunhe.md %}
+{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Song.md %}
 </div>
 
 {% if number contains "-00" %}
