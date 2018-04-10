@@ -13,3 +13,7 @@ div.text {
 blockquote p {
 	margin-bottom: 6px;
 }
+
+sub {
+	font-size: 60%;
+}

@@ -1,18 +1,12 @@
 - Chun: ['01-02']
   Song: ['001']
-  Tang: ['01-19', '01-20']
-
-# test above
-
-- Chun: ['01-02']
-  Song: ['001']
   Tang: ['01-20', '01-21']
 
-- Chun: 
+- Chun:
   Song: ['002']
   Tang: ['01-22']
 
-- Chun: 
+- Chun:
   Song: ['003']
   Tang: ['02-01']
 
@@ -20,43 +14,43 @@
   Song: ['004']
   Tang: ['02-03']
 
-- Chun: 
+- Chun:
   Song: ['005']
   Tang: ['02-04']
 
-- Chun: 
+- Chun:
   Song: ['006']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['007']
   Tang: ['01-25']
 
-- Chun: 
+- Chun:
   Song: ['008']
   Tang: ['01-26']
 
-- Chun: 
+- Chun:
   Song: ['009']
   Tang: ['01-27']
 
-- Chun: 
+- Chun:
   Song: ['010']
   Tang: ['01-28']
 
-- Chun: 
+- Chun:
   Song: ['011']
-  Tang: 
+  Tang:
 
 - Chun: ['01-04']
   Song: ['012']
-  Tang: ['01-29']
+  Tang: ['01-29', '13-24']
 
-- Chun: 
+- Chun:
   Song: ['013']
   Tang: ['01-31']
 
-- Chun: 
+- Chun:
   Song: ['014']
   Tang: ['01-32']
 
@@ -64,19 +58,19 @@
   Song: ['015']
   Tang: ['01-33']
 
-- Chun: 
+- Chun:
   Song: ['016']
   Tang: ['01-34', '01-35']
 
-- Chun: 
+- Chun:
   Song: ['017']
   Tang: ['01-36']
 
-- Chun: 
+- Chun:
   Song: ['018']
   Tang: ['01-37']
 
-- Chun: 
+- Chun:
   Song: ['019']
   Tang: ['01-38']
 
@@ -88,7 +82,7 @@
   Song: ['021']
   Tang: ['01-53']
 
-- Chun: 
+- Chun:
   Song: ['022']
   Tang: ['01-53']
 
@@ -98,31 +92,31 @@
 
 - Chun: ['01-11']
   Song: ['024']
-  Tang: ['01-39']
+  Tang: ['01-39', '13-101']
 
-- Chun: 
+- Chun:
   Song: ['025']
   Tang: ['01-55']
 
-- Chun: 
+- Chun:
   Song: ['026']
-  Tang: 
+  Tang: ['14-07']
 
-- Chun: 
+- Chun:
   Song: ['027']
   Tang: ['01-56']
 
-- Chun: 
+- Chun:
   Song: ['028']
   Tang: ['01-57']
 
-- Chun: 
+- Chun:
   Song: ['029']
-  Tang: 
+  Tang: ['14-16']
 
-- Chun: 
+- Chun:
   Song: ['030']
-  Tang: 
+  Tang:
 
 - Chun: ['01-21']
   Song: ['031']
@@ -142,19 +136,19 @@
 
 - Chun: ['01-17']
   Song: ['035']
-  Tang: ['02-05']
+  Tang: ['02-05', '13-25']
 
 - Chun: ['01-15']
   Song: ['036']
-  Tang: ['02-06']
+  Tang: ['02-06', '13-45']
 
-- Chun: 
+- Chun:
   Song: ['037']
   Tang: ['02-07']
 
 - Chun: ['01-22']
   Song: ['038']
-  Tang: ['03-01']
+  Tang: ['03-01', '13-26']
 
 - Chun: ['01-23']
   Song: ['039']
@@ -164,7 +158,7 @@
   Song: ['040']
   Tang: ['03-03']
 
-- Chun: 
+- Chun:
   Song: ['041']
   Tang: ['03-04']
 
@@ -172,11 +166,11 @@
   Song: ['042']
   Tang: ['01-40']
 
-- Chun: 
+- Chun:
   Song: ['043']
   Tang: ['01-41', '02-12']
 
-- Chun: 
+- Chun:
   Song: ['044']
   Tang: ['01-42']
 
@@ -188,29 +182,29 @@
   Song: ['046']
   Tang: ['02-08']
 
-- Chun: 
+- Chun:
   Song: ['047']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['048']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['049']
-  Tang: 
+  Tang: ['14-27']
 
-- Chun: 
+- Chun:
   Song: ['050']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['051']
   Tang: ['02-09']
 
 - Chun: ['01-18']
   Song: ['052']
-  Tang: 
+  Tang:
 
 - Chun: ['01-12']
   Song: ['053']
@@ -220,11 +214,11 @@
   Song: ['054']
   Tang: ['01-45']
 
-- Chun: 
+- Chun:
   Song: ['055']
   Tang: ['02-10']
 
-- Chun: 
+- Chun:
   Song: ['056']
   Tang: ['01-46']
 
@@ -232,167 +226,167 @@
   Song: ['057']
   Tang: ['01-47']
 
-- Chun: 
+- Chun:
   Song: ['058']
-  Tang: 
+  Tang: ['14-17']
 
-- Chun: 
+- Chun:
   Song: ['059']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['060']
-  Tang: 
+  Tang: ['14-22']
 
-- Chun: 
+- Chun:
   Song: ['061']
-  Tang: 
+  Tang: ['14-24']
 
-- Chun: 
+- Chun:
   Song: ['062']
-  Tang: 
+  Tang: ['14-08']
 
-- Chun: 
+- Chun:
   Song: ['063']
-  Tang: 
+  Tang: ['14-28']
 
-- Chun: 
+- Chun:
   Song: ['064']
-  Tang: 
+  Tang: ['14-11']
 
-- Chun: 
+- Chun:
   Song: ['065']
-  Tang: 
+  Tang: ['14-10']
 
 - Chun: ['01-33']
   Song: ['066']
-  Tang: 
+  Tang: ['14-13']
 
-- Chun: 
+- Chun:
   Song: ['067']
-  Tang: 
+  Tang: ['14-18']
 
-- Chun: 
+- Chun:
   Song: ['068']
-  Tang: 
+  Tang: ['14-14']
 
-- Chun: 
+- Chun:
   Song: ['069']
-  Tang: 
+  Tang: ['14-19']
 
-- Chun: 
+- Chun:
   Song: ['070']
-  Tang: ['05-01']
+  Tang: ['05-01', '14-15']
 
 - Chun: ['01-29']
   Song: ['071']
-  Tang: 
+  Tang: ['13-112']
 
 - Chun: ['01-30']
   Song: ['072']
-  Tang: 
+  Tang: ['14-12']
 
 - Chun: ['01-31']
   Song: ['073']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['074']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['075']
-  Tang: ['07-01']
+  Tang: ['07-01', '13-109']
 
 - Chun: ['06-06']
   Song: ['076']
-  Tang: 
+  Tang: ['14-02', '14-20']
 
-- Chun: 
+- Chun:
   Song: ['077']
-  Tang: 
+  Tang: ['14-23']
 
 - Chun: ['06-09']
   Song: ['078']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['079']
-  Tang: 
+  Tang: ['14-21']
 
-- Chun: 
+- Chun:
   Song: ['080']
-  Tang: 
+  Tang: ['14-26']
 
-- Chun: 
+- Chun:
   Song: ['081']
-  Tang: 
+  Tang:
 
 - Chun: ['01-25']
   Song: ['082']
-  Tang: 
+  Tang: ['13-07', '14-09']
 
-- Chun: 
+- Chun:
   Song: ['083']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['084']
-  Tang: 
+  Tang: ['13-11']
 
-- Chun: 
+- Chun:
   Song: ['085']
-  Tang: 
+  Tang: ['13-12']
 
-- Chun: 
+- Chun:
   Song: ['086']
-  Tang: 
+  Tang: ['13-09']
 
-- Chun: 
+- Chun:
   Song: ['087']
-  Tang: 
+  Tang: ['13-08']
 
-- Chun: 
+- Chun:
   Song: ['088']
-  Tang: 
+  Tang: ['13-10']
 
-- Chun: 
+- Chun:
   Song: ['089']
-  Tang: 
+  Tang: ['14-06']
 
-- Chun: 
+- Chun:
   Song: ['090']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['091']
   Tang: ['01-48']
 
-- Chun: 
+- Chun:
   Song: ['092']
-  Tang: ['01-49']
+  Tang: ['01-49', '13-72']
 
-- Chun: 
+- Chun:
   Song: ['093']
-  Tang: 
+  Tang: ['14-25']
 
-- Chun: 
+- Chun:
   Song: ['094']
   Tang: ['05-02']
 
 - Chun: ['01-05']
   Song: ['095']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['096']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['097']
   Tang: ['04-01']
 
-- Chun: 
+- Chun:
   Song: ['098']
   Tang: ['04-02']
 
@@ -404,23 +398,23 @@
   Song: ['100']
   Tang: ['04-04']
 
-- Chun: 
+- Chun:
   Song: ['101']
   Tang: ['04-05']
 
-- Chun: 
+- Chun:
   Song: ['102']
   Tang: ['07-02']
 
-- Chun: 
+- Chun:
   Song: ['103']
   Tang: ['04-12']
 
-- Chun: 
+- Chun:
   Song: ['104']
   Tang: ['04-07']
 
-- Chun: 
+- Chun:
   Song: ['105']
   Tang: ['05-03']
 
@@ -432,155 +426,155 @@
   Song: ['107']
   Tang: ['04-08']
 
-- Chun: 
+- Chun:
   Song: ['108']
-  Tang: 
+  Tang: ['13-102']
 
-- Chun: 
+- Chun:
   Song: ['109']
-  Tang: 
+  Tang: ['13-103']
 
-- Chun: 
+- Chun:
   Song: ['110']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['111']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['112']
-  Tang: ['07-03']
+  Tang: ['07-03', '13-82']
 
-- Chun: 
+- Chun:
   Song: ['113']
-  Tang: 
+  Tang: ['13-83']
 
-- Chun: 
+- Chun:
   Song: ['114']
-  Tang: 
+  Tang: ['13-84']
 
-- Chun: 
+- Chun:
   Song: ['115']
-  Tang: 
+  Tang: ['13-90', '13-90']
 
-- Chun: 
+- Chun:
   Song: ['116']
-  Tang: 
+  Tang: ['13-89']
 
-- Chun: 
+- Chun:
   Song: ['117']
   Tang: ['07-04']
 
-- Chun: 
+- Chun:
   Song: ['118']
   Tang: ['07-05']
 
-- Chun: 
+- Chun:
   Song: ['119']
-  Tang: ['07-06']
+  Tang: ['07-06', '13-81']
 
-- Chun: 
+- Chun:
   Song: ['120']
-  Tang: 
+  Tang: ['13-28']
 
-- Chun: 
+- Chun:
   Song: ['121']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['122']
-  Tang: 
+  Tang: ['14-05']
 
-- Chun: 
+- Chun:
   Song: ['123']
   Tang: ['05-04']
 
-- Chun: 
+- Chun:
   Song: ['124']
-  Tang: ['07-07']
+  Tang: ['07-07', '13-78']
 
-- Chun: 
+- Chun:
   Song: ['125']
   Tang: ['07-08']
 
-- Chun: 
+- Chun:
   Song: ['126']
   Tang: ['07-09']
 
-- Chun: 
+- Chun:
   Song: ['127']
-  Tang: 
+  Tang: ['13-111']
 
-- Chun: 
+- Chun:
   Song: ['128']
   Tang: ['06-01']
 
-- Chun: 
+- Chun:
   Song: ['129']
   Tang: ['06-01']
 
-- Chun: 
+- Chun:
   Song: ['130']
   Tang: ['06-01']
 
-- Chun: 
+- Chun:
   Song: ['131']
   Tang: ['06-02']
 
-- Chun: 
+- Chun:
   Song: ['132']
   Tang: ['06-03']
 
-- Chun: 
+- Chun:
   Song: ['133']
   Tang: ['06-04']
 
-- Chun: 
+- Chun:
   Song: ['134']
   Tang: ['06-05']
 
-- Chun: 
+- Chun:
   Song: ['135']
   Tang: ['06-06']
 
-- Chun: 
+- Chun:
   Song: ['136']
   Tang: ['04-13', '06-07', '06-08']
 
-- Chun: 
+- Chun:
   Song: ['137']
   Tang: ['06-09']
 
-- Chun: 
+- Chun:
   Song: ['138']
   Tang: ['06-10']
 
-- Chun: 
+- Chun:
   Song: ['139']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['140']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['141']
   Tang: ['06-12', '06-13']
 
-- Chun: 
+- Chun:
   Song: ['142']
   Tang: ['06-14']
 
-- Chun: 
+- Chun:
   Song: ['143']
   Tang: ['07-10']
 
-- Chun: 
+- Chun:
   Song: ['144']
   Tang: ['07-11']
 
-- Chun: 
+- Chun:
   Song: ['145']
   Tang: ['07-12']
 
@@ -592,39 +586,39 @@
   Song: ['147']
   Tang: ['04-11']
 
-- Chun: 
+- Chun:
   Song: ['148']
   Tang: ['04-06']
 
-- Chun: 
+- Chun:
   Song: ['149']
   Tang: ['06-15']
 
-- Chun: 
+- Chun:
   Song: ['150']
   Tang: ['06-11']
 
-- Chun: 
+- Chun:
   Song: ['151']
   Tang: ['06-16']
 
-- Chun: 
+- Chun:
   Song: ['152']
   Tang: ['06-17']
 
-- Chun: 
+- Chun:
   Song: ['153']
   Tang: ['06-18']
 
-- Chun: 
+- Chun:
   Song: ['154']
   Tang: ['06-19']
 
-- Chun: 
+- Chun:
   Song: ['155']
   Tang: ['06-20']
 
-- Chun: 
+- Chun:
   Song: ['156']
   Tang: ['06-21']
 
@@ -632,51 +626,51 @@
   Song: ['157']
   Tang: ['06-22']
 
-- Chun: 
+- Chun:
   Song: ['158']
   Tang: ['06-23']
 
-- Chun: 
+- Chun:
   Song: ['159']
   Tang: ['06-24']
 
-- Chun: 
+- Chun:
   Song: ['160']
   Tang: ['06-25']
 
-- Chun: 
+- Chun:
   Song: ['161']
   Tang: ['06-26']
 
-- Chun: 
+- Chun:
   Song: ['162']
-  Tang: 
+  Tang:
 
 - Chun: ['01-36']
   Song: ['163']
   Tang: ['06-27']
 
-- Chun: 
+- Chun:
   Song: ['164']
   Tang: ['01-51', '06-28']
 
-- Chun: 
+- Chun:
   Song: ['165']
   Tang: ['04-14']
 
-- Chun: 
+- Chun:
   Song: ['166']
-  Tang: ['06-29']
+  Tang: ['06-29', '13-33']
 
-- Chun: 
+- Chun:
   Song: ['167']
-  Tang: 
+  Tang:
 
 - Chun: ['06-11']
   Song: ['168']
-  Tang: 
+  Tang: ['14-29']
 
-- Chun: 
+- Chun:
   Song: ['169']
   Tang: ['07-13']
 
@@ -684,15 +678,15 @@
   Song: ['170']
   Tang: ['07-14']
 
-- Chun: 
+- Chun:
   Song: ['171']
-  Tang: 
+  Tang: ['13-105']
 
 - Chun: ['01-32']
   Song: ['172']
   Tang: ['07-16']
 
-- Chun: 
+- Chun:
   Song: ['173']
   Tang: ['07-17']
 
@@ -700,23 +694,23 @@
   Song: ['174']
   Tang: ['07-18']
 
-- Chun: 
+- Chun:
   Song: ['175']
   Tang: ['07-19']
 
-- Chun: 
+- Chun:
   Song: ['176']
   Tang: ['07-15']
 
-- Chun: 
+- Chun:
   Song: ['177']
   Tang: ['07-20']
 
-- Chun: 
+- Chun:
   Song: ['178']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['179']
   Tang: ['08-02']
 
@@ -724,7 +718,7 @@
   Song: ['180']
   Tang: ['08-01']
 
-- Chun: 
+- Chun:
   Song: ['181']
   Tang: ['08-03']
 
@@ -732,27 +726,27 @@
   Song: ['182']
   Tang: ['08-04']
 
-- Chun: 
+- Chun:
   Song: ['183']
   Tang: ['08-05']
 
-- Chun: 
+- Chun:
   Song: ['184']
-  Tang: 
+  Tang:
 
 - Chun: ['02-02']
   Song: ['185']
   Tang: ['08-06', '08-07']
 
-- Chun: 
+- Chun:
   Song: ['186']
   Tang: ['08-08']
 
-- Chun: 
+- Chun:
   Song: ['187']
   Tang: ['08-09']
 
-- Chun: 
+- Chun:
   Song: ['188']
   Tang: ['08-10']
 
@@ -760,7 +754,7 @@
   Song: ['189']
   Tang: ['08-11']
 
-- Chun: 
+- Chun:
   Song: ['190']
   Tang: ['08-12']
 
@@ -768,11 +762,11 @@
   Song: ['191']
   Tang: ['08-13']
 
-- Chun: 
+- Chun:
   Song: ['192']
   Tang: ['08-14']
 
-- Chun: 
+- Chun:
   Song: ['193']
   Tang: ['08-15']
 
@@ -792,7 +786,7 @@
   Song: ['197']
   Tang: ['08-19']
 
-- Chun: 
+- Chun:
   Song: ['198']
   Tang: ['08-20']
 
@@ -802,7 +796,7 @@
 
 - Chun: ['02-12']
   Song: ['200']
-  Tang: ['08-23']
+  Tang: ['08-23', '13-85']
 
 - Chun: ['02-10']
   Song: ['201']
@@ -816,7 +810,7 @@
   Song: ['203']
   Tang: ['08-25']
 
-- Chun: 
+- Chun:
   Song: ['204']
   Tang: ['08-27']
 
@@ -824,7 +818,7 @@
   Song: ['205']
   Tang: ['08-28']
 
-- Chun: 
+- Chun:
   Song: ['206']
   Tang: ['08-29']
 
@@ -840,17 +834,17 @@
   Song: ['209']
   Tang: ['08-33', '08-34']
 
-- Chun: 
+- Chun:
   Song: ['210']
   Tang: ['08-35']
 
-- Chun: 
+- Chun:
   Song: ['211']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['212']
-  Tang: 
+  Tang: ['14-30']
 
 - Chun: ['02-20']
   Song: ['213']
@@ -860,27 +854,27 @@
   Song: ['214']
   Tang: ['08-37']
 
-- Chun: 
+- Chun:
   Song: ['215']
   Tang: ['08-38']
 
-- Chun: 
+- Chun:
   Song: ['216']
-  Tang: ['08-39']
+  Tang: ['08-39', '13-104']
 
-- Chun: 
+- Chun:
   Song: ['217']
   Tang: ['08-40']
 
-- Chun: 
+- Chun:
   Song: ['218']
   Tang: ['08-41']
 
-- Chun: 
+- Chun:
   Song: ['219']
   Tang: ['08-55']
 
-- Chun: 
+- Chun:
   Song: ['220']
   Tang: ['05-05']
 
@@ -888,7 +882,7 @@
   Song: ['221']
   Tang: ['08-53']
 
-- Chun: 
+- Chun:
   Song: ['222']
   Tang: ['08-56']
 
@@ -928,11 +922,11 @@
   Song: ['231']
   Tang: ['08-64']
 
-- Chun: 
+- Chun:
   Song: ['232']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['233']
   Tang: ['08-67']
 
@@ -952,51 +946,51 @@
   Song: ['237']
   Tang: ['08-70']
 
-- Chun: 
+- Chun:
   Song: ['238']
   Tang: ['08-42']
 
-- Chun: 
+- Chun:
   Song: ['239']
   Tang: ['08-43']
 
 - Chun: ['02-36', '04-01']
   Song: ['240']
-  Tang: ['08-44']
+  Tang: ['08-44', '13-70']
 
-- Chun: 
+- Chun:
   Song: ['241']
   Tang: ['08-45']
 
-- Chun: 
+- Chun:
   Song: ['242']
   Tang: ['08-46']
 
-- Chun: 
+- Chun:
   Song: ['243']
   Tang: ['08-72']
 
-- Chun: 
+- Chun:
   Song: ['244']
   Tang: ['08-73']
 
-- Chun: 
+- Chun:
   Song: ['245']
   Tang: ['08-74']
 
-- Chun: 
+- Chun:
   Song: ['246']
   Tang: ['08-75']
 
-- Chun: 
+- Chun:
   Song: ['247']
   Tang: ['08-76']
 
-- Chun: 
+- Chun:
   Song: ['248']
   Tang: ['05-06']
 
-- Chun: 
+- Chun:
   Song: ['249']
   Tang: ['05-07']
 
@@ -1004,15 +998,15 @@
   Song: ['250']
   Tang: ['05-08']
 
-- Chun: 
+- Chun:
   Song: ['251']
   Tang: ['08-47']
 
-- Chun: 
+- Chun:
   Song: ['252']
-  Tang: ['08-48']
+  Tang: ['08-48', '13-67']
 
-- Chun: 
+- Chun:
   Song: ['253']
   Tang: ['08-49']
 
@@ -1020,35 +1014,35 @@
   Song: ['254']
   Tang: ['08-50']
 
-- Chun: 
+- Chun:
   Song: ['255']
-  Tang: ['08-51']
+  Tang: ['08-51', '13-66']
 
 - Chun: ['02-38']
   Song: ['256']
-  Tang: ['08-52']
+  Tang: ['08-52', '13-61']
 
-- Chun: 
+- Chun:
   Song: ['257']
   Tang: ['04-15', '08-71']
 
-- Chun: 
+- Chun:
   Song: ['258']
   Tang: ['08-71']
 
-- Chun: 
+- Chun:
   Song: ['259']
   Tang: ['08-77']
 
-- Chun: 
+- Chun:
   Song: ['260']
   Tang: ['08-69']
 
-- Chun: 
+- Chun:
   Song: ['261']
   Tang: ['08-78']
 
-- Chun: 
+- Chun:
   Song: ['262']
   Tang: ['08-79']
 
@@ -1070,9 +1064,9 @@
 
 - Chun: ['03-03']
   Song: ['267']
-  Tang: 
+  Tang:
 
-- Chun: 
+- Chun:
   Song: ['268']
   Tang: ['09-05']
 
@@ -1080,15 +1074,15 @@
   Song: ['269']
   Tang: ['09-06']
 
-- Chun: 
+- Chun:
   Song: ['270']
   Tang: ['09-07']
 
-- Chun: 
+- Chun:
   Song: ['271']
   Tang: ['09-08']
 
-- Chun: 
+- Chun:
   Song: ['272']
   Tang: ['09-09']
 
@@ -1100,7 +1094,7 @@
   Song: ['274']
   Tang: ['10-03']
 
-- Chun: 
+- Chun:
   Song: ['275']
   Tang: ['10-04']
 
@@ -1120,7 +1114,7 @@
   Song: ['279']
   Tang: ['10-07']
 
-- Chun: 
+- Chun:
   Song: ['280']
   Tang: ['10-08']
 
@@ -1132,23 +1126,23 @@
   Song: ['282']
   Tang: ['11-02']
 
-- Chun: 
+- Chun:
   Song: ['283']
   Tang: ['11-03']
 
 - Chun: ['05-03']
   Song: ['284']
-  Tang: ['11-04']
+  Tang: ['11-04', '13-86']
 
 - Chun: ['05-04']
   Song: ['285']
   Tang: ['11-05']
 
-- Chun: 
+- Chun:
   Song: ['286']
   Tang: ['11-06']
 
-- Chun: 
+- Chun:
   Song: ['287']
   Tang: ['11-07']
 
@@ -1160,47 +1154,47 @@
   Song: ['289']
   Tang: ['11-09']
 
-- Chun: 
+- Chun:
   Song: ['290']
   Tang: ['11-10']
 
-- Chun: 
+- Chun:
   Song: ['291']
   Tang: ['11-11']
 
 - Chun: ['05-08']
   Song: ['292']
-  Tang: ['11-13']
+  Tang: ['11-13', '13-92', '13-92']
 
 - Chun: ['05-07']
   Song: ['293']
   Tang: ['11-12']
 
-- Chun: 
+- Chun:
   Song: ['294']
   Tang: ['11-14']
 
-- Chun: 
+- Chun:
   Song: ['295']
   Tang: ['11-15']
 
-- Chun: 
+- Chun:
   Song: ['296']
   Tang: ['11-17']
 
-- Chun: 
+- Chun:
   Song: ['297']
   Tang: ['11-16']
 
-- Chun: 
+- Chun:
   Song: ['298']
   Tang: ['11-18']
 
-- Chun: 
+- Chun:
   Song: ['299']
   Tang: ['11-19']
 
-- Chun: 
+- Chun:
   Song: ['300']
   Tang: ['11-20']
 
@@ -1208,33 +1202,33 @@
   Song: ['301']
   Tang: ['11-21']
 
-- Chun: 
+- Chun:
   Song: ['302']
-  Tang: ['11-22']
+  Tang: ['11-22', '13-27']
 
-- Chun: 
+- Chun:
   Song: ['303']
   Tang: ['11-23']
 
-- Chun: 
+- Chun:
   Song: ['304']
-  Tang: ['11-24']
+  Tang: ['11-24', '13-91', '13-91']
 
 - Chun: ['05-10']
   Song: ['305']
   Tang: ['11-25']
 
-- Chun: 
+- Chun:
   Song: ['306']
   Tang: ['11-26']
 
-- Chun: 
+- Chun:
   Song: ['307']
   Tang: ['11-27']
 
 - Chun: ['05-11']
   Song: ['308']
-  Tang: ['11-28']
+  Tang: ['11-28', '13-108']
 
 - Chun: ['05-12']
   Song: ['309']
@@ -1248,11 +1242,11 @@
   Song: ['311']
   Tang: ['11-31']
 
-- Chun: 
+- Chun:
   Song: ['312']
   Tang: ['11-32']
 
-- Chun: 
+- Chun:
   Song: ['313']
   Tang: ['11-33']
 
@@ -1272,7 +1266,7 @@
   Song: ['317']
   Tang: ['11-37']
 
-- Chun: 
+- Chun:
   Song: ['318']
   Tang: ['11-38']
 
@@ -1282,11 +1276,11 @@
 
 - Chun: ['05-20']
   Song: ['320']
-  Tang: ['11-40']
+  Tang: ['11-40', '13-56']
 
 - Chun: ['05-21']
   Song: ['321']
-  Tang: ['11-41']
+  Tang: ['11-41', '13-58']
 
 - Chun: ['05-22']
   Song: ['322']
@@ -1298,13 +1292,13 @@
 
 - Chun: ['05-24', '05-25']
   Song: ['324']
-  Tang: ['11-44']
+  Tang: ['11-44', '13-29']
 
-- Chun: 
+- Chun:
   Song: ['325']
   Tang: ['11-45']
 
-- Chun: 
+- Chun:
   Song: ['326']
   Tang: ['12-01']
 
@@ -1312,286 +1306,286 @@
   Song: ['327']
   Tang: ['12-02']
 
-- Chun: 
+- Chun:
   Song: ['328']
   Tang: ['12-03']
 
 - Chun: ['06-02']
   Song: ['329']
-  Tang: ['12-04']
+  Tang: ['12-04', '13-113']
 
-- Chun: 
+- Chun:
   Song: ['330']
-  Tang: ['12-05']
+  Tang: ['12-05', '13-30']
 
-- Chun: 
+- Chun:
   Song: ['331']
   Tang: ['12-06']
 
-- Chun: 
+- Chun:
   Song: ['332']
   Tang: ['12-07']
 
-- Chun: 
+- Chun:
   Song: ['333']
   Tang: ['12-08']
 
-- Chun: 
+- Chun:
   Song: ['334']
   Tang: ['12-09']
 
-- Chun: 
+- Chun:
   Song: ['335']
   Tang: ['12-10']
 
-- Chun: 
+- Chun:
   Song: ['336']
   Tang: ['12-12']
 
-- Chun: 
+- Chun:
   Song: ['337']
   Tang: ['12-11']
 
-- Chun: 
+- Chun:
   Song: ['338']
   Tang: ['12-13']
 
-- Chun: 
+- Chun:
   Song: ['339']
   Tang: ['12-14']
 
-- Chun: 
+- Chun:
   Song: ['340']
   Tang: ['12-15']
 
-- Chun: 
+- Chun:
   Song: ['341']
   Tang: ['12-16']
 
-- Chun: 
+- Chun:
   Song: ['342']
   Tang: ['12-17']
 
-- Chun: 
+- Chun:
   Song: ['343']
-  Tang: ['12-18']
+  Tang: ['12-18', '13-95']
 
-- Chun: 
+- Chun:
   Song: ['344']
   Tang: ['12-19']
 
-- Chun: 
+- Chun:
   Song: ['345']
   Tang: ['12-20']
 
-- Chun: 
+- Chun:
   Song: ['346']
   Tang: ['12-21']
 
-- Chun: 
+- Chun:
   Song: ['347']
   Tang: ['12-22']
 
-- Chun: 
+- Chun:
   Song: ['348']
   Tang: ['12-23']
 
-- Chun: 
+- Chun:
   Song: ['349']
-  Tang: ['12-24']
+  Tang: ['12-24', '13-96']
 
-- Chun: 
+- Chun:
   Song: ['350']
   Tang: ['12-25']
 
-- Chun: 
+- Chun:
   Song: ['351']
   Tang: ['12-26']
 
-- Chun: 
+- Chun:
   Song: ['352']
   Tang: ['12-27']
 
-- Chun: 
+- Chun:
   Song: ['353']
   Tang: ['12-28']
 
-- Chun: 
+- Chun:
   Song: ['354']
   Tang: ['12-29']
 
-- Chun: 
+- Chun:
   Song: ['355']
   Tang: ['12-30']
 
-- Chun: 
+- Chun:
   Song: ['356']
   Tang: ['12-31']
 
-- Chun: 
+- Chun:
   Song: ['357']
   Tang: ['12-32']
 
-- Chun: 
+- Chun:
   Song: ['358']
   Tang: ['12-33']
 
-- Chun: 
+- Chun:
   Song: ['359']
   Tang: ['12-34']
 
-- Chun: 
+- Chun:
   Song: ['360']
   Tang: ['12-35']
 
-- Chun: 
+- Chun:
   Song: ['361']
   Tang: ['12-36']
 
-- Chun: 
+- Chun:
   Song: ['362']
-  Tang: ['12-37']
+  Tang: ['12-37', '13-94']
 
-- Chun: 
+- Chun:
   Song: ['363']
   Tang: ['12-38']
 
-- Chun: 
+- Chun:
   Song: ['364']
   Tang: ['12-39']
 
-- Chun: 
+- Chun:
   Song: ['365']
   Tang: ['12-40']
 
-- Chun: 
+- Chun:
   Song: ['366']
   Tang: ['12-41']
 
-- Chun: 
+- Chun:
   Song: ['367']
   Tang: ['12-42']
 
-- Chun: 
+- Chun:
   Song: ['368']
   Tang: ['12-43']
 
-- Chun: 
+- Chun:
   Song: ['369']
   Tang: ['12-44']
 
-- Chun: 
+- Chun:
   Song: ['370']
   Tang: ['12-45']
 
-- Chun: 
+- Chun:
   Song: ['371']
   Tang: ['12-46']
 
-- Chun: 
+- Chun:
   Song: ['372']
-  Tang: ['12-48']
+  Tang: ['12-48', '13-73']
 
-- Chun: 
+- Chun:
   Song: ['373']
   Tang: ['12-47']
 
-- Chun: 
+- Chun:
   Song: ['374']
   Tang: ['12-49']
 
-- Chun: 
+- Chun:
   Song: ['375']
   Tang: ['12-50']
 
-- Chun: 
+- Chun:
   Song: ['376']
   Tang: ['12-51']
 
-- Chun: 
+- Chun:
   Song: ['377']
   Tang: ['12-53']
 
-- Chun: 
+- Chun:
   Song: ['378']
   Tang: ['12-54']
 
-- Chun: 
+- Chun:
   Song: ['379']
   Tang: ['12-52']
 
-- Chun: 
+- Chun:
   Song: ['380']
   Tang: ['12-55']
 
-- Chun: 
+- Chun:
   Song: ['381']
   Tang: ['12-56']
 
-- Chun: 
+- Chun:
   Song: ['382']
-  Tang: 
+  Tang: ['15-01']
 
-- Chun: 
+- Chun:
   Song: ['383']
-  Tang: 
+  Tang: ['15-02']
 
-- Chun: 
+- Chun:
   Song: ['384']
-  Tang: 
+  Tang: ['15-03', '15-04']
 
-- Chun: 
+- Chun:
   Song: ['385']
-  Tang: 
+  Tang: ['15-05']
 
-- Chun: 
+- Chun:
   Song: ['386']
-  Tang: 
+  Tang: ['15-06']
 
-- Chun: 
+- Chun:
   Song: ['387']
-  Tang: 
+  Tang: ['15-07']
 
-- Chun: 
+- Chun:
   Song: ['388']
-  Tang: 
+  Tang: ['15-08']
 
-- Chun: 
+- Chun:
   Song: ['389']
-  Tang: 
+  Tang: ['15-08']
 
-- Chun: 
+- Chun:
   Song: ['390']
-  Tang: 
+  Tang: ['15-09']
 
-- Chun: 
+- Chun:
   Song: ['391']
-  Tang: 
+  Tang: ['15-10']
 
-- Chun: 
+- Chun:
   Song: ['392']
-  Tang: 
+  Tang: ['16-01']
 
-- Chun: 
+- Chun:
   Song: ['393']
-  Tang: 
+  Tang: ['16-02']
 
-- Chun: 
+- Chun:
   Song: ['394']
-  Tang: 
+  Tang: ['16-03']
 
-- Chun: 
+- Chun:
   Song: ['395']
-  Tang: 
+  Tang: ['16-04']
 
-- Chun: 
+- Chun:
   Song: ['396']
-  Tang: 
+  Tang: ['16-06']
 
-- Chun: 
+- Chun:
   Song: ['397']
-  Tang: 
+  Tang: ['16-05']
 
-- Chun: 
+- Chun:
   Song: ['398']
-  Tang: 
+  Tang: ['16-07']
