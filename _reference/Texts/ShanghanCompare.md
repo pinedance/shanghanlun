@@ -17,9 +17,19 @@ src_path: template_shanghanlun.md
 {% for idx in (1..398) %}
 
 {% assign noo = idx | prepend: '000' | slice: -3, 3 %}
+
+
+<div class="origin" markdown="1">
+
 {% assign notype = "NOO.NoA" %}
 {% include {{page.src_path}} %}
 
-{% include  %}
+<div class="compared" markdown="1">
+
+{% include template_shanghanlun_text_compare.md %}
+
+</div>
+
+</div>
 
 {% endfor %}
