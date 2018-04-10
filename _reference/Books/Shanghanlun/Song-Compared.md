@@ -8,8 +8,8 @@ conf:
   bookinit: "全書"
 ---
 
-
-
+{% assign notype = "NOO.NoA" %}
+{% assign bookinit = page.conf.bookinit %}
 
 {{ page.desc }}
 ---------
@@ -25,15 +25,14 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-{% assign notype = "NOO.NoA" %}
+
+
 {% assign noo = number %}{% include {{ page.conf.template }} %}
 </div>
 
 <div class="compared" markdown="1">
 {% assign from = "Song" %}
-{% assign bookinit = page.conf.bookinit %}
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Tang.md %}
-{% assign bookinit = page.conf.bookinit %}
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Chunhe.md %}
 </div>
 

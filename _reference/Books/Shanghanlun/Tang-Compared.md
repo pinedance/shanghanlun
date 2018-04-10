@@ -25,15 +25,14 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-
+{% assign data_src = site.data.shanghanlun-tang %}
+{% assign bookinit = page.conf.bookinit %}
 {% assign noo = number %}{% include {{ page.conf.template }} %}
 </div>
 
 <div class="compared" markdown="1">
 {% assign from = "Tang" %}
-{% assign bookinit = page.conf.bookinit %}
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Song.md %}
-{% assign bookinit = page.conf.bookinit %}
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Chunhe.md %}
 </div>
 

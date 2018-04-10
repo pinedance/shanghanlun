@@ -3,6 +3,7 @@
 <!--원문인용 시작. 상위에서 from, noo 지정 필요-->
 
 {% assign itemms = site.data.shanghanlun_text_compare | where: from, noo %}
+
 {% assign targets = itemms | map: 'Tang' %}
 
 {% for ts in targets %}
