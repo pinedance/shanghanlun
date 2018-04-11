@@ -256,8 +256,10 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "039" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕) : 마행감석탕(增마황 6냥) + 계지거작약탕
+<i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕)
 
+* 마황탕 + 월비탕
+* 마행감석탕(增마황 6냥) + 계지거작약탕
 
 ###### ④ 水飮咳喘을 겸한 증
 
@@ -265,7 +267,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "041" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕) : 계지탕(건강代생강) + 마황 세신(3냥) 반하(반승) 오미자(반승)
+<i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕) : 계지탕(건강代생강, 去대조) + 마황 세신(3냥) 반하(반승) 오미자(반승)
 
 
 
@@ -275,7 +277,11 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "023" %}{% include {{page.src_path}} %}
 
-* 《惠》"傷寒病, 六日後, 至八日九日, 如瘧, 熱多寒少, 一日再發, 其脈微緩者, 爲欲愈. 脈微而惡寒者, 爲陰陽俱虛, 不可復吐下也, 發汗面色赤有熱者, 爲欲解, 宜服桂枝麻黃湯. "
+{% assign data_src = site.data.shanghanlun-tang %}{% assign bookinit = "唐翼" %}
+{% assign noo = "01-54" %}{% include template_shanghanlun-others.md %}
+
+{% assign data_src = site.data.shanghanlun-chunhe %}{% assign bookinit = "淳和" %}
+{% assign noo = "06-13" %}{% include template_shanghanlun-others.md %}
 
 <i class="fa fa-bookmark"></i> [계지마황각반탕]({{site.formulaurl}}/계지마황각반탕)
 
@@ -283,20 +289,20 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "027" %}{% include {{page.src_path}} %}
 
-* 無陽：《本經疏證》"非因陽不足, 乃表陽內伏也. 表陽之所以內伏, 正爲其本寒將盡, 無事與相拒於外耳, 故曰無陽"
+* 《교재》"太陽病，發熱惡寒，熱多寒少，宜桂枝二越婢一湯。脈微弱者，｛此無陽也｝，不可發汗。"로 보아야 함
+
+<i class="fa fa-bookmark"></i> [계지이월비일탕]({{site.formulaurl}}/계지이월비일탕)
 
 {% assign noo = "048" %}{% include {{page.src_path}} %}
 
 * 〔轉屬陽明〕 185 ＂⒀本太陽初得病時 發其汗 汗先出不徹 因轉屬陽明也 ⒁傷寒發熱無汗 嘔不能食 而反汗出濈濈然者 是轉屬陽明也。＂
 * 〔陽氣怫鬱〕 《康平》"設面色緣緣正赤者 陽氣怫鬱不得越 其人短氣但坐 更發汗則愈"
 
-<i class="fa fa-bookmark"></i> [계지이월비일탕]({{site.formulaurl}}/계지이월비일탕)
-
 #### 4) 溫病
 
 {% assign noo = "006" %}{% include {{page.src_path}} %}
 
-* 《康平》＂⒂太陽病 發熱而渴 不惡寒者 爲溫病. 風溫爲病 脈陰陽俱浮 自汗出 身重 多眠睡 鼻息必鼾 語言難出。＂
+* 《康平》＂⒂太陽病，發熱而渴，不惡寒者，爲溫病。風溫爲病，脈陰陽俱浮，自汗出，身重，多眠睡，鼻息必鼾，語言難出。＂
 
 
 

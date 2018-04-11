@@ -22,11 +22,15 @@
 
 > {{ formula1.Formula.Ingredients | replace: "HERBURL", site.herburl }}
 
+<br>
+
 제법
 
 > {{ formula1.Formula.Directions }}
 
 {% if formula1.Formula.Treat %}
+
+<br>
 
 처치
 
@@ -35,6 +39,8 @@
 {% endif %}
 
 {% if formula1.Formula.Explanation %}
+
+<br>
 
 참고
 

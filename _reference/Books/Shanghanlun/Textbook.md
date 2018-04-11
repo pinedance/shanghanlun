@@ -2,7 +2,7 @@
 layout: reference
 title: "상한론"
 desc: "송본 상한론〔교재 순서〕"
-tags: [상한론, 원문]
+tags: [상한금궤원문, 교재]
 src_path: template_shanghanlun.md
 ---
 

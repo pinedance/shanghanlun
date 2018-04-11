@@ -2,7 +2,7 @@
 layout: reference
 title: "상한론"
 desc: "당본 상한론〔千金翼方 卷第九-十〕"
-tags: [상한론, 원문, 당본]
+tags: [상한금궤원문, 당본]
 conf:
   template: template_shanghanlun-others.md
   bookinit: "唐翼"

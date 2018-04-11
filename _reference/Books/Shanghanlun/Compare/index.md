@@ -1,10 +1,11 @@
 ---
 layout: index
-title: "Wiki 목록"
-tags: [index, wiki]
+title: "상한론 원문 목록"
+tags: [index]
 index:
   category: reference
-  subject: wiki
+  subject: 조문비교
 ---
+
 
 {% include template_index.md %}

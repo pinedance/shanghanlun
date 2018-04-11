@@ -1,10 +1,10 @@
 ---
 layout: index
-title: "Wiki 목록"
-tags: [index, wiki]
+title: "상한론 관련 글 목록"
+tags: [index]
 index:
   category: reference
-  subject: wiki
+  subject: sinipet
 ---
 
 {% include template_index.md %}

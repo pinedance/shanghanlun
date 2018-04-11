@@ -1,7 +1,7 @@
 ---
 layout: index
 title: "상한론 본초 목록"
-tags: 상한론, index
+tags: [index, 본초]
 index:
   category: reference
   subject: 본초
