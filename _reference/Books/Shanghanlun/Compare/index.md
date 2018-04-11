@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "상한론 원문 목록"
+title: "상한론 조문 비교 목록"
 tags: [index]
 index:
   category: reference

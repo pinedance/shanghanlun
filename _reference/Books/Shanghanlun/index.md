@@ -16,3 +16,5 @@ index:
 
 
 ![상한론 Bigram Wordcloud]( {{site.baseurl}}/img/etc/bigram_wordcloud_from_shanghanlun.svg  )
+
+{% include imgmodal.html %}
