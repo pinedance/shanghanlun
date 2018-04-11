@@ -2,7 +2,7 @@
 layout: reference
 title: "상한론"
 desc: "당본 상한론〔千金翼方 卷第九-十〕"
-tags: [상한론, 원문]
+tags: [상한론, 원문, 당본]
 conf:
   template: template_shanghanlun-others.md
   bookinit: "唐翼"
@@ -15,7 +15,7 @@ conf:
 {{ page.desc }}
 --------------------
 
-<br> 
+<br>
 
 {% for t in data_src %}
 
@@ -23,5 +23,3 @@ conf:
 {% include {{ page.conf.template }} %}
 
 {% endfor %}
-
-

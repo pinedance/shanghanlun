@@ -2,7 +2,7 @@
 layout: reference
 title: "상한론 조문 비교"
 desc: "〔당본 기준〕"
-tags: [상한론, 원문]
+tags: [상한론, 원문, 당본, 조문비교]
 conf:
   template: template_shanghanlun-others.md
   bookinit: "唐翼"
@@ -21,7 +21,7 @@ conf:
 
 {% if number contains "-00" %}
 {% else %}
-<div id="{{bookinit}}{{number}}" class="compare-set">
+<div id="{{number}}" class="compare-set">
 {% endif %}
 
 <div class="origin" markdown="1">

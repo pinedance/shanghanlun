@@ -283,6 +283,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "027" %}{% include {{page.src_path}} %}
 
+* 無陽：《本經疏證》"非因陽不足, 乃表陽內伏也. 表陽之所以內伏, 正爲其本寒將盡, 無事與相拒於外耳, 故曰無陽"
+
 {% assign noo = "048" %}{% include {{page.src_path}} %}
 
 * 〔轉屬陽明〕 185 ＂⒀本太陽初得病時 發其汗 汗先出不徹 因轉屬陽明也 ⒁傷寒發熱無汗 嘔不能食 而反汗出濈濈然者 是轉屬陽明也。＂
