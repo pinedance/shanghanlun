@@ -186,6 +186,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "072" %}{% include {{page.src_path}} %}
 
+{% assign noo = "074" %}{% include {{page.src_path}} %}
 
 #### 2) 蓄血證
 

@@ -325,12 +325,17 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "072" %}{% include {{page.src_path}} %}
 
+{% assign noo = "074" %}{% include {{page.src_path}} %}
+
 <i class="fa fa-bookmark"></i> [오령산]({{site.formulaurl}}/오령산)
 
 
 #### 2) 蓄血證
 
 {% assign noo = "106" %}{% include {{page.src_path}} %}
+
+{% assign data_src = site.data.shanghanlun-chunhe %}{% assign bookinit = "淳和" %}
+{% assign noo = "01-26" %}{% include template_shanghanlun-others.md %}
 
 {% assign noo = "124" %}{% include {{page.src_path}} %}
 

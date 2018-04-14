@@ -135,9 +135,9 @@ tags: 상한론, 강의
 
 ### 상한론 본초
 
-* <i class="fa fa-pagelines"></i> [복령]({{site.herburl}}/복령)
-* <i class="fa fa-pagelines"></i> [도인]({{site.herburl}}/도인)
-
+* <i class="fa fa-pagelines"></i> [택사]({{site.herburl}}/택사)
+* <i class="fa fa-pagelines"></i> [출]({{site.herburl}}/출)
+* <i class="fa fa-pagelines"></i> [대황]({{site.herburl}}/대황)
 
 
 ## 08 〔180426〕：중간고사
@@ -167,7 +167,7 @@ tags: 상한론, 강의
 
 ### 상한론 본초
 
-* <i class="fa fa-pagelines"></i> [황금]({{site.herburl}}/황금)
+* <i class="fa fa-pagelines"></i> [행인]({{site.herburl}}/행인)
 * <i class="fa fa-pagelines"></i> [황련]({{site.herburl}}/황련)
 
 
@@ -191,7 +191,7 @@ tags: 상한론, 강의
 
 ### 상한론 본초
 
-* <i class="fa fa-pagelines"></i> [출]({{site.herburl}}/출)
+* <i class="fa fa-pagelines"></i> [복령]({{site.herburl}}/복령)
 * <i class="fa fa-pagelines"></i> [부자]({{site.herburl}}/부자)
 
 
@@ -215,8 +215,8 @@ tags: 상한론, 강의
 
 ### 상한론 본초
 
-* <i class="fa fa-pagelines"></i> [대황]({{site.herburl}}/대황)
 * <i class="fa fa-pagelines"></i> [망초]({{site.herburl}}/망초)
+* <i class="fa fa-pagelines"></i> [감수]({{site.herburl}}/감수)
 
 ## 12주 〔180524〕：태양병
 
@@ -259,8 +259,9 @@ tags: 상한론, 강의
 
 ### 상한론 본초
 
-* <i class="fa fa-pagelines"></i> [감수]({{site.herburl}}/감수)
-* <i class="fa fa-pagelines"></i> [과체]({{site.herburl}}/과체)
+* <i class="fa fa-pagelines"></i> [황기]({{site.herburl}}/황기)
+* <i class="fa fa-pagelines"></i> [지실]({{site.herburl}}/지실)
+
 
 ## 14주 〔180607〕：태양병
 
