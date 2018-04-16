@@ -343,6 +343,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "126" %}{% include {{page.src_path}} %}
 
+* 血證：少腹硬滿，小便自利
+
 <i class="fa fa-bookmark"></i> [도인승기탕]({{site.formulaurl}}/도인승기탕)
 
 <i class="fa fa-bookmark"></i> [저당탕]({{site.formulaurl}}/저당탕)
@@ -362,7 +364,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "270" %}{% include {{page.src_path}} %}
 
-
+* 三陰受邪의 증거：ⓐ無大熱，煩躁 ⓑ不能食而嘔
 
 
 
