@@ -94,7 +94,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [갈근]({{site.herburl}}/갈근)
 
 
-## 06 〔180412〕：태양병  
+## 06 〔180412〕：태양병
 
 ### 상한론 조문
 
@@ -138,6 +138,8 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [택사]({{site.herburl}}/택사)
 * <i class="fa fa-pagelines"></i> [출]({{site.herburl}}/출)
 * <i class="fa fa-pagelines"></i> [대황]({{site.herburl}}/대황)
+
+### Review 1
 
 
 ## 08 〔180426〕：중간고사

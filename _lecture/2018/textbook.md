@@ -343,7 +343,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "126" %}{% include {{page.src_path}} %}
 
-* 血證：少腹硬滿，小便自利
+* 血證：少腹硬滿，小便自利（，如狂）
 
 <i class="fa fa-bookmark"></i> [도인승기탕]({{site.formulaurl}}/도인승기탕)
 
@@ -437,7 +437,7 @@ src_path: template_shanghanlun.md
 <i class="fa fa-bookmark"></i> [계지가계탕]({{site.formulaurl}}/계지가계탕)
 
 
-#### 5) 心陰心陽兩虛證  	
+#### 5) 心陰心陽兩虛證
 
 {% assign noo = "177" %}{% include {{page.src_path}} %}
 
