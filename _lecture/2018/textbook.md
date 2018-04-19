@@ -327,8 +327,11 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "074" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [오령산]({{site.formulaurl}}/오령산)
+水逆：渴欲飮水，水入則吐（小便不利）
 
+* "裏熱未實, 不能消水故爾" _[동의보감]](https://mediclassics.kr/books/8/volume/11/#content_15)_
+
+<i class="fa fa-bookmark"></i> [오령산]({{site.formulaurl}}/오령산)
 
 #### 2) 蓄血證
 
@@ -343,7 +346,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "126" %}{% include {{page.src_path}} %}
 
-* 血證：少腹硬滿，小便自利（，如狂）
+血證：少腹硬滿，小便自利（，如狂）
 
 <i class="fa fa-bookmark"></i> [도인승기탕]({{site.formulaurl}}/도인승기탕)
 
@@ -364,7 +367,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "270" %}{% include {{page.src_path}} %}
 
-* 三陰受邪의 증거：ⓐ無大熱，煩躁 ⓑ不能食而嘔
+三陰受邪의 증거：ⓐ無大熱，煩躁 ⓑ不能食而嘔
 
 
 

@@ -85,7 +85,6 @@ tags: 상한론, 강의
 
 * <i class="fa fa-bookmark"></i> [마황탕]({{site.formulaurl}}/마황탕)
 * <i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕)
-* <i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕)
 * <i class="fa fa-bookmark"></i> [갈근가반하탕]({{site.formulaurl}}/갈근가반하탕)
 
 ### 상한론 본초
@@ -139,7 +138,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [출]({{site.herburl}}/출)
 * <i class="fa fa-pagelines"></i> [대황]({{site.herburl}}/대황)
 
-### Review 1
+### Review 01-07
 
 
 ## 08 〔180426〕：중간고사
