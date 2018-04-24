@@ -20,21 +20,21 @@
 
 처방 구성
 
-> {{ formula1.Formula.Ingredients | replace: "HERBURL", site.herburl }}
+> {{ formula1.Formula.Ingredients | replace: "HERBURL", site.herburl | replace: "¶", "<sup>¶</sup>" }}
 
 <br>
 
 제법
 
-> {{ formula1.Formula.Directions }}
+> {{ formula1.Formula.Directions | replace: "¶", "<sup>¶</sup>" }}
 
-{% if formula1.Formula.Treat %}
+{% if formula1.Formula.Treat  %}
 
 <br>
 
 처치
 
-> {{ formula1.Formula.Treat }}
+> {{ formula1.Formula.Treat | replace: "¶", "<sup>¶</sup>" }}
 
 {% endif %}
 
@@ -44,7 +44,7 @@
 
 참고
 
-> {{ formula1.Formula.Explanation }}
+> {{ formula1.Formula.Explanation | replace: "¶", "<sup>¶</sup>" }}
 
 {% endif %}
 

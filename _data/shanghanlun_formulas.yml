@@ -444,7 +444,7 @@
   NoA: ['038', '039']
   Page:  D25
   Formula :
-    Ingredients: "[麻黃](HERBURL/마황)（六兩，去節） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [杏仁](HERBURL/행인)（四十枚，去皮，尖） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十枚<sup>¶</sup>，擘） [石膏](HERBURL)（如雞子大，碎）"
+    Ingredients: "[麻黃](HERBURL/마황)（六兩，去節） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [杏仁](HERBURL/행인)（四十枚，去皮，尖） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十枚¶，擘） [石膏](HERBURL)（如雞子大，碎）"
     Directions: 右七味，以水九升，先煮麻黃，減二升，去上沫，內諸藥，煮取三升，去滓。溫服一升。取微似汗。
     Treat: 汗出多者，溫粉粉之。一服汗者，停後服。若復服，汗多亡陽，遂<small>一作逆</small>虛，惡風，煩躁不得眠也。
     Ann: "十枚: 《玉》《要》《註解》＂十二枚＂"
@@ -584,8 +584,8 @@
   Page:  D499
   Formula :
     Ingredients: "[麻黃](HERBURL/마황)（四兩，去節） [杏仁](HERBURL/행인)（五十箇，去皮尖） [甘草](HERBURL/감초)（二兩，炙） [石膏](HERBURL)（半斤，碎，綿裹）"
-    Directions: 右四味，以水七升，煮麻黃，減二升，去上沫，內諸藥，煮取二升，去滓。溫服一升。
-    Explanation: 本云：黃耳柸。
+    Directions: 右四味，以水七升，煮麻黃，減二升，去上沫，內諸藥，煮取二升，去滓。溫服一升。本云：黃耳柸。
+    Explanation:
   Features: 淸宣肺熱.
   Indications: 傷寒, 汗下後, 邪熱壅閉, 汗出而喘, 無大熱. (63,'162］
   Commentary: 麻黃(辛溫-宣肺平喘) + 石膏(辛寒-淸肺邪熱,石膏用量培於麻黃,則麻黃辛溫之性可取辛凉淸熱之用) + 杏仁(苦溫-宣利肺氣,止咳平喘) + 甘草(甘平-調和諸藥)
@@ -737,7 +737,8 @@
   Formula :
     Ingredients: "[茯苓](HERBURL)（半斤） [桂枝](HERBURL/계지)（四兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十五枚，擘）"
     Directions: 右四味，以甘爛水一斗，先煮茯苓，減二升，內諸藥，煮取三升，去滓。溫服一升，日三服。
-    Explanation: 作甘爛水法, 取水二斗, 置大盆內, 以杓陽之, 水上有珠子五六千顆相逐, 取用之.
+    Explanation: "作[甘爛水](https://mediclassics.kr/books/8/volume/20/#content_475)¶法, 取水二斗, 置大盆內, 以杓陽之, 水上有珠子五六千顆相逐, 取用之."
+    Ann: "甘爛水：많이 휘저어 거품진 물（'만히동당이텨거품진믈'）"
   Features: 溫通心陽, 化氣行水.
   Indications: 心陽不足, 水氣妄動, 見臍下悸, 欲作奔豚. (65)
   Commentary: 茯苓(健脾行飮,伐水邪之上逆) + 桂枝(通陽化氣,制陽邪之逆) + 甘草,大棗(健脾培土,以防水泛)
