@@ -329,7 +329,7 @@ src_path: template_shanghanlun.md
 
 水逆：渴欲飮水，水入則吐（小便不利）
 
-* "裏熱未實, 不能消水故爾" _[동의보감]](https://mediclassics.kr/books/8/volume/11/#content_15)_
+* "裏熱未實, 不能消水故爾" _[동의보감](https://mediclassics.kr/books/8/volume/11/#content_15)_
 
 <i class="fa fa-bookmark"></i> [오령산]({{site.formulaurl}}/오령산)
 
@@ -402,6 +402,10 @@ src_path: template_shanghanlun.md
 
 
 #### 4) 心陽虛證
+
+* [계지감초탕]({{site.formulaurl}}/계지감초탕) - [계지감초용골모려탕]({{site.formulaurl}}/계지감초용골모려탕)
+* [계지거작약탕]({{site.formulaurl}}/계지거작약탕) - [계지거작약가촉칠모려용골구역탕]({{site.formulaurl}}/계지거작약가촉칠모려용골구역탕)
+* [계지가계탕]({{site.formulaurl}}/계지가계탕)
 
 ##### (1) 心陽虛 心悸證
 
