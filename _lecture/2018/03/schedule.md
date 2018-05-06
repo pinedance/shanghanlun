@@ -185,6 +185,14 @@ tags: 상한론, 강의
 
 * <i class="fa fa-bookmark"></i> [영계출감탕]({{site.formulaurl}}/영계출감탕)
 * <i class="fa fa-bookmark"></i> [복령감초탕]({{site.formulaurl}}/복령감초탕)
+
+
+| [영계출감탕]({{site.formulaurl}}/영계출감탕) | 복령4 | 계지3 | 감초2 |            | 출2 | 起則頭眩 |
+| [복령감초탕]({{site.formulaurl}}/복령감초탕) | 복령2 | 계지2 | 감초1 |    생강3   |     | 嘔       |
+| [영계미감탕]({{site.formulaurl}}/영계미감탕) | 복령4 | 계지4 | 감초3 | 오미자半升 |     | 咳而急迫   |
+| [영계감조탕]({{site.formulaurl}}/영계감조탕) | 복령8 | 계지4 | 감초2 |  대조15枚  |     | 臍下悸，而攣急 |
+| [영강출감탕]({{site.formulaurl}}/영강출감탕) | 복령4 |       | 감초2 |    건강4   | 출2 | 身體重，腰中冷 |
+
 * <i class="fa fa-bookmark"></i> [소건중탕]({{site.formulaurl}}/소건중탕)
 * <i class="fa fa-bookmark"></i> [후생반감인탕]({{site.formulaurl}}/후생반감인탕)
 * <i class="fa fa-bookmark"></i> [건강부자탕]({{site.formulaurl}}/건강부자탕)
@@ -242,7 +250,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [반하]({{site.herburl}}/반하)
 * <i class="fa fa-pagelines"></i> [인삼]({{site.herburl}}/인삼)
 
-## 13주 〔180531〕：태양병
+## 13주 〔180531〕：조별과제발표
+
+![boss vs leader](https://i0.wp.com/phildourado.com/wp-content/uploads/2016/06/BossLeaderInfographic.jpg?resize=300%2C300)
+
+## 14주 〔180607〕：태양병
 
 ### 상한론 조문
 
@@ -264,7 +276,7 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [지실]({{site.herburl}}/지실)
 
 
-## 14주 〔180607〕：태양병
+## 15주 〔180614〕：태양병
 
 태양병 총괄 #[slide]( {{site.baseurl}}/Lecture/2018-03/14.html )
 
@@ -272,11 +284,6 @@ tags: 상한론, 강의
 
 * <i class="fa fa-pagelines"></i> [감초]({{site.herburl}}/감초)
 * <i class="fa fa-pagelines"></i> [시호]({{site.herburl}}/시호)
-
-
-## 15주 〔180614〕：조별과제발표
-
-![boss vs leader](https://i0.wp.com/phildourado.com/wp-content/uploads/2016/06/BossLeaderInfographic.jpg?resize=300%2C300)
 
 
 ## 16주 〔180621〕：기말고사
