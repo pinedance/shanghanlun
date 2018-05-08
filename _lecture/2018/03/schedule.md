@@ -183,15 +183,10 @@ tags: 상한론, 강의
 
 ### 상한론 처방
 
+[영계감류 처방군]( {{site.baseurl}}/lecture/2018/03/영계감류_처방군 )
+
 * <i class="fa fa-bookmark"></i> [영계출감탕]({{site.formulaurl}}/영계출감탕)
 * <i class="fa fa-bookmark"></i> [복령감초탕]({{site.formulaurl}}/복령감초탕)
-
-
-| [영계출감탕]({{site.formulaurl}}/영계출감탕) | 복령4 | 계지3 | 감초2 |            | 출2 | 起則頭眩 |
-| [복령감초탕]({{site.formulaurl}}/복령감초탕) | 복령2 | 계지2 | 감초1 |    생강3   |     | 嘔       |
-| [영계미감탕]({{site.formulaurl}}/영계미감탕) | 복령4 | 계지4 | 감초3 | 오미자半升 |     | 咳而急迫   |
-| [영계감조탕]({{site.formulaurl}}/영계감조탕) | 복령8 | 계지4 | 감초2 |  대조15枚  |     | 臍下悸，而攣急 |
-| [영강출감탕]({{site.formulaurl}}/영강출감탕) | 복령4 |       | 감초2 |    건강4   | 출2 | 身體重，腰中冷 |
 
 * <i class="fa fa-bookmark"></i> [소건중탕]({{site.formulaurl}}/소건중탕)
 * <i class="fa fa-bookmark"></i> [후생반감인탕]({{site.formulaurl}}/후생반감인탕)
