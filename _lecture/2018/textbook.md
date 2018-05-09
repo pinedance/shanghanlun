@@ -480,6 +480,8 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [복령감초탕]({{site.formulaurl}}/복령감초탕)
 
+☞ [영계감류 처방군]( {{site.baseurl}}/lecture/2018/03/처방군_영계감류 )
+
 
 ##### (3) 脾虛 心悸證
 

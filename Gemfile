@@ -7,4 +7,4 @@ source "http://mirror.ops.rhcloud.com/mirror/ruby/"
 
 
 gem "github-pages"
-
+gem 'jekyll-redirect-from'

@@ -12,6 +12,10 @@ timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_databa
 host: 0.0.0.0
 port: 8384
 
+# Plugins
+plugins:
+  - jekyll-redirect-from
+
 # ref : https://jekyllrb.com/docs/collections/
 collections:
   reference:

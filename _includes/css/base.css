@@ -82,7 +82,7 @@
 	    border:1px solid #d0d0d0;
 	}
 
-	p { margin: 0 0 20px 0; }
+	p { margin: 20px 0 0 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
 	em { font-style: italic; font-size: small; color: DarkCyan }
@@ -119,7 +119,7 @@ blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; /* f
 	ol ol, ol ul { margin: 4px 0 5px 30px; font-size: 90%;  }
 	ul ul li, ul ol li,
 	ol ol li, ol ul li { margin-bottom: 6px; }
-	li { line-height: 18px; margin: 0px 0px 12px 32px; }
+	li { line-height: 16px; margin: 0px 0px 12px 32px; }
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
 
