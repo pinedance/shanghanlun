@@ -185,7 +185,7 @@ tags: 상한론, 강의
 
 * <i class="fa fa-bookmark"></i> [영계출감탕]({{site.formulaurl}}/영계출감탕)
 * <i class="fa fa-bookmark"></i> [복령감초탕]({{site.formulaurl}}/복령감초탕)  
-* ☞ [영계감류 처방군]( {{site.baseurl}}/lecture/2018/03/처방군_영계감류 )
+* <i class="fa fa-external-link-alt"></i> [영계감류 처방군]( {{site.baseurl}}/lecture/2018/03/처방군_영계감류 )
 
 * <i class="fa fa-bookmark"></i> [소건중탕]({{site.formulaurl}}/소건중탕)
 * <i class="fa fa-bookmark"></i> [후생반감인탕]({{site.formulaurl}}/후생반감인탕)

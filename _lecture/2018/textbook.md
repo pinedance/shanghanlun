@@ -45,7 +45,7 @@ src_path: template_shanghanlun.md
 * 太平聖惠方 卷第八 > 辨太陽病形證 4
 > 太陽爲病, 頭痛項强而惡寒, 其脈浮數, 宜桂枝湯.
 
-
+<br>
 <div id="04week"></div>
 ```
 1-04주
@@ -149,7 +149,7 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
 <div id="05week"></div>
 ```
 1-05주
@@ -244,7 +244,7 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
 <div id="06week"></div>
 ```
 1-06주
@@ -308,8 +308,7 @@ src_path: template_shanghanlun.md
 
 
 
-
-
+<br>
 <div id="07week"></div>
 
 ```
@@ -371,7 +370,7 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
 <div id="09week"></div>
 ```
 1-09주
@@ -456,7 +455,7 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
 <div id="10week"></div>
 ```
 1-10주
@@ -476,16 +475,20 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "073" %}{% include {{page.src_path}} %}
 
+* 071 072 073 074 모두 [오령산]({{site.formulaurl}}/오령산) 조문
+
 {% assign noo = "356" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [복령감초탕]({{site.formulaurl}}/복령감초탕)
 
-☞ [영계감류 처방군]( {{site.baseurl}}/lecture/2018/03/처방군_영계감류 )
+<i class="fa fa-external-link-alt"></i> [영계감류 처방군]( {{site.baseurl}}/lecture/2018/03/처방군_영계감류 )
 
 
 ##### (3) 脾虛 心悸證
 
 {% assign noo = "102" %}{% include {{page.src_path}} %}
+
+* [소시소탕]({{site.formulaurl}}/소시호탕)（或胸中煩，或心下悸）의 오기(誤記)?
 
 {% assign noo = "100" %}{% include {{page.src_path}} %}
 
@@ -537,7 +540,7 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
 <div id="11week"></div>
 ```
 1-11주
@@ -605,7 +608,7 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
 <div id="12week"></div>
 ```
 1-12주
@@ -683,7 +686,7 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
 <div id="13week"></div>
 ```
 1-13주
