@@ -382,6 +382,17 @@
   Indications: 病如桂枝證, 頭不痛, 項不强, 寸脈微浮, 胸中痞硬, 氣上衝咽喉不得息者; 病人手足厥冷, 脈乍緊, 心下滿而煩, 飢不能食. ［166', '355］
   Commentary: 瓜蒂〔味極苦-性升催吐〕+赤小豆〔味酸-性泄,兼能利水〕=酸吐涌泄 + 豆豉(輕宣辛散-載藥上浮,助瓜蒂以催吐,使痰飮寒實從上越出)
 
+- Name: 桔梗白散
+  NameK: ['길경백산']
+  NoA: ['141']
+  Page:
+  Formula :
+    Ingredients: "미상"
+    Directions:
+  Features:
+  Indications:
+  Commentary:
+
 - Name: 桔梗湯
   NameK: ['길경탕']
   NoA: ['311']
@@ -907,7 +918,7 @@
 
 - Name: 小陷胸湯
   NameK: ['소함흉탕']
-  NoA: ['138']
+  NoA: ['137', '138', '141']
   Page:  D53
   Formula :
     Ingredients: "[黃連](HERBURL/황련)（一兩） [半夏](HERBURL/반하)（半升，洗） [栝樓實](HERBURL/과루실)（大者一枚）"
