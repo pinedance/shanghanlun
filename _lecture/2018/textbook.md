@@ -553,8 +553,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "029" %}{% include {{page.src_path}} %}
 
-* [탈수 및 전해질 이상]({{site.sympurl}}/_탈수)?
-* [甘草]({{site.herburl}}/감초)의 역할? _[감초건강탕]({{site.formulaurl}}/감초건강탕)_ _[작약감초탕]({{site.formulaurl}}/작약감초탕)_ _[조위승기탕]({{site.formulaurl}}/조위승기탕)_ _[사역탕]({{site.formulaurl}}/사역탕)_
+* [탈수 및 전해질 이상]({{site.sympurl}}/@탈수)?
+* [甘草]({{site.herburl}}/감초) 처방군 _[감초건강탕]({{site.formulaurl}}/감초건강탕)_ _[작약감초탕]({{site.formulaurl}}/작약감초탕)_ _[조위승기탕]({{site.formulaurl}}/조위승기탕)_ _[사역탕]({{site.formulaurl}}/사역탕)_
 
 <i class="fa fa-bookmark"></i> [감초건강탕]({{site.formulaurl}}/감초건강탕)
 
