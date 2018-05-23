@@ -642,6 +642,12 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "149" %}{% include {{page.src_path}} %}
 
+흉부증상 감별 증상 및 처방
+* 柴胡湯證(?) _嘔而發熱_ ：소시탕
+* 결흉(結胸) _心下滿而硬痛_ ：대함흉탕
+* 비(痞) _心下滿而不痛_ ：반하시심탕
+
+
 <i class="fa fa-bookmark"></i> [반하사심탕]({{site.formulaurl}}/반하사심탕)
 
 
