@@ -662,6 +662,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "158" %}{% include {{page.src_path}} %}
 
+* 의안（증례）?
+
 <i class="fa fa-bookmark"></i> [감초사심탕]({{site.formulaurl}}/감초사심탕)
 
 
