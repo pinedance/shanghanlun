@@ -592,6 +592,9 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [대함흉환]({{site.formulaurl}}/대함흉환)
 
+※ 교재 외 추가조문
+
+{% assign noo = "134" %}{% include {{page.src_path}} %}
 
 
 ###### ② 小結胸證
@@ -1028,7 +1031,7 @@ src_path: template_shanghanlun.md
 
 ##### (2) 陽明을 겸한 증
 
-{% assign noo = "130" %}{% include {{page.src_path}} %}
+{% assign noo = "103" %}{% include {{page.src_path}} %}
 
 {% assign noo = "165" %}{% include {{page.src_path}} %}
 
