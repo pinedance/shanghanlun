@@ -20,7 +20,7 @@
 
 처방 구성
 
-> {{ formula1.Formula.Ingredients | replace: "HERBURL", site.herburl | replace: "¶", "<sup>¶</sup>" }}
+> {{ formula1.Formula.Ingredients | replace: "HERBURL", site.herburl | replace: "¶", "<sup>¶</sup>" | replace: "（", "<small>（"  | replace: "）", "）</small>" }}
 
 <br>
 

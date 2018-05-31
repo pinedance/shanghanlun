@@ -22,7 +22,7 @@
 
 처방 구성
 
-> {{ formula2.Formula.Ingredients }}
+> {{ formula2.Formula.Ingredients  | replace: "HERBURL", site.herburl | replace: "¶", "<sup>¶</sup>" | replace: "（", "<small>（"  | replace: "）", "）</small>" }}
 
 제법
 
