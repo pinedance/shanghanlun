@@ -115,8 +115,8 @@ blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; /* f
 	ul.square { list-style: square outside; }
 	ul.circle { list-style: circle outside; }
 	ul.disc { list-style: disc outside; }
-	ul ul, ul ol,
-	ol ol, ol ul { margin: 4px 0 5px 30px; font-size: 90%;  }
+	ul ol, ol ol { margin: 4px 0 5px 0px; font-size: 90%;  }
+	ul ul, ol ul { margin: 4px 0 5px 0px; font-size: 90%; list-style-type : circle; }
 	ul ul li, ul ol li,
 	ol ol li, ol ul li { margin-bottom: 6px; }
 	li { line-height: 22px; margin: 0px 0px 4px 32px; }
