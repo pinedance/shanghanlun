@@ -715,12 +715,21 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [계지부자탕]({{site.formulaurl}}/계지부자탕)
 
+<i class="fa fa-bookmark"></i> [거계가백출탕]({{site.formulaurl}}/거계가백출탕)
+
 #### 2) 風濕이 關節에 유착된 증
 
 {% assign noo = "175" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [감초부자탕]({{site.formulaurl}}/감초부자탕)
 
+太陽經, 感風濕相搏 _[《東醫寶鑑》 雜病篇卷之三 > 濕 > 濕病有七 > 風濕](https://mediclassics.kr/books/8/volume/11#content_881)_
+* 其`骨節煩疼`者, 濕氣也.
+* 濕則關節不利故`痛`
+* 其`掣而不能屈伸`者, 風也.
+* `汗出身寒, 脈沈微, 短氣, 小便淸而不利`者, 寒閉也.
+* `惡風`者, 表虛也.
+* `或微腫`者, 陽氣不行也.
 
 
 #### 3) 懸飮證
@@ -754,8 +763,8 @@ src_path: template_shanghanlun.md
 {% assign noo = "387" %}{% include {{page.src_path}} %}
 
 
-
-
+* [계지탕]({{site.formulaurl}}/계지탕) ↔ [승기탕]({{site.formulaurl}}/승기탕)
+* [계지탕]({{site.formulaurl}}/계지탕) ↔ [사역탕]({{site.formulaurl}}/사역탕)
 
 
 

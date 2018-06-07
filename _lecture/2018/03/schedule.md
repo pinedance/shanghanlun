@@ -281,7 +281,7 @@ tags: 상한론, 강의
 
 ### Review 09-15
 
-<i class="fa fa-external-link-alt"></i> [기말고사]( {{site.baseurl}}/lecture/2018/03/기말고사 )
+<i class="fa fa-external-link-alt"></i> [기말고사 안내]( {{site.baseurl}}/lecture/2018/03/기말고사_안내)
 
 ## 16주 〔180621〕：기말고사
 
