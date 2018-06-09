@@ -268,7 +268,7 @@ tags: 상한론, 강의
 
 * <i class="fa fa-pagelines"></i> [황기]({{site.herburl}}/황기)
 * <i class="fa fa-pagelines"></i> [지실]({{site.herburl}}/지실)
-* <i class="fa fa-pagelines"></i> [후박]({{site.herburl}}/후박) next
+* <i class="fa fa-pagelines"></i> [후박]({{site.herburl}}/후박)
 
 ## 15주 〔180614〕：태양병
 
