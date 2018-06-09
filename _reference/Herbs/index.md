@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "상한론 본초 목록"
+title: "상한금궤 본초 목록"
 tags: [index, 본초]
 index:
   category: reference

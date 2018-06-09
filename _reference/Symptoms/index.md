@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "병증 목록"
+title: "상한금궤 병증 목록"
 tags: [index, 병증]
 index:
   category: reference
