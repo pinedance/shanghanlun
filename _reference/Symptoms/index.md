@@ -1,0 +1,11 @@
+---
+layout: index
+title: "병증 목록"
+tags: [index, 병증]
+index:
+  category: reference
+  subject: 병증
+---
+
+
+{% include template_index.md %}
