@@ -272,7 +272,7 @@ tags: 상한론, 강의
 
 ## 15주 〔180614〕：태양병
 
-태양병 총괄 #[slide]( {{site.baseurl}}/Lecture/2018-03/14.html )
+<!-- 태양병 총괄 #[slide]( {{site.baseurl}}/Lecture/2018-03/14.html ) -->
 
 ### 상한론 본초
 
