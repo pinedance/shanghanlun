@@ -9,16 +9,20 @@ p.ann {
     margin: 0px 0px 0px 0px;
 }
 
+blockquote p {
+	margin-bottom: 6px;
+}
+
+ul, ol {
+  margin: 10px 0 20px 0;
+}
+
 div.song {
 	background: aliceblue;
 }
 
 div.text {
     margin: 10px 0px 10px 0px;
-}
-
-blockquote p {
-	margin-bottom: 6px;
 }
 
 sub {
