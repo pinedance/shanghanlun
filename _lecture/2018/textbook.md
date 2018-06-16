@@ -811,6 +811,12 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "228" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [치자시탕]({{site.formulaurl}}/치자시탕)
+
+<i class="fa fa-bookmark"></i> [치자감초시탕]({{site.formulaurl}}/치자감초시탕)
+
+<i class="fa fa-bookmark"></i> [치자생강시탕]({{site.formulaurl}}/치자생강시탕)
+
 
 #### 2) 兼證
 
@@ -819,15 +825,19 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "079" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [치자후박탕]({{site.formulaurl}}/치자후박탕)
+
 ##### (2) 心下痞塞을 겸한 증
 
 {% assign noo = "393" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [지실치자시탕]({{site.formulaurl}}/치자치자시탕)
 
 ##### (3) 中寒을 겸한 증
 
 {% assign noo = "080" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [치자건강탕]({{site.formulaurl}}/치자건강탕)
 
 #### 3) 梔子湯을 쓰면 안되는 경우
 
@@ -855,12 +865,15 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "170" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [백호탕]({{site.formulaurl}}/백호탕)
+
+<i class="fa fa-bookmark"></i> [백호가인삼탕]({{site.formulaurl}}/백호가인삼탕)
 
 #### 2) 胃熱津傷으로 인한 氣逆證
 
 {% assign noo = "397" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [죽엽석고탕]({{site.formulaurl}}/죽엽석고탕)
 
 
 ### 제5절 陽明腑證
@@ -876,7 +889,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "105" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [조위승기탕]({{site.formulaurl}}/조위승기탕)
 
 #### 2) 痞滿證
 
@@ -887,6 +900,8 @@ src_path: template_shanghanlun.md
 {% assign noo = "250" %}{% include {{page.src_path}} %}
 
 {% assign noo = "374" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [소승기탕]({{site.formulaurl}}/소승기탕)
 
 
 #### 3) 痞滿燥實證
@@ -913,6 +928,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "254" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [대승기탕]({{site.formulaurl}}/대승기탕)
 
 #### 4) 下法을 쓰면 안되는 경우
 
@@ -932,6 +948,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "247" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [마자인환]({{site.formulaurl}}/마자인환)
 
 ### 附 : 灌腸法(導法)
 
@@ -950,16 +967,19 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "260" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [인진호탕]({{site.formulaurl}}/인진호탕)
+
 #### 2) 濕熱이 鬱蒸된 發黃
 
 {% assign noo = "261" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [치자백피탕]({{site.formulaurl}}/치자백피탕)
 
 #### 3) 濕熱이 表證을 겸한 發黃
 
 {% assign noo = "262" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [마황연교적소두탕]({{site.formulaurl}}/마황연교적소두탕)
 
 ### 제8절 陽明病의 辨證
 
@@ -1029,6 +1049,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "099" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [소시호탕]({{site.formulaurl}}/소시호탕)
 
 #### 2) 少陽病의 兼證
 
@@ -1038,6 +1059,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "171" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [시호계지탕]({{site.formulaurl}}/시호계지탕)
+
 ##### (2) 陽明을 겸한 증
 
 {% assign noo = "103" %}{% include {{page.src_path}} %}
@@ -1046,18 +1069,29 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "104" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [시호가망초탕]({{site.formulaurl}}/시호가망초탕)
+
+<i class="fa fa-bookmark"></i> [대시호탕]({{site.formulaurl}}/대시호탕)
+
 ##### (3) 下利를 겸한 증
 
 {% assign noo = "172" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [황금탕]({{site.formulaurl}}/황금탕)
+
+<i class="fa fa-bookmark"></i> [황금가반하생강탕]({{site.formulaurl}}/황금가반하생강탕)
 
 ##### (4) 水飮을 겸한 증
 
 {% assign noo = "147" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [시호계지건강탕]({{site.formulaurl}}/시호계지건강탕)
+
 ##### (5) 煩驚譫語를 겸한 증
 
 {% assign noo = "107" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [시호가용골모려탕]({{site.formulaurl}}/시호가용골모려탕)
 
 ### 제3절 少陽病 치료에 쓸 수 없는 치법
 
@@ -1102,6 +1136,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "396" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [이중환]({{site.formulaurl}}/이중환)
 
 ### 제3절 太陽을 겸한 太陰證
 
@@ -1109,6 +1144,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "276" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [계지인삼탕]({{site.formulaurl}}/계지인삼탕)
 
 ### 제4절 寒濕으로 인한 發黃
 
@@ -1122,6 +1158,10 @@ src_path: template_shanghanlun.md
 #### 1) 太陰腹痛과 陽明腹痛
 
 {% assign noo = "279" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [계지가작약탕]({{site.formulaurl}}/계지가작약탕)
+
+<i class="fa fa-bookmark"></i> [계지가대황탕]({{site.formulaurl}}/계지가대황탕)
 
 #### 2) 陽明으로 轉屬된 증과 陽氣회복으로 스스로 낫는 증
 
@@ -1160,6 +1200,9 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "292" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [사역탕]({{site.formulaurl}}/사역탕)
+
+<i class="fa fa-bookmark"></i> [사역가인삼탕]({{site.formulaurl}}/사역가인삼탕)
 
 #### 2) 陰盛格陽證
 
@@ -1169,6 +1212,10 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "390" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [통맥사역탕]({{site.formulaurl}}/통맥사역탕)
+
+<i class="fa fa-bookmark"></i> [통맥사역가저담즙탕]({{site.formulaurl}}/통맥사역가저담즙탕)
+
 
 #### 3) 陰盛戴陽證
 
@@ -1176,12 +1223,17 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "315" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [백통탕]({{site.formulaurl}}/백통탕)
+
+<i class="fa fa-bookmark"></i> [백통가저담즙탕]({{site.formulaurl}}/백통가저담즙탕)
+
 #### 4) 陽虛身痛證
 
 {% assign noo = "305" %}{% include {{page.src_path}} %}
 
 {% assign noo = "304" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [부자탕]({{site.formulaurl}}/부자탕)
 
 #### 5) 陽虛水泛證
 
@@ -1189,6 +1241,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "316" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [진무탕]({{site.formulaurl}}/진무탕)
 
 #### 6) 下焦가 收澁하지 못하여 膿血便을 보는 증 43
 
@@ -1196,13 +1249,13 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "307" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [도화탕]({{site.formulaurl}}/도화탕)
 
 #### 7) 下焦가 收澁하지 못하여 滑泄하는 증
 
 {% assign noo = "159" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [적석지우여량탕]({{site.formulaurl}}/적석지우여량탕)
 
 ### 제3절 少陰熱化證
 
@@ -1210,7 +1263,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "303" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [황련아교탕]({{site.formulaurl}}/황련아교탕)
 
 
 #### 2) 陰虛에 水와 熱이 합쳐진 증
@@ -1218,7 +1271,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "319" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [저령탕]({{site.formulaurl}}/저령탕)
 
 ### 제4절 少陰咽痛證
 
@@ -1229,6 +1282,13 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "312" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [저부탕]({{site.formulaurl}}/저부탕)
+
+<i class="fa fa-bookmark"></i> [감초탕]({{site.formulaurl}}/감초탕)
+
+<i class="fa fa-bookmark"></i> [길경탕]({{site.formulaurl}}/길경탕)
+
+<i class="fa fa-bookmark"></i> [고주탕]({{site.formulaurl}}/고주탕)
 
 ### 제5절 少陰病의 兼證
 
@@ -1238,6 +1298,10 @@ src_path: template_shanghanlun.md
 {% assign noo = "301" %}{% include {{page.src_path}} %}
 
 {% assign noo = "302" %}{% include {{page.src_path}} %}
+
+<i class="fa fa-bookmark"></i> [마황부자세신탕]({{site.formulaurl}}/마황부자세신탕)
+
+<i class="fa fa-bookmark"></i> [마황부자감초탕]({{site.formulaurl}}/마황부자감초탕)
 
 
 #### 2) 陽明을 겸한 증
@@ -1312,12 +1376,13 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "338" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [오매환]({{site.formulaurl}}/오매환)
 
 #### 2) 寒格吐利證
 
 {% assign noo = "359" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [건강황금황련인삼탕]({{site.formulaurl}}/건강황금황련인삼탕)
 
 ### 제3절 寒證
 
@@ -1325,6 +1390,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "378" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [오수유탕]({{site.formulaurl}}/오수유탕)
 
 #### 2) 血虛寒厥證
 
@@ -1332,7 +1398,9 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "352" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [당귀사역탕]({{site.formulaurl}}/당귀사역탕)
 
+<i class="fa fa-bookmark"></i> [당귀사역가오수유생강탕]({{site.formulaurl}}/당귀사역가오수유생강탕)
 
 ### 제4절 厥陰熱利
 
@@ -1340,12 +1408,13 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "373" %}{% include {{page.src_path}} %}
 
-
+<i class="fa fa-bookmark"></i> [백두옹탕]({{site.formulaurl}}/백두옹탕)
 
 ### 제5절 氣鬱證
 
 {% assign noo = "318" %}{% include {{page.src_path}} %}
 
+<i class="fa fa-bookmark"></i> [사역산]({{site.formulaurl}}/사역산)
 
 ### 제6절 厥證에 쓸 수 없는 治法
 
