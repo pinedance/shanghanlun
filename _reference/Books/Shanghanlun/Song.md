@@ -21,7 +21,11 @@ conf:
 
 夫《傷寒論》, 蓋祖述大聖人之意, 諸家莫其倫擬, 故晉·皇甫謐序《甲乙鍼經》云:伊尹以元聖之才, 撰用《神農本草》, 以爲《湯液》. 漢·張仲景論廣《湯液》, 爲十數卷, 用之多驗. 近世太醫令王叔和, 撰次仲景遺論甚精, 皆可施用. 是仲景本伊尹之法, 伊尹本神農之經, 得不謂祖述大聖人之意乎. 張仲景, 《漢書》無傳, 見《名醫錄》云:南陽人, 名機, 仲景乃其字也. 舉孝廉, 官至長沙太守. 始受術於同郡張伯祖, 時人言, 識用精微過其師. 所著論, 其言精而奧, 其法簡而詳, 非淺聞寡見者所能及. 自仲景于今八百餘年, 惟王叔和能學之, 其間如葛洪、陶景、胡洽、徐之才、孫思邈輩, 非不才也, 但各自名家, 而不能修明之. 開寶中, 節度使高繼沖, 曾編錄進上, 其文理舛錯, 未嘗考正, 歷代雖藏之書府, 亦闕於讐校, 是使治病之流, 舉天下無或知者. 國家詔儒臣校正醫書, 臣奇續被其選. 以爲百病之急, 無急於傷寒. 今先校定張仲景《傷寒論》十卷, 總二十二篇, 證外合三百九十七法, 除複重, 定有一百一十二方. 今請頒行.
 
-太子右贊善大夫 臣高保衡{n}尚書屯田員外郎 臣孫奇{n}尚書司封郎中秘閣校理 臣林億等謹上
+太子右贊善大夫 臣高保衡
+
+尚書屯田員外郎 臣孫奇
+
+尚書司封郎中秘閣校理 臣林億等謹上
 
 #### [《傷寒卒病論》集]({{site.baseurl}}/reference/Books/Shanghanlun/상한잡병론_집론)
 
@@ -89,8 +93,8 @@ conf:
 
 {% for idx in (1..38) %}
 
-{% assign noo1 = idx | prepend: '000' | slice: -3, 3 %}
-{% assign noo = "변맥-" + noo1  %}
+{% assign noo1 = idx | prepend: '00' | slice: -2, 2 %}
+{% assign noo = "변맥" | append: '-' | append: noo1  %}
 {% include template_shanghanlun-others.md %}
 
 {% endfor %}
@@ -103,8 +107,8 @@ conf:
 
 {% for idx in (1..49) %}
 
-{% assign noo1 = idx | prepend: '000' | slice: -3, 3 %}
-{% assign noo = "평맥-" + noo1  %}
+{% assign noo1 = idx | prepend: '00' | slice: -2, 2 %}
+{% assign noo = "평맥" | append: '-' | append: noo1  %}
 {% include template_shanghanlun-others.md %}
 
 {% endfor %}
@@ -116,8 +120,8 @@ conf:
 
 {% for idx in (1..68) %}
 
-{% assign noo1 = idx | prepend: '000' | slice: -3, 3 %}
-{% assign noo = "상한례-" + noo1  %}
+{% assign noo1 = idx | prepend: '00' | slice: -2, 2 %}
+{% assign noo = "상한례" | append: '-' | append: noo1  %}
 {% include template_shanghanlun-others.md %}
 
 {% endfor %}
@@ -130,8 +134,8 @@ conf:
 
 {% for idx in (1..16) %}
 
-{% assign noo1 = idx | prepend: '000' | slice: -3, 3 %}
-{% assign noo = "치습갈-" + noo1  %}
+{% assign noo1 = idx | prepend: '00' | slice: -2, 2 %}
+{% assign noo = "치습갈" | append: '-' | append: noo1  %}
 {% include template_shanghanlun-others.md %}
 
 {% endfor %}
