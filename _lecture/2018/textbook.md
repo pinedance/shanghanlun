@@ -278,10 +278,10 @@ src_path: template_shanghanlun.md
 {% assign noo = "023" %}{% include {{page.src_path}} %}
 
 {% assign data_src = site.data.shanghanlun-tang %}{% assign bookinit = "唐翼" %}
-{% assign noo = "01-54" %}{% include template_shanghanlun-others.md %}
+{% assign noo = "01-054" %}{% include template_shanghanlun-others.md %}
 
 {% assign data_src = site.data.shanghanlun-chunhe %}{% assign bookinit = "淳和" %}
-{% assign noo = "06-13" %}{% include template_shanghanlun-others.md %}
+{% assign noo = "06-013" %}{% include template_shanghanlun-others.md %}
 
 <i class="fa fa-bookmark"></i> [계지마황각반탕]({{site.formulaurl}}/계지마황각반탕)
 
@@ -337,7 +337,7 @@ src_path: template_shanghanlun.md
 {% assign noo = "106" %}{% include {{page.src_path}} %}
 
 {% assign data_src = site.data.shanghanlun-chunhe %}{% assign bookinit = "淳和" %}
-{% assign noo = "01-26" %}{% include template_shanghanlun-others.md %}
+{% assign noo = "01-026" %}{% include template_shanghanlun-others.md %}
 
 {% assign noo = "124" %}{% include {{page.src_path}} %}
 

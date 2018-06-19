@@ -4,7 +4,7 @@
 
 {% assign items = data_src | where: 'NOO', noo %}
 
-{% if noo contains "-00" %}
+{% if noo contains "-000" %}
 
 ### {{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
 

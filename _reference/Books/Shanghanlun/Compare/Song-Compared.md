@@ -19,7 +19,7 @@ conf:
 {% for idx in (1..398) %}
 {% assign number = idx | prepend: '000' | slice: -3, 3 %}
 
-{% if number contains "-00" %}
+{% if number contains "-000" %}
 {% else %}
 <div id="{{number}}" class="compare-set">
 {% endif %}
@@ -36,7 +36,7 @@ conf:
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Chunhe.md %}
 </div>
 
-{% if number contains "-00" %}
+{% if number contains "-000" %}
 {% else %}
 </div>
 {% endif %}
