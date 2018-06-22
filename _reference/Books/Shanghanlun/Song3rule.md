@@ -5,10 +5,10 @@ desc: "송본 상한론 〔法〕"
 tags: [상한금궤원문, 송본]
 conf:
   template: template_shanghanlun-others.md
-  bookinit: "全書"
+  bookinit: "全書/法"
 ---
 
-{% assign data_src = site.data.site.data.shanghanlun-rule %}
+{% assign data_src = site.data.shanghanlun-rule %}
 {% assign bookinit = page.conf.bookinit %}
 
 
