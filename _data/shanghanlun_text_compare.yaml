@@ -85,13 +85,13 @@
 - Chun: ['01-006']
   Song: ['015']
   SongRule: ['05-004']
-  SongGabu: ['16-027']
+  SongGabu: ['16-027', '22-044']
   Tang: ['01-033']
 
 - Chun:
   Song: ['016']
   SongRule: ['05-005']
-  SongGabu: []
+  SongGabu: ['22-003']
   Tang: ['01-034', '01-035']
 
 - Chun:
@@ -121,19 +121,19 @@
 - Chun: ['01-008']
   Song: ['021']
   SongRule: ['05-008']
-  SongGabu: []
+  SongGabu: ['22-045']
   Tang: ['01-053']
 
 - Chun:
   Song: ['022']
   SongRule: ['05-009']
-  SongGabu: []
+  SongGabu: ['22-046']
   Tang: ['01-053']
 
 - Chun: ['06-013']
   Song: ['023']
   SongRule: ['05-010']
-  SongGabu: ['15-014']
+  SongGabu: ['15-014', '22-024']
   Tang: ['01-054']
 
 - Chun: ['01-011']
@@ -163,7 +163,7 @@
 - Chun:
   Song: ['028']
   SongRule: ['05-015']
-  SongGabu: []
+  SongGabu: ['22-025']
   Tang: ['01-057']
 
 - Chun:
@@ -199,7 +199,7 @@
 - Chun: ['01-027']
   Song: ['034']
   SongRule: ['06-004']
-  SongGabu: ['16-034']
+  SongGabu: ['16-034', '22-047']
   Tang: ['02-016']
 
 - Chun: ['01-017']
@@ -211,7 +211,7 @@
 - Chun: ['01-015']
   Song: ['036']
   SongRule: ['06-006']
-  SongGabu: ['16-036']
+  SongGabu: ['16-036', '20-020']
   Tang: ['02-006', '13-045']
 
 - Chun:
@@ -253,19 +253,19 @@
 - Chun:
   Song: ['043']
   SongRule: ['06-013']
-  SongGabu: ['16-015']
+  SongGabu: ['16-015', '22-048']
   Tang: ['01-041', '02-012']
 
 - Chun:
   Song: ['044']
   SongRule: ['06-014']
-  SongGabu: []
+  SongGabu: ['20-024']
   Tang: ['01-042']
 
 - Chun: ['01-010']
   Song: ['045']
   SongRule: ['06-015']
-  SongGabu: []
+  SongGabu: ['22-026']
   Tang: ['01-043']
 
 - Chun: ['01-016']
@@ -283,13 +283,13 @@
 - Chun:
   Song: ['048']
   SongRule: []
-  SongGabu: ['17-001']
+  SongGabu: ['17-001', '20-018']
   Tang:
 
 - Chun:
   Song: ['049']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-004']
   Tang: ['14-027']
 
 - Chun:
@@ -331,7 +331,7 @@
 - Chun:
   Song: ['056']
   SongRule: ['06-022']
-  SongGabu: ['16-021']
+  SongGabu: ['16-021', '22-049']
   Tang: ['01-046']
 
 - Chun: ['01-014']
@@ -343,25 +343,25 @@
 - Chun:
   Song: ['058']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-005']
   Tang: ['14-017']
 
 - Chun:
   Song: ['059']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-006']
   Tang:
 
 - Chun:
   Song: ['060']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-007']
   Tang: ['14-022']
 
 - Chun: []
   Song: ['061']
   SongRule: ['06-024']
-  SongGabu: []
+  SongGabu: ['22-027']
   Tang: ['14-024']
 
 - Chun:
@@ -397,7 +397,7 @@
 - Chun:
   Song: ['067']
   SongRule: ['06-030']
-  SongGabu: []
+  SongGabu: ['22-028']
   Tang: ['14-018']
 
 - Chun:
@@ -409,7 +409,7 @@
 - Chun:
   Song: ['069']
   SongRule: ['06-032']
-  SongGabu: []
+  SongGabu: ['22-029']
   Tang: ['14-019']
 
 - Chun:
@@ -451,37 +451,37 @@
 - Chun: ['06-006']
   Song: ['076']
   SongRule: ['06-038']
-  SongGabu: ['17-004']
+  SongGabu: ['17-004', '22-030']
   Tang: ['14-002', '14-020']
 
 - Chun:
   Song: ['077']
   SongRule: ['06-039']
-  SongGabu: []
+  SongGabu: ['22-031']
   Tang: ['14-023']
 
 - Chun: ['06-009']
   Song: ['078']
   SongRule: ['06-040']
-  SongGabu: []
+  SongGabu: ['22-050']
   Tang:
 
 - Chun:
   Song: ['079']
   SongRule: ['06-041']
-  SongGabu: []
+  SongGabu: ['22-051']
   Tang: ['14-021']
 
 - Chun:
   Song: ['080']
   SongRule: ['06-042']
-  SongGabu: []
+  SongGabu: ['22-052']
   Tang: ['14-026']
 
 - Chun:
   Song: ['081']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-053']
   Tang:
 
 - Chun: ['01-025']
@@ -535,13 +535,13 @@
 - Chun:
   Song: ['090']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-008']
   Tang:
 
 - Chun:
   Song: ['091']
   SongRule: ['06-045']
-  SongGabu: ['16-023']
+  SongGabu: ['16-023', '22-054']
   Tang: ['01-048']
 
 - Chun:
@@ -553,13 +553,13 @@
 - Chun:
   Song: ['093']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-009']
   Tang: ['14-025']
 
 - Chun:
   Song: ['094']
   SongRule: ['06-046']
-  SongGabu: []
+  SongGabu: ['21-018']
   Tang: ['01-049', '05-002']
 
 - Chun: ['01-005']
@@ -583,7 +583,7 @@
 - Chun:
   Song: ['098']
   SongRule: []
-  SongGabu: ['16-044']
+  SongGabu: ['16-044', '22-010']
   Tang: ['04-002']
 
 - Chun: ['06-004']
@@ -613,31 +613,31 @@
 - Chun:
   Song: ['103']
   SongRule: ['06-053']
-  SongGabu: []
+  SongGabu: ['22-055']
   Tang: ['04-012']
 
 - Chun:
   Song: ['104']
   SongRule: ['06-054']
-  SongGabu: []
+  SongGabu: ['22-056']
   Tang: ['04-007']
 
 - Chun:
   Song: ['105']
   SongRule: ['06-055']
-  SongGabu: []
+  SongGabu: ['22-057']
   Tang: ['05-003']
 
 - Chun: ['01-026']
   Song: ['106']
   SongRule: ['06-056']
-  SongGabu: ['16-014']
+  SongGabu: ['16-014', '21-033']
   Tang: ['01-050', '05-009']
 
 - Chun: ['06-010']
   Song: ['107']
   SongRule: ['06-057']
-  SongGabu: []
+  SongGabu: ['22-058']
   Tang: ['04-008']
 
 - Chun:
@@ -703,7 +703,7 @@
 - Chun:
   Song: ['118']
   SongRule: ['06-062']
-  SongGabu: []
+  SongGabu: ['22-059']
   Tang: ['07-005']
 
 - Chun:
@@ -733,25 +733,25 @@
 - Chun:
   Song: ['123']
   SongRule: ['06-063']
-  SongGabu: []
+  SongGabu: ['22-032']
   Tang: ['05-004']
 
 - Chun:
   Song: ['124']
   SongRule: ['06-064']
-  SongGabu: []
+  SongGabu: ['21-022']
   Tang: ['07-007']
 
 - Chun:
   Song: ['125']
   SongRule: ['06-065']
-  SongGabu: []
+  SongGabu: ['21-023']
   Tang: ['07-008']
 
 - Chun:
   Song: ['126']
   SongRule: ['06-066']
-  SongGabu: []
+  SongGabu: ['21-024']
   Tang: ['07-009']
 
 - Chun:
@@ -775,19 +775,19 @@
 - Chun:
   Song: ['130']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-038']
   Tang: ['06-001']
 
 - Chun:
   Song: ['131']
   SongRule: ['07-001']
-  SongGabu: []
+  SongGabu: ['20-025', '21-020']
   Tang: ['06-002']
 
 - Chun:
   Song: ['132']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-019']
   Tang: ['06-003']
 
 - Chun:
@@ -799,25 +799,25 @@
 - Chun:
   Song: ['134']
   SongRule: ['07-002']
-  SongGabu: []
+  SongGabu: ['22-060']
   Tang: ['06-005']
 
 - Chun:
   Song: ['135']
   SongRule: ['07-003']
-  SongGabu: []
+  SongGabu: ['21-038']
   Tang: ['06-006']
 
 - Chun:
   Song: ['136']
   SongRule: ['07-004']
-  SongGabu: []
+  SongGabu: ['21-036', '21-037']
   Tang: ['04-013', '06-007', '06-008']
 
 - Chun:
   Song: ['137']
   SongRule: ['07-005']
-  SongGabu: []
+  SongGabu: ['22-033']
   Tang: ['06-009']
 
 - Chun:
@@ -829,13 +829,13 @@
 - Chun:
   Song: ['139']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-011']
   Tang:
 
 - Chun:
   Song: ['140']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-012']
   Tang:
 
 - Chun:
@@ -877,7 +877,7 @@
 - Chun: ['06-007']
   Song: ['147']
   SongRule: ['07-013']
-  SongGabu: []
+  SongGabu: ['22-034']
   Tang: ['04-011']
 
 - Chun:
@@ -889,31 +889,31 @@
 - Chun:
   Song: ['149']
   SongRule: ['07-015']
-  SongGabu: []
+  SongGabu: ['22-061']
   Tang: ['06-015']
 
 - Chun:
   Song: ['150']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-013']
   Tang: ['06-011']
 
 - Chun:
   Song: ['151']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-026', '22-014']
   Tang: ['06-016']
 
 - Chun:
   Song: ['152']
   SongRule: ['07-016']
-  SongGabu: []
+  SongGabu: ['21-032']
   Tang: ['06-017']
 
 - Chun:
   Song: ['153']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-023']
   Tang: ['06-018']
 
 - Chun:
@@ -931,7 +931,7 @@
 - Chun:
   Song: ['156']
   SongRule: ['07-019']
-  SongGabu: []
+  SongGabu: ['22-062']
   Tang: ['06-021']
 
 - Chun: ['01-035']
@@ -943,49 +943,49 @@
 - Chun:
   Song: ['158']
   SongRule: ['07-021']
-  SongGabu: []
+  SongGabu: ['20-041', '22-063']
   Tang: ['06-023']
 
 - Chun:
   Song: ['159']
   SongRule: ['07-022']
-  SongGabu: []
+  SongGabu: ['22-064']
   Tang: ['06-024']
 
 - Chun:
   Song: ['160']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-015']
   Tang: ['06-025']
 
 - Chun:
   Song: ['161']
   SongRule: ['07-023']
-  SongGabu: []
+  SongGabu: ['22-035']
   Tang: ['06-026']
 
 - Chun:
   Song: ['162']
   SongRule: ['07-024']
-  SongGabu: []
+  SongGabu: ['22-066']
   Tang:
 
 - Chun: ['01-036']
   Song: ['163']
   SongRule: ['07-025']
-  SongGabu: []
+  SongGabu: ['22-065']
   Tang: ['06-027']
 
 - Chun:
   Song: ['164']
   SongRule: ['07-026']
-  SongGabu: []
+  SongGabu: ['22-036']
   Tang: ['01-051', '06-028']
 
 - Chun:
   Song: ['165']
   SongRule: ['07-027']
-  SongGabu: ['17-029']
+  SongGabu: ['17-029', '21-035']
   Tang: ['04-014']
 
 - Chun:
@@ -1003,7 +1003,7 @@
 - Chun: ['06-011']
   Song: ['168']
   SongRule: ['07-030']
-  SongGabu: []
+  SongGabu: ['22-037']
   Tang: ['14-029']
 
 - Chun:
@@ -1159,13 +1159,13 @@
 - Chun: ['02-006']
   Song: ['194']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-028', '22-016']
   Tang: ['08-016']
 
 - Chun: ['02-007']
   Song: ['195']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-017']
   Tang: ['08-017']
 
 - Chun: ['02-008']
@@ -1219,37 +1219,37 @@
 - Chun:
   Song: ['204']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-039']
   Tang: ['08-027']
 
 - Chun: ['02-015']
   Song: ['205']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-044']
   Tang: ['08-028']
 
 - Chun:
   Song: ['206']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-043']
   Tang: ['08-029']
 
 - Chun: ['02-016']
   Song: ['207']
   SongRule: ['08-001']
-  SongGabu: []
+  SongGabu: ['21-040']
   Tang: ['08-030']
 
 - Chun: ['02-017']
   Song: ['208']
   SongRule: ['08-002']
-  SongGabu: []
+  SongGabu: ['21-041']
   Tang: ['08-031']
 
 - Chun: ['02-018']
   Song: ['208']
   SongRule: ['08-002']
-  SongGabu: []
+  SongGabu: ['20-040', '21-042']
   Tang: ['08-032']
 
 - Chun: ['02-019']
@@ -1273,25 +1273,25 @@
 - Chun:
   Song: ['212']
   SongRule: ['08-004']
-  SongGabu: []
+  SongGabu: ['22-038']
   Tang: ['14-030']
 
 - Chun: ['02-020']
   Song: ['213']
   SongRule: ['08-005']
-  SongGabu: []
+  SongGabu: ['21-039']
   Tang: ['08-036']
 
 - Chun: ['02-021']
   Song: ['214']
-  SongRule: ['08-006']
+  SongRule: ['08-006', '21-043']
   SongGabu: []
   Tang: ['08-037']
 
 - Chun:
   Song: ['215']
   SongRule: ['08-007']
-  SongGabu: []
+  SongGabu: ['21-029']
   Tang: ['08-038']
 
 - Chun:
@@ -1303,7 +1303,7 @@
 - Chun:
   Song: ['217']
   SongRule: ['08-008']
-  SongGabu: []
+  SongGabu: ['21-027']
   Tang: ['08-040']
 
 - Chun:
@@ -1315,19 +1315,19 @@
 - Chun:
   Song: ['219']
   SongRule: ['08-009']
-  SongGabu: []
+  SongGabu: ['22-039']
   Tang: ['08-055']
 
 - Chun:
   Song: ['220']
-  SongRule: ['08-010']
+  SongRule: ['08-010', '21-044']
   SongGabu: []
   Tang: ['05-005']
 
 - Chun: ['02-022']
   Song: ['221']
   SongRule: ['08-011']
-  SongGabu: []
+  SongGabu: ['22-040']
   Tang: ['08-053']
 
 - Chun:
@@ -1345,7 +1345,7 @@
 - Chun: ['02-027']
   Song: ['224']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-019']
   Tang: ['08-058']
 
 - Chun: ['02-024']
@@ -1369,7 +1369,7 @@
 - Chun: ['02-028']
   Song: ['228']
   SongRule: ['08-015']
-  SongGabu: []
+  SongGabu: ['22-067']
   Tang: ['08-054']
 
 - Chun: ['02-029']
@@ -1399,7 +1399,7 @@
 - Chun:
   Song: ['233']
   SongRule: ['08-020']
-  SongGabu: ['17-030']
+  SongGabu: ['17-030', '20-045']
   Tang: ['08-067']
 
 - Chun: ['02-032']
@@ -1417,19 +1417,19 @@
 - Chun: ['02-034']
   Song: ['236']
   SongRule: ['08-023']
-  SongGabu: []
+  SongGabu: ['21-025']
   Tang: ['08-068']
 
 - Chun: ['02-035']
   Song: ['237']
   SongRule: ['08-024']
-  SongGabu: []
+  SongGabu: ['21-026']
   Tang: ['08-070']
 
 - Chun:
   Song: ['238']
   SongRule: ['08-025']
-  SongGabu: []
+  SongGabu: ['22-041']
   Tang: ['08-042']
 
 - Chun:
@@ -1441,19 +1441,19 @@
 - Chun: ['02-036']
   Song: ['240']
   SongRule: ['08-026']
-  SongGabu: ['16-010']
+  SongGabu: ['16-010', '21-028']
   Tang: ['08-044', '13-070']
 
 - Chun:
   Song: ['241']
   SongRule: ['08-027']
-  SongGabu: []
+  SongGabu: ['21-046']
   Tang: ['08-045']
 
 - Chun:
   Song: ['242']
   SongRule: ['08-028']
-  SongGabu: []
+  SongGabu: ['21-045']
   Tang: ['08-046']
 
 - Chun:
@@ -1495,31 +1495,31 @@
 - Chun:
   Song: ['249']
   SongRule: ['08-033']
-  SongGabu: []
+  SongGabu: ['22-068']
   Tang: ['05-007']
 
 - Chun: ['01-028']
   Song: ['250']
   SongRule: ['08-034']
-  SongGabu: []
+  SongGabu: ['22-042']
   Tang: ['05-008']
 
 - Chun:
   Song: ['251']
   SongRule: ['08-035']
-  SongGabu: []
+  SongGabu: ['20-037', '21-031']
   Tang: ['08-047']
 
 - Chun:
   Song: ['252']
   SongRule: ['08-036']
-  SongGabu: []
+  SongGabu: ['21-017']
   Tang: ['08-048', '13-067']
 
 - Chun:
   Song: ['253']
   SongRule: ['08-037']
-  SongGabu: []
+  SongGabu: ['21-003']
   Tang: ['08-049']
 
 - Chun: ['02-037']
@@ -1531,19 +1531,19 @@
 - Chun:
   Song: ['255']
   SongRule: ['08-039']
-  SongGabu: []
+  SongGabu: ['21-015']
   Tang: ['08-051', '13-066']
 
 - Chun: ['02-038']
   Song: ['256']
   SongRule: ['08-040']
-  SongGabu: []
+  SongGabu: ['21-009']
   Tang: ['08-052', '13-061']
 
 - Chun:
   Song: ['257']
   SongRule: ['08-041']
-  SongGabu: []
+  SongGabu: ['21-021', '22-069']
   Tang: ['04-015', '08-071']
 
 - Chun:
@@ -1561,7 +1561,7 @@
 - Chun:
   Song: ['260']
   SongRule: ['08-042']
-  SongGabu: []
+  SongGabu: ['21-034']
   Tang: ['08-069']
 
 - Chun:
@@ -1639,7 +1639,7 @@
 - Chun: ['04-001']
   Song: ['273']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-030', '22-020']
   Tang: ['10-001']
 
 - Chun: ['04-002']
@@ -1675,7 +1675,7 @@
 - Chun: ['04-006']
   Song: ['279']
   SongRule: ['10-003']
-  SongGabu: []
+  SongGabu: ['22-070']
   Tang: ['10-007']
 
 - Chun:
@@ -1717,7 +1717,7 @@
 - Chun:
   Song: ['286']
   SongRule: []
-  SongGabu: ['15-003']
+  SongGabu: ['15-003', '20-015']
   Tang: ['11-006']
 
 - Chun:
@@ -1921,19 +1921,19 @@
 - Chun: ['05-020']
   Song: ['320']
   SongRule: ['11-019']
-  SongGabu: []
+  SongGabu: ['21-004']
   Tang: ['11-040', '13-056']
 
 - Chun: ['05-021']
   Song: ['321']
   SongRule: ['11-020']
-  SongGabu: []
+  SongGabu: ['20-006']
   Tang: ['11-041', '13-058']
 
 - Chun: ['05-022']
   Song: ['322']
   SongRule: ['11-021']
-  SongGabu: []
+  SongGabu: ['21-005']
   Tang: ['11-042']
 
 - Chun: ['05-023']
@@ -1945,7 +1945,7 @@
 - Chun: ['05-024', '05-025']
   Song: ['324']
   SongRule: ['11-023']
-  SongGabu: ['18-003', '19-005']
+  SongGabu: ['18-003', '19-005', '20-032']
   Tang: ['11-044', '13-029', '13-078']
 
 - Chun:
@@ -1957,7 +1957,7 @@
 - Chun:
   Song: ['326']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-031']
   Tang: ['12-001']
 
 - Chun: ['06-001']
@@ -1981,7 +1981,7 @@
 - Chun:
   Song: ['330']
   SongRule: []
-  SongGabu: ['18-004']
+  SongGabu: ['18-004', '20-022']
   Tang: ['12-005', '13-030']
 
 - Chun:
@@ -2083,7 +2083,7 @@
 - Chun:
   Song: ['347']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['20-033']
   Tang: ['12-022']
 
 - Chun:
@@ -2125,7 +2125,7 @@
 - Chun:
   Song: ['354']
   SongRule: ['12-006']
-  SongGabu: []
+  SongGabu: ['22-043']
   Tang: ['12-029']
 
 - Chun:
@@ -2143,7 +2143,7 @@
 - Chun:
   Song: ['357']
   SongRule: ['12-009']
-  SongGabu: []
+  SongGabu: ['22-071']
   Tang: ['12-032']
 
 - Chun:
@@ -2155,7 +2155,7 @@
 - Chun:
   Song: ['359']
   SongRule: ['12-010']
-  SongGabu: []
+  SongGabu: ['22-072']
   Tang: ['12-034']
 
 - Chun:
@@ -2245,7 +2245,7 @@
 - Chun:
   Song: ['374']
   SongRule: ['12-015']
-  SongGabu: []
+  SongGabu: ['21-030']
   Tang: ['12-049']
 
 - Chun:
@@ -2281,7 +2281,7 @@
 - Chun:
   Song: ['380']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-021']
   Tang: ['12-055']
 
 - Chun:
@@ -2347,7 +2347,7 @@
 - Chun:
   Song: ['391']
   SongRule: []
-  SongGabu: []
+  SongGabu: ['22-022']
   Tang: ['15-010']
 
 - Chun:
