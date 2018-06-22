@@ -6,7 +6,7 @@ tags: [상한금궤원문, 송본]
 conf:
   template: template_shanghanlun.md
   data_src: site.data.shanghanlun
-  bookinit: "全書"
+  bookinit: "全書/可不"
 ---
 
 {% assign bookinit = page.conf.bookinit %}
