@@ -8,7 +8,6 @@ tags: 상한론, 강의
 
 장소 : 원광대학교 한의과대학
 
-
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
 {% assign pdfurl = "/lecture/2018/presentation" %}
 

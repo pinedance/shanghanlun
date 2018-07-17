@@ -4,10 +4,12 @@ title: 2018년 2학기 상한론 강의 계획
 tags: 상한론, 강의
 ---
 
-일시 : 2018년 2학기
+일시 : 2018년 2학기, 목요일 13:30-15:20
 
 장소 : 원광대학교 한의과대학
 
+{% assign textbookurl = "/lecture/2018/textbook.html" %}
+{% assign pdfurl = "/lecture/2018/presentation" %}
 
 ## 01 〔180830〕：양명병
 
