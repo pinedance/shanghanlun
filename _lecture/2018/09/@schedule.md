@@ -82,11 +82,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 發熱
-* <i class="fa fa-comment-dots"></i> 惡寒
-* <i class="fa fa-comment-dots"></i> 惡風
-* <i class="fa fa-comment-dots"></i> 寒熱
-* <i class="fa fa-comment-dots"></i> 潮熱
+* <i class="fa fa-comment-dots"></i> [發熱]({{site.sympurl}}/발열)
+* <i class="fa fa-comment-dots"></i> [惡寒]({{site.sympurl}}/오한)
+* <i class="fa fa-comment-dots"></i> [惡風]({{site.sympurl}}/오풍)
+* <i class="fa fa-comment-dots"></i> [寒熱]({{site.sympurl}}/한열)
+* <i class="fa fa-comment-dots"></i> [潮熱]({{site.sympurl}}/조열)
 
 
 
@@ -111,11 +111,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 自汗
-* <i class="fa fa-comment-dots"></i> 盜汗
-* <i class="fa fa-comment-dots"></i> 頭汗
-* <i class="fa fa-comment-dots"></i> 手足汗
-* <i class="fa fa-comment-dots"></i> 無汗
+* <i class="fa fa-comment-dots"></i> [自汗]({{site.sympurl}}/자한)
+* <i class="fa fa-comment-dots"></i> [盜汗]({{site.sympurl}}/도한)
+* <i class="fa fa-comment-dots"></i> [頭汗]({{site.sympurl}}/두한)
+* <i class="fa fa-comment-dots"></i> [手足汗]({{site.sympurl}}/수족한)
+* <i class="fa fa-comment-dots"></i> [無汗]({{site.sympurl}}/무한)
 
 
 
@@ -137,14 +137,14 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 頭痛
-* <i class="fa fa-comment-dots"></i> 項强
-* <i class="fa fa-comment-dots"></i> 頭眩
+* <i class="fa fa-comment-dots"></i> [頭痛]({{site.sympurl}}/두통)
+* <i class="fa fa-comment-dots"></i> [項强]({{site.sympurl}}/항강)
+* <i class="fa fa-comment-dots"></i> [頭眩]({{site.sympurl}}/두현)
 
-* <i class="fa fa-comment-dots"></i> 胸脇滿
-* <i class="fa fa-comment-dots"></i> 心下滿
-* <i class="fa fa-comment-dots"></i> 腹滿
-* <i class="fa fa-comment-dots"></i> 少腹滿
+* <i class="fa fa-comment-dots"></i> [胸脇滿]({{site.sympurl}}/흉협만)
+* <i class="fa fa-comment-dots"></i> [心下滿]({{site.sympurl}}/심하만)
+* <i class="fa fa-comment-dots"></i> [腹滿]({{site.sympurl}}/복만)
+* <i class="fa fa-comment-dots"></i> [少腹滿]({{site.sympurl}}/소복만)
 
 
 
@@ -170,10 +170,10 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 煩熱
-* <i class="fa fa-comment-dots"></i> 虛煩
-* <i class="fa fa-comment-dots"></i> 煩躁
-* <i class="fa fa-comment-dots"></i> 懊憹
+* <i class="fa fa-comment-dots"></i> [煩熱]({{site.sympurl}}/번열)
+* <i class="fa fa-comment-dots"></i> [虛煩]({{site.sympurl}}/허번)
+* <i class="fa fa-comment-dots"></i> [煩躁]({{site.sympurl}}/번조)
+* <i class="fa fa-comment-dots"></i> [懊憹]({{site.sympurl}}/오농)
 
 
 
@@ -201,11 +201,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 舌上胎
-* <i class="fa fa-comment-dots"></i> 衄血
-* <i class="fa fa-comment-dots"></i> 噦
-* <i class="fa fa-comment-dots"></i> 咳
-* <i class="fa fa-comment-dots"></i> 喘
+* <i class="fa fa-comment-dots"></i> [舌上胎]({{site.sympurl}}/설상태)
+* <i class="fa fa-comment-dots"></i> [衄血]({{site.sympurl}}/뉵혈)
+* <i class="fa fa-comment-dots"></i> [噦]({{site.sympurl}}/얼)
+* <i class="fa fa-comment-dots"></i> [咳]({{site.sympurl}}/해)
+* <i class="fa fa-comment-dots"></i> [喘]({{site.sympurl}}/천)
 
 
 
@@ -242,11 +242,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 嘔吐
-* <i class="fa fa-comment-dots"></i> 悸
-* <i class="fa fa-comment-dots"></i> 渴
-* <i class="fa fa-comment-dots"></i> 振
-* <i class="fa fa-comment-dots"></i> 戰慄
+* <i class="fa fa-comment-dots"></i> [嘔吐]({{site.sympurl}}/구토)
+* <i class="fa fa-comment-dots"></i> [悸]({{site.sympurl}}/계)
+* <i class="fa fa-comment-dots"></i> [渴]({{site.sympurl}}/갈)
+* <i class="fa fa-comment-dots"></i> [振]({{site.sympurl}}/진)
+* <i class="fa fa-comment-dots"></i> [戰慄]({{site.sympurl}}/전율)
 
 
 
@@ -277,11 +277,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 四逆
-* <i class="fa fa-comment-dots"></i> 厥
-* <i class="fa fa-comment-dots"></i> 鄭聲
-* <i class="fa fa-comment-dots"></i> 譫語
-* <i class="fa fa-comment-dots"></i> 短氣
+* <i class="fa fa-comment-dots"></i> [四逆]({{site.sympurl}}/사역)
+* <i class="fa fa-comment-dots"></i> [厥]({{site.sympurl}}/궐)
+* <i class="fa fa-comment-dots"></i> [鄭聲]({{site.sympurl}}/정성)
+* <i class="fa fa-comment-dots"></i> [譫語]({{site.sympurl}}/섬어)
+* <i class="fa fa-comment-dots"></i> [短氣]({{site.sympurl}}/단기)
 
 
 ## 11 〔181115〕：소음병
@@ -314,11 +314,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 搖頭
-* <i class="fa fa-comment-dots"></i> 瘈瘲
-* <i class="fa fa-comment-dots"></i> 不仁
-* <i class="fa fa-comment-dots"></i> 直視
-* <i class="fa fa-comment-dots"></i> 鬱冒
+* <i class="fa fa-comment-dots"></i> [搖頭]({{site.sympurl}}/요두)
+* <i class="fa fa-comment-dots"></i> [瘈瘲]({{site.sympurl}}/계종)
+* <i class="fa fa-comment-dots"></i> [不仁]({{site.sympurl}}/불인)
+* <i class="fa fa-comment-dots"></i> [直視]({{site.sympurl}}/직시)
+* <i class="fa fa-comment-dots"></i> [鬱冒]({{site.sympurl}}/울모)
 
 
 ## 12 〔181122〕：궐음병
@@ -343,11 +343,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 動氣
-* <i class="fa fa-comment-dots"></i> 自利
-* <i class="fa fa-comment-dots"></i> 筋惕肉瞤
-* <i class="fa fa-comment-dots"></i> 熱入血室
-* <i class="fa fa-comment-dots"></i> 發黃
+* <i class="fa fa-comment-dots"></i> [動氣]({{site.sympurl}}/동기)
+* <i class="fa fa-comment-dots"></i> [自利]({{site.sympurl}}/자리)
+* <i class="fa fa-comment-dots"></i> [筋惕肉瞤]({{site.sympurl}}/근척육순)
+* <i class="fa fa-comment-dots"></i> [熱入血室]({{site.sympurl}}/열입혈실)
+* <i class="fa fa-comment-dots"></i> [發黃]({{site.sympurl}}/발황)
 
 
 ## 13 〔181129〕：궐음병
@@ -369,10 +369,10 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> 發狂
-* <i class="fa fa-comment-dots"></i> 霍亂
-* <i class="fa fa-comment-dots"></i> 蓄血
-* <i class="fa fa-comment-dots"></i> 勞復
+* <i class="fa fa-comment-dots"></i> [發狂]({{site.sympurl}}/발광)
+* <i class="fa fa-comment-dots"></i> [霍亂]({{site.sympurl}}/곽란)
+* <i class="fa fa-comment-dots"></i> [蓄血]({{site.sympurl}}/축혈)
+* <i class="fa fa-comment-dots"></i> [勞復]({{site.sympurl}}/노복)
 
 
 ## 14 〔181206〕：조별과제발표
