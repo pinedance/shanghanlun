@@ -7,7 +7,7 @@ src_path: template_shanghanlun.md
 ---
 
 
-<div id="03week"></div>
+<div id="1-03week"></div>
 ```
 1-03주
 ```
@@ -46,7 +46,7 @@ src_path: template_shanghanlun.md
 > 太陽爲病, 頭痛項强而惡寒, 其脈浮數, 宜桂枝湯.
 
 <br>
-<div id="04week"></div>
+<div id="1-04week"></div>
 ```
 1-04주
 ```
@@ -150,7 +150,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="05week"></div>
+<div id="1-05week"></div>
 ```
 1-05주
 ```
@@ -245,7 +245,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="06week"></div>
+<div id="1-06week"></div>
 ```
 1-06주
 ```
@@ -309,7 +309,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="07week"></div>
+<div id="1-07week"></div>
 
 ```
 1-07주
@@ -371,7 +371,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="09week"></div>
+<div id="1-09week"></div>
 ```
 1-09주
 ```
@@ -456,7 +456,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="10week"></div>
+<div id="1-10week"></div>
 ```
 1-10주
 ```
@@ -541,7 +541,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="11week"></div>
+<div id="1-11week"></div>
 ```
 1-11주
 ```
@@ -615,7 +615,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="12week"></div>
+<div id="1-12week"></div>
 ```
 1-12주
 ```
@@ -701,7 +701,7 @@ src_path: template_shanghanlun.md
 
 
 <br>
-<div id="13week"></div>
+<div id="1-13week"></div>
 ```
 1-13주
 ```
@@ -768,7 +768,11 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
+<div id="2-01week"></div>
+```
+2-01주
+```
 
 제Ⅱ장 陽明病의 脈證과 治法
 --------------------------
@@ -844,7 +848,11 @@ src_path: template_shanghanlun.md
 {% assign noo = "081" %}{% include {{page.src_path}} %}
 
 
-
+<br>
+<div id="2-02week"></div>
+```
+2-02주
+```
 
 ### 제4절 陽明經證
 
@@ -891,6 +899,13 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [조위승기탕]({{site.formulaurl}}/조위승기탕)
 
+
+<br>
+<div id="2-03week"></div>
+```
+2-03주
+```
+
 #### 2) 痞滿證
 
 {% assign noo = "213" %}{% include {{page.src_path}} %}
@@ -930,6 +945,7 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [대승기탕]({{site.formulaurl}}/대승기탕)
 
+
 #### 4) 下法을 쓰면 안되는 경우
 
 
@@ -942,7 +958,11 @@ src_path: template_shanghanlun.md
 {% assign noo = "194" %}{% include {{page.src_path}} %}
 
 
-
+<br>
+<div id="2-04week"></div>
+```
+2-04주
+```
 
 ### 제6절 脾約證
 
@@ -1017,11 +1037,14 @@ src_path: template_shanghanlun.md
 7) 血證
 
 
-
+<br>
+<div id="2-05week"></div>
+```
+2-05주
+```
 
 제Ⅲ장 少陽病의 脈證과 治法
 --------------------------
-
 
 
 ### 제1절 少陽病의 提綱
@@ -1050,6 +1073,13 @@ src_path: template_shanghanlun.md
 {% assign noo = "099" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [소시호탕]({{site.formulaurl}}/소시호탕)
+
+
+<br>
+<div id="2-06week"></div>
+```
+2-06주
+```
 
 #### 2) 少陽病의 兼證
 
@@ -1116,7 +1146,11 @@ src_path: template_shanghanlun.md
 {% assign noo = "145" %}{% include {{page.src_path}} %}
 
 
-
+<br>
+<div id="2-07week"></div>
+```
+2-07주
+```
 
 
 제Ⅳ장 太陰病의 脈證과 治法
@@ -1170,6 +1204,12 @@ src_path: template_shanghanlun.md
 {% assign noo = "278" %}{% include {{page.src_path}} %}
 
 
+<br>
+<div id="2-09week"></div>
+```
+2-09주
+```
+
 
 제Ⅴ장 少陰病의 脈證과 治法
 -------------------------
@@ -1217,6 +1257,12 @@ src_path: template_shanghanlun.md
 <i class="fa fa-bookmark"></i> [통맥사역가저담즙탕]({{site.formulaurl}}/통맥사역가저담즙탕)
 
 
+<br>
+<div id="2-10week"></div>
+```
+2-10주
+```
+
 #### 3) 陰盛戴陽證
 
 {% assign noo = "314" %}{% include {{page.src_path}} %}
@@ -1243,7 +1289,7 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [진무탕]({{site.formulaurl}}/진무탕)
 
-#### 6) 下焦가 收澁하지 못하여 膿血便을 보는 증 43
+#### 6) 下焦가 收澁하지 못하여 膿血便을 보는 증
 
 {% assign noo = "306" %}{% include {{page.src_path}} %}
 
@@ -1256,6 +1302,14 @@ src_path: template_shanghanlun.md
 {% assign noo = "159" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [적석지우여량탕]({{site.formulaurl}}/적석지우여량탕)
+
+
+<br>
+<div id="2-11week"></div>
+```
+2-11주
+```
+
 
 ### 제3절 少陰熱化證
 
@@ -1354,7 +1408,11 @@ src_path: template_shanghanlun.md
 
 
 
-
+<br>
+<div id="2-12week"></div>
+```
+2-12주
+```
 
 
 제Ⅵ장 厥陰病의 脈證과 治法
@@ -1401,6 +1459,13 @@ src_path: template_shanghanlun.md
 <i class="fa fa-bookmark"></i> [당귀사역탕]({{site.formulaurl}}/당귀사역탕)
 
 <i class="fa fa-bookmark"></i> [당귀사역가오수유생강탕]({{site.formulaurl}}/당귀사역가오수유생강탕)
+
+
+<br>
+<div id="2-13week"></div>
+```
+2-13주
+```
 
 ### 제4절 厥陰熱利
 
