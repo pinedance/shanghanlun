@@ -9,7 +9,8 @@ tags: 상한론, 강의
 장소 : 원광대학교 한의과대학
 
 기타
-* [부끄럼쟁이 노트](https://goo.gl/forms/QOZ7UWiu5My3PT873)
+* [부끄럼쟁이 노트에 적기](https://goo.gl/forms/QOZ7UWiu5My3PT873) [보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
+
 
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
 {% assign pdfurl = "/lecture/2018/presentation" %}
