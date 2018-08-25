@@ -792,6 +792,10 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "179" %}{% include {{page.src_path}} %}
 
+* 太陽陽明：脾約
+* 正陽陽明：胃家實
+* 少陽陽明：發汗，利小便已，胃中燥煩實，大便難
+
 {% assign noo = "181" %}{% include {{page.src_path}} %}
 
 {% assign noo = "183" %}{% include {{page.src_path}} %}
@@ -812,6 +816,8 @@ src_path: template_shanghanlun.md
 {% assign noo = "078" %}{% include {{page.src_path}} %}
 
 {% assign noo = "375" %}{% include {{page.src_path}} %}
+
+* 虛煩：煩而按之心下濡者
 
 {% assign noo = "228" %}{% include {{page.src_path}} %}
 
