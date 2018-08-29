@@ -39,7 +39,7 @@ tags: 상한론, 강의
 
 * <i class="fa fa-pagelines"></i> [치자]({{site.herburl}}/치자)
 * <i class="fa fa-pagelines"></i> [해백]({{site.herburl}}/해백)
-* <i class="fa fa-pagelines"></i> [해백]({{site.herburl}}/과루실)
+* <i class="fa fa-pagelines"></i> [과루실]({{site.herburl}}/과루실)
 
 
 ## 02 〔180906〕：양명병

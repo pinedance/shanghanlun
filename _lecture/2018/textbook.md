@@ -792,16 +792,15 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "179" %}{% include {{page.src_path}} %}
 
-* 太陽陽明：脾約
-* 正陽陽明：胃家實
-* 少陽陽明：發汗，利小便已，胃中燥煩實，大便難
-
 {% assign noo = "181" %}{% include {{page.src_path}} %}
 
 {% assign noo = "183" %}{% include {{page.src_path}} %}
 
 {% assign noo = "185" %}{% include {{page.src_path}} %}
 
+* 太陽陽明：ⓐ太陽病，亡津液；ⓑ太陽病，汗先出不徹 _脾約？_
+* 正陽陽明：身熱，汗自出，不惡寒，反惡熱 _胃家實_
+* 少陽陽明：（少陽病）發汗，利小便已，胃中燥煩實，大便難
 
 
 ### 제3절 熱擾胸膈證
@@ -817,7 +816,9 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "375" %}{% include {{page.src_path}} %}
 
-* 虛煩：煩而按之心下濡者
+虛煩
+* 發汗吐下後；下利後
+* 煩而按之心下濡者
 
 {% assign noo = "228" %}{% include {{page.src_path}} %}
 
@@ -841,7 +842,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "393" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [지실치자시탕]({{site.formulaurl}}/치자치자시탕)
+<i class="fa fa-bookmark"></i> [지실치자시탕]({{site.formulaurl}}/지실치자시탕)
 
 ##### (3) 中寒을 겸한 증
 
