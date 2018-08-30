@@ -9,7 +9,7 @@ tags: 상한론, 강의
 장소 : 원광대학교 한의과대학
 
 기타
-* [부끄럼쟁이 노트에 적기](https://goo.gl/forms/QOZ7UWiu5My3PT873) / [전체 보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
+* [물끄럼노트](https://goo.gl/forms/QOZ7UWiu5My3PT873) / [전체 보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
 
 
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
@@ -31,7 +31,7 @@ tags: 상한론, 강의
 * <i class="fa fa-bookmark"></i> [치자감초시탕]({{site.formulaurl}}/치자감초시탕)
 * <i class="fa fa-bookmark"></i> [치자생강시탕]({{site.formulaurl}}/치자생강시탕)
 * <i class="fa fa-bookmark"></i> [치자후박탕]({{site.formulaurl}}/치자후박탕)
-* <i class="fa fa-bookmark"></i> [지실치자시탕]({{site.formulaurl}}/치자치자시탕)
+* <i class="fa fa-bookmark"></i> [지실치자시탕]({{site.formulaurl}}/지실치자시탕)
 * <i class="fa fa-bookmark"></i> [치자건강탕]({{site.formulaurl}}/치자건강탕)
 
 
