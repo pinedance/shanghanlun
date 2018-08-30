@@ -30,8 +30,8 @@ tags: 상한론, 강의
 * <i class="fa fa-bookmark"></i> [치자시탕]({{site.formulaurl}}/치자시탕)
 * <i class="fa fa-bookmark"></i> [치자감초시탕]({{site.formulaurl}}/치자감초시탕)
 * <i class="fa fa-bookmark"></i> [치자생강시탕]({{site.formulaurl}}/치자생강시탕)
-* <i class="fa fa-bookmark"></i> [치자후박탕]({{site.formulaurl}}/치자후박탕)
 * <i class="fa fa-bookmark"></i> [지실치자시탕]({{site.formulaurl}}/지실치자시탕)
+* <i class="fa fa-bookmark"></i> [치자후박탕]({{site.formulaurl}}/치자후박탕)
 * <i class="fa fa-bookmark"></i> [치자건강탕]({{site.formulaurl}}/치자건강탕)
 
 
