@@ -5,9 +5,11 @@
 	{% assign notype = "NOO.NoA" %}
 {% endunless %}
 
+{% assign compared_path = site.baseurl | append: "/reference/Books/Shanghanlun/Compare/Song-Compared#" | append: noo %}
+
 {% assign items = site.data.shanghanlun | where:notype, noo %}
 
-> <sup>《全書》{{noo}}</sup>	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
+> <sup><a href="{{compared_path}}" target="_blank">《全書》{{noo}}</a></sup>	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
 
 {% assign anns = items | map: 'ANN' | where_exp: "item", "item"  %}
 

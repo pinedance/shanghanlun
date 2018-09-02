@@ -259,7 +259,7 @@ src_path: template_shanghanlun.md
 
 
 
-#### 5) 心陰心陽兩虛證  	
+#### 5) 心陰心陽兩虛證
 
 {% assign noo = "177" %}{% include {{page.src_path}} %}
 
@@ -476,7 +476,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "182" %}{% include {{page.src_path}} %}
 
-
+{% assign noo = "186" %}{% include {{page.src_path}} %}
 
 ### 제2절 陽明病의 病因과 病機
 
