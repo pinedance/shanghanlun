@@ -13,7 +13,6 @@ tags: 상한론, 강의
 
 
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
-{% assign pdfurl = "/lecture/2018/presentation" %}
 
 ## 01 〔180830〕：양명병
 
@@ -66,7 +65,10 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [귤피]({{site.herburl}}/귤피)
 * <i class="fa fa-pagelines"></i> [방기]({{site.herburl}}/방기)
 
+### 보강
 
+* [상한 치험례]({{site.slideurl}}/B01상한의_치료_치험례.pdf)
+* 현대 임상례
 
 
 ## 03 〔180913〕：양명병
