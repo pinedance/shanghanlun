@@ -786,7 +786,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "182" %}{% include {{page.src_path}} %}
 
-
+{% assign noo = "186" %}{% include {{page.src_path}} %}
 
 ### 제2절 陽明病의 病因과 病機
 
@@ -906,6 +906,9 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [조위승기탕]({{site.formulaurl}}/조위승기탕)
 
+* 心煩 _鬱鬱微煩_
+* 腹脹滿 _腹微滿_
+* 譫語
 
 <br>
 <div id="2-03week"></div>
@@ -925,6 +928,9 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [소승기탕]({{site.formulaurl}}/소승기탕)
 
+* 心煩 _微煩_
+* 小便數、大便硬 _燥屎_
+* 譫語
 
 #### 3) 痞滿燥實證
 
@@ -951,6 +957,21 @@ src_path: template_shanghanlun.md
 {% assign noo = "254" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [대승기탕]({{site.formulaurl}}/대승기탕)
+
+* 心煩躁 _煩不解、煩躁、心中懊憹而煩_
+* 發熱 _潮熱、身微熱_
+* 汗出 _手足漐漐汗出_
+* 腹滿而喘 _腹滿痛、腹滿不減_
+* 不能食 _宿食_
+* 大便難 _不大便_
+* 譫語
+
+※ 4가지 승기탕（후박삼물탕） 어떻게 구분할 것인가?
+* 본초의 특성을 바탕으로 환자에 맞게 조정
+* 보다 편리한 접근으로는 三一承氣湯 _大小便不通, 胸腹滿痛_
+  - [《東醫寶鑑》 雜病篇卷之二 > 寒(上) > 傷寒裏證](https://mediclassics.kr/books/8/volume/10#content_1216)
+  - [《東醫寶鑑》 內景篇卷之四 > 大便 > 大小便不通](https://mediclassics.kr/books/8/volume/4#content_1282)
+  -	[《東醫寶鑑》 雜病篇卷之五 > 嘔吐 > 嘔吐噎嗝反胃, 宜通大便](https://mediclassics.kr/books/8/volume/13#content_366)
 
 
 #### 4) 下法을 쓰면 안되는 경우
