@@ -19,7 +19,7 @@
   NoA: ['033']
   Page: D512
   Formula :
-    Ingredients: "[葛根](HERBURL)（四兩） [麻黃](HERBURL/마황)（三兩，去節） [甘草](HERBURL/감초)（二兩，炙） [芍藥](HERBURL/작약)（二兩） [桂枝](HERBURL/계지)（二兩，去皮） [生薑](HERBURL/생강)（二兩，切） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[葛根](HERBURL)（四兩） [麻黃](HERBURL/마황)（三兩，去節） [甘草](HERBURL/감초)（二兩，炙） [芍藥](HERBURL/작약)（二兩） [桂枝](HERBURL/계지)（二兩，去皮） [生薑](HERBURL/생강)（二兩，切） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右八味，以水一斗，先煮葛根、麻黃，減二升，去白沫，內諸藥，煮取三升，去滓。溫服一升。
     Treat: 覆取微似汗。
   Features: 發汗解表, 降逆止嘔.
@@ -31,7 +31,7 @@
   NoA: ['031', '032']
   Page: D510
   Formula :
-    Ingredients: "[葛根](HERBURL)（四兩） [麻黃](HERBURL/마황)（三兩，去節） [桂枝](HERBURL/계지)（二兩，去皮） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [芍藥](HERBURL/작약)（二兩） [大棗](HERBURL)（十二兩，擘）"
+    Ingredients: "[葛根](HERBURL)（四兩） [麻黃](HERBURL/마황)（三兩，去節） [桂枝](HERBURL/계지)（二兩，去皮） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [芍藥](HERBURL/작약)（二兩） [大棗](HERBURL/대조)（十二兩，擘）"
     Directions: 右七味，以水一斗，先煮麻黃、葛根，減二升，去白沫，內諸藥，煮取三升，去滓。溫服一升。
     Treat: 覆取微似汗。餘如桂枝法將息及禁忌。諸湯皆倣此。
   Features: 發汗解表, 升津舒經.
@@ -43,7 +43,7 @@
   NoA: ['034']
   Page: D513
   Formula :
-    Ingredients: "[葛根](HERBURL)（半斤） [甘草](HERBURL/감초)（二兩，炙） [黃芩](HERBURL)（三兩） [黃連](HERBURL/황련)（三兩）"
+    Ingredients: "[葛根](HERBURL)（半斤） [甘草](HERBURL/감초)（二兩，炙） [黃芩](HERBURL/황금)（三兩） [黃連](HERBURL/황련)（三兩）"
     Directions: 右四味，以水八升，先煮葛根，減二升，內諸藥，煮取二升，去滓。分溫再服。
   Features: 解肌淸熱, 堅陰止利.
   Indications: 太陽病桂枝證, 醫反下之, 裏熱挾穀邪下利. 見下利不止, 喘而汗出, 脈促. (34)
@@ -77,7 +77,7 @@
   NoA: ['158']
   Page: D118
   Formula :
-    Ingredients: "[甘草](HERBURL/감초)（四兩，炙） [黃芩](HERBURL)（三兩） [乾薑](HERBURL/건강)（三兩） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL)（十二枚，擘） [黃連](HERBURL/황련)（一兩）"
+    Ingredients: "[甘草](HERBURL/감초)（四兩，炙） [黃芩](HERBURL/황금)（三兩） [乾薑](HERBURL/건강)（三兩） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL/대조)（十二枚，擘） [黃連](HERBURL/황련)（一兩）"
     Directions: 右六味，以水一斗，煮取六升，去滓，再煎取三升。溫服一升，日三服。
     Explanation: <small>（臣億等謹按：上生薑瀉心湯法，本云理中人參黃芩湯，今詳瀉心以療痞，痞氣因發陰而生，是半夏、生薑、甘草瀉心三方，皆本於理中也。其方必各有人參，今甘草瀉心中無者，脫落之也。又按《千金》幷《外臺秘要》治傷寒䘌食，用此方，皆有人參，知脫落無疑。）</small>
   Features: 補中健脾, 和胃消痞.
@@ -101,7 +101,7 @@
   NoA: ['174']
   Page: D109
   Formula :
-    Ingredients: "[附子](HERBURL)（三枚，炮，去皮，破） [白朮](HERBURL)（四兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[附子](HERBURL)（三枚，炮，去皮，破） [白朮](HERBURL)（四兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右五味，以水六升，煮取二升，去滓。分溫三服。
     Treat: 初一服，其人身如痹，半日許復服之，三服都盡，其人如冒狀，勿怪。此以附子、朮，倂走皮內，逐水氣未得除，故使之耳。法當加桂四兩。此本一方二法，以大便鞕，小便自利，去桂也，以大便不鞕，小便不利，當加桂。附子三枚恐多也，虛弱家及產婦，宜減服之。
   Features: 溫經散寒, 祛風除濕.
@@ -124,7 +124,7 @@
   NoA: ['359']
   Page:  D13
   Formula :
-    Ingredients: "[乾薑](HERBURL/건강) [黃芩](HERBURL) [黃連](HERBURL/황련) [人參](HERBURL)（各三兩）"
+    Ingredients: "[乾薑](HERBURL/건강) [黃芩](HERBURL/황금) [黃連](HERBURL/황련) [人參](HERBURL/인삼)（各三兩）"
     Directions: 右四味，以水六升，煮取二升，去滓。分溫再服。
   Features: 淸上溫下, 辛開苦降.
   Indications: 寒格吐利證. 見傷寒本自寒下, 醫復吐下之, 寒格更逆吐下, 若食入口卽吐. ［359］
@@ -135,7 +135,7 @@
   NoA: ['014']
   Page:  D392
   Formula :
-    Ingredients: "[葛根](HERBURL)（四兩） [麻黃](HERBURL/마황)（三兩，去節） [芍藥](HERBURL/작약)（二兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘） [桂枝](HERBURL/계지)（二兩，去皮）"
+    Ingredients: "[葛根](HERBURL)（四兩） [麻黃](HERBURL/마황)（三兩，去節） [芍藥](HERBURL/작약)（二兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘） [桂枝](HERBURL/계지)（二兩，去皮）"
     Directions: 右七味，以水一斗，先煮麻黃、葛根，減二升，去上沫，內諸藥，煮取三升，去滓。
     Treat: 溫服一升，覆取微似汗，不須啜粥。餘如桂枝法將息及禁忌。
     Explanation: <small>（臣億等謹按：仲景本論，太陽中風自汗用桂枝，傷寒無汗用麻黃，今證云汗出惡風，而方中有麻黃，恐非本意也。第三卷有葛根湯證云無汗惡風，正與此方同，是合用麻黃也。此云桂枝加葛根湯，恐是桂枝中但加葛根耳。）</small>
@@ -148,7 +148,7 @@
   NoA: ['117']
   Page:  D387
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（五兩，去皮） [芍藥](HERBURL/작약)（三兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[桂枝](HERBURL/계지)（五兩，去皮） [芍藥](HERBURL/작약)（三兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions:  右五味，以水七升，煮取三升，去滓。溫服一升。
     Treat: 本云：桂枝湯，今加桂滿五兩。所以加桂者，以能泄奔豚氣也。
   Features: 溫通心陽, 平衝逆氣.
@@ -160,7 +160,7 @@
   NoA: ['279']
   Page:  D389
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [大黃](HERBURL)（二兩） [芍藥](HERBURL/작약)（六兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [大黃](HERBURL/대황)（二兩） [芍藥](HERBURL/작약)（六兩） [生薑](HERBURL/생강)（三兩，切） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右六味，以水七升，煮取三升，去滓。溫服一升，日三服。
   Features: 通陽益脾, 活血瀉實.
   Indications: 太陽病, 誤下, 見大實痛. ［279］
@@ -171,7 +171,7 @@
   NoA: ['020']
   Page:  D391
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（三兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十二枚，擘） [附子](HERBURL)（一枚，炮，去皮，破八片）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（三兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十二枚，擘） [附子](HERBURL)（一枚，炮，去皮，破八片）"
     Directions: 右六味，以水七升，煮取三升，去滓。溫服一升。
     Explanation: 本云桂枝湯，今加附子。
     Treat: 將息如前法。
@@ -184,7 +184,7 @@
   NoA: ['062']
   Page:  D402
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（四兩） [甘草](HERBURL/감초)（二兩，炙） [人參](HERBURL)（三兩） [大棗](HERBURL)（十二枚，擘） [生薑](HERBURL/생강)（四兩）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（四兩） [甘草](HERBURL/감초)（二兩，炙） [人參](HERBURL/인삼)（三兩） [大棗](HERBURL/대조)（十二枚，擘） [生薑](HERBURL/생강)（四兩）"
     Directions: 右六味，以水一斗二升，煮取三升，去滓。溫服一升。
     Explanation: 本云：桂枝湯，今加芍藥、生薑、人參。
   Features: 調和營衛, 益氣和營.
@@ -196,7 +196,7 @@
   NoA: ['279']
   Page:  D390
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（六兩） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘） [生薑](HERBURL/생강)（三兩，切）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（六兩） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘） [生薑](HERBURL/생강)（三兩，切）"
     Directions: 右五味，以水七升，煮取三升，去滓。溫分三服。
     Explanation: 本云：桂枝湯，今加芍藥。
   Features: 調和營衛, 通陽斂陰, 活血和絡.
@@ -208,7 +208,7 @@
   NoA: ['018', '043']
   Page:  D396
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [芍藥](HERBURL/작약)（三兩） [大棗](HERBURL)（十二枚，擘） [厚朴](HERBURL)（二兩，炙，去皮） [杏二](HERBURL)（五十枚，去皮尖）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [芍藥](HERBURL/작약)（三兩） [大棗](HERBURL/대조)（十二枚，擘） [厚朴](HERBURL/후박)（二兩，炙，去皮） [杏二](HERBURL)（五十枚，去皮尖）"
     Directions: 右七味，以水七升，微火煮取三升，去滓。溫服一升。覆取微似汗。
   Features: 解肌祛風, 降氣定喘.
   Indications: 󰆗太陽中風, 引發宿疾喘息.(18) 󰆘太陽病, 表邪未解, 下之微喘.(43)
@@ -219,7 +219,7 @@
   NoA: ['118']
   Page:  D398
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（一兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [牡蠣](HERBURL)（二兩，熬） [龍骨](HERBURL)（二兩）"
+    Ingredients: "[桂枝](HERBURL/계지)（一兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [牡蠣](HERBURL/모려)（二兩，熬） [龍骨](HERBURL/용골)（二兩）"
     Directions: 右四味，以水五升，煮取二升半，去滓。溫服八合，日三服。
   Features: 通陽益陰, 潛鎭安神.
   Indications: 火逆下之, 又加燒針, 心陽損傷, 而煩躁. ［118］
@@ -241,7 +241,7 @@
   NoA: ['028']
   Page:  D399
   Formula :
-    Ingredients: "[芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（切） [白朮](HERBURL) [茯苓](HERBURL)（各三兩） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（切） [白朮](HERBURL) [茯苓](HERBURL/복령)（各三兩） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右六味，以水八升，煮取三升，去滓。溫服一升。
     Treat: 小便利則愈。
     Explanation: 本云：桂枝湯，今去桂枝加茯苓、白朮。
@@ -254,7 +254,7 @@
   NoA: ['022']
   Page:  D397
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十二枚，擘） [附子](HERBURL)（一枚，炮，去皮，破八片）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十二枚，擘） [附子](HERBURL)（一枚，炮，去皮，破八片）"
     Directions: 右五味，以水七升，煮取三升，去滓。溫服一升。
     Explanation: 本云：桂枝湯，今去芍藥，加附子。
     Treat: 將息如前法。
@@ -267,7 +267,7 @@
   NoA: ['112']
   Page: D400
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十二枚，擘） [牡蠣](HERBURL)（五兩，熬） [蜀漆](HERBURL)（三兩，洗去腥） [龍骨](HERBURL)（四兩）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十二枚，擘） [牡蠣](HERBURL/모려)（五兩，熬） [蜀漆](HERBURL)（三兩，洗去腥） [龍骨](HERBURL/용골)（四兩）"
     Directions: 右七味，以水一斗二升，先煮蜀漆，減二升，內諸藥，煮取三升，去滓。溫服一升。
     Explanation: 本云：桂枝湯，今去芍藥，加蜀漆、牡蠣、龍骨。
   Features: 扶陽和陰, 補益心陽, 鎭潛安神.
@@ -279,7 +279,7 @@
   NoA: ['021']
   Page:  D388
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右四味，以水七升，煮取三升，去滓。溫服一升，
     Explanation: 本云：桂枝湯，今去芍藥。
     Treat: 將息如前法。
@@ -292,7 +292,7 @@
   NoA: ['023']
   Page:  D395
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（一兩十六銖，去皮） [芍藥](HERBURL/작약) [生薑](HERBURL/생강)（切） [甘草](HERBURL/감초)（炙） [麻黃](HERBURL/마황)（各一兩，去節） [大棗](HERBURL)（四枚，擘） [杏仁](HERBURL/행인)（二十四枚，湯浸，去皮尖及兩仁者）"
+    Ingredients: "[桂枝](HERBURL/계지)（一兩十六銖，去皮） [芍藥](HERBURL/작약) [生薑](HERBURL/생강)（切） [甘草](HERBURL/감초)（炙） [麻黃](HERBURL/마황)（各一兩，去節） [大棗](HERBURL/대조)（四枚，擘） [杏仁](HERBURL/행인)（二十四枚，湯浸，去皮尖及兩仁者）"
     Directions: 右七味，以水五升，先煮麻黃一二沸，去上沫，內諸藥，煮取一升八合，去滓。溫服六合。
     Explanation: 本云：桂枝湯三合，麻黃湯三合，倂爲六合，頓服。<small>（臣億等謹按：桂枝湯方：桂枝、芍藥、生薑各三兩，甘草二兩，大棗十二枚。麻黃湯方：麻黃三兩，桂枝二兩，甘草一兩，杏仁七十箇。今以算法約之， _二湯各取三分之一_，即得桂枝一兩十六銖，芍藥、生薑、甘草各一兩，大棗四枚，杏仁二十三箇零三分枚之一，收之得二十四箇，合方。詳此方乃三分之一，非各半也，宜云合半湯。）</small>
     Treat: 將息如上法。
@@ -305,7 +305,7 @@
   NoA: ['174']
   Page:  D387
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（四兩，去皮） [附子](HERBURL)（三枚，炮，去皮，破） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十二枚，擘） [甘草](HERBURL/감초)（二兩，炙）"
+    Ingredients: "[桂枝](HERBURL/계지)（四兩，去皮） [附子](HERBURL)（三枚，炮，去皮，破） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十二枚，擘） [甘草](HERBURL/감초)（二兩，炙）"
     Directions: 右五味，以水六升，煮取二升，去滓。分溫三服。
   Features: 溫經散寒, 祛風除濕.
   Indications: 傷寒八九日, 風濕相搏, 身體疼煩, 不能自轉側, 不嘔不渴, 脈浮虛而澁. ［174］
@@ -316,7 +316,7 @@
   NoA: ['025']
   Page:  D393
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（一兩十七銖，去皮） [芍藥](HERBURL/작약)（一兩六銖） [麻黃](HERBURL/마황)（十六銖，去節） [生薑](HERBURL/생강)（一兩六銖，切） [杏仁](HERBURL/행인)（十六箇，去皮尖） [甘草](HERBURL/감초)（一兩二銖，炙） [大棗](HERBURL)（五枚，擘）"
+    Ingredients: "[桂枝](HERBURL/계지)（一兩十七銖，去皮） [芍藥](HERBURL/작약)（一兩六銖） [麻黃](HERBURL/마황)（十六銖，去節） [生薑](HERBURL/생강)（一兩六銖，切） [杏仁](HERBURL/행인)（十六箇，去皮尖） [甘草](HERBURL/감초)（一兩二銖，炙） [大棗](HERBURL/대조)（五枚，擘）"
     Directions: 右七味，以水五升，先煮麻黃一二沸，去上沫，內諸藥，煮取二升，去滓。溫服一升，日再服。
     Explanation: 本云：桂枝湯二分、麻黃湯一分，合爲二升，分再服。今合爲一方。<small>（臣億等謹按：桂枝湯方：桂枝、芍藥、生薑各三兩，甘草二兩，大棗十二枚。麻黃湯方：麻黃三兩，桂枝二兩，甘草一兩，杏仁七十箇。今以算法約之， _桂枝湯取十二分之五_，即得桂枝、芍藥、生薑各一兩六銖，甘草二十銖，大棗五枚。 _麻黃湯取九分之二_，即得麻黃十六銖，桂枝十銖三分銖之二，收之得十一銖，甘草五銖三分銖之一，收之得六銖，杏仁十五箇九分枚之四，收之得十六箇。二湯所取相合，即共得桂枝一兩十七銖，麻黃十六銖，生薑、芍藥各一兩六銖，甘草一兩二銖，大棗五枚，杏仁十六箇，合方。）</small>
     Treat: 將息如前法。
@@ -329,7 +329,7 @@
   NoA: ['027']
   Page:  D394
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（去皮） [芍藥](HERBURL/작약) [麻黃](HERBURL/마황) [甘草](HERBURL/감초)（各十八銖，炙） [大棗](HERBURL)（四枚，擘） [生薑](HERBURL/생강)（一兩二銖，切） [石膏](HERBURL)（二十四銖，碎，綿裹）"
+    Ingredients: "[桂枝](HERBURL/계지)（去皮） [芍藥](HERBURL/작약) [麻黃](HERBURL/마황) [甘草](HERBURL/감초)（各十八銖，炙） [大棗](HERBURL/대조)（四枚，擘） [生薑](HERBURL/생강)（一兩二銖，切） [石膏](HERBURL)（二十四銖，碎，綿裹）"
     Directions: 右七味，以水五升，煮麻黃一二沸，去上沫，內諸藥，煮取二升，去滓。溫服一升。
     Explanation: 本云：當裁爲越婢湯、桂枝湯合之，飲一升。今合爲一方，桂枝湯二分，越婢湯一分。<small>（臣億等謹按：桂枝湯方：桂枝、芍藥、生薑各三兩，甘草二兩，大棗十二枚。越婢湯方：麻黃二兩，生薑三兩，甘草二兩，石膏半斤，大棗十五枚。今以算法約之， _桂枝湯取四分之一_，即得桂枝、芍藥、生薑各十八銖，甘草十二銖，大棗三枚。 _越婢湯取八分之一_，即得麻黃十八銖、生薑九銖，甘草六銖、石膏二十四銖，大棗一枚八分之七，棄之。二湯所取相合，即共得桂枝、芍藥、甘草、麻黃各十八銖，生薑一兩三銖，石膏二十四銖，大棗四枚，合方。舊云：桂枝三，今取四分之一，即當云桂枝二也。越婢湯方，見 _仲景雜方中_。《外臺秘要》一云：起脾湯。）</small>
   Features: 微汗解表, 兼淸裏熱.
@@ -341,7 +341,7 @@
   NoA: ['163']
   Page:  D385
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（四兩，別切） [甘草](HERBURL/감초)（四兩，炙） [白朮](HERBURL)（三兩） [人參](HERBURL)（三兩） [乾薑](HERBURL/건강)（三兩）"
+    Ingredients: "[桂枝](HERBURL/계지)（四兩，別切） [甘草](HERBURL/감초)（四兩，炙） [白朮](HERBURL)（三兩） [人參](HERBURL/인삼)（三兩） [乾薑](HERBURL/건강)（三兩）"
     Directions: 右五味，以水九升，先煮四味，取五升，內桂，更煮取三升，去滓。溫服一升，日再夜一服。
   Features: 溫中解表.
   Indications: 太陽病, 外證未除, 而數下之, 遂協熱而利, 利下不止, 心下痞硬, 表裏不解者. ［163］
@@ -351,7 +351,7 @@
   NameK: ['계지탕']
   NoA: ['012', '013', '015', '016', '017', '019', '024', '025', '026', '028', '029', '042', '044', '045', '051', '053', '054', '056', '057', '063', '091', '095', '106', '164', '167', '234', '240', '372', '387']
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右五味，㕮咀三味，以水七升，微火煮取三升，去滓。適寒溫，服一升。服已須臾，歠熱稀粥一升餘，以助藥力。
     Treat: 溫覆令一時許，遍身漐漐微似有汗者益佳，不可令如水流離，病必不除。若一服汗出病差，停後服，不必盡劑。若不汗，更服，依前法；又不汗，後服小促其間。半日許，令三服盡。若病重者，一日一夜服，周時觀之，服一劑盡，病證猶在者，更作服。若汗不出，乃服至二三劑。禁生冷、粘滑、肉麵、五辛、酒酪、臭惡等物。
   Features: 祛風解肌, 調和營衛
@@ -409,7 +409,7 @@
   NoA: ['352']
   Page:  D179
   Formula :
-    Ingredients: "[當歸](HERBURL)（三兩） [芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（二兩，炙） [通草](HERBURL)（二兩） [桂枝](HERBURL/계지)（三兩，去皮） [細辛](HERBURL)（三兩） [生薑](HERBURL/생강)（半斤，切） [吳茱萸](HERBURL)（二升） [大棗](HERBURL)（二十五枚，擘）"
+    Ingredients: "[當歸](HERBURL)（三兩） [芍藥](HERBURL/작약)（三兩） [甘草](HERBURL/감초)（二兩，炙） [通草](HERBURL)（二兩） [桂枝](HERBURL/계지)（三兩，去皮） [細辛](HERBURL)（三兩） [生薑](HERBURL/생강)（半斤，切） [吳茱萸](HERBURL)（二升） [大棗](HERBURL/대조)（二十五枚，擘）"
     Directions: 右九味，以水六升，清酒六升和，煮取五升，去滓。溫分五服。（一方：水酒各四升。）
   Features: 養血通脈, 溫陽祛寒.
   Indications: 內有久寒, 血虛寒厥, 手足厥寒, 脈微欲絶. ［352］
@@ -420,7 +420,7 @@
   NoA: ['351']
   Page:  D178
   Formula :
-    Ingredients: "[當歸](HERBURL)（三兩） [桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（三兩） [細辛](HERBURL)（三兩） [甘草](HERBURL/감초)（二兩，炙） [通草](HERBURL)（二兩） [大棗](HERBURL)（二十五枚，擘。一法：十二枚）"
+    Ingredients: "[當歸](HERBURL)（三兩） [桂枝](HERBURL/계지)（三兩，去皮） [芍藥](HERBURL/작약)（三兩） [細辛](HERBURL)（三兩） [甘草](HERBURL/감초)（二兩，炙） [通草](HERBURL)（二兩） [大棗](HERBURL/대조)（二十五枚，擘。一法：十二枚）"
     Directions: 右七味，以水八升，煮取三升，去滓。溫服一升，日三服。
   Features: 溫經散寒, 養血通脈.
   Indications: 血虛寒凝, 手足厥寒, 脈細欲絶. ［351］
@@ -431,7 +431,7 @@
   NoA: ['056', '208', '209', '212', '215', '217', '220', '238', '240', '241', '242', '251', '252', '253', '254', '255', '256', '320', '321', '322']
   Page:  D28
   Formula :
-    Ingredients: "[大黃](HERBURL)（四兩，酒洗） [厚朴](HERBURL)（半斤，炙，去皮） [枳實](HERBURL)（五枚，炙,） [芒消](HERBURL)（三合）"
+    Ingredients: "[大黃](HERBURL/대황)（四兩，酒洗） [厚朴](HERBURL/후박)（半斤，炙，去皮） [枳實](HERBURL/지실)（五枚，炙,） [芒消](HERBURL)（三合）"
     Directions: 右四味，以水一斗，先煮二物，取五升，去滓，內大黃，更煮取二升，去滓，內芒消，更上微火一兩沸。分溫再服。 ［320］ 內芒消，更上火，令一兩沸。分溫再服，一服得利，止後服。
     Explanation: 得下，餘勿服。
   Features: 通腑瀉熱, 破結除滿, 急下存陰.
@@ -443,7 +443,7 @@
   NoA: ['094', '103', '136', '165', '217', '253']
   Page:  D30
   Formula :
-    Ingredients: "[柴胡](HERBURL)（半斤） [黃芩](HERBURL)（三兩） [芍藥](HERBURL/작약)（三兩） [半夏](HERBURL/반하)（半升，洗） [生薑](HERBURL/생강)（五兩，切） [枳實](HERBURL)（四枚，炙） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[柴胡](HERBURL/시호)（半斤） [黃芩](HERBURL/황금)（三兩） [芍藥](HERBURL/작약)（三兩） [半夏](HERBURL/반하)（半升，洗） [生薑](HERBURL/생강)（五兩，切） [枳實](HERBURL/지실)（四枚，炙） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右七味，以水一斗二升，煮取六升，去滓，再煎。溫服一升，日三服。
     Explanation: 一方，加大黃二兩，若不加，恐不爲大柴胡湯。
   Features: 雙解表裏.
@@ -455,7 +455,7 @@
   NoA: ['038', '039']
   Page:  D25
   Formula :
-    Ingredients: "[麻黃](HERBURL/마황)（六兩，去節） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [杏仁](HERBURL/행인)（四十枚，去皮，尖） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十枚¶，擘） [石膏](HERBURL)（如雞子大，碎）"
+    Ingredients: "[麻黃](HERBURL/마황)（六兩，去節） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [杏仁](HERBURL/행인)（四十枚，去皮，尖） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十枚¶，擘） [石膏](HERBURL)（如雞子大，碎）"
     Directions: 右七味，以水九升，先煮麻黃，減二升，去上沫，內諸藥，煮取三升，去滓。溫服一升。取微似汗。
     Treat: 汗出多者，溫粉粉之。一服汗者，停後服。若復服，汗多亡陽，遂<small>一作逆</small>虛，惡風，煩躁不得眠也。
     Ann: "十枚: 《玉》《要》《註解》＂十二枚＂"
@@ -468,7 +468,7 @@
   NoA: ['134', '135', '136', '137', '149']
   Page:  D32
   Formula :
-    Ingredients: "[大黃](HERBURL)（六兩，去皮） [芒消](HERBURL)（一升） [甘遂](HERBURL)（一錢匕）"
+    Ingredients: "[大黃](HERBURL/대황)（六兩，去皮） [芒消](HERBURL)（一升） [甘遂](HERBURL)（一錢匕）"
     Directions: 右三味，以水六升，先煮大黃，取二升，去滓，內芒消，煮一兩沸，內甘遂末，溫服一升。
     Treat: 得快利，止後服。
   Features: 瀉熱逐水
@@ -480,7 +480,7 @@
   NoA: ['131']
   Page:  D31
   Formula :
-    Ingredients: "[大黃](HERBURL)（半斤） [葶藶子](HERBURL)（半升，熬） [芒消](HERBURL)（半升） [杏仁](HERBURL/행인)（半升，去皮尖，熬黑）"
+    Ingredients: "[大黃](HERBURL/대황)（半斤） [葶藶子](HERBURL)（半升，熬） [芒消](HERBURL)（半升） [杏仁](HERBURL/행인)（半升，去皮尖，熬黑）"
     Directions: 右四味，擣篩二味，內杏仁、芒消，合研如脂，和散。取如彈丸一枚，別擣甘遂末一錢匕，白蜜二合，水二升，煮取一升。溫頓服之，一宿乃下。
     Treat: 如不下，更服，取下爲效。禁如藥法。
   Features: 瀉熱逐水
@@ -492,7 +492,7 @@
   NoA: ['154']
   Page:  D34
   Formula :
-    Ingredients: "[大黃](HERBURL)（二兩） [黃連](HERBURL/황련)（一兩）"
+    Ingredients: "[大黃](HERBURL/대황)（二兩） [黃連](HERBURL/황련)（一兩）"
     Directions: 右二味，以麻沸湯二升，漬之須臾，絞去滓。分溫再服。
     Explanation: <small>（臣億等看詳大黃黃連瀉心湯，諸本皆二味。又後附子瀉心湯，用大黃、黃連、黃芩、附子，恐是前方中亦有黃芩，後但加附子也。故後云：附子瀉心湯，本云加附子也。）</small>
   Features: 瀉熱消痞
@@ -504,7 +504,7 @@
   NoA: ['106']
   Page:  D410
   Formula :
-    Ingredients: "[桃仁](HERBURL)（五十箇，去皮尖） [大黃](HERBURL)（四兩） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [芒消](HERBURL)（二兩）"
+    Ingredients: "[桃仁](HERBURL)（五十箇，去皮尖） [大黃](HERBURL/대황)（四兩） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [芒消](HERBURL)（二兩）"
     Directions: 右五味，以水七升，煮取二升半，去滓，內芒消，更上火，微沸下火。先食溫服五合，日三服，當微利。
   Features: 破血消瘀, 瀉下瘀熱.
   Indications: 太陽蓄血輕證. 見熱結膀胱, 其人如狂, 小腹急結, 血自下. ［106］
@@ -527,7 +527,7 @@
   NoA: ['247']
   Page:  D492
   Formula :
-    Ingredients: "[麻子仁](HERBURL)（二升） [芍藥](HERBURL/작약)（半斤） [枳實](HERBURL)（半斤，炙） [大黃](HERBURL)（一斤，去皮） [厚朴](HERBURL)（一尺，炙，去皮） [杏仁](HERBURL/행인)（一升，去皮尖，熬，別作脂）"
+    Ingredients: "[麻子仁](HERBURL)（二升） [芍藥](HERBURL/작약)（半斤） [枳實](HERBURL/지실)（半斤，炙） [大黃](HERBURL/대황)（一斤，去皮） [厚朴](HERBURL/후박)（一尺，炙，去皮） [杏仁](HERBURL/행인)（一升，去皮尖，熬，別作脂）"
     Directions: 右六味，蜜和丸如梧桐子大。飲服十丸，日三服，漸加，以知爲度。
   Features: 潤腸通便, 緩下瀉熱.
   Indications: 脾約證, 趺陽脈浮而澁, 大便硬, 小便數.
@@ -560,7 +560,7 @@
   NoA: ['357']
   Page:  D493
   Formula :
-    Ingredients: "[麻黃](HERBURL/마황)（二兩半，去節） [升麻](HERBURL)（一兩一分） [當歸](HERBURL)（一兩一分） [知母](HERBURL)（十八銖） [黃芩](HERBURL)（十八銖） [萎蕤](HERBURL)（十八銖，一作菖蒲） [芍藥](HERBURL/작약)（六銖） [天門冬](HERBURL)（六銖，去心） [桂枝](HERBURL/계지)（六銖，去皮） [茯苓](HERBURL)（六銖） [甘草](HERBURL/감초)（六銖，炙） [石膏](HERBURL)（六銖，碎，綿裹） [白朮](HERBURL)（六銖） [乾薑](HERBURL/건강)（六銖）"
+    Ingredients: "[麻黃](HERBURL/마황)（二兩半，去節） [升麻](HERBURL)（一兩一分） [當歸](HERBURL)（一兩一分） [知母](HERBURL)（十八銖） [黃芩](HERBURL/황금)（十八銖） [萎蕤](HERBURL)（十八銖，一作菖蒲） [芍藥](HERBURL/작약)（六銖） [天門冬](HERBURL)（六銖，去心） [桂枝](HERBURL/계지)（六銖，去皮） [茯苓](HERBURL/복령)（六銖） [甘草](HERBURL/감초)（六銖，炙） [石膏](HERBURL)（六銖，碎，綿裹） [白朮](HERBURL)（六銖） [乾薑](HERBURL/건강)（六銖）"
     Directions: 右十四味，以水一斗，先煮麻黃一兩沸，去上沫，內諸藥，煮取三升，去滓。分溫三服。相去如炊三斗米頃，令盡，汗出，愈。
   Features: 發越鬱陽, 淸上溫下.
   Indications: 傷寒, 大下後, 上熱下寒, 正虛陽鬱. 見手足厥逆, 咽喉不利, 唾膿血, 泄利不止, 寸脈沈而遲, 下部脈不至. ［367］
@@ -571,7 +571,7 @@
   NoA: ['262']
   Page:  D498
   Formula :
-    Ingredients: "[麻黃](HERBURL/마황)（二兩，去節） [連軺](HERBURL)（二兩，連翹根是） [杏仁](HERBURL/행인)（四十箇，去皮尖） [赤小豆](HERBURL)（一升） [大棗](HERBURL)（十二枚，擘） [生梓白皮](HERBURL)（切，一升） [生薑](HERBURL/생강)（二兩，切） [甘草](HERBURL/감초)（二兩，炙）"
+    Ingredients: "[麻黃](HERBURL/마황)（二兩，去節） [連軺](HERBURL)（二兩，連翹根是） [杏仁](HERBURL/행인)（四十箇，去皮尖） [赤小豆](HERBURL)（一升） [大棗](HERBURL/대조)（十二枚，擘） [生梓白皮](HERBURL)（切，一升） [生薑](HERBURL/생강)（二兩，切） [甘草](HERBURL/감초)（二兩，炙）"
     Directions: 右八味，以潦水一斗，先煮麻黃再沸，去上沫，內諸藥，煮取三升，去滓。分溫三服，半日服盡。
   Features: 解表淸熱, 利濕退黃.
   Indications: 傷寒, 瘀熱在裏, 身黃. ［262］
@@ -606,7 +606,7 @@
   NoA: ['395']
   Page:  D237
   Formula :
-    Ingredients: "[牡蠣](HERBURL)（熬） [澤瀉](HERBURL) [蜀漆](HERBURL)（煖水洗，去腥） [葶藶子](HERBURL)（熬） [商陸根](HERBURL)（熬） [海藻](HERBURL)（洗，去醎） [栝樓根](HERBURL)（各等分）"
+    Ingredients: "[牡蠣](HERBURL/모려)（熬） [澤瀉](HERBURL) [蜀漆](HERBURL)（煖水洗，去腥） [葶藶子](HERBURL)（熬） [商陸根](HERBURL)（熬） [海藻](HERBURL)（洗，去醎） [栝樓根](HERBURL)（各等分）"
     Directions: 右七味，異擣，下篩爲散，更於臼中治之。白飲和服方寸匕，日三服。小便利，止後服。
     Treat: 小便利, 止後服.
   Features: 逐水淸熱, 軟堅散結.
@@ -641,7 +641,7 @@
   NoA: ['149']
   Page:  D157
   Formula :
-    Ingredients: "[半夏](HERBURL/반하)（半斤，洗） [黃芩](HERBURL) [乾薑](HERBURL/건강) [人參](HERBURL) [甘草](HERBURL/감초)（炙，各三兩） [黃連](HERBURL/황련)（一兩） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[半夏](HERBURL/반하)（半斤，洗） [黃芩](HERBURL/황금) [乾薑](HERBURL/건강) [人參](HERBURL/인삼) [甘草](HERBURL/감초)（炙，各三兩） [黃連](HERBURL/황련)（一兩） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右七味，以水一斗，煮取六升，去滓，再煎取三升。溫服一升，日三服。
     Explanation: 須大陷胸湯者，方用前第二法。（一方用半夏一升。）
   Features: 和胃降逆, 消痞.
@@ -711,7 +711,7 @@
   NoA: ['026', '168', '169', '170', '222']
   Page:  D146
   Formula :
-    Ingredients: "[知母](HERBURL)（六兩） [石膏](HERBURL)（一斤，碎，綿裹） [甘草](HERBURL/감초)（炙，二兩） [粳米](HERBURL)（六合） [人參](HERBURL)（三兩, 或二兩）"
+    Ingredients: "[知母](HERBURL)（六兩） [石膏](HERBURL)（一斤，碎，綿裹） [甘草](HERBURL/감초)（炙，二兩） [粳米](HERBURL)（六合） [人參](HERBURL/인삼)（三兩, 或二兩）"
     Directions: 右五味，以水一斗，煮米熟，湯成，去滓。溫服一升，日三服。
     Explanation: 此方立夏後、立秋前乃可服，立秋後不可服。正月、二月、三月尚凜冷，亦不可與服之，與之則嘔利而腹痛。諸亡血、虛家，亦不可與，得之則腹痛利者，但可溫之，當愈。
   Features: 淸熱除煩, 益氣生津.
@@ -735,7 +735,7 @@
   NoA: ['073', '356']
   Page:  D305
   Formula :
-    Ingredients: "[茯苓](HERBURL)（二兩） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（一兩，炙） [生薑](HERBURL/생강)（三兩，切）"
+    Ingredients: "[茯苓](HERBURL/복령)（二兩） [桂枝](HERBURL/계지)（二兩，去皮） [甘草](HERBURL/감초)（一兩，炙） [生薑](HERBURL/생강)（三兩，切）"
     Directions: 右四味，以水四升，煮取二升，去滓。分溫三服。
   Features: 溫中化飮, 通陽利水.
   Indications: 󰉭傷寒, 水停中焦, 汗出不渴. (73)  󰉮傷寒, 水停致厥, 心下悸. ［356］
@@ -746,7 +746,7 @@
   NoA: ['065']
   Page:  D307
   Formula :
-    Ingredients: "[茯苓](HERBURL)（半斤） [桂枝](HERBURL/계지)（四兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十五枚，擘）"
+    Ingredients: "[茯苓](HERBURL/복령)（半斤） [桂枝](HERBURL/계지)（四兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十五枚，擘）"
     Directions: 右四味，以甘爛水一斗，先煮茯苓，減二升，內諸藥，煮取三升，去滓。溫服一升，日三服。
     Explanation: "作[甘爛水](https://mediclassics.kr/books/8/volume/20/#content_475)¶法, 取水二斗, 置大盆內, 以杓陽之, 水上有珠子五六千顆相逐, 取用之."
     Ann: "甘爛水：많이 휘저어 거품진 물（'만히동당이텨거품진믈'）"
@@ -759,7 +759,7 @@
   NoA: ['067']
   Page:  D309
   Formula :
-    Ingredients: "[茯苓](HERBURL)（四兩） [桂枝](HERBURL/계지)（三兩，去皮） [白朮](HERBURL) [甘草](HERBURL/감초)（各二兩，炙）"
+    Ingredients: "[茯苓](HERBURL/복령)（四兩） [桂枝](HERBURL/계지)（三兩，去皮） [白朮](HERBURL) [甘草](HERBURL/감초)（各二兩，炙）"
     Directions: 右四味，以水六升，煮取三升，去滓。分溫三服。
   Features: 溫陽健脾, 利水降衝.
   Indications: 傷寒, 誤用吐下, 脾胃氣虛, 行水上衝. 見心下逆滿, 氣上衝胸, 起則頭暈, 脈沈緊. (67)
@@ -770,7 +770,7 @@
   NoA: ['069']
   Page:  D306
   Formula :
-    Ingredients: "[茯苓](HERBURL)（四兩） [人參](HERBURL)（一兩） [附子](HERBURL)（一枚，生用，去皮，破八片） [甘草](HERBURL/감초)（二兩，炙） [乾薑](HERBURL/건강)（一兩半）"
+    Ingredients: "[茯苓](HERBURL/복령)（四兩） [人參](HERBURL/인삼)（一兩） [附子](HERBURL)（一枚，生用，去皮，破八片） [甘草](HERBURL/감초)（二兩，炙） [乾薑](HERBURL/건강)（一兩半）"
     Directions: 右五味，以水五升，煮取三升，去滓。溫服七合，日二服。
   Features: 回陽益陰
   Indications: 汗下後, 陰陽俱虛, 病仍不解, 煩躁等. (69)
@@ -781,7 +781,7 @@
   NoA: ['155']
   Page: D254
   Formula :
-    Ingredients: "[大黃](HERBURL)（二兩） [黃連](HERBURL/황련)（一兩） [黃芩](HERBURL)（一兩） [附子](HERBURL)（一枚，炮，去皮，破，別煮取汁）"
+    Ingredients: "[大黃](HERBURL/대황)（二兩） [黃連](HERBURL/황련)（一兩） [黃芩](HERBURL/황금)（一兩） [附子](HERBURL)（一枚，炮，去皮，破，別煮取汁）"
     Directions: 右四味，切三味，以麻沸湯二升，漬之須臾，絞去滓，內附子汁。分溫再服。
   Features: 瀉熱消痞, 扶陽固表.
   Indications: 心下痞, 惡寒汗出. ［155］
@@ -792,7 +792,7 @@
   NoA: ['304', '305']
   Page:  D253
   Formula :
-    Ingredients: "[附子](HERBURL)（二枚，炮，去皮，破八片） [茯苓](HERBURL)（三兩） [人參](HERBURL)（二兩） [白朮](HERBURL)（四兩） [芍藥](HERBURL/작약)（三兩）"
+    Ingredients: "[附子](HERBURL)（二枚，炮，去皮，破八片） [茯苓](HERBURL/복령)（三兩） [人參](HERBURL/인삼)（二兩） [白朮](HERBURL)（四兩） [芍藥](HERBURL/작약)（三兩）"
     Directions: 右五味，以水八升，煮取三升，去滓。溫服一升，日三服。
   Features: 溫經助陽, 祛寒化濕.
   Indications: 少陽病, 陽虛寒濕, 口中和, 背惡寒, 身體痛, 手足寒, 骨節痛, 脈沈. ［304', '305］
@@ -803,7 +803,7 @@
   NoA: ['385']
   Page:  D129
   Formula :
-    Ingredients: "[甘草](HERBURL/감초)（二兩，炙） [附子](HERBURL)（一枚，生，去皮，破八片） [乾薑](HERBURL/건강)（一兩半） [人參](HERBURL)（一兩）"
+    Ingredients: "[甘草](HERBURL/감초)（二兩，炙） [附子](HERBURL)（一枚，生，去皮，破八片） [乾薑](HERBURL/건강)（一兩半） [人參](HERBURL/인삼)（一兩）"
     Directions: 右四味，以水三升，煮取一升二合，去滓。分溫再服。
   Features: 回陽復脈, 益氣生津.
   Indications: 霍亂下利, 陽亡液竭, 惡寒, 脈微而復利, 利止亡血. ［385］
@@ -814,7 +814,7 @@
   NoA: ['318']
   Page: D127
   Formula :
-    Ingredients: "[甘草](HERBURL/감초)（炙） [枳實](HERBURL)（破，水漬，炙乾） [柴胡](HERBURL) [芍藥](HERBURL/작약)"
+    Ingredients: "[甘草](HERBURL/감초)（炙） [枳實](HERBURL/지실)（破，水漬，炙乾） [柴胡](HERBURL/시호) [芍藥](HERBURL/작약)"
     Directions: 右四味，各十分，擣篩。白飲和服方寸匕，日三服。
     Explanation: 欬者，加五味子、乾薑各五分，幷主下利。悸者，加桂枝五分。小便不利者，加茯苓五分。腹中痛者，加附子一枚，炮令坼。泄利下重者，先以水五升，煮薤白三升，煮取三升，去滓，以散三方寸匕，內湯中，煮取一升半。分溫再服。
   Features: 疏肝和胃, 透達鬱陽.
@@ -838,7 +838,7 @@
   NoA: ['157']
   Page:  D137
   Formula :
-    Ingredients: "[生薑](HERBURL/생강)（四兩，切） [甘草](HERBURL/감초)（三兩，炙） [人參](HERBURL)（三兩） [乾薑](HERBURL/건강)（一兩） [黃芩](HERBURL)（三兩） [半夏](HERBURL/반하)（半升，洗） [黃連](HERBURL/황련)（一兩） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[生薑](HERBURL/생강)（四兩，切） [甘草](HERBURL/감초)（三兩，炙） [人參](HERBURL/인삼)（三兩） [乾薑](HERBURL/건강)（一兩） [黃芩](HERBURL/황금)（三兩） [半夏](HERBURL/반하)（半升，洗） [黃連](HERBURL/황련)（一兩） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右八味，以水一斗，煮取六升，去滓，再煎取三升。溫服一升，日三服。
     Explanation: 附子瀉心湯，本云加附子。半夏瀉心湯、甘草瀉心湯，同體別名耳。生薑瀉心湯，本云：理中人參黃芩湯，去桂枝、朮，加黃連，幷瀉肝法。
   Features: 和胃降逆, 散水消痞.
@@ -850,7 +850,7 @@
   NoA: ['161']
   Page:  D484
   Formula :
-    Ingredients: "[旋復花](HERBURL)（三兩） [人參](HERBURL)（二兩） [生薑](HERBURL/생강)（五兩） [代赭](HERBURL)（一兩） [甘草](HERBURL/감초)（三兩，炙） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[旋復花](HERBURL)（三兩） [人參](HERBURL/인삼)（二兩） [生薑](HERBURL/생강)（五兩） [代赭](HERBURL)（一兩） [甘草](HERBURL/감초)（三兩，炙） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右七味，以水一斗，煮取六升，去滓，再煎取三升。溫服一升，日三服。
   Features: 和胃降逆, 化痰下氣.
   Indications: 傷寒, 發汗若吐若下, 解後, 胃虛肝鬱, 痰氣上逆. 見心下痞硬, 噫氣不除.［161］
@@ -861,7 +861,7 @@
   NoA: ['100', '102']
   Page:  D47
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘） [芍藥](HERBURL/작약)（六兩） [生薑](HERBURL/생강)（三兩，切） [膠飴](HERBURL)（一升）"
+    Ingredients: "[桂枝](HERBURL/계지)（三兩，去皮） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘） [芍藥](HERBURL/작약)（六兩） [生薑](HERBURL/생강)（三兩，切） [膠飴](HERBURL)（一升）"
     Directions: 右六味，以水七升，煮取三升，去滓，內飴，更上微火消解。溫服一升，日三服。
     Explanation: 嘔家不可用建中湯，以甜故也。
   Features: 溫中補虛, 和裏緩急.
@@ -885,7 +885,7 @@
   NoA: ['070', '208', '209', '213', '214', '250', '251', '374']
   Page:  D48
   Formula :
-    Ingredients: "[大黃](HERBURL)（四兩） [厚朴](HERBURL)（二兩，炙，去皮） [枳實](HERBURL)（三枚，大者，炙）"
+    Ingredients: "[大黃](HERBURL/대황)（四兩） [厚朴](HERBURL/후박)（二兩，炙，去皮） [枳實](HERBURL/지실)（三枚，大者，炙）"
     Directions: 右三味，以水四升，煮取一升二合，去滓。分溫二服。
     Treat: 初服湯當更衣，不爾者盡飲之。若更衣者，勿服之。 ［374］初一服譫語止，若更衣者，停後服。不爾，盡服之。
   Features: 泄熱通便, 除滿消痞.
@@ -897,7 +897,7 @@
   NoA: ['037', '096', '097', '099', '100', '101', '103', '104', '148', '149', '230', '231', '266', '374', '379', '394']
   Page:  D51
   Formula :
-    Ingredients: "[柴胡](HERBURL)（半斤） [黃芩](HERBURL)（三兩） [人參](HERBURL)（三兩） [半夏](HERBURL/반하)（半升，洗） [甘草](HERBURL/감초)（三兩） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL)（十二枚，擘） ； [柴胡](HERBURL)（八兩） [黃芩](HERBURL)（二兩[）人參](HERBURL)（二兩） [半夏](HERBURL/반하)（半升，洗）  [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（二兩） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[柴胡](HERBURL/시호)（半斤） [黃芩](HERBURL/황금)（三兩） [人參](HERBURL/인삼)（三兩） [半夏](HERBURL/반하)（半升，洗） [甘草](HERBURL/감초)（三兩） [生薑](HERBURL/생강)（三兩，切） [大棗](HERBURL/대조)（十二枚，擘）<br> [柴胡](HERBURL/시호)（八兩） [黃芩](HERBURL/황금)（二兩）[人參](HERBURL/인삼)（二兩） [半夏](HERBURL/반하)（半升，洗）  [甘草](HERBURL/감초)（二兩，炙） [生薑](HERBURL/생강)（二兩） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右七味，以水一斗二升，煮取六升，去滓，再煎取三升。溫服一升，日三服。
     Explanation: ［096］若胸中煩而不嘔者，去半夏、人參，加栝樓實一枚。若渴，去半夏，加人參，合前成四兩半，栝樓根四兩。若腹中痛者，去黃芩，加芍藥三兩。若脅下痞鞕，去大棗，加牡蠣四兩。若心下悸、小便不利者，去黃芩，加茯苓四兩。若不渴，外有微熱者，去人參，加桂枝三兩，溫覆微汗愈。若欬者，去人參、大棗、生薑，加五味子半升、乾薑二兩。
   Features: 和解少陽, 補中扶正, 和胃降逆.
@@ -932,7 +932,7 @@
   NoA: ['107']
   Page:  D430
   Formula :
-    Ingredients: "[柴胡](HERBURL)（四兩） [龍骨](HERBURL) [黃芩](HERBURL) [生薑](HERBURL/생강)（切） [鉛丹](HERBURL) [人參](HERBURL) [桂枝](HERBURL/계지)（去皮） [茯苓](HERBURL)（各一兩半） [半夏](HERBURL/반하)（二合半，洗） [大黃](HERBURL)（二兩） [牡蠣](HERBURL)（一兩半，熬） [大棗](HERBURL)（六枚，擘）"
+    Ingredients: "[柴胡](HERBURL/시호)（四兩） [龍骨](HERBURL/용골) [黃芩](HERBURL/황금) [生薑](HERBURL/생강)（切） [鉛丹](HERBURL) [人參](HERBURL/인삼) [桂枝](HERBURL/계지)（去皮） [茯苓](HERBURL/복령)（各一兩半） [半夏](HERBURL/반하)（二合半，洗） [大黃](HERBURL/대황)（二兩） [牡蠣](HERBURL/모려)（一兩半，熬） [大棗](HERBURL/대조)（六枚，擘）"
     Directions: 右十二味，以水八升，煮取四升，內大黃，切如碁子，更煮一兩沸，去滓。溫服一升。
     Explanation: 本云：柴胡湯，今加龍骨等。
   Features: 和解少陽, 通陽瀉熱, 重鎭安神.
@@ -944,7 +944,7 @@
   NoA: ['104']
   Page: D428
   Formula :
-    Ingredients: "[柴胡](HERBURL)（二兩十六銖） [黃芩](HERBURL)（一兩） [人參](HERBURL)（一兩） [甘草](HERBURL/감초)（一兩，炙） [生薑](HERBURL/생강)（一兩，切） [半夏](HERBURL/반하)（二銖，本云五枚，洗） [大棗](HERBURL)（四枚，擘） [芒消](HERBURL)（二兩）"
+    Ingredients: "[柴胡](HERBURL/시호)（二兩十六銖） [黃芩](HERBURL/황금)（一兩） [人參](HERBURL/인삼)（一兩） [甘草](HERBURL/감초)（一兩，炙） [生薑](HERBURL/생강)（一兩，切） [半夏](HERBURL/반하)（二銖，本云五枚，洗） [大棗](HERBURL/대조)（四枚，擘） [芒消](HERBURL)（二兩）"
     Directions: 右八味，以水四升，煮取二升，去滓，內芒消，更煮微沸。分溫再服。不解更作。
     Explanation: <small>（臣億等謹按：《金匱玉函》，方中無芒消。別一方云：以水七升，下芒消二合，大黃四兩，桑螵蛸五枚，煮取一升半，服五合，微下即愈。本云：柴胡再服，以解其外，餘二升，加芒消、大黃、桑螵蛸也。）</small>
   Features: 和解少陽, 瀉熱去實.
@@ -956,7 +956,7 @@
   NoA: ['147']
   Page:  D429
   Formula :
-    Ingredients: "[柴胡](HERBURL)（半斤） [桂枝](HERBURL/계지)（三兩，去皮） [乾薑](HERBURL/건강)（二兩） [栝樓根](HERBURL)（四兩） [黃芩](HERBURL)（三兩） [牡蠣](HERBURL)（二兩，熬） [甘草](HERBURL/감초)（二兩，炙）"
+    Ingredients: "[柴胡](HERBURL/시호)（半斤） [桂枝](HERBURL/계지)（三兩，去皮） [乾薑](HERBURL/건강)（二兩） [栝樓根](HERBURL)（四兩） [黃芩](HERBURL/황금)（三兩） [牡蠣](HERBURL/모려)（二兩，熬） [甘草](HERBURL/감초)（二兩，炙）"
     Directions: 右七味，以水一斗二升，煮取六升，去滓，再煎取三升。溫服一升，日三服。初服微煩，復服汗出便愈。
   Features: 和解少陽, 溫和寒飮.
   Indications: 傷寒五六日, 已發汗而復下之, 少陽病不解, 水飮內結. 見胸脇滿微結, 小便不利, 渴而不嘔, 但頭汗出, 往來寒熱, 心煩. ［147］
@@ -967,7 +967,7 @@
   NoA: ['146']
   Page:  D427
   Formula :
-    Ingredients: "[桂枝](HERBURL/계지)（去皮） [黃芩](HERBURL)（一兩半） [人參](HERBURL)（一兩半） [甘草](HERBURL/감초)（一兩，炙） [半夏](HERBURL/반하)（二合半，洗） [芍藥](HERBURL/작약)（一兩半） [大棗](HERBURL)（六枚，擘） [生薑](HERBURL/생강)（一兩半，切） [柴胡](HERBURL)（四兩）"
+    Ingredients: "[桂枝](HERBURL/계지)（去皮） [黃芩](HERBURL/황금)（一兩半） [人參](HERBURL/인삼)（一兩半） [甘草](HERBURL/감초)（一兩，炙） [半夏](HERBURL/반하)（二合半，洗） [芍藥](HERBURL/작약)（一兩半） [大棗](HERBURL/대조)（六枚，擘） [生薑](HERBURL/생강)（一兩半，切） [柴胡](HERBURL/시호)（四兩）"
     Directions: 右九味，以水七升，煮取三升，去滓。溫服一升。
     Explanation: 本云：人參湯，作如桂枝法，加半夏、柴胡、黃芩，復如柴胡法。今用人參作半劑。
   Features: 和解少陽, 兼以解表.
@@ -991,7 +991,7 @@
   NoA: ['071', '073', '074', '141', '156', '386', '244']
   Page:  D63
   Formula :
-    Ingredients: "[猪苓](HERBURL)（十八銖，去黑皮） [白朮](HERBURL)（十八銖） [澤瀉](HERBURL)（一兩六銖） [茯苓](HERBURL)（十八銖） [桂枝](HERBURL/계지)（半兩，去皮）"
+    Ingredients: "[猪苓](HERBURL)（十八銖，去黑皮） [白朮](HERBURL)（十八銖） [澤瀉](HERBURL)（一兩六銖） [茯苓](HERBURL/복령)（十八銖） [桂枝](HERBURL/계지)（半兩，去皮）"
     Directions: 右五味爲散，更於臼中治之。白飲和方寸匕服之，日三服。
     Treat: 多飲煖水，汗出愈。
   Features: 溫陽化氣利水.
@@ -1003,7 +1003,7 @@
   NoA: ['338']
   Page:  D91
   Formula :
-    Ingredients: "[烏梅](HERBURL)（三百枚） [細辛](HERBURL)（六兩） [乾薑](HERBURL/건강)（十兩） 黃連（十六兩） [當歸](HERBURL)（四兩） [附子](HERBURL)（六兩，炮，去皮） [蜀椒](HERBURL)（四兩，出汗） 桂枝（去皮，六兩） [人參](HERBURL)（六兩） [黃蘗](HERBURL)（六兩）"
+    Ingredients: "[烏梅](HERBURL)（三百枚） [細辛](HERBURL)（六兩） [乾薑](HERBURL/건강)（十兩） 黃連（十六兩） [當歸](HERBURL)（四兩） [附子](HERBURL)（六兩，炮，去皮） [蜀椒](HERBURL)（四兩，出汗） 桂枝（去皮，六兩） [人參](HERBURL/인삼)（六兩） [黃蘗](HERBURL)（六兩）"
     Directions: 右十味，異擣篩，合治之。以苦酒漬烏梅一宿，去核，蒸之五斗米下，飯熟擣成泥，和藥令相得，內臼中，與蜜，杵二千下，丸如梧桐子大。先食飲，服十丸，日三服，稍加至二十丸。
     Treat: 禁生冷、滑物、臭食等。
   Features: 溫臟安蛔止痛.
@@ -1015,7 +1015,7 @@
   NoA: ['243', '309', '378']
   Page:  D234
   Formula :
-    Ingredients: "[吳茱萸](HERBURL)（一升） [人參](HERBURL)（二兩） [生薑](HERBURL/생강)（六兩，切） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[吳茱萸](HERBURL)（一升） [人參](HERBURL/인삼)（二兩） [生薑](HERBURL/생강)（六兩，切） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右四味，以水七升，煮取二升，去滓。溫服七合，日三服。
   Features: 溫肝暖胃, 降逆止嘔.
   Indications: 󰉭厥陰頭痛, 乾嘔, 吐涎沫.［378］  󰉮胃中虛冷, 食穀欲吐.［243］  󰉯少陽吐利, 手足不溫, 煩躁欲死.［309］
@@ -1032,7 +1032,7 @@
   NameK: ['이중환', '이중탕', '인삼탕']
   NoA: ['159', '386', '396']
   Formula :
-    Ingredients: "[人參](HERBURL) [乾薑](HERBURL/건강) [甘草](HERBURL/감초)（炙） [白朮](HERBURL)（各三兩）"
+    Ingredients: "[人參](HERBURL/인삼) [乾薑](HERBURL/건강) [甘草](HERBURL/감초)（炙） [白朮](HERBURL)（各三兩）"
     Directions: 右四味，擣篩，蜜和爲丸，如雞子黃許大。以沸湯數合，和一丸，研碎，溫服之，日三四，夜二服。腹中未熱，益至三四丸，然不及湯。湯法：以四物依兩數切，用水八升，煮取三升，去滓。溫服一升，日三服。
     Explanation: ①若臍上築者，腎氣動也，去朮，加桂枝四兩。②吐多者，去朮，加生薑三兩。③下多者，還用朮。④悸者，加茯苓二兩。⑤渴欲得水者，加朮，足前成四兩半。⑥腹中痛者，加人參，足前成四兩半。⑦寒者，加乾薑，足前成四兩半。⑧腹滿者，去朮，加附子一枚。服湯後，如食頃，飲熱粥一升許，微自溫，勿發揭衣被。
   Features: 溫中散寒, 調理中焦.
@@ -1043,7 +1043,7 @@
   NameK: ['인진호탕']
   NoA: ['236', '260']
   Formula :
-    Ingredients: "[茵蔯蒿](HERBURL)（六兩） [梔子](HERBURL)（十四枚，擘） [大黃](HERBURL)（二兩，去皮）"
+    Ingredients: "[茵蔯蒿](HERBURL)（六兩） [梔子](HERBURL)（十四枚，擘） [大黃](HERBURL/대황)（二兩，去皮）"
     Directions: 右三味，以水一斗二升，先煮茵蔯，減六升，內二味，煮取三升，去滓。分三服。
     Explanation: 小便當利，尿如皂莢汁狀，色正赤，一宿腹減，黃從小便去也。
   Features: 淸熱利濕退黃.
@@ -1055,7 +1055,7 @@
   NameS: ['復脉湯']
   NoA: ['177']
   Formula :
-    Ingredients: "[甘草](HERBURL/감초)（四兩，炙） [生薑](HERBURL/생강)（三兩，切） [人參](HERBURL)（二兩） [生地黃](HERBURL)（一斤） [桂枝](HERBURL/계지)（三兩，去皮） [阿膠](HERBURL)（二兩） [麥門冬](HERBURL)（半升，去心） [麻仁](HERBURL)（半升） [大棗](HERBURL)（三十枚，擘）"
+    Ingredients: "[甘草](HERBURL/감초)（四兩，炙） [生薑](HERBURL/생강)（三兩，切） [人參](HERBURL/인삼)（二兩） [生地黃](HERBURL)（一斤） [桂枝](HERBURL/계지)（三兩，去皮） [阿膠](HERBURL)（二兩） [麥門冬](HERBURL)（半升，去心） [麻仁](HERBURL)（半升） [大棗](HERBURL/대조)（三十枚，擘）"
     Directions: 右九味，以清酒七升，水八升，先煮八味，取三升，去滓，內膠烊消盡。溫服一升，日三服。
     Explanation: 一名復脉湯。
   Features: 滋陰凉血, 通脈復脈.
@@ -1094,7 +1094,7 @@
   NameK: ['저당탕']
   NoA: ['124', '125', '237', '257']
   Formula :
-    Ingredients: "[水蛭](HERBURL)（熬） [蝱蟲](HERBURL)（各三十箇，去翅足，熬） [桃仁](HERBURL)（二十箇，去皮尖） [大黃](HERBURL)（三兩，酒洗）"
+    Ingredients: "[水蛭](HERBURL)（熬） [蝱蟲](HERBURL)（各三十箇，去翅足，熬） [桃仁](HERBURL)（二十箇，去皮尖） [大黃](HERBURL/대황)（三兩，酒洗）"
     Directions: 右四味，以水五升，煮取三升，去滓。溫服一升，不下更服。
   Features: 破血逐瘀.
   Indications: 󰉭太陽蓄血. 見其人喜忘, 屎雖硬大便反易, 色黑.［237］  󰉮瘦穀善飢, 不大便, 脈數.［257］
@@ -1104,7 +1104,7 @@
   NameK: ['저당환']
   NoA: ['126']
   Formula :
-    Ingredients: "[水蛭](HERBURL)（二十箇，熬） [蝱蟲](HERBURL)（二十箇，去翅足，熬） [桃仁](HERBURL)（二十五箇，去皮尖） [大黃](HERBURL)（三兩）"
+    Ingredients: "[水蛭](HERBURL)（二十箇，熬） [蝱蟲](HERBURL)（二十箇，去翅足，熬） [桃仁](HERBURL)（二十五箇，去皮尖） [大黃](HERBURL/대황)（三兩）"
     Directions: 右四味，擣分四丸，以水一升，煮一丸。取七合服之。
     Treat: 晬時當下血，若不下者，更服。
   Features: 破血逐瘀, 峻藥緩圖, 改湯爲丸, 取其藥力而持久.
@@ -1119,7 +1119,7 @@
   NameK: ['저령탕']
   NoA: ['223', '319']
   Formula :
-    Ingredients: "[猪苓](HERBURL)（去皮） [茯苓](HERBURL) [澤瀉](HERBURL) [阿膠](HERBURL) [滑石](HERBURL)（碎，各一兩）"
+    Ingredients: "[猪苓](HERBURL)（去皮） [茯苓](HERBURL/복령) [澤瀉](HERBURL) [阿膠](HERBURL) [滑石](HERBURL)（碎，各一兩）"
     Directions: 右五味，以水四升，先煮四味，取二升，去滓，內阿膠烊消。溫服七合，日三服。
   Features: 育陰淸熱利水.
   Indications: 󰉭陽明津傷, 水熱互結. 見脈浮發熱, 渴欲飮水, 小便不利.［223］  󰉮少陰病, 陰虛有熱, 水氣不利. 見下利六七日, 咳而嘔渴, 心煩不得眠.［319］ 陽明病, 汗出多而煩渴者, 禁用.［244］
@@ -1149,7 +1149,7 @@
   NameK: ['조위승기탕']
   NoA: ['029', '030', '070', '094', '105', '123', '207', '248', '249']
   Formula :
-    Ingredients: "[大黃](HERBURL)（四兩，去皮，清酒洗） [甘草](HERBURL/감초)（二兩，炙） [芒消](HERBURL)（半升）"
+    Ingredients: "[大黃](HERBURL/대황)（四兩，去皮，清酒洗） [甘草](HERBURL/감초)（二兩，炙） [芒消](HERBURL)（半升）"
     Directions: 右三味，以水三升，煮取一升，去滓。［029］內芒消，更上火微煮令沸。少少溫服之。［070］內芒消，更煮兩沸。頓服。 ［207］內芒消，更上微火一二沸。溫頓服之，以調胃氣。
     Treat:
   Features: 瀉熱和胃, 潤燥軟堅.
@@ -1160,7 +1160,7 @@
   NameK: ['죽엽석고탕']
   NoA: ['397']
   Formula :
-    Ingredients: "[竹葉](HERBURL)（二把） [石膏](HERBURL)（一斤） [半夏](HERBURL/반하)（半升，洗） [麥門冬](HERBURL)（一升，去心） [人參](HERBURL)（二兩） [甘草](HERBURL/감초)（二兩，炙） [粳米](HERBURL)（半升）"
+    Ingredients: "[竹葉](HERBURL)（二把） [石膏](HERBURL)（一斤） [半夏](HERBURL/반하)（半升，洗） [麥門冬](HERBURL)（一升，去心） [人參](HERBURL/인삼)（二兩） [甘草](HERBURL/감초)（二兩，炙） [粳米](HERBURL)（半升）"
     Directions: 右七味，以水一斗，煮取六升，去滓，內粳米，煮米熟，湯成，去米。溫服一升，日三服。
   Features: 淸熱生津, 益氣和胃.
   Indications: 傷寒邂逅, 餘熱未淸, 氣陰兩傷, 虛嬴少氣, 氣逆欲吐.［397］
@@ -1170,7 +1170,7 @@
   NameK: ['지실치자시탕', '지실치자탕']
   NoA: ['393']
   Formula :
-    Ingredients: "[枳實](HERBURL)（三枚，炙） [梔子](HERBURL)（十四箇，擘） [豉](HERBURL)（一升，綿裹）"
+    Ingredients: "[枳實](HERBURL/지실)（三枚，炙） [梔子](HERBURL)（十四箇，擘） [豉](HERBURL)（一升，綿裹）"
     Directions: 右三味，以清漿水七升，空煮取四升，內枳實、梔子，煮取二升，下豉，更煮五六沸，去滓。
     Treat: 溫分再服，覆令微似汗。
     Explanation: 若有宿食者，內大黃如博碁子五六枚，服之愈。
@@ -1182,7 +1182,7 @@
   NameK: ['진무탕']
   NoA: ['082', '316']
   Formula :
-    Ingredients: "[茯苓](HERBURL)（三兩） [芍藥](HERBURL/작약)（三兩） [生薑](HERBURL/생강)（三兩，切） [白朮](HERBURL)（二兩） [附子](HERBURL)（一枚，炮，去皮，破八片）"
+    Ingredients: "[茯苓](HERBURL/복령)（三兩） [芍藥](HERBURL/작약)（三兩） [生薑](HERBURL/생강)（三兩，切） [白朮](HERBURL)（二兩） [附子](HERBURL)（一枚，炮，去皮，破八片）"
     Directions: 右五味，以水八升，煮取三升，去滓。溫服七合，日三服。
     Explanation: ［316］ 若欬者，加五味子半升，細辛一兩，乾薑一兩。若小便利者，去茯苓。若下利者，去芍藥，加乾薑二兩。若嘔者，去附子，加生薑，足前爲半斤。
   Features: 溫陽利水
@@ -1248,7 +1248,7 @@
   NameK: ['치자후박탕']
   NoA: ['079']
   Formula :
-    Ingredients: "[梔子](HERBURL)（十四箇，擘） [厚朴](HERBURL)（四兩，炙，去皮） [枳實](HERBURL)（四枚，水浸，炙令黃）"
+    Ingredients: "[梔子](HERBURL)（十四箇，擘） [厚朴](HERBURL/후박)（四兩，炙，去皮） [枳實](HERBURL/지실)（四枚，水浸，炙令黃）"
     Directions: 右三味，以水三升半，煮取一升半，去滓。
     Treat: 分二服。溫進一服，得吐者，止後服。
   Features: 淸熱除煩, 消痞寬中.
@@ -1280,7 +1280,7 @@
   NameK: ['황금가반하생강탕']
   NoA: ['172']
   Formula :
-    Ingredients: "[黃芩](HERBURL)（三兩） [芍藥](HERBURL/작약)（二兩） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘） [半夏](HERBURL/반하)（半升，洗） [生薑](HERBURL/생강)（一兩半，一方：三兩，切）"
+    Ingredients: "[黃芩](HERBURL/황금)（三兩） [芍藥](HERBURL/작약)（二兩） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘） [半夏](HERBURL/반하)（半升，洗） [生薑](HERBURL/생강)（一兩半，一方：三兩，切）"
     Directions: 右六味，以水一斗，煮取三升，去滓。溫服一升，日再，夜一服。
   Features: 淸熱止利, 和胃止嘔.
   Indications: 太陽與少陽合病, 自下利而嘔.［172］
@@ -1290,7 +1290,7 @@
   NameK: ['황금탕']
   NoA: ['172']
   Formula :
-    Ingredients: "[黃芩](HERBURL)（三兩） [芍藥](HERBURL/작약)（二兩） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[黃芩](HERBURL/황금)（三兩） [芍藥](HERBURL/작약)（二兩） [甘草](HERBURL/감초)（二兩，炙） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右四味，以水一斗，煮取三升，去滓。溫服一升，日再，夜一服。
   Features: 淸熱止利.
   Indications: 太陽與少陽合病, 自下利.［172］
@@ -1300,7 +1300,7 @@
   NameK: ['황련아교탕']
   NoA: ['303']
   Formula :
-    Ingredients: "[黃連](HERBURL/황련)（四兩） [黃芩](HERBURL)（二兩） [芍藥](HERBURL/작약)（二兩） [雞子黃](HERBURL)（二枚） [阿膠](HERBURL)（三兩，一云：三挺）"
+    Ingredients: "[黃連](HERBURL/황련)（四兩） [黃芩](HERBURL/황금)（二兩） [芍藥](HERBURL/작약)（二兩） [雞子黃](HERBURL)（二枚） [阿膠](HERBURL)（三兩，一云：三挺）"
     Directions: 右五味，以水六升，先煮三物，取二升，去滓，內膠烊盡，小冷，內雞子黃，攪令相得。溫服七合，日三服。
   Features: 育陰淸火, 交通心腎.
   Indications: 少陰病, 得之二三日, 陰虛陽亢, 見心中煩, 不得臥.［303］
@@ -1310,7 +1310,7 @@
   NameK: ['황련탕']
   NoA: ['173']
   Formula :
-    Ingredients: "[黃連](HERBURL/황련)（三兩） [甘草](HERBURL/감초)（三兩，炙） [乾薑](HERBURL/건강)（三兩） [桂枝](HERBURL/계지)（三兩，去皮） [人參](HERBURL)（二兩） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL)（十二枚，擘）"
+    Ingredients: "[黃連](HERBURL/황련)（三兩） [甘草](HERBURL/감초)（三兩，炙） [乾薑](HERBURL/건강)（三兩） [桂枝](HERBURL/계지)（三兩，去皮） [人參](HERBURL/인삼)（二兩） [半夏](HERBURL/반하)（半升，洗） [大棗](HERBURL/대조)（十二枚，擘）"
     Directions: 右七味，以水一斗，煮取六升，去滓。溫服，晝三夜二。
     Explanation: 疑非仲景方。
   Features: 淸上溫下, 和胃降逆.
@@ -1321,7 +1321,7 @@
   NameK: ['후박생강반하감초인삼탕', '후생반감인탕']
   NoA: ['066']
   Formula :
-    Ingredients: "[厚朴](HERBURL)（半斤，炙，去皮） [生薑](HERBURL/생강)（半斤，切） [半夏](HERBURL/반하)（半升，洗） [甘草](HERBURL/감초)（二兩） [人參](HERBURL)（一兩）"
+    Ingredients: "[厚朴](HERBURL/후박)（半斤，炙，去皮） [生薑](HERBURL/생강)（半斤，切） [半夏](HERBURL/반하)（半升，洗） [甘草](HERBURL/감초)（二兩） [人參](HERBURL/인삼)（一兩）"
     Directions: 右五味，以水一斗，煮取三升，去滓。溫服一升，日三服。
   Features: 寬中除滿, 健脾和胃.
   Indications: 發汗後, 脾虛氣滯, 腹脹滿(66)
