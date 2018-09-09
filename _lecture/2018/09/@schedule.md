@@ -13,7 +13,6 @@ tags: 상한론, 강의
 
 
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
-{% assign pdfurl = "/lecture/2018/presentation" %}
 
 ## 01 〔180830〕：양명병
 
@@ -66,7 +65,10 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [귤피]({{site.herburl}}/귤피)
 * <i class="fa fa-pagelines"></i> [방기]({{site.herburl}}/방기)
 
+### 보강
 
+* [상한 치험례]({{site.slideurl}}/B01상한의_치료_치험례.pdf)
+* 현대 임상례
 
 
 ## 03 〔180913〕：양명병
@@ -123,9 +125,9 @@ tags: 상한론, 강의
 * <i class="fa fa-comment-dots"></i> [手足汗]({{site.sympurl}}/수족한)
 * <i class="fa fa-comment-dots"></i> [無汗]({{site.sympurl}}/무한)
 
+## 05 〔180927〕：온라인 대체 수업
 
-
-## 05 〔181004〕：소양명
+## 06 〔181004〕：소양명
 
 ### 상한론 조문
 
@@ -154,7 +156,7 @@ tags: 상한론, 강의
 
 
 
-## 06 〔181011〕：소양병
+## 07 〔181011〕：소양병
 
 ### 상한론 조문
 
@@ -181,10 +183,16 @@ tags: 상한론, 강의
 * <i class="fa fa-comment-dots"></i> [煩躁]({{site.sympurl}}/번조)
 * <i class="fa fa-comment-dots"></i> [懊憹]({{site.sympurl}}/오농)
 
+### Review 01-07
+
+
+## 08 〔181018〕：중간고사
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)
 
 
 
-## 07 〔181018〕：태음병
+## 09 〔181025〕：태음병
 
 ### 상한론 조문
 
@@ -215,18 +223,7 @@ tags: 상한론, 강의
 
 
 
-
-
-
-## 08 〔181025〕：중간고사
-
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)
-
-
-
-
-
-## 09 〔181101〕：소음병
+## 10 〔181101〕：소음병
 
 ### 상한론 조문
 
@@ -255,10 +252,7 @@ tags: 상한론, 강의
 * <i class="fa fa-comment-dots"></i> [戰慄]({{site.sympurl}}/전율)
 
 
-
-
-
-## 10 〔181108〕：소음병
+## 11 〔181108〕：소음병
 
 ### 상한론 조문
 
@@ -290,7 +284,7 @@ tags: 상한론, 강의
 * <i class="fa fa-comment-dots"></i> [短氣]({{site.sympurl}}/단기)
 
 
-## 11 〔181115〕：소음병
+## 12 〔181115〕：소음병
 
 ### 상한론 조문
 
@@ -327,7 +321,7 @@ tags: 상한론, 강의
 * <i class="fa fa-comment-dots"></i> [鬱冒]({{site.sympurl}}/울모)
 
 
-## 12 〔181122〕：궐음병
+## 13 〔181122〕：궐음병
 
 ### 상한론 조문
 
@@ -356,7 +350,13 @@ tags: 상한론, 강의
 * <i class="fa fa-comment-dots"></i> [發黃]({{site.sympurl}}/발황)
 
 
-## 13 〔181129〕：궐음병
+## 14 〔181129〕：조별과제발표
+
+![boss vs leader](https://i0.wp.com/phildourado.com/wp-content/uploads/2016/06/BossLeaderInfographic.jpg?resize=300%2C300)
+
+
+## 15 〔181206〕：궐음병
+
 
 ### 상한론 조문
 
@@ -381,14 +381,7 @@ tags: 상한론, 강의
 * <i class="fa fa-comment-dots"></i> [勞復]({{site.sympurl}}/노복)
 
 
-## 14 〔181206〕：조별과제발표
 
-![boss vs leader](https://i0.wp.com/phildourado.com/wp-content/uploads/2016/06/BossLeaderInfographic.jpg?resize=300%2C300)
-
-## 15 〔181213〕：총괄
-
-
-
-## 16 〔181220〕：기말고사
+## 16 〔181213〕：기말고사
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)

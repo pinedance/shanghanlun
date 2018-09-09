@@ -2,7 +2,7 @@
 highlighter: rouge
 url: https://pinedance.github.io
 lsi: false
-exclude: [LICENSE, README.md, .gitignore, Gemfile, Gemfile.lock, _build.rb]
+exclude: [LICENSE, README.md, .gitignore, Gemfile, Gemfile.lock, _build.rb, _sandbox]
 
 # Site Settings
 baseurl:            "/shanghanlun" # Base URL must end WITHOUT a slash, default: ""
@@ -15,6 +15,7 @@ port: 8384
 # Plugins
 plugins:
   - jekyll-redirect-from
+  - jekyll-minifier
 
 # ref : https://jekyllrb.com/docs/collections/
 collections:
@@ -31,3 +32,4 @@ collections:
 formulaurl: "/shanghanlun/reference/Formulas"
 herburl: "/shanghanlun/reference/Herbs"
 sympurl: "/shanghanlun/reference/Symptoms"
+slideurl: "/shanghanlun/lecture/Slides"

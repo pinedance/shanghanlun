@@ -9,14 +9,13 @@ tags: 상한론, 강의
 장소 : 원광대학교 한의과대학
 
 {% assign textbookurl = "/lecture/2018/textbook.html" %}
-{% assign pdfurl = "/lecture/2018/presentation" %}
 
 ## 01주 〔180308〕
 
 ### 강의 소개
 
-* 수업개요 [pdf]( {{site.baseurl}}{{pdfurl}}/00수업개요.pdf )
-* 상한과 상한론 [pdf]( {{site.baseurl}}{{pdfurl}}/01상한과_상한론.pdf )
+* 수업개요 [pdf]( {{site.slideurl}}/A00수업개요.pdf )
+* 상한과 상한론 [pdf]( {{site.slideurl}}/A01상한과_상한론.pdf )
 
 ※ [즉석과제결과](https://photos.app.goo.gl/OytFgYSomDdKBIwx1)
 
@@ -24,8 +23,8 @@ tags: 상한론, 강의
 
 ### 상한론 택스트의 이해
 
-* 상한론의 성립과 전승  [pdf]( {{site.baseurl}}{{pdfurl}}/02a상한론의_성립과_전승.pdf )
-* 상한론이라는 책들 [pdf]( {{site.baseurl}}{{pdfurl}}/02b상한론이라는_책들.pdf )
+* 상한론의 성립과 전승  [pdf]( {{site.slideurl}}/A02a상한론의_성립과_전승.pdf )
+* 상한론이라는 책들 [pdf]( {{site.slideurl}}/A02b상한론이라는_책들.pdf )
 
 
 ## 03주 〔180322〕：태양병
@@ -33,7 +32,7 @@ tags: 상한론, 강의
 ### 상한론 조문
 
 * 상한론 서문 [web]( {{site.baseurl}}/reference/Books/Sinipets/상한잡병론_집론 )
-* 태양병 개요  [pdf]( {{site.baseurl}}{{pdfurl}}/03태양병_개요.pdf )
+* 태양병 개요  [pdf]( {{site.slideurl}}/A03태양병_개요.pdf )
 
 [원문]( {{site.baseurl}}{{textbookurl}}#1-03week ) \(주교재 pp.029-039\)
 
