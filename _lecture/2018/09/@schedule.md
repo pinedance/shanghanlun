@@ -2,6 +2,9 @@
 layout: handout
 title: 2018년 2학기 상한론 강의 계획
 tags: 상한론, 강의
+shortcut:
+  book_text: "/shanghanlun/lecture/2018/textbook"
+  book_mingli: "/shanghanlun/reference/Books/Etc/상한명리론"
 ---
 
 일시 : 2018년 2학기, 목요일 13:30-15:20
@@ -12,13 +15,11 @@ tags: 상한론, 강의
 * [물끄럼노트](https://goo.gl/forms/QOZ7UWiu5My3PT873) / [전체 보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
 
 
-{% assign textbookurl = "/lecture/2018/textbook.html" %}
-
 ## 01 〔180830〕：양명병
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-01week ) \(주교재 pp.163-177\)
+[원문]( {{page.shortcut.book_text}}#2-01week ) \(주교재 pp.163-177\)
 
 * <i class="fa fa-book"></i> 陽明病의 提綱
 * <i class="fa fa-book"></i> 陽明病의 病因과 病機
@@ -45,7 +46,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-02week ) \(주교재 pp.177-190\)
+[원문]( {{page.shortcut.book_text}}#2-02week ) \(주교재 pp.177-190\)
 
 * <i class="fa fa-book"></i> 陽明經證
 * <i class="fa fa-book"></i> 陽明腑證
@@ -75,7 +76,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-03week ) \(주교재 pp.190-201\)
+[원문]( {{page.shortcut.book_text}}#2-03week ) \(주교재 pp.190-201\)
 
 * <i class="fa fa-book"></i> 陽明腑證
   - 痞滿證
@@ -90,11 +91,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [發熱]({{site.sympurl}}/발열)
-* <i class="fa fa-comment-dots"></i> [惡寒]({{site.sympurl}}/오한)
-* <i class="fa fa-comment-dots"></i> [惡風]({{site.sympurl}}/오풍)
-* <i class="fa fa-comment-dots"></i> [寒熱]({{site.sympurl}}/한열)
-* <i class="fa fa-comment-dots"></i> [潮熱]({{site.sympurl}}/조열)
+* <i class="fa fa-comment-dots"></i> [發熱]({{page.shortcut.book_mingli}}#발열)
+* <i class="fa fa-comment-dots"></i> [惡寒]({{page.shortcut.book_mingli}}#오한)
+* <i class="fa fa-comment-dots"></i> [惡風]({{page.shortcut.book_mingli}}#오풍)
+* <i class="fa fa-comment-dots"></i> [寒熱]({{page.shortcut.book_mingli}}#한열)
+* <i class="fa fa-comment-dots"></i> [潮熱]({{page.shortcut.book_mingli}}#조열)
 
 
 
@@ -102,7 +103,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-04week ) \(주교재 pp.202-219\)
+[원문]( {{page.shortcut.book_text}}#2-04week ) \(주교재 pp.202-219\)
 
 * <i class="fa fa-book"></i> 脾約證
 * <i class="fa fa-book"></i> 濕熱發黃
@@ -119,11 +120,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [自汗]({{site.sympurl}}/자한)
-* <i class="fa fa-comment-dots"></i> [盜汗]({{site.sympurl}}/도한)
-* <i class="fa fa-comment-dots"></i> [頭汗]({{site.sympurl}}/두한)
-* <i class="fa fa-comment-dots"></i> [手足汗]({{site.sympurl}}/수족한)
-* <i class="fa fa-comment-dots"></i> [無汗]({{site.sympurl}}/무한)
+* <i class="fa fa-comment-dots"></i> [自汗]({{page.shortcut.book_mingli}}#자한)
+* <i class="fa fa-comment-dots"></i> [盜汗]({{page.shortcut.book_mingli}}#도한)
+* <i class="fa fa-comment-dots"></i> [頭汗]({{page.shortcut.book_mingli}}#두한)
+* <i class="fa fa-comment-dots"></i> [手足汗]({{page.shortcut.book_mingli}}#수족한)
+* <i class="fa fa-comment-dots"></i> [無汗]({{page.shortcut.book_mingli}}#무한)
 
 ## 05 〔180927〕：온라인 대체 수업
 
@@ -131,7 +132,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-05week ) \(주교재 pp.223-234\)
+[원문]( {{page.shortcut.book_text}}#2-05week ) \(주교재 pp.223-234\)
 
 * <i class="fa fa-book"></i> 少陽病의 提綱
 * <i class="fa fa-book"></i> 少陽病證
@@ -145,14 +146,14 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [頭痛]({{site.sympurl}}/두통)
-* <i class="fa fa-comment-dots"></i> [項强]({{site.sympurl}}/항강)
-* <i class="fa fa-comment-dots"></i> [頭眩]({{site.sympurl}}/두현)
+* <i class="fa fa-comment-dots"></i> [頭痛]({{page.shortcut.book_mingli}}#두통)
+* <i class="fa fa-comment-dots"></i> [項强]({{page.shortcut.book_mingli}}#항강)
+* <i class="fa fa-comment-dots"></i> [頭眩]({{page.shortcut.book_mingli}}#두현)
 
-* <i class="fa fa-comment-dots"></i> [胸脇滿]({{site.sympurl}}/흉협만)
-* <i class="fa fa-comment-dots"></i> [心下滿]({{site.sympurl}}/심하만)
-* <i class="fa fa-comment-dots"></i> [腹滿]({{site.sympurl}}/복만)
-* <i class="fa fa-comment-dots"></i> [少腹滿]({{site.sympurl}}/소복만)
+* <i class="fa fa-comment-dots"></i> [胸脇滿]({{page.shortcut.book_mingli}}#흉협만)
+* <i class="fa fa-comment-dots"></i> [心下滿]({{page.shortcut.book_mingli}}#심하만)
+* <i class="fa fa-comment-dots"></i> [腹滿]({{page.shortcut.book_mingli}}#복만)
+* <i class="fa fa-comment-dots"></i> [少腹滿]({{page.shortcut.book_mingli}}#소복만)
 
 
 
@@ -160,7 +161,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-06week ) \(주교재 pp.234-252\)
+[원문]( {{page.shortcut.book_text}}#2-06week ) \(주교재 pp.234-252\)
 
 * <i class="fa fa-book"></i> 少陽病證
   - 少陽病의 兼證
@@ -178,10 +179,10 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [煩熱]({{site.sympurl}}/번열)
-* <i class="fa fa-comment-dots"></i> [虛煩]({{site.sympurl}}/허번)
-* <i class="fa fa-comment-dots"></i> [煩躁]({{site.sympurl}}/번조)
-* <i class="fa fa-comment-dots"></i> [懊憹]({{site.sympurl}}/오농)
+* <i class="fa fa-comment-dots"></i> [煩熱]({{page.shortcut.book_mingli}}#번열)
+* <i class="fa fa-comment-dots"></i> [虛煩]({{page.shortcut.book_mingli}}#허번)
+* <i class="fa fa-comment-dots"></i> [煩躁]({{page.shortcut.book_mingli}}#번조)
+* <i class="fa fa-comment-dots"></i> [懊憹]({{page.shortcut.book_mingli}}#오농)
 
 ### Review 01-07
 
@@ -196,7 +197,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-07week ) \(주교재 pp.255-269\)
+[원문]( {{page.shortcut.book_text}}#2-07week ) \(주교재 pp.255-269\)
 
 * <i class="fa fa-book"></i> 太陰病의 提綱
 * <i class="fa fa-book"></i> 太陰虛寒證
@@ -215,11 +216,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [舌上胎]({{site.sympurl}}/설상태)
-* <i class="fa fa-comment-dots"></i> [衄血]({{site.sympurl}}/뉵혈)
-* <i class="fa fa-comment-dots"></i> [噦]({{site.sympurl}}/얼)
-* <i class="fa fa-comment-dots"></i> [咳]({{site.sympurl}}/해)
-* <i class="fa fa-comment-dots"></i> [喘]({{site.sympurl}}/천)
+* <i class="fa fa-comment-dots"></i> [舌上胎]({{page.shortcut.book_mingli}}#설상태)
+* <i class="fa fa-comment-dots"></i> [衄血]({{page.shortcut.book_mingli}}#뉵혈)
+* <i class="fa fa-comment-dots"></i> [噦]({{page.shortcut.book_mingli}}#얼)
+* <i class="fa fa-comment-dots"></i> [咳]({{page.shortcut.book_mingli}}#해)
+* <i class="fa fa-comment-dots"></i> [喘]({{page.shortcut.book_mingli}}#천)
 
 
 
@@ -227,7 +228,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-09week ) \(주교재 pp.273-285\)
+[원문]( {{page.shortcut.book_text}}#2-09week ) \(주교재 pp.273-285\)
 
 * <i class="fa fa-book"></i> 少陰病의 提綱
 * <i class="fa fa-book"></i> 少陰寒化證
@@ -245,18 +246,18 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [嘔吐]({{site.sympurl}}/구토)
-* <i class="fa fa-comment-dots"></i> [悸]({{site.sympurl}}/계)
-* <i class="fa fa-comment-dots"></i> [渴]({{site.sympurl}}/갈)
-* <i class="fa fa-comment-dots"></i> [振]({{site.sympurl}}/진)
-* <i class="fa fa-comment-dots"></i> [戰慄]({{site.sympurl}}/전율)
+* <i class="fa fa-comment-dots"></i> [嘔吐]({{page.shortcut.book_mingli}}#구토)
+* <i class="fa fa-comment-dots"></i> [悸]({{page.shortcut.book_mingli}}#계)
+* <i class="fa fa-comment-dots"></i> [渴]({{page.shortcut.book_mingli}}#갈)
+* <i class="fa fa-comment-dots"></i> [振]({{page.shortcut.book_mingli}}#진)
+* <i class="fa fa-comment-dots"></i> [戰慄]({{page.shortcut.book_mingli}}#전율)
 
 
 ## 11 〔181108〕：소음병
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-10week ) \(주교재 pp.285-296\)
+[원문]( {{page.shortcut.book_text}}#2-10week ) \(주교재 pp.285-296\)
 
 * <i class="fa fa-book"></i> 少陰寒化證
   - 陰盛戴陽證
@@ -277,18 +278,18 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [四逆]({{site.sympurl}}/사역)
-* <i class="fa fa-comment-dots"></i> [厥]({{site.sympurl}}/궐)
-* <i class="fa fa-comment-dots"></i> [鄭聲]({{site.sympurl}}/정성)
-* <i class="fa fa-comment-dots"></i> [譫語]({{site.sympurl}}/섬어)
-* <i class="fa fa-comment-dots"></i> [短氣]({{site.sympurl}}/단기)
+* <i class="fa fa-comment-dots"></i> [四逆]({{page.shortcut.book_mingli}}#사역)
+* <i class="fa fa-comment-dots"></i> [厥]({{page.shortcut.book_mingli}}#궐)
+* <i class="fa fa-comment-dots"></i> [鄭聲]({{page.shortcut.book_mingli}}#정성)
+* <i class="fa fa-comment-dots"></i> [譫語]({{page.shortcut.book_mingli}}#섬어)
+* <i class="fa fa-comment-dots"></i> [短氣]({{page.shortcut.book_mingli}}#단기)
 
 
 ## 12 〔181115〕：소음병
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-11week ) \(주교재 pp.296-313\)
+[원문]( {{page.shortcut.book_text}}#2-11week ) \(주교재 pp.296-313\)
 
 * <i class="fa fa-book"></i> 少陰熱化證
   - 陰虛火旺證
@@ -314,18 +315,18 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [搖頭]({{site.sympurl}}/요두)
-* <i class="fa fa-comment-dots"></i> [瘈瘲]({{site.sympurl}}/계종)
-* <i class="fa fa-comment-dots"></i> [不仁]({{site.sympurl}}/불인)
-* <i class="fa fa-comment-dots"></i> [直視]({{site.sympurl}}/직시)
-* <i class="fa fa-comment-dots"></i> [鬱冒]({{site.sympurl}}/울모)
+* <i class="fa fa-comment-dots"></i> [搖頭]({{page.shortcut.book_mingli}}#요두)
+* <i class="fa fa-comment-dots"></i> [瘈瘲]({{page.shortcut.book_mingli}}#계종)
+* <i class="fa fa-comment-dots"></i> [不仁]({{page.shortcut.book_mingli}}#불인)
+* <i class="fa fa-comment-dots"></i> [直視]({{page.shortcut.book_mingli}}#직시)
+* <i class="fa fa-comment-dots"></i> [鬱冒]({{page.shortcut.book_mingli}}#울모)
 
 
 ## 13 〔181122〕：궐음병
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-12week ) \(주교재 pp.317-331\)
+[원문]( {{page.shortcut.book_text}}#2-12week ) \(주교재 pp.317-331\)
 
 * <i class="fa fa-book"></i> 厥陰病의 提綱
 * <i class="fa fa-book"></i> 寒熱이 뒤섞인 증
@@ -343,11 +344,11 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [動氣]({{site.sympurl}}/동기)
-* <i class="fa fa-comment-dots"></i> [自利]({{site.sympurl}}/자리)
-* <i class="fa fa-comment-dots"></i> [筋惕肉瞤]({{site.sympurl}}/근척육순)
-* <i class="fa fa-comment-dots"></i> [熱入血室]({{site.sympurl}}/열입혈실)
-* <i class="fa fa-comment-dots"></i> [發黃]({{site.sympurl}}/발황)
+* <i class="fa fa-comment-dots"></i> [動氣]({{page.shortcut.book_mingli}}#동기)
+* <i class="fa fa-comment-dots"></i> [自利]({{page.shortcut.book_mingli}}#자리)
+* <i class="fa fa-comment-dots"></i> [筋惕肉瞤]({{page.shortcut.book_mingli}}#근척육순)
+* <i class="fa fa-comment-dots"></i> [熱入血室]({{page.shortcut.book_mingli}}#열입혈실)
+* <i class="fa fa-comment-dots"></i> [發黃]({{page.shortcut.book_mingli}}#발황)
 
 
 ## 14 〔181129〕：조별과제발표
@@ -360,7 +361,7 @@ tags: 상한론, 강의
 
 ### 상한론 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#2-13week ) \(주교재 pp.331-341\)
+[원문]( {{page.shortcut.book_text}}#2-13week ) \(주교재 pp.331-341\)
 
 * <i class="fa fa-book"></i> 厥陰熱利
 * <i class="fa fa-book"></i> 氣鬱證
@@ -375,10 +376,10 @@ tags: 상한론, 강의
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [發狂]({{site.sympurl}}/발광)
-* <i class="fa fa-comment-dots"></i> [霍亂]({{site.sympurl}}/곽란)
-* <i class="fa fa-comment-dots"></i> [蓄血]({{site.sympurl}}/축혈)
-* <i class="fa fa-comment-dots"></i> [勞復]({{site.sympurl}}/노복)
+* <i class="fa fa-comment-dots"></i> [發狂]({{page.shortcut.book_mingli}}#발광)
+* <i class="fa fa-comment-dots"></i> [霍亂]({{page.shortcut.book_mingli}}#곽란)
+* <i class="fa fa-comment-dots"></i> [蓄血]({{page.shortcut.book_mingli}}#축혈)
+* <i class="fa fa-comment-dots"></i> [勞復]({{page.shortcut.book_mingli}}#노복)
 
 
 
