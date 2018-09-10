@@ -4,8 +4,6 @@ title: "상한론"
 desc: "송본 상한론3 〔辨不可發汗 ∽ 辨發汗吐下後〕"
 tags: [상한금궤원문, 송본]
 conf:
-  template: template_shanghanlun.md
-  data_src: site.data.shanghanlun
   bookinit: "全書/可不"
 ---
 

@@ -4,8 +4,6 @@ title: "상한론"
 desc: "송본 상한론1 〔서문 ∽ 辨痓濕暍〕"
 tags: [상한금궤원문, 송본]
 conf:
-  template: template_shanghanlun.md
-  data_src: site.data.shanghanlun-etc
   bookinit: "全書"
 ---
 
@@ -23,7 +21,7 @@ conf:
 
 
 {% assign bookinit = page.conf.bookinit %}
-{% assign data_src = page.conf.data_src %}
+{% assign data_src = site.data.shanghanlun-etc %}
 
 ## 辨脉法第一
 

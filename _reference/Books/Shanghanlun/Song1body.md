@@ -4,8 +4,6 @@ title: "상한론"
 desc: "송본 상한론2 〔辨太陽病 ∽ 辨陰陽易差後勞復〕"
 tags: [상한금궤원문, 송본]
 conf:
-  template: template_shanghanlun.md
-  data_src: site.data.shanghanlun
   bookinit: "全書"
 ---
 
