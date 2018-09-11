@@ -5,6 +5,7 @@ desc: "송본 상한론2 〔辨太陽病 ∽ 辨陰陽易差後勞復〕"
 tags: [상한금궤원문, 송본]
 conf:
   bookinit: "全書"
+  template: template_shanghanlun.md
 ---
 
 ※ 조문번호 001 - 398 ("상한론수책" 기준)
