@@ -906,9 +906,8 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [조위승기탕]({{site.formulaurl}}/조위승기탕)
 
-* 心煩 _鬱鬱微煩_
+* 譫語  心煩 _鬱鬱微煩_
 * 腹脹滿 _腹微滿_
-* 譫語
 
 <br>
 <div id="2-03week"></div>
@@ -928,9 +927,8 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [소승기탕]({{site.formulaurl}}/소승기탕)
 
-* 心煩 _微煩_
+* 譫語  心煩 _微煩_
 * 小便數、大便硬 _燥屎_
-* 譫語
 
 #### 3) 痞滿燥實證
 
@@ -958,13 +956,11 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [대승기탕]({{site.formulaurl}}/대승기탕)
 
-* 心煩躁 _煩不解、煩躁、心中懊憹而煩_
-* 發熱 _潮熱、身微熱_
-* 汗出 _手足漐漐汗出_
-* 腹滿而喘 _腹滿痛、腹滿不減_
-* 不能食 _宿食_
+* 譫語  心煩躁 _煩不解、煩躁、心中懊憹而煩_
+* 腹大滿不通 _腹滿而喘、繞臍痛、腹滿痛、腹滿不減_
 * 大便難 _不大便_
-* 譫語
+* 發熱 _潮熱、身微熱_ 汗出 _手足漐漐汗出_
+* 不能食 _宿食_
 
 ※ 4가지 승기탕（후박삼물탕） 어떻게 구분할 것인가?
 * 본초의 특성을 바탕으로 환자에 맞게 조정
