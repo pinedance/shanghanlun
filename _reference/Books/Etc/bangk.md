@@ -1,7 +1,7 @@
 ---
 layout: reference
-title: "방극/방극산정"
-desc:
+title: "方極〔方極刪定〕"
+desc: "吉益東洞"
 tags: [관련원문, 방극, 방극산정]
 src_path: template_shanghanlun.md
 ---
