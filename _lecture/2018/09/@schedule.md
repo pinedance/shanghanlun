@@ -91,11 +91,11 @@ shortcut:
 
 ### 상한론 병증
 
+* [傷寒明理論 소개]({{page.shortcut.book_mingli}}#소개)
 * <i class="fa fa-comment-dots"></i> [發熱]({{page.shortcut.book_mingli}}#발열)
 * <i class="fa fa-comment-dots"></i> [惡寒]({{page.shortcut.book_mingli}}#오한)
 * <i class="fa fa-comment-dots"></i> [惡風]({{page.shortcut.book_mingli}}#오풍)
 * <i class="fa fa-comment-dots"></i> [寒熱]({{page.shortcut.book_mingli}}#한열)
-* <i class="fa fa-comment-dots"></i> [潮熱]({{page.shortcut.book_mingli}}#조열)
 
 
 
@@ -120,6 +120,7 @@ shortcut:
 
 ### 상한론 병증
 
+* <i class="fa fa-comment-dots"></i> [潮熱]({{page.shortcut.book_mingli}}#조열)
 * <i class="fa fa-comment-dots"></i> [自汗]({{page.shortcut.book_mingli}}#자한)
 * <i class="fa fa-comment-dots"></i> [盜汗]({{page.shortcut.book_mingli}}#도한)
 * <i class="fa fa-comment-dots"></i> [頭汗]({{page.shortcut.book_mingli}}#두한)
