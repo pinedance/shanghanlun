@@ -380,7 +380,7 @@ shortcut:
 * <i class="fa fa-comment-dots"></i> [發狂]({{page.shortcut.book_mingli}}#발광)
 * <i class="fa fa-comment-dots"></i> [霍亂]({{page.shortcut.book_mingli}}#곽란)
 * <i class="fa fa-comment-dots"></i> [蓄血]({{page.shortcut.book_mingli}}#축혈)
-* <i class="fa fa-comment-dots"></i> [勞復]({{page.shortcut.book_mingli}}#노복)
+* <i class="fa fa-comment-dots"></i> [勞復]({{page.shortcut.book_mingli}}#노복)
 
 
 
