@@ -114,7 +114,7 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [마자인환]({{site.formulaurl}}/마자인환)
 * <i class="fa fa-bookmark"></i> [인진호탕]({{site.formulaurl}}/인진호탕)
 * <i class="fa fa-bookmark"></i> [치자백피탕]({{site.formulaurl}}/치자백피탕)
-* <i class="fa fa-bookmark"></i> [마황연교적소두탕]({{site.formulaurl}}/마황연교적소두탕)
+* <i class="fa fa-bookmark"></i> [마황연초적소두탕]({{site.formulaurl}}/마황연초적소두탕)
 
 
 
