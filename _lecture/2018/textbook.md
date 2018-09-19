@@ -1024,7 +1024,12 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "262" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [마황연교적소두탕]({{site.formulaurl}}/마황연교적소두탕)
+<i class="fa fa-bookmark"></i> [마황연초적소두탕]({{site.formulaurl}}/마황연초적소두탕)
+
+發黃
+* 胸上｜喘咳（마황、행인） → [마황연초적소두탕]({{site.formulaurl}}/마황연초적소두탕)
+* 胸中｜心煩（치자）→ [치자백피탕]({{site.formulaurl}}/치자백피탕)
+* 腹中下｜腹滿、大小便不利（대황、지실、후박） → [인진호탕]({{site.formulaurl}}/인진호탕)
 
 ### 제8절 陽明病의 辨證
 
@@ -1044,7 +1049,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "237" %}{% include {{page.src_path}} %}
 
-* 畜血 → 喜忘 
+* 畜血 → 喜忘
 
 {% assign noo = "216" %}{% include {{page.src_path}} %}
 
