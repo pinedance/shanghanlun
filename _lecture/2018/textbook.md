@@ -994,10 +994,11 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [마자인환]({{site.formulaurl}}/마자인환)
 
-### 附 : 灌腸法(導法)
+### 附 : 灌腸法(蜜導法)
 
 {% assign noo = "233" %}{% include {{page.src_path}} %}
 
+* 導便法 _[《東醫寶鑑》> 大便](https://mediclassics.kr/books/8/volume/4#content_1311)_
 
 
 ### 제7절 濕熱發黃
@@ -1042,6 +1043,8 @@ src_path: template_shanghanlun.md
 {% assign noo = "227" %}{% include {{page.src_path}} %}
 
 {% assign noo = "237" %}{% include {{page.src_path}} %}
+
+* 畜血 → 喜忘 
 
 {% assign noo = "216" %}{% include {{page.src_path}} %}
 
