@@ -92,11 +92,13 @@ shortcut:
 ### 상한론 병증
 
 * [傷寒明理論 소개]({{page.shortcut.book_mingli}}#소개)
+
+寒、熱
 * <i class="fa fa-comment-dots"></i> [發熱]({{page.shortcut.book_mingli}}#발열)
 * <i class="fa fa-comment-dots"></i> [惡寒]({{page.shortcut.book_mingli}}#오한)
 * <i class="fa fa-comment-dots"></i> [惡風]({{page.shortcut.book_mingli}}#오풍)
 * <i class="fa fa-comment-dots"></i> [寒熱]({{page.shortcut.book_mingli}}#한열)
-
+* <i class="fa fa-comment-dots"></i> [潮熱]({{page.shortcut.book_mingli}}#조열)
 
 
 ## 04 〔180920〕：양명병
@@ -120,7 +122,7 @@ shortcut:
 
 ### 상한론 병증
 
-* <i class="fa fa-comment-dots"></i> [潮熱]({{page.shortcut.book_mingli}}#조열)
+汗
 * <i class="fa fa-comment-dots"></i> [自汗]({{page.shortcut.book_mingli}}#자한)
 * <i class="fa fa-comment-dots"></i> [盜汗]({{page.shortcut.book_mingli}}#도한)
 * <i class="fa fa-comment-dots"></i> [頭汗]({{page.shortcut.book_mingli}}#두한)
@@ -147,10 +149,12 @@ shortcut:
 
 ### 상한론 병증
 
+頭項
 * <i class="fa fa-comment-dots"></i> [頭痛]({{page.shortcut.book_mingli}}#두통)
 * <i class="fa fa-comment-dots"></i> [項强]({{page.shortcut.book_mingli}}#항강)
 * <i class="fa fa-comment-dots"></i> [頭眩]({{page.shortcut.book_mingli}}#두현)
 
+滿
 * <i class="fa fa-comment-dots"></i> [胸脇滿]({{page.shortcut.book_mingli}}#흉협만)
 * <i class="fa fa-comment-dots"></i> [心下滿]({{page.shortcut.book_mingli}}#심하만)
 * <i class="fa fa-comment-dots"></i> [腹滿]({{page.shortcut.book_mingli}}#복만)
