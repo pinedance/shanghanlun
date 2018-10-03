@@ -1088,21 +1088,24 @@ src_path: template_shanghanlun.md
 
 #### 1) 少陽病의 主證
 
+<div class="compare-set" markdown="1">
 {% assign noo = "096" %}{% include {{page.src_path}} %}
-
 {% assign noo = "097" %}{% include {{page.src_path}} %}
-
-{% assign noo = "379" %}{% include {{page.src_path}} %}
-
-{% assign noo = "101" %}{% include {{page.src_path}} %}
-
-{% assign noo = "229" %}{% include {{page.src_path}} %}
-
-{% assign noo = "230" %}{% include {{page.src_path}} %}
-
-{% assign noo = "266" %}{% include {{page.src_path}} %}
-
 {% assign noo = "099" %}{% include {{page.src_path}} %}
+{% assign noo = "098" %}{% include {{page.src_path}} %}
+{% assign noo = "266" %}{% include {{page.src_path}} %}
+{% assign noo = "267" %}{% include {{page.src_path}} %}
+</div>
+
+<div class="compare-set" markdown="1">
+{% assign noo = "229" %}{% include {{page.src_path}} %}
+{% assign noo = "230" %}{% include {{page.src_path}} %}
+</div>
+
+<div class="compare-set" markdown="1">
+{% assign noo = "379" %}{% include {{page.src_path}} %}
+{% assign noo = "101" %}{% include {{page.src_path}} %}
+</div>
 
 <i class="fa fa-bookmark"></i> [소시호탕]({{site.formulaurl}}/소시호탕)
 

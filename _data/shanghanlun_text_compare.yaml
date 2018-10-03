@@ -583,13 +583,13 @@
 - Chun:
   Song: ['098']
   SongRule: []
-  SongGabu: ['16-044', '22-010']
+  SongGabu: ['22-010']
   Tang: ['04-002']
 
 - Chun: ['06-004']
   Song: ['099']
   SongRule: ['06-050']
-  SongGabu: []
+  SongGabu: ['16-044']
   Tang: ['04-003']
 
 - Chun: ['06-005']
