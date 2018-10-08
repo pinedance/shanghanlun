@@ -3,7 +3,7 @@
 
   <a href="{{site.baseurl}}/">
     {% if site.data.theme.social.gravatar %}
-    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=160" id="gravatar" alt="My photo"/>
+    <img src="//www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=160" id="gravatar" alt="My photo"/>
     {% else %}
     <img src="{{site.baseurl}}/logo.png" id="logo" alt="Blog logo"/>
     {% endif %}
@@ -11,6 +11,18 @@
 
   <h3 style="text-align: center;">I'm <a href="{{site.baseurl}}/">{{ site.data.theme.name }}</a>.</h3>
   <p style="text-align: center;">Please feel free to contact me <em>{{ site.data.theme.email }}</em></a>.</p>
+
+  <div id="social">
+      {% include social.html %}
+  </div>
+
+  <h3 style="text-align: center;">Page Contents</h3>
+
+  <div id="toc">
+      {% include template_toc.html html=content h_min=2 h_max=3 %}
+  </div>
+
+  <h3 style="text-align: center;">References</h3>
 
   <div id="ref">
 		<ul>
@@ -23,13 +35,7 @@
 		</ul>
   </div>
 
-  <div id="social">
-      {% include social.html %}
-  </div>
-
-  <div id="toc">
-      {% include template_toc.html html=content h_min=2 h_max=3 %}
-  </div>
+  <h3 style="text-align: center;">Tags</h3>
 
   <div id="tags">
     {% include tags.html %}

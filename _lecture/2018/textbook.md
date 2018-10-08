@@ -1129,11 +1129,11 @@ src_path: template_shanghanlun.md
 
 ##### (2) 陽明을 겸한 증
 
+{% assign noo = "104" %}{% include {{page.src_path}} %}
+
 {% assign noo = "103" %}{% include {{page.src_path}} %}
 
 {% assign noo = "165" %}{% include {{page.src_path}} %}
-
-{% assign noo = "104" %}{% include {{page.src_path}} %}
 
 <i class="fa fa-bookmark"></i> [시호가망초탕]({{site.formulaurl}}/시호가망초탕)
 
@@ -1175,11 +1175,11 @@ src_path: template_shanghanlun.md
 
 #### 附: 熱入血室
 
-{% assign noo = "143" %}{% include {{page.src_path}} %}
-
 {% assign noo = "144" %}{% include {{page.src_path}} %}
 
 {% assign noo = "145" %}{% include {{page.src_path}} %}
+
+{% assign noo = "143" %}{% include {{page.src_path}} %}
 
 
 <br>
