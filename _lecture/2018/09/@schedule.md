@@ -184,6 +184,7 @@ shortcut:
 
 ### 상한론 병증
 
+煩
 * <i class="fa fa-comment-dots"></i> [煩熱]({{page.shortcut.book_mingli}}#번열)
 * <i class="fa fa-comment-dots"></i> [虛煩]({{page.shortcut.book_mingli}}#허번)
 * <i class="fa fa-comment-dots"></i> [煩躁]({{page.shortcut.book_mingli}}#번조)

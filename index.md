@@ -15,11 +15,13 @@ title: Contents
   [ {{ item.title }} _{{ item.desc }}_ ]( {{site.baseurl}}{{ item.url }} )
 {% else %}
   [ {{ item.title }} ]( {{site.baseurl}}{{ item.url }} )
-{%endif%}
+{% endif %}
 {% endfor %}
 
 
-## [자료 목록]({{site.baseurl}}/reference/index)
+## 자료 목록
+
+### [내부 자료]({{site.baseurl}}/reference/index)
 
 {% assign sites_with_tag = site[ "reference" ] | where: "tags", "index" %}
 {% for item in sites_with_tag %}
@@ -27,5 +29,13 @@ title: Contents
   [ {{ item.title }} _{{ item.desc }}_ ]( {{site.baseurl}}{{ item.url }} )
 {% else %}
   [ {{ item.title }} ]( {{site.baseurl}}{{ item.url }} )
-{%endif%}
+{% endif %}
+{% endfor %}
+
+### 외부 자료
+
+{% for item in site.data.outlink %}
+
+<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+
 {% endfor %}
