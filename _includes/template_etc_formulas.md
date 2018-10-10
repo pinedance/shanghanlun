@@ -25,7 +25,7 @@
 
 {% assign frm = site.data.bangk | where: "name_kr", name1_kr %}
 {% if frm.size > 0 %}
-### [{{ name1_kr }} <small>방극/방극산정</small>]( {{site.baseurl}}/reference/Books/bangk#{{ name1_kr }})
+### [{{ name1_kr }} <small>방극/방극산정</small>]( {{site.baseurl}}/reference/Books/Etc/bangk#{{ name1_kr }})
 
 > {{ frm[0].bangk }}
 

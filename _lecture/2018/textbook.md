@@ -1181,6 +1181,23 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "143" %}{% include {{page.src_path}} %}
 
+{% assign data_src = site.data.geumgweyolyag %}{% assign bookinit = "金匱" %}
+{% assign noo = "22-001" %}{% include template_shanghanlun-others.md %}
+
+{% assign data_src = site.data.geumgweyolyag %}{% assign bookinit = "金匱" %}
+{% assign noo = "22-002" %}{% include template_shanghanlun-others.md %}
+
+{% assign data_src = site.data.geumgweyolyag %}{% assign bookinit = "金匱" %}
+{% assign noo = "22-003" %}{% include template_shanghanlun-others.md %}
+
+{% assign data_src = site.data.geumgweyolyag %}{% assign bookinit = "金匱" %}
+{% assign noo = "22-004" %}{% include template_shanghanlun-others.md %}
+
+熱入血室：월경 _（血室）_ 과 관련되어 나타나는 발열 _（熱）_
+* [《東醫寶鑑》 > 胞 > 熱入血室](https://mediclassics.kr/books/8/volume/3#content_1372)
+* [《東醫寶鑑》 > 寒 > 熱入血室證](https://mediclassics.kr/books/8/volume/11#content_225)
+
+> 婦人傷寒發熱, 經水適來適斷, 晝日明了, 夜則譫語, 如見鬼狀, 此爲熱入血室 _[《東醫寶鑑》 > 胞 > 熱入血室](https://mediclassics.kr/books/8/volume/3#content_1372)_
 
 <br>
 <div id="2-07week"></div>
