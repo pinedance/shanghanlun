@@ -1246,6 +1246,8 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "279" %}{% include {{page.src_path}} %}
 
+{% assign noo = "280" %}{% include {{page.src_path}} %}
+
 <i class="fa fa-bookmark"></i> [계지가작약탕]({{site.formulaurl}}/계지가작약탕)
 
 <i class="fa fa-bookmark"></i> [계지가대황탕]({{site.formulaurl}}/계지가대황탕)
