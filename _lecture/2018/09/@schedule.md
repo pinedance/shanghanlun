@@ -11,8 +11,8 @@ shortcut:
 
 장소 : 원광대학교 한의과대학
 
-기타
-* [물끄럼노트](https://goo.gl/forms/QOZ7UWiu5My3PT873) / [전체 보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
+소통
+* 물끄럼노트：[쓰기](https://goo.gl/forms/QOZ7UWiu5My3PT873) / [전체 보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
 
 
 ## 01 〔180830〕：양명병
