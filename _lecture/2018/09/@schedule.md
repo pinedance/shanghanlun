@@ -302,6 +302,8 @@ shortcut:
   - 陰虛에 水와 熱이 합쳐진 증
 * <i class="fa fa-book"></i> 少陰咽痛證
 * <i class="fa fa-book"></i> 少陰病의 兼證
+  - 太陽을 겸한 증
+  - 陽明을 겸한 증
 * <i class="fa fa-book"></i> 少陰病에 쓸 수 없는 치법
 * <i class="fa fa-book"></i> 少陰病의 變證
 * <i class="fa fa-book"></i> 少陰病의 陰陽消長과 예후
