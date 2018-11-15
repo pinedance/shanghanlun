@@ -1509,6 +1509,10 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "338" %}{% include {{page.src_path}} %}
 
+{% assign noo = "12-001" %}{% assign bookinit = "全書/法" %}
+{% assign data_src = site.data.shanghanlun-rule %}
+{% include template_shanghanlun-others.md %}
+
 <i class="fa fa-bookmark"></i> [오매환]({{site.formulaurl}}/오매환)
 
 #### 2) 寒格吐利證
