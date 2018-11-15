@@ -1193,11 +1193,7 @@ src_path: template_shanghanlun.md
 {% assign data_src = site.data.geumgweyolyag %}{% assign bookinit = "金匱" %}
 {% assign noo = "22-004" %}{% include template_shanghanlun-others.md %}
 
-熱入血室：월경 _（血室）_ 과 관련되어 나타나는 발열 _（熱）_
-* [《東醫寶鑑》 > 胞 > 熱入血室](https://mediclassics.kr/books/8/volume/3#content_1372)
-* [《東醫寶鑑》 > 寒 > 熱入血室證](https://mediclassics.kr/books/8/volume/11#content_225)
-
-> 婦人傷寒發熱, 經水適來適斷, 晝日明了, 夜則譫語, 如見鬼狀, 此爲熱入血室 _[《東醫寶鑑》 > 胞 > 熱入血室](https://mediclassics.kr/books/8/volume/3#content_1372)_
+☞ [熱入血室]({{site.sympurl}}/열입혈실)
 
 <br>
 <div id="2-07week"></div>
@@ -1393,11 +1389,11 @@ src_path: template_shanghanlun.md
 
 <i class="fa fa-bookmark"></i> [저부탕]({{site.formulaurl}}/저부탕)
 
-<i class="fa fa-bookmark"></i> [감초탕]({{site.formulaurl}}/감초탕)
+<i class="fa fa-bookmark"></i> [감초탕]({{site.formulaurl}}/감초탕) _감초_
 
-<i class="fa fa-bookmark"></i> [길경탕]({{site.formulaurl}}/길경탕)
+<i class="fa fa-bookmark"></i> [길경탕]({{site.formulaurl}}/길경탕) _길경_
 
-<i class="fa fa-bookmark"></i> [고주탕]({{site.formulaurl}}/고주탕)
+<i class="fa fa-bookmark"></i> [고주탕]({{site.formulaurl}}/고주탕) _반하_
 
 ### 제5절 少陰病의 兼證
 
@@ -1415,9 +1411,9 @@ src_path: template_shanghanlun.md
 
 #### 2) 陽明을 겸한 증
 
-{% assign noo = "320" %}{% include {{page.src_path}} %}
-
 {% assign noo = "321" %}{% include {{page.src_path}} %}
+
+{% assign noo = "320" %}{% include {{page.src_path}} %}
 
 {% assign noo = "322" %}{% include {{page.src_path}} %}
 
@@ -1427,6 +1423,10 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "285" %}{% include {{page.src_path}} %}
 
+{% assign noo = "05-004" %}{% assign bookinit = "淳和" %}
+{% assign data_src = site.data.shanghanlun-chunhe %}
+{% include template_shanghanlun-others.md %}
+
 {% assign noo = "286" %}{% include {{page.src_path}} %}
 
 
@@ -1435,7 +1435,15 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "284" %}{% include {{page.src_path}} %}
 
+{% assign noo = "05-003" %}{% assign bookinit = "淳和" %}
+{% assign data_src = site.data.shanghanlun-chunhe %}
+{% include template_shanghanlun-others.md %}
+
 {% assign noo = "293" %}{% include {{page.src_path}} %}
+
+{% assign noo = "05-007" %}{% assign bookinit = "淳和" %}
+{% assign data_src = site.data.shanghanlun-chunhe %}
+{% include template_shanghanlun-others.md %}
 
 {% assign noo = "294" %}{% include {{page.src_path}} %}
 
@@ -1447,7 +1455,19 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "288" %}{% include {{page.src_path}} %}
 
+{% assign noo = "05-005" %}{% assign bookinit = "淳和" %}
+{% assign data_src = site.data.shanghanlun-chunhe %}
+{% include template_shanghanlun-others.md %}
+
 {% assign noo = "289" %}{% include {{page.src_path}} %}
+
+{% assign noo = "11-009" %}{% assign bookinit = "唐翼" %}
+{% assign data_src = site.data.shanghanlun-tang %}
+{% include template_shanghanlun-others.md %}
+
+{% assign noo = "05-006" %}{% assign bookinit = "淳和" %}
+{% assign data_src = site.data.shanghanlun-chunhe %}
+{% include template_shanghanlun-others.md %}
 
 {% assign noo = "295" %}{% include {{page.src_path}} %}
 
