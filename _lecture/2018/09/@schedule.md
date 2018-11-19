@@ -344,7 +344,7 @@ shortcut:
 ### 상한론 처방
 
 * <i class="fa fa-bookmark"></i> [오매환]({{site.formulaurl}}/오매환)
-* <i class="fa fa-bookmark"></i> [건강황금황련인삼탕]({{site.formulaurl}}/건강황금황련인삼탕)
+* <i class="fa fa-bookmark"></i> [건강황련황금인삼탕]({{site.formulaurl}}/건강황련황금인삼탕)
 * <i class="fa fa-bookmark"></i> [오수유탕]({{site.formulaurl}}/오수유탕)
 * <i class="fa fa-bookmark"></i> [당귀사역탕]({{site.formulaurl}}/당귀사역탕)
 * <i class="fa fa-bookmark"></i> [당귀사역가오수유생강탕]({{site.formulaurl}}/당귀사역가오수유생강탕)

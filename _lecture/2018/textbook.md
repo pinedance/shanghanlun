@@ -1519,7 +1519,7 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "359" %}{% include {{page.src_path}} %}
 
-<i class="fa fa-bookmark"></i> [건강황금황련인삼탕]({{site.formulaurl}}/건강황금황련인삼탕)
+<i class="fa fa-bookmark"></i> [건강황련황금인삼탕]({{site.formulaurl}}/건강황련황금인삼탕)
 
 ### 제3절 寒證
 
