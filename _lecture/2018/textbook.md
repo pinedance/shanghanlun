@@ -1513,6 +1513,10 @@ src_path: template_shanghanlun.md
 {% assign data_src = site.data.shanghanlun-rule %}
 {% include template_shanghanlun-others.md %}
 
+藏厥 vs 蚘厥
+* 藏厥：躁無暫安時者
+* 蚘厥：靜而復時煩者，得食而嘔吐蚘
+
 <i class="fa fa-bookmark"></i> [오매환]({{site.formulaurl}}/오매환)
 
 #### 2) 寒格吐利證
