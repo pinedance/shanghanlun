@@ -1131,7 +1131,15 @@ src_path: template_shanghanlun.md
 
 {% assign noo = "104" %}{% include {{page.src_path}} %}
 
+{% assign noo = "06-054" %}{% assign bookinit = "全書/法" %}
+{% assign data_src = site.data.shanghanlun-rule %}
+{% include template_shanghanlun-others.md %}
+
 {% assign noo = "103" %}{% include {{page.src_path}} %}
+
+{% assign noo = "06-053" %}{% assign bookinit = "全書/法" %}
+{% assign data_src = site.data.shanghanlun-rule %}
+{% include template_shanghanlun-others.md %}
 
 {% assign noo = "165" %}{% include {{page.src_path}} %}
 
