@@ -289,5 +289,5 @@ tags: 상한론, 강의
 
 ## Epilogue
 
-* [기말고사 결과]( {{site.baseurl}}/lecture/2018/03/기말고사_안내)
+* [기말고사 결과]( {{site.baseurl}}/lecture/2018/03/기말고사)
 * [강의 평가 결과](https://docs.google.com/spreadsheets/d/1sIT7pxNKKZUzkkFLhiEQ8F1RX-ICSipqpDnf2-iutEM/edit?usp=sharing)
