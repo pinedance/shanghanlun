@@ -394,3 +394,10 @@ shortcut:
 ## 16 〔181213〕：기말고사
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)
+
+***
+
+## Epilogue
+
+* [기말고사 결과]( {{site.baseurl}}/lecture/2018/09/기말고사)
+* [강의 평가 결과]()
