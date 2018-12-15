@@ -1,6 +1,6 @@
 <div id="Song{{noo}}" class="shanghanlun text song" markdown="1">
 
-<!--원문인용 시작.  상위에서 notype, noo 지정 필요-->
+<!--원문인용 시작.  상위에서 notype, noo, kor 지정 필요-->
 {% unless notype %}
 	{% assign notype = "NOO.NoA" %}
 {% endunless %}
@@ -19,6 +19,16 @@
 
 <p class="ann" markdown="1">
 	<sup>¶</sup>{{ annd }}
+</p>
+
+{% endif %}
+
+{% if kor  %}
+
+{% assign kor = items | map: 'KOR' | join: " "  %}
+
+<p class="kor" markdown="1">
+	<sup>§</sup>{{ kor }}
 </p>
 
 {% endif %}

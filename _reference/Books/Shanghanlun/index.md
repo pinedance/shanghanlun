@@ -8,7 +8,7 @@ index:
 ---
 
 
-## 상한론 원문
+## 상한금궤 원문
 
 {% include template_index.md %}
 

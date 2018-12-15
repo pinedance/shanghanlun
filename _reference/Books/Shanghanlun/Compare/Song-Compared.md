@@ -34,6 +34,7 @@ conf:
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_gabu.md %}
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Tang.md %}
 {% assign noo = number %}{% include template_shanghanlun_text_compare_with_Chunhe.md %}
+{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Geum.md %}
 </div>
 
 {% if number contains "-000" %}
