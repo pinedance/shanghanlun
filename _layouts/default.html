@@ -9,6 +9,9 @@
   <title>{{ site.data.theme.title }} | {{ page.title }}</title>
   <meta name="author" content="{{ site.data.theme.name }}" />
   <meta name="description" content="The blog of {{ site.data.theme.name }}" />
+  
+  {% include analytics.html %}
+  
   <link rel="canonical" href="{{site.baseurl}}{{ page.url | replace:'index.html','' }}" />
 
   <link href="//fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
@@ -43,7 +46,7 @@
 
   </div>
 
-{% include analytics.html %}
+
 
 
 
