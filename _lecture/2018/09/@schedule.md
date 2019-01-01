@@ -400,4 +400,4 @@ shortcut:
 ## Epilogue
 
 * [기말고사 결과]( {{site.baseurl}}/lecture/2018/09/기말고사)
-* [강의 평가 결과]()
+* [강의 평가 결과](https://docs.google.com/spreadsheets/d/14GDnzPX30_0EKVsiTPyvHi21ig82iQ9Oe1ZcoakUv9M/edit?usp=sharing)
