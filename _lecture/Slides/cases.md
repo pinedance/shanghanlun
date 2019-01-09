@@ -2,13 +2,17 @@
 layout: slideshow
 ---
 
+
+<!-- Remark.js Syntax REF -->
+<!-- https://raw.githubusercontent.com/sfc-arch/remark-theme/gh-pages/blue_standard/sample/sample.md -->
+<!-- https://story.xaprb.com/slides/ -->
+
 <textarea id="source">
 
-class: middle center blue lighten-4 black-text
+class: title
 
 # 상한론 처방의 임상 적용례
 
-<br><br>
 실려 있는 치험례는 환자를 특정할 수 없도록 각색을 거친 것으로, 사실과 다를 수 있습니다.
 
 수업 및 학습 이외의 용도로 사용할 수 없습니다.
@@ -18,7 +22,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-03 -->
-# CASE. 45세 여자 / 158-65
+## CASE. 45세 여자 / 158-65
 
 주소 : 우울증, 번조증이 심하다.
 * 불안이 매우 심하다.
@@ -37,7 +41,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-04 -->
-# CASE. 15세 여자 / 160-48
+## CASE. 15세 여자 / 160-48
 
 주소 : 태양혈 두통과 구역
 * 태양혈 부위 두통. 하루 종일 찌르는 듯 극심함
@@ -55,7 +59,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 27세 남자 / 172-58
+## CASE. 27세 남자 / 172-58
 
 주소 : 두통. 가슴 갑갑, 두근거림.
 * 매일 두통 및 항강 (1-2시간 지속), 종종 상열감
@@ -73,7 +77,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 43세 남자 / 170-60
+## CASE. 43세 남자 / 170-60
 
 주소 : 항강, 컨디션 저하
 * 심한 항강 (목디스크 병원 치료 中, 한약도 복용 중)
@@ -96,7 +100,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-05 -->
-# CASE. 34세 여자 / 168-55
+## CASE. 34세 여자 / 168-55
 
 주소 : 비염 (8년 경과)
 * 콧물▲, 재채기, 코막힘, 눈소양, 얼굴피부발적▲
@@ -115,7 +119,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 53세 남자 / ?-62
+## CASE. 53세 남자 / ?-62
 
 주소 : 만성비염, 8년째
 * 먼지에 콧물 재채기▲ (누우면 호전)
@@ -135,7 +139,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 80세 여자 / 145-60
+## CASE. 80세 여자 / 145-60
 
 주소 : 현훈, 이명, 삐삐 숨소리
 * 현훈. 종종 쓰러질 정도, 넘어져 입원하기도
@@ -156,7 +160,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-06 -->
-# CASE. 20세 남자 / 180-80
+## CASE. 20세 남자 / 180-80
 
 주소 : 비염, 복통
 * 콧물과 기침▲, 재채기, 코막힘, 가래△, 코골이▲
@@ -173,7 +177,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 10세 남자 / 140-41
+## CASE. 10세 남자 / 140-41
 
 주소 : 축농증 (병원 진단)
 * 항상 끈적한 누런코, 재채기와 맑은 콧물도 잦음.
@@ -191,7 +195,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-07 -->
-# CASE. 67세 여자 / 154-56
+## CASE. 67세 여자 / 154-56
 
 주소 : 현훈, 심하답답
 * 현훈▲ (수 일에 한 번씩 발생)
@@ -211,7 +215,7 @@ class: middle center blue lighten-4 black-text
 
 <!-- 1-08 // 중간고사 -->
 <!-- 1-09 -->
-# CASE. 22세 여자 / 158-49
+## CASE. 22세 여자 / 158-49
 
 주소 : 생리통 (중학교 때부터 시작, 고교때 심해짐)
 * 2일간, 허리, 아랫배 통심, 속울렁거림.
@@ -229,7 +233,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 80세 여자 / ?-?
+## CASE. 80세 여자 / ?-?
 
 주소 : 설사, 불면
 
@@ -248,7 +252,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-10 -->
-# CASE. 38세 여자 / 155-47
+## CASE. 38세 여자 / 155-47
 
 주소 : 출산 후, 설사ㆍ급체 빈발
 * 출산 후 체한 후 병원행 2회. 최근 주 1회 이상 체하면서 설사를 한다. 속이 안좋을 때는 뱃속이 차고 허리까지 시리다.
@@ -264,7 +268,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 55세 여자 / 162-52
+## CASE. 55세 여자 / 162-52
 
 주소 : 현훈
 * 어지럼증. 2년 전부터 조금씩 심해짐. 일어서면 바로 현훈. 눈앞이 캄캄 넘어질 듯.
@@ -281,7 +285,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 12세 여아 / 140-35.
+## CASE. 12세 여아 / 140-35.
 
 주소 : 복통빈발. 코막힘
 * 복통ㆍ심하통. 어릴 때부터 계~속. 상복부 통증 많다. 긴장하면 더 아픈 것 같다. 잘먹을 때 잘먹고, 안먹을 때 안먹음.
@@ -298,7 +302,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-11 -->
-# CASE. 39세 남자 / 178-71
+## CASE. 39세 남자 / 178-71
 
 주소 : 복통, 하퇴통
 * 언제부터인가 항상 배가 살살 아프고, 다리 근육이 아프다. 밤에 쥐가 많이 난다.
@@ -312,7 +316,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 63세 여자 / 150-52
+## CASE. 63세 여자 / 150-52
 
 주소 : 견통, 가슴 불편감
 * 피로하면 가슴이 뻥 뚫린 듯 찬바람이 든다. 말로 표현하기 어려운 불편감. 가만히 못 쉰다.
@@ -330,7 +334,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 78세 여자 / 155-59
+## CASE. 78세 여자 / 155-59
 
 주소 : 현훈
 * 현훈이 너무 심해 걷기 힘들 정도이다. 두통도 잦다. 항배강통.
@@ -348,7 +352,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 77세 남자 / 165-70
+## CASE. 77세 남자 / 165-70
 
 주소 : 손발전근
 * 손발에 전근이 심하다.
@@ -367,7 +371,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 1-12 -->
-# CASE. 65세 여자 / 160-53
+## CASE. 65세 여자 / 160-53
 
 주소 : 오래가는 심하비
 * 명치가 꽉 막힌 느낌이 2주째다. 심해서 물과 죽 밖에 못 먹은지 10일. 초기에 설사 2회. 배에서 소리가 심하게 난다.
@@ -381,7 +385,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 45세 여자 / 167-68
+## CASE. 45세 여자 / 167-68
 
 주소 : 역류성 식도염
 * 역류성 식도염. 신물, 가슴이 아린 느낌. 1년 째 약 복용중. 몸을 구부리고 일한다.
@@ -396,7 +400,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 58세 여자 / 158-50
+## CASE. 58세 여자 / 158-50
 
 주소 : 안면 홍조
 * 항상 얼굴에 붉은 기운이 있다. 원래 잠을 깊이 못잔다. 잠드는데 오래 걸리고 잘 깬다.
@@ -416,7 +420,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 2-01 -->
-# CASE. 55세 여자 / 161-66
+## CASE. 55세 여자 / 161-66
 
 주소 : 불면, 피로
 * 피곤한데 잠을 못이루고 잠깐 잤다가 깨서 못 잠(평균3-4시간) 폐경 후 점점 심해짐
@@ -438,7 +442,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 2-02 -->
-# CASE. 30세 남자 / 177-79
+## CASE. 30세 남자 / 177-79
 
 주소 : 공황장애
 * 공황발작. 죽을듯한 공포감.
@@ -453,7 +457,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 81세 여자 / 154-37
+## CASE. 81세 여자 / 154-37
 
 주소 : 불식
 * 밥맛이 없다. 억지로 먹으려면 들어는 가나 “싫다” 못 먹으니 힘이 없고 어지럼증이 심하다. 소화장애-구역ㆍ쓰림ㆍ급체ㆍ흉비-는 없다.
@@ -472,7 +476,7 @@ class: middle center blue lighten-4 black-text
 
 <!-- 2-03 -->
 
-# CASE. 58세 남자 / 172-76
+## CASE. 58세 남자 / 172-76
 
 주소 : 뇌경색 후유증. 복만
 * 우측 불수가 생겼었으나 현재 많이 호전 되었다. 밥을 못먹겠다.
@@ -489,7 +493,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 53세 여자 / 163-72
+## CASE. 53세 여자 / 163-72
 
 주소 : 두열·두한출
 * 머리에 열나면서 땀이 줄줄 흐른다. 밤낮 없다. 항상 난다.
@@ -501,11 +505,11 @@ class: middle center blue lighten-4 black-text
 
 치료
 * 대승기탕 15일. 대변 5/일. 시원치는 않다. 땀 50%호전. 기침 안함.
-* 동방 15일. 대변이 좀 더 시원해 지고, 배가 물러짐. 땀 별로 불편치 않다.  
+* 동방 15일. 대변이 좀 더 시원해 지고, 배가 물러짐. 땀 별로 불편치 않다.
 
 ---
 
-# CASE. 23세 여자 / 155-45.
+## CASE. 23세 여자 / 155-45.
 
 주소 : 복통
 * 두 달 전부터 지속되는 복통(심하통+복통)과 변비.
@@ -516,14 +520,14 @@ class: middle center blue lighten-4 black-text
 
 치료
 * .white[대승기탕] 10일: 설사 엄청 하는데 배가 더 아프다.
-* .white[지출탕] 15일: 일부 호전. 빈도는 비슷하다.  
+* .white[지출탕] 15일: 일부 호전. 빈도는 비슷하다.
 * .white[지작산료] 15일: 복통 소실. 가스도 없다.
 
 
 ---
 
 <!-- 2-04 -->
-# CASE. 24세 남자 / 182-78
+## CASE. 24세 남자 / 182-78
 
 주소 : 여드름. 피로.
 * 얼굴과 턱아래 뒷목으로 좁쌀 같은 여드름. 얼굴색이 너무 지저분하다. 대학 들어와서 생겼다.
@@ -540,7 +544,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 10세 남자 / 통통
+## CASE. 10세 남자 / 통통
 
 주소 : 복통, 피부소양
 * 복통이 있다가 없다가 함(1달째, 병원에서 검진 상 문제 발견 못함)
@@ -562,7 +566,7 @@ class: middle center blue lighten-4 black-text
 <!-- 2-05  // 휴강 -->
 <!-- 2-06 -->
 
-# CASE. 36세 여자 / 155-52
+## CASE. 36세 여자 / 155-52
 
 주소 : 두통과 현훈
 * 4개월 전. 연년생 출산 후 쓰러질 것 같다. 혈압이 떨어지고, 기립시 현훈이 심하다. 20대 때도 심하게 어지러워 입원한 적이 있다.
@@ -579,7 +583,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 28세 여자 / 157-47
+## CASE. 28세 여자 / 157-47
 
 주소 : 생리통, 스트레스
 * 생리통 심. 첫 1-2일 간, 진통제3-6알 복용. 고등시절부터 있었고, 6년 전부터 심해짐. 생리7일전부터 부종, 가슴통증, 겨드랑이 통증.
@@ -597,7 +601,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 73세 여자 / ?-?
+## CASE. 73세 여자 / ?-?
 
 주소 : 기운 없음, 감기 빈발
 * 기운이 없고 우울하며, 감기를 끼고 산다. 가래, 인후이물감, 목이 잘 쉰다. 가끔 기침.
@@ -613,7 +617,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 73세 남자 / 165-58
+## CASE. 73세 남자 / 165-58
 
 주소 : 현훈, 음식무미, 변비
 * 식욕부진, 음식무미. 오심ㆍ구역이 심할 때는 정말 못먹겠다.
@@ -634,7 +638,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 2-07 -->
-# CASE. 16세 남자 / 168-51
+## CASE. 16세 남자 / 168-51
 
 주소 : ADHD ( 신경과약 먹은 적 있음)
 * 과잉행동보다는 자기 성질을 못 참는다. 과도한 반항기.
@@ -651,7 +655,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 64세 남자 / 172-67
+## CASE. 64세 남자 / 172-67
 
 주소 : 등통증, 상열
 * 등이 조이면서 아프다. 오한과 발열, 신체통이 있어 몸살 같다. 벌써 한 달이 되었다.
@@ -668,7 +672,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 51세 여자 / 156-53
+## CASE. 51세 여자 / 156-53
 
 주소 : 현훈; 소화불량
 <!-- * 홍삼 복용 -->
@@ -688,7 +692,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 19세 남자 / 173-50
+## CASE. 19세 남자 / 173-50
 
 주소 : 체중감소, 현훈, 복통, 수족다한
 <!-- * 16년 4월에 성대 물혹제거 수술. -->
@@ -714,7 +718,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 43세 남자 / 173-65
+## CASE. 43세 남자 / 173-65
 
 주소 : 크론병(30년전 발병, 소장 절제술 3회)
 * 거의 항상 있는 극심한 복통. 설사 하루 2-4회.
@@ -736,7 +740,7 @@ class: middle center blue lighten-4 black-text
 
 <!-- 2-08  // 중간고사 -->
 <!-- 2-09 -->
-# CASE. 32세 여자 / 161-49
+## CASE. 32세 여자 / 161-49
 
 주소 : 수족냉, 복통, 설사
 * 원래부터 손발이 매우 차다. 특히 발. 아랫배도 차서 냉이 있고 설사와 소변도 잦다.
@@ -752,7 +756,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 30세 여자 / 163-48
+## CASE. 30세 여자 / 163-48
 
 주소 : 소화불량, 심하통
 * 소화불량, 위염이 심하다. 심하통ㆍ막힘. 윗배가 불러있고 부어오르는 느낌이다. 특히 저녁에 심하다. 식소. 트림ㆍ속쓰림.
@@ -769,7 +773,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 70세 여자 / 155-51
+## CASE. 70세 여자 / 155-51
 
 주소 : 두통, 오풍한
 * 항상 두통이 있다. 엄청 오래 되었다. 힘이 없고, 추위를 엄청 탄다.
@@ -785,7 +789,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 <!-- 2-10 -->
-# CASE
+## CASE
 
 사역탕
 
@@ -793,7 +797,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 <!-- 2-11 -->
-# CASE. 51세 여자 / 158-66
+## CASE. 51세 여자 / 158-66
 
 
 주소 : 신체통. 다리저림.
@@ -814,7 +818,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 2-12 -->
-# CASE.
+## CASE.
 
 진무탕
 
@@ -822,7 +826,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 61세 여자 / 160-60
+## CASE. 61세 여자 / 160-60
 
 주소 : 모낭염, 피로
 * 모낭염 (안면 전체, 특히 미간-코-턱▲), 등 두드러기
@@ -845,7 +849,7 @@ class: middle center blue lighten-4 black-text
 ---
 
 <!-- 2-13 -->
-# CASE. 72세 남자 / 164-68.
+## CASE. 72세 남자 / 164-68.
 
 주소 : 머리가 차다. 소화불량
 * 머리가 차다. 썰렁. 머리가 무겁고 누우면 더 심하다. 머리를 싸매고 잔다. 안그럼 두통. 그와 함께 속이 안좋다. 손발도 차다.
@@ -862,7 +866,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 32세 여자 / 165-58
+## CASE. 32세 여자 / 165-58
 
 주소 : 생리통, 수족냉
 * 생리통. 19세 때 맹장 수술후부터. 격달로 생리양이 많으면서 통증 심. 생리 기간 내내(5일) 통증. 그 다음 달은 3일에 양도 적다. 진통제 첫날 5알, 나을 때 까지 먹는다.
@@ -882,7 +886,7 @@ class: middle center blue lighten-4 black-text
 
 <!-- 2-14  // 조별과제 -->
 <!-- 2-15   -->
-# CASE. 19세 여자 / 168-60
+## CASE. 19세 여자 / 168-60
 
 주소 : 두통, 수족한
 * 두통. 신경쓰면 심하다. 평균 4-5/월.
@@ -898,7 +902,7 @@ class: middle center blue lighten-4 black-text
 
 ---
 
-# CASE. 12세 여자 / 148-36
+## CASE. 12세 여자 / 148-36
 
 주소 : 수족한
 * 손금이 짓무른다. 발끝도 까진다. 수면중 도한도 있다(등).
@@ -919,6 +923,6 @@ class: middle center blue lighten-4 black-text
 
 class: center middle
 <!-- 2-16  // 기말고사 -->
-# 감사합니다.
+## 감사합니다.
 
 </textarea>
