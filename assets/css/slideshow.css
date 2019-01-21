@@ -14,3 +14,8 @@ h1, h2, h3 {
 .remark-slide-content {
     font-size: 1.2em;
 }
+
+.white {
+  color: white;
+  text-decoration: underline;
+}
