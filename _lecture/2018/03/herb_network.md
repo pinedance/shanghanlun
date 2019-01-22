@@ -18,4 +18,4 @@ powered by [VOSviewer](http://www.vosviewer.com/)
 
 
 
-{% include imgmodal.html %}
+{% include layout/imgmodal.html %}

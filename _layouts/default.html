@@ -9,9 +9,9 @@
   <title>{{ site.data.theme.title }} | {{ page.title }}</title>
   <meta name="author" content="{{ site.data.theme.name }}" />
   <meta name="description" content="The blog of {{ site.data.theme.name }}" />
-  
-  {% include analytics.html %}
-  
+
+  {% include layout/analytics.html %}
+
   <link rel="canonical" href="{{site.baseurl}}{{ page.url | replace:'index.html','' }}" />
 
   <link href="//fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
@@ -27,7 +27,7 @@
 <body>
   <div class="container">
     <div class="four columns sidebar">
-      {% include sidebar.html %}
+      {% include layout/sidebar.html %}
     </div>
 
     <div class="eleven columns content">
@@ -35,11 +35,11 @@
 
       <br><br>
       <div class="footer">
-        {% include footer.html %}
+        {% include layout/footer.html %}
       </div>
 
 	  <div id="searchBar" class="bar4search">
-        {% include search.html %}
+        {% include layout/search.html %}
 	  </div>
 
     </div>
