@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: "상한금궤 처방 목록(유취방 순서)"
+title: "상한금궤 처방 목록 (유취방 순서)"
 tags: [index, 처방]
 index:
   category: reference
@@ -11,7 +11,7 @@ index:
 
 {% for fml in formulas %}
 
-### {{ fml.noo }} [{{ fml.name }} （{{ fml.name_kr }}）]({{site.formulaurl}}/{{fml.name_kr}})
+### {{ fml.noo }} [{{ fml.name }} <small>（{{ fml.name_kr }}）</small>]({{site.formulaurl}}/{{fml.name_kr}})
 
 > {{ fml.bangksj}}
 
