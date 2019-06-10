@@ -13,6 +13,9 @@ timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_databa
 host: 0.0.0.0
 port: 8384
 
+# Google Analytics
+google_analytics_id : UA-72863252-3
+
 # Plugins
 plugins:
   - jekyll-redirect-from
