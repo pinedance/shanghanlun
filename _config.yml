@@ -10,7 +10,7 @@ baseurl:            "/shanghanlun" # Base URL must end WITHOUT a slash, default:
 timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Build settings
-host: 0.0.0.0
+host: localhost
 port: 8384
 
 # Google Analytics
