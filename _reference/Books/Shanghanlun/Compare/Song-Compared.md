@@ -4,12 +4,8 @@ title: "상한론 조문 비교"
 desc: "〔송본 기준〕"
 tags: [송본, 조문비교]
 conf:
-  template: template_shanghanlun.md
-  bookinit: "全書"
+  from: "Song"
 ---
-
-{% assign notype = "NOO.NoA" %}
-{% assign bookinit = page.conf.bookinit %}
 
 {{ page.desc }}
 ---------
@@ -25,16 +21,15 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-{% assign noo = number %}{% include {{ page.conf.template }} %}
+{% include clause.md noo=number %}
 </div>
 
 <div class="compared" markdown="1">
-{% assign from = "Song" %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_rule.md %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_gabu.md %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Tang.md %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Chunhe.md %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Geum.md %}
+{% include compare/SHL-Rule.md noo=number from=page.conf.from %}
+{% include compare/SHL-Gabu.md noo=number from=page.conf.from %}
+{% include compare/SHL-Tang.md noo=number from=page.conf.from %}
+{% include compare/SHL-Chunhe.md noo=number from=page.conf.from %}
+{% include compare/SHL-GGYL.md noo=number from=page.conf.from %}
 </div>
 
 {% if number contains "-000" %}

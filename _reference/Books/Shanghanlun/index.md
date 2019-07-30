@@ -10,7 +10,7 @@ index:
 
 ## 상한금궤 원문
 
-{% include template_index.md %}
+{% include page_list.md %}
 
 ## 참고
 

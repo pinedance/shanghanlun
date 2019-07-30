@@ -7,4 +7,4 @@ index:
   subject: wiki
 ---
 
-{% include template_index.md %}
+{% include page_list.md %}

@@ -3,14 +3,13 @@ layout: reference
 title: "方極〔方極刪定〕"
 desc: "吉益東洞"
 tags: [관련원문, 방극, 방극산정]
-src_path: template_shanghanlun.md
 ---
 
 
 
 {% for idx in (1..204) %}
 
-{% assign frms = site.data.bangk | where: "noo", idx %}
+{% assign frms = site.data.clause.bangk | where: "noo", idx %}
 
 {% for frm in frms %}
 

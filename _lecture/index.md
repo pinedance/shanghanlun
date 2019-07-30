@@ -7,4 +7,4 @@ index:
   subject: 강의
 ---
 
-{% include template_index.md %}
+{% include page_list.md %}

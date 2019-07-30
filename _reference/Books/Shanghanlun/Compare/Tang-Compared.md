@@ -4,18 +4,15 @@ title: "상한론 조문 비교"
 desc: "〔당본 기준〕"
 tags: [당본, 조문비교]
 conf:
-  template: template_shanghanlun-others.md
-  bookinit: "唐翼"
+  from: "Tang"
 ---
-
-{% assign data_src = site.data.shanghanlun-tang %}
-{% assign bookinit = page.conf.bookinit %}
 
 {{ page.desc }}
 --------------------
 
 <br>
 
+{% assign data_src = site.data.clause.SHL_Tang %}
 {% for t in data_src %}
 {% assign number = t.NOO %}
 
@@ -25,15 +22,12 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-{% assign data_src = site.data.shanghanlun-tang %}
-{% assign bookinit = page.conf.bookinit %}
-{% assign noo = number %}{% include {{ page.conf.template }} %}
+{% include clause.md book="SHL_Tang" noo=number %}
 </div>
 
 <div class="compared" markdown="1">
-{% assign from = "Tang" %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Song.md %}
-{% assign noo = number %}{% include template_shanghanlun_text_compare_with_Chunhe.md %}
+{% include compare/SHL-Song.md noo=number from=page.conf.from %}
+{% include compare/SHL-Chunhe.md noo=number from=page.conf.from %}
 </div>
 
 {% if number contains "-000" %}

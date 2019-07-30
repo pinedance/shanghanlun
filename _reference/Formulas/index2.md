@@ -7,7 +7,7 @@ index:
   subject: 처방
 ---
 
-{% assign formulas = site.data.bangk %}
+{% assign formulas = site.data.clause.bangk %}
 
 {% for fml in formulas %}
 

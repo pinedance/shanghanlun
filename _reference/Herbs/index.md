@@ -14,4 +14,4 @@ index:
 
 ## 개별 본초
 
-{% include template_index.md %}
+{% include page_list.md %}

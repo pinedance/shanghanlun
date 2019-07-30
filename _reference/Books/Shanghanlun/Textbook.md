@@ -3,7 +3,6 @@ layout: reference
 title: "상한론"
 desc: "송본 상한론〔교재 순서〕"
 tags: [상한금궤원문, 교재]
-src_path: template_shanghanlun.md
 ---
 
 
@@ -12,9 +11,9 @@ src_path: template_shanghanlun.md
 
 六經病 證治의 大綱
 
-{% assign noo = "007" %}{% include {{page.src_path}} %}
+{% include clause.md noo="007" %}
 
-{% assign noo = "011" %}{% include {{page.src_path}} %}
+{% include clause.md noo="011" %}
 
 
 
@@ -24,7 +23,7 @@ src_path: template_shanghanlun.md
 
 ### 제1절 太陽病의 提綱
 
-{% assign noo = "001" %}{% include {{page.src_path}} %}
+{% include clause.md noo="001" %}
 
 
 ### 제2절 太陽經證
@@ -34,58 +33,58 @@ src_path: template_shanghanlun.md
 
 ##### (1) 風寒表虛證
 
-{% assign noo = "002" %}{% include {{page.src_path}} %}
+{% include clause.md noo="002" %}
 
-{% assign noo = "013" %}{% include {{page.src_path}} %}
+{% include clause.md noo="013" %}
 
-{% assign noo = "012" %}{% include {{page.src_path}} %}
+{% include clause.md noo="012" %}
 
-{% assign noo = "024" %}{% include {{page.src_path}} %}
+{% include clause.md noo="024" %}
 
-{% assign noo = "057" %}{% include {{page.src_path}} %}
+{% include clause.md noo="057" %}
 
-{% assign noo = "053" %}{% include {{page.src_path}} %}
+{% include clause.md noo="053" %}
 
-{% assign noo = "054" %}{% include {{page.src_path}} %}
+{% include clause.md noo="054" %}
 
 
 ##### (2) 桂枝湯을 쓰면 안되는 경우
 
-{% assign noo = "016" %}{% include {{page.src_path}} %}
+{% include clause.md noo="016" %}
 
-{% assign noo = "017" %}{% include {{page.src_path}} %}
+{% include clause.md noo="017" %}
 
 
 ##### (3) 風寒表虛의 兼證
 
 ###### ① 項背强几几를 겸한 증
 
-{% assign noo = "014" %}{% include {{page.src_path}} %}
+{% include clause.md noo="014" %}
 
 ###### ② 喘證을 겸한 증
 
-{% assign noo = "018" %}{% include {{page.src_path}} %}
+{% include clause.md noo="018" %}
 
-{% assign noo = "043" %}{% include {{page.src_path}} %}
+{% include clause.md noo="043" %}
 
 
 ###### ③ 營氣가 부족하여 身痛을 겸한 증
 
-{% assign noo = "062" %}{% include {{page.src_path}} %}
+{% include clause.md noo="062" %}
 
 ###### ④ 胸滿을 겸한 증
 
-{% assign noo = "021" %}{% include {{page.src_path}} %}
+{% include clause.md noo="021" %}
 
-{% assign noo = "022" %}{% include {{page.src_path}} %}
+{% include clause.md noo="022" %}
 
 ###### ⑤ 陽虛漏汗을 겸한 증
 
-{% assign noo = "020" %}{% include {{page.src_path}} %}
+{% include clause.md noo="020" %}
 
 ###### ⑥ 脾虛水停을 겸한 증
 
-{% assign noo = "028" %}{% include {{page.src_path}} %}
+{% include clause.md noo="028" %}
 
 
 
@@ -96,35 +95,35 @@ src_path: template_shanghanlun.md
 ##### (1) 風寒表實證
 
 
-{% assign noo = "003" %}{% include {{page.src_path}} %}
+{% include clause.md noo="003" %}
 
-{% assign noo = "035" %}{% include {{page.src_path}} %}
+{% include clause.md noo="035" %}
 
-{% assign noo = "046" %}{% include {{page.src_path}} %}
+{% include clause.md noo="046" %}
 
-{% assign noo = "036" %}{% include {{page.src_path}} %}
+{% include clause.md noo="036" %}
 
 
 ##### (2) 麻黃湯을 쓰면 안되는 경우
 
 
-{% assign noo = "049" %}{% include {{page.src_path}} %}
+{% include clause.md noo="049" %}
 
-{% assign noo = "050" %}{% include {{page.src_path}} %}
+{% include clause.md noo="050" %}
 
-{% assign noo = "083" %}{% include {{page.src_path}} %}
+{% include clause.md noo="083" %}
 
-{% assign noo = "084" %}{% include {{page.src_path}} %}
+{% include clause.md noo="084" %}
 
-{% assign noo = "085" %}{% include {{page.src_path}} %}
+{% include clause.md noo="085" %}
 
-{% assign noo = "086" %}{% include {{page.src_path}} %}
+{% include clause.md noo="086" %}
 
-{% assign noo = "087" %}{% include {{page.src_path}} %}
+{% include clause.md noo="087" %}
 
-{% assign noo = "088" %}{% include {{page.src_path}} %}
+{% include clause.md noo="088" %}
 
-{% assign noo = "089" %}{% include {{page.src_path}} %}
+{% include clause.md noo="089" %}
 
 
 
@@ -133,25 +132,25 @@ src_path: template_shanghanlun.md
 
 ###### ① 項背强几几를 겸한 증
 
-{% assign noo = "031" %}{% include {{page.src_path}} %}
+{% include clause.md noo="031" %}
 
 ###### ② 嘔逆과 下利를 겸한 증
 
-{% assign noo = "032" %}{% include {{page.src_path}} %}
+{% include clause.md noo="032" %}
 
-{% assign noo = "033" %}{% include {{page.src_path}} %}
+{% include clause.md noo="033" %}
 
 ###### ③ 內熱煩躁를 겸한 증
 
-{% assign noo = "038" %}{% include {{page.src_path}} %}
+{% include clause.md noo="038" %}
 
-{% assign noo = "039" %}{% include {{page.src_path}} %}
+{% include clause.md noo="039" %}
 
 ###### ④ 水飮咳喘을 겸한 증
 
-{% assign noo = "040" %}{% include {{page.src_path}} %}
+{% include clause.md noo="040" %}
 
-{% assign noo = "041" %}{% include {{page.src_path}} %}
+{% include clause.md noo="041" %}
 
 
 
@@ -160,19 +159,19 @@ src_path: template_shanghanlun.md
 
 ##### (1) 表鬱不解證
 
-{% assign noo = "023" %}{% include {{page.src_path}} %}
+{% include clause.md noo="023" %}
 
 
 ##### (2) 表鬱內熱證
 
-{% assign noo = "027" %}{% include {{page.src_path}} %}
+{% include clause.md noo="027" %}
 
-{% assign noo = "048" %}{% include {{page.src_path}} %}
+{% include clause.md noo="048" %}
 
 
 #### 4) 溫病
 
-{% assign noo = "006" %}{% include {{page.src_path}} %}
+{% include clause.md noo="006" %}
 
 
 
@@ -182,33 +181,33 @@ src_path: template_shanghanlun.md
 
 #### 1) 蓄水證
 
-{% assign noo = "071" %}{% include {{page.src_path}} %}
+{% include clause.md noo="071" %}
 
-{% assign noo = "072" %}{% include {{page.src_path}} %}
+{% include clause.md noo="072" %}
 
-{% assign noo = "074" %}{% include {{page.src_path}} %}
+{% include clause.md noo="074" %}
 
 #### 2) 蓄血證
 
-{% assign noo = "106" %}{% include {{page.src_path}} %}
+{% include clause.md noo="106" %}
 
-{% assign noo = "124" %}{% include {{page.src_path}} %}
+{% include clause.md noo="124" %}
 
-{% assign noo = "125" %}{% include {{page.src_path}} %}
+{% include clause.md noo="125" %}
 
-{% assign noo = "126" %}{% include {{page.src_path}} %}
+{% include clause.md noo="126" %}
 
 
 
 ### 제4절 太陽病의 傳變
 
-{% assign noo = "004" %}{% include {{page.src_path}} %}
+{% include clause.md noo="004" %}
 
-{% assign noo = "005" %}{% include {{page.src_path}} %}
+{% include clause.md noo="005" %}
 
-{% assign noo = "269" %}{% include {{page.src_path}} %}
+{% include clause.md noo="269" %}
 
-{% assign noo = "270" %}{% include {{page.src_path}} %}
+{% include clause.md noo="270" %}
 
 
 
@@ -217,19 +216,19 @@ src_path: template_shanghanlun.md
 
 #### 1) 變證의 치료법
 
-{% assign noo = "016" %}{% include {{page.src_path}} %}
+{% include clause.md noo="016" %}
 
 
 #### 2) 邪熱壅肺證
 
-{% assign noo = "063" %}{% include {{page.src_path}} %}
+{% include clause.md noo="063" %}
 
-{% assign noo = "162" %}{% include {{page.src_path}} %}
+{% include clause.md noo="162" %}
 
 
 #### 3) 邪熱下利證
 
-{% assign noo = "034" %}{% include {{page.src_path}} %}
+{% include clause.md noo="034" %}
 
 
 
@@ -237,33 +236,33 @@ src_path: template_shanghanlun.md
 
 ##### (1) 心陽虛 心悸證
 
-{% assign noo = "064" %}{% include {{page.src_path}} %}
+{% include clause.md noo="064" %}
 
-{% assign noo = "075" %}{% include {{page.src_path}} %}
+{% include clause.md noo="075" %}
 
 ##### (2) 心陽虛 煩躁證
 
-{% assign noo = "118" %}{% include {{page.src_path}} %}
+{% include clause.md noo="118" %}
 
 ##### (3) 心陽虛 驚狂證
 
-{% assign noo = "112" %}{% include {{page.src_path}} %}
+{% include clause.md noo="112" %}
 
 ##### (4) 心陽虛 欲作奔豚證
 
-{% assign noo = "065" %}{% include {{page.src_path}} %}
+{% include clause.md noo="065" %}
 
 ##### (5) 心陽虛 奔豚證
 
-{% assign noo = "117" %}{% include {{page.src_path}} %}
+{% include clause.md noo="117" %}
 
 
 
 #### 5) 心陰心陽兩虛證
 
-{% assign noo = "177" %}{% include {{page.src_path}} %}
+{% include clause.md noo="177" %}
 
-{% assign noo = "178" %}{% include {{page.src_path}} %}
+{% include clause.md noo="178" %}
 
 
 #### 6) 脾胃陽虛證
@@ -272,23 +271,23 @@ src_path: template_shanghanlun.md
 
 ##### (1) 脾虛 水停證
 
-{% assign noo = "067" %}{% include {{page.src_path}} %}
+{% include clause.md noo="067" %}
 
 ##### (2) 胃虛 水停證
 
-{% assign noo = "073" %}{% include {{page.src_path}} %}
+{% include clause.md noo="073" %}
 
-{% assign noo = "356" %}{% include {{page.src_path}} %}
+{% include clause.md noo="356" %}
 
 ##### (3) 脾虛 心悸證
 
-{% assign noo = "102" %}{% include {{page.src_path}} %}
+{% include clause.md noo="102" %}
 
-{% assign noo = "100" %}{% include {{page.src_path}} %}
+{% include clause.md noo="100" %}
 
 ##### (4) 脾虛 氣滯腹脹證
 
-{% assign noo = "066" %}{% include {{page.src_path}} %}
+{% include clause.md noo="066" %}
 
 
 
@@ -297,29 +296,29 @@ src_path: template_shanghanlun.md
 
 ##### (1) 陽虛 煩躁證
 
-{% assign noo = "061" %}{% include {{page.src_path}} %}
+{% include clause.md noo="061" %}
 
 ##### (2) 陽虛 厥逆煩躁證
 
-{% assign noo = "069" %}{% include {{page.src_path}} %}
+{% include clause.md noo="069" %}
 
 
 
 #### 8) 火邪傷陰內熱證
 
-{% assign noo = "111" %}{% include {{page.src_path}} %}
+{% include clause.md noo="111" %}
 
-{% assign noo = "115" %}{% include {{page.src_path}} %}
+{% include clause.md noo="115" %}
 
-{% assign noo = "116" %}{% include {{page.src_path}} %}
+{% include clause.md noo="116" %}
 
 
 
 #### 9) 陰傷證과 병이 낫는 기전
 
-{% assign noo = "058" %}{% include {{page.src_path}} %}
+{% include clause.md noo="058" %}
 
-{% assign noo = "059" %}{% include {{page.src_path}} %}
+{% include clause.md noo="059" %}
 
 
 
@@ -329,13 +328,13 @@ src_path: template_shanghanlun.md
 
 ##### (1) 陰陽轉化證
 
-{% assign noo = "029" %}{% include {{page.src_path}} %}
+{% include clause.md noo="029" %}
 
 ##### (2) 陰陽兩虛證
 
-{% assign noo = "068" %}{% include {{page.src_path}} %}
+{% include clause.md noo="068" %}
 
-{% assign noo = "060" %}{% include {{page.src_path}} %}
+{% include clause.md noo="060" %}
 
 
 #### 11) 結胸證
@@ -344,25 +343,25 @@ src_path: template_shanghanlun.md
 
 ###### ① 大結胸證
 
-{% assign noo = "135" %}{% include {{page.src_path}} %}
+{% include clause.md noo="135" %}
 
-{% assign noo = "137" %}{% include {{page.src_path}} %}
+{% include clause.md noo="137" %}
 
-{% assign noo = "136" %}{% include {{page.src_path}} %}
+{% include clause.md noo="136" %}
 
-{% assign noo = "131" %}{% include {{page.src_path}} %}
+{% include clause.md noo="131" %}
 
-{% assign noo = "132" %}{% include {{page.src_path}} %}
+{% include clause.md noo="132" %}
 
-{% assign noo = "133" %}{% include {{page.src_path}} %}
+{% include clause.md noo="133" %}
 
 ###### ② 小結胸證
 
-{% assign noo = "138" %}{% include {{page.src_path}} %}
+{% include clause.md noo="138" %}
 
 ##### (2) 寒實結胸
 
-{% assign noo = "141" %}{% include {{page.src_path}} %}
+{% include clause.md noo="141" %}
 
 
 
@@ -371,52 +370,52 @@ src_path: template_shanghanlun.md
 
 ##### (1) 熱痞
 
-{% assign noo = "154" %}{% include {{page.src_path}} %}
+{% include clause.md noo="154" %}
 
-{% assign noo = "164" %}{% include {{page.src_path}} %}
+{% include clause.md noo="164" %}
 
 ##### (2) 熱痞에 表陽虛를 겸한 증
 
-{% assign noo = "155" %}{% include {{page.src_path}} %}
+{% include clause.md noo="155" %}
 
 ##### (3) 脾胃가 不和한데 寒熱이 뒤섞여 된 痞證
 
 ###### ① 嘔逆하면서 下利하는 痞證
 
-{% assign noo = "149" %}{% include {{page.src_path}} %}
+{% include clause.md noo="149" %}
 
 ###### ② 水飮과 食滯로 인한 痞證
 
-{% assign noo = "157" %}{% include {{page.src_path}} %}
+{% include clause.md noo="157" %}
 
 ###### ③ 胃虛하여 痞證과 下利가 모두 심한 증
 
-{% assign noo = "158" %}{% include {{page.src_path}} %}
+{% include clause.md noo="158" %}
 
 
 
 #### 13) 結胸과 臟結 및 痞證
 
-{% assign noo = "128" %}{% include {{page.src_path}} %}
+{% include clause.md noo="128" %}
 
-{% assign noo = "129" %}{% include {{page.src_path}} %}
+{% include clause.md noo="129" %}
 
-{% assign noo = "130" %}{% include {{page.src_path}} %}
+{% include clause.md noo="130" %}
 
-{% assign noo = "167" %}{% include {{page.src_path}} %}
+{% include clause.md noo="167" %}
 
-{% assign noo = "151" %}{% include {{page.src_path}} %}
+{% include clause.md noo="151" %}
 
 
 
 #### 14) 上熱下寒證
 
-{% assign noo = "173" %}{% include {{page.src_path}} %}
+{% include clause.md noo="173" %}
 
 
 #### 15) 胃中不和로 인한 噫氣證
 
-{% assign noo = "161" %}{% include {{page.src_path}} %}
+{% include clause.md noo="161" %}
 
 
 
@@ -425,24 +424,24 @@ src_path: template_shanghanlun.md
 
 #### 1) 風濕이 肌肉에 유착된 증
 
-{% assign noo = "174" %}{% include {{page.src_path}} %}
+{% include clause.md noo="174" %}
 
 
 #### 2) 風濕이 關節에 유착된 증
 
-{% assign noo = "175" %}{% include {{page.src_path}} %}
+{% include clause.md noo="175" %}
 
 
 #### 3) 懸飮證
 
-{% assign noo = "152" %}{% include {{page.src_path}} %}
+{% include clause.md noo="152" %}
 
 
 #### 4) 胸膈痰實證
 
-{% assign noo = "166" %}{% include {{page.src_path}} %}
+{% include clause.md noo="166" %}
 
-{% assign noo = "355" %}{% include {{page.src_path}} %}
+{% include clause.md noo="355" %}
 
 
 
@@ -450,15 +449,15 @@ src_path: template_shanghanlun.md
 ### 제7절 表證과 裡證의 치료 순서
 
 
-{% assign noo = "090" %}{% include {{page.src_path}} %}
+{% include clause.md noo="090" %}
 
-{% assign noo = "056" %}{% include {{page.src_path}} %}
+{% include clause.md noo="056" %}
 
-{% assign noo = "091" %}{% include {{page.src_path}} %}
+{% include clause.md noo="091" %}
 
-{% assign noo = "092" %}{% include {{page.src_path}} %}
+{% include clause.md noo="092" %}
 
-{% assign noo = "387" %}{% include {{page.src_path}} %}
+{% include clause.md noo="387" %}
 
 
 
@@ -472,21 +471,21 @@ src_path: template_shanghanlun.md
 ### 제1절 陽明病의 提綱
 
 
-{% assign noo = "180" %}{% include {{page.src_path}} %}
+{% include clause.md noo="180" %}
 
-{% assign noo = "182" %}{% include {{page.src_path}} %}
+{% include clause.md noo="182" %}
 
-{% assign noo = "186" %}{% include {{page.src_path}} %}
+{% include clause.md noo="186" %}
 
 ### 제2절 陽明病의 病因과 病機
 
-{% assign noo = "179" %}{% include {{page.src_path}} %}
+{% include clause.md noo="179" %}
 
-{% assign noo = "181" %}{% include {{page.src_path}} %}
+{% include clause.md noo="181" %}
 
-{% assign noo = "183" %}{% include {{page.src_path}} %}
+{% include clause.md noo="183" %}
 
-{% assign noo = "185" %}{% include {{page.src_path}} %}
+{% include clause.md noo="185" %}
 
 
 
@@ -495,15 +494,15 @@ src_path: template_shanghanlun.md
 
 #### 1) 胸中煩熱懊憹證
 
-{% assign noo = "076" %}{% include {{page.src_path}} %}
+{% include clause.md noo="076" %}
 
-{% assign noo = "077" %}{% include {{page.src_path}} %}
+{% include clause.md noo="077" %}
 
-{% assign noo = "078" %}{% include {{page.src_path}} %}
+{% include clause.md noo="078" %}
 
-{% assign noo = "375" %}{% include {{page.src_path}} %}
+{% include clause.md noo="375" %}
 
-{% assign noo = "228" %}{% include {{page.src_path}} %}
+{% include clause.md noo="228" %}
 
 
 #### 2) 兼證
@@ -511,21 +510,21 @@ src_path: template_shanghanlun.md
 
 ##### (1) 腹滿을 겸한 증
 
-{% assign noo = "079" %}{% include {{page.src_path}} %}
+{% include clause.md noo="079" %}
 
 ##### (2) 心下痞塞을 겸한 증
 
-{% assign noo = "393" %}{% include {{page.src_path}} %}
+{% include clause.md noo="393" %}
 
 ##### (3) 中寒을 겸한 증
 
-{% assign noo = "080" %}{% include {{page.src_path}} %}
+{% include clause.md noo="080" %}
 
 
 
 #### 3) 梔子湯을 쓰면 안되는 경우
 
-{% assign noo = "081" %}{% include {{page.src_path}} %}
+{% include clause.md noo="081" %}
 
 
 
@@ -535,24 +534,24 @@ src_path: template_shanghanlun.md
 
 #### 1) 胃熱證과 胃熱津傷證
 
-{% assign noo = "176" %}{% include {{page.src_path}} %}
+{% include clause.md noo="176" %}
 
-{% assign noo = "350" %}{% include {{page.src_path}} %}
+{% include clause.md noo="350" %}
 
-{% assign noo = "219" %}{% include {{page.src_path}} %}
+{% include clause.md noo="219" %}
 
-{% assign noo = "026" %}{% include {{page.src_path}} %}
+{% include clause.md noo="026" %}
 
-{% assign noo = "168" %}{% include {{page.src_path}} %}
+{% include clause.md noo="168" %}
 
-{% assign noo = "169" %}{% include {{page.src_path}} %}
+{% include clause.md noo="169" %}
 
-{% assign noo = "170" %}{% include {{page.src_path}} %}
+{% include clause.md noo="170" %}
 
 
 #### 2) 胃熱津傷으로 인한 氣逆證
 
-{% assign noo = "397" %}{% include {{page.src_path}} %}
+{% include clause.md noo="397" %}
 
 
 
@@ -562,74 +561,74 @@ src_path: template_shanghanlun.md
 
 #### 1) 燥實證
 
-{% assign noo = "248" %}{% include {{page.src_path}} %}
+{% include clause.md noo="248" %}
 
-{% assign noo = "249" %}{% include {{page.src_path}} %}
+{% include clause.md noo="249" %}
 
-{% assign noo = "207" %}{% include {{page.src_path}} %}
+{% include clause.md noo="207" %}
 
-{% assign noo = "105" %}{% include {{page.src_path}} %}
+{% include clause.md noo="105" %}
 
 
 
 #### 2) 痞滿證
 
-{% assign noo = "213" %}{% include {{page.src_path}} %}
+{% include clause.md noo="213" %}
 
-{% assign noo = "214" %}{% include {{page.src_path}} %}
+{% include clause.md noo="214" %}
 
-{% assign noo = "250" %}{% include {{page.src_path}} %}
+{% include clause.md noo="250" %}
 
-{% assign noo = "374" %}{% include {{page.src_path}} %}
+{% include clause.md noo="374" %}
 
 
 #### 3) 痞滿燥實證
 
-{% assign noo = "208" %}{% include {{page.src_path}} %}
+{% include clause.md noo="208" %}
 
-{% assign noo = "220" %}{% include {{page.src_path}} %}
+{% include clause.md noo="220" %}
 
-{% assign noo = "239" %}{% include {{page.src_path}} %}
+{% include clause.md noo="239" %}
 
-{% assign noo = "238" %}{% include {{page.src_path}} %}
+{% include clause.md noo="238" %}
 
-{% assign noo = "215" %}{% include {{page.src_path}} %}
+{% include clause.md noo="215" %}
 
-{% assign noo = "241" %}{% include {{page.src_path}} %}
+{% include clause.md noo="241" %}
 
-{% assign noo = "255" %}{% include {{page.src_path}} %}
+{% include clause.md noo="255" %}
 
-{% assign noo = "212" %}{% include {{page.src_path}} %}
+{% include clause.md noo="212" %}
 
-{% assign noo = "252" %}{% include {{page.src_path}} %}
+{% include clause.md noo="252" %}
 
-{% assign noo = "253" %}{% include {{page.src_path}} %}
+{% include clause.md noo="253" %}
 
-{% assign noo = "254" %}{% include {{page.src_path}} %}
+{% include clause.md noo="254" %}
 
 
 #### 4) 下法을 쓰면 안되는 경우
 
 
-{% assign noo = "204" %}{% include {{page.src_path}} %}
+{% include clause.md noo="204" %}
 
-{% assign noo = "205" %}{% include {{page.src_path}} %}
+{% include clause.md noo="205" %}
 
-{% assign noo = "206" %}{% include {{page.src_path}} %}
+{% include clause.md noo="206" %}
 
-{% assign noo = "194" %}{% include {{page.src_path}} %}
+{% include clause.md noo="194" %}
 
 
 
 
 ### 제6절 脾約證
 
-{% assign noo = "247" %}{% include {{page.src_path}} %}
+{% include clause.md noo="247" %}
 
 
 ### 附 : 灌腸法(導法)
 
-{% assign noo = "233" %}{% include {{page.src_path}} %}
+{% include clause.md noo="233" %}
 
 
 
@@ -638,42 +637,42 @@ src_path: template_shanghanlun.md
 
 #### 1) 濕熱이 裡證을 겸한 發黃
 
-{% assign noo = "199" %}{% include {{page.src_path}} %}
+{% include clause.md noo="199" %}
 
-{% assign noo = "236" %}{% include {{page.src_path}} %}
+{% include clause.md noo="236" %}
 
-{% assign noo = "260" %}{% include {{page.src_path}} %}
+{% include clause.md noo="260" %}
 
 #### 2) 濕熱이 鬱蒸된 發黃
 
-{% assign noo = "261" %}{% include {{page.src_path}} %}
+{% include clause.md noo="261" %}
 
 
 #### 3) 濕熱이 表證을 겸한 發黃
 
-{% assign noo = "262" %}{% include {{page.src_path}} %}
+{% include clause.md noo="262" %}
 
 
 
 ### 제8절 陽明病의 辨證
 
-{% assign noo = "196" %}{% include {{page.src_path}} %}
+{% include clause.md noo="196" %}
 
-{% assign noo = "209" %}{% include {{page.src_path}} %}
+{% include clause.md noo="209" %}
 
-{% assign noo = "210" %}{% include {{page.src_path}} %}
+{% include clause.md noo="210" %}
 
-{% assign noo = "211" %}{% include {{page.src_path}} %}
+{% include clause.md noo="211" %}
 
-{% assign noo = "380" %}{% include {{page.src_path}} %}
+{% include clause.md noo="380" %}
 
-{% assign noo = "202" %}{% include {{page.src_path}} %}
+{% include clause.md noo="202" %}
 
-{% assign noo = "227" %}{% include {{page.src_path}} %}
+{% include clause.md noo="227" %}
 
-{% assign noo = "237" %}{% include {{page.src_path}} %}
+{% include clause.md noo="237" %}
 
-{% assign noo = "216" %}{% include {{page.src_path}} %}
+{% include clause.md noo="216" %}
 
 
 1) 脈
@@ -700,80 +699,80 @@ src_path: template_shanghanlun.md
 
 ### 제1절 少陽病의 提綱
 
-{% assign noo = "263" %}{% include {{page.src_path}} %}
+{% include clause.md noo="263" %}
 
 
 ### 제2절 少陽病證
 
 #### 1) 少陽病의 主證
 
-{% assign noo = "096" %}{% include {{page.src_path}} %}
+{% include clause.md noo="096" %}
 
-{% assign noo = "097" %}{% include {{page.src_path}} %}
+{% include clause.md noo="097" %}
 
-{% assign noo = "379" %}{% include {{page.src_path}} %}
+{% include clause.md noo="379" %}
 
-{% assign noo = "101" %}{% include {{page.src_path}} %}
+{% include clause.md noo="101" %}
 
-{% assign noo = "229" %}{% include {{page.src_path}} %}
+{% include clause.md noo="229" %}
 
-{% assign noo = "230" %}{% include {{page.src_path}} %}
+{% include clause.md noo="230" %}
 
-{% assign noo = "266" %}{% include {{page.src_path}} %}
+{% include clause.md noo="266" %}
 
-{% assign noo = "099" %}{% include {{page.src_path}} %}
+{% include clause.md noo="099" %}
 
 
 #### 2) 少陽病의 兼證
 
 ##### (1) 太陽을 겸한 증
 
-{% assign noo = "146" %}{% include {{page.src_path}} %}
+{% include clause.md noo="146" %}
 
-{% assign noo = "171" %}{% include {{page.src_path}} %}
+{% include clause.md noo="171" %}
 
 ##### (2) 陽明을 겸한 증
 
-{% assign noo = "130" %}{% include {{page.src_path}} %}
+{% include clause.md noo="130" %}
 
-{% assign noo = "165" %}{% include {{page.src_path}} %}
+{% include clause.md noo="165" %}
 
-{% assign noo = "104" %}{% include {{page.src_path}} %}
+{% include clause.md noo="104" %}
 
 ##### (3) 下利를 겸한 증
 
-{% assign noo = "172" %}{% include {{page.src_path}} %}
+{% include clause.md noo="172" %}
 
 ##### (4) 水飮을 겸한 증
 
-{% assign noo = "147" %}{% include {{page.src_path}} %}
+{% include clause.md noo="147" %}
 
 ##### (5) 煩驚譫語를 겸한 증
 
-{% assign noo = "107" %}{% include {{page.src_path}} %}
+{% include clause.md noo="107" %}
 
 
 ### 제3절 少陽病 치료에 쓸 수 없는 치법
 
-{% assign noo = "265" %}{% include {{page.src_path}} %}
+{% include clause.md noo="265" %}
 
-{% assign noo = "264" %}{% include {{page.src_path}} %}
+{% include clause.md noo="264" %}
 
 
 
 ### 제4절 少陽病의 辨證
 
 
-{% assign noo = "098" %}{% include {{page.src_path}} %}
+{% include clause.md noo="098" %}
 
 
 #### 附: 熱入血室
 
-{% assign noo = "143" %}{% include {{page.src_path}} %}
+{% include clause.md noo="143" %}
 
-{% assign noo = "144" %}{% include {{page.src_path}} %}
+{% include clause.md noo="144" %}
 
-{% assign noo = "145" %}{% include {{page.src_path}} %}
+{% include clause.md noo="145" %}
 
 
 
@@ -785,28 +784,28 @@ src_path: template_shanghanlun.md
 
 ### 제1절 太陰病의 提綱
 
-{% assign noo = "273" %}{% include {{page.src_path}} %}
+{% include clause.md noo="273" %}
 
 
 ### 제2절 太陰虛寒證
 
-{% assign noo = "277" %}{% include {{page.src_path}} %}
+{% include clause.md noo="277" %}
 
-{% assign noo = "386" %}{% include {{page.src_path}} %}
+{% include clause.md noo="386" %}
 
-{% assign noo = "396" %}{% include {{page.src_path}} %}
+{% include clause.md noo="396" %}
 
 
 ### 제3절 太陽을 겸한 太陰證
 
-{% assign noo = "163" %}{% include {{page.src_path}} %}
+{% include clause.md noo="163" %}
 
-{% assign noo = "276" %}{% include {{page.src_path}} %}
+{% include clause.md noo="276" %}
 
 
 ### 제4절 寒濕으로 인한 發黃
 
-{% assign noo = "259" %}{% include {{page.src_path}} %}
+{% include clause.md noo="259" %}
 
 
 
@@ -815,13 +814,13 @@ src_path: template_shanghanlun.md
 
 #### 1) 太陰腹痛과 陽明腹痛
 
-{% assign noo = "279" %}{% include {{page.src_path}} %}
+{% include clause.md noo="279" %}
 
 #### 2) 陽明으로 轉屬된 증과 陽氣회복으로 스스로 낫는 증
 
-{% assign noo = "187" %}{% include {{page.src_path}} %}
+{% include clause.md noo="187" %}
 
-{% assign noo = "278" %}{% include {{page.src_path}} %}
+{% include clause.md noo="278" %}
 
 
 
@@ -831,70 +830,70 @@ src_path: template_shanghanlun.md
 
 ### 제1절 少陰病의 提綱
 
-{% assign noo = "281" %}{% include {{page.src_path}} %}
+{% include clause.md noo="281" %}
 
 
 ### 제2절 少陰寒化證
 
 #### 1) 陽衰陰盛證
 
-{% assign noo = "388" %}{% include {{page.src_path}} %}
+{% include clause.md noo="388" %}
 
-{% assign noo = "389" %}{% include {{page.src_path}} %}
+{% include clause.md noo="389" %}
 
-{% assign noo = "353" %}{% include {{page.src_path}} %}
+{% include clause.md noo="353" %}
 
-{% assign noo = "225" %}{% include {{page.src_path}} %}
+{% include clause.md noo="225" %}
 
-{% assign noo = "323" %}{% include {{page.src_path}} %}
+{% include clause.md noo="323" %}
 
-{% assign noo = "385" %}{% include {{page.src_path}} %}
+{% include clause.md noo="385" %}
 
-{% assign noo = "325" %}{% include {{page.src_path}} %}
+{% include clause.md noo="325" %}
 
-{% assign noo = "292" %}{% include {{page.src_path}} %}
+{% include clause.md noo="292" %}
 
 
 #### 2) 陰盛格陽證
 
-{% assign noo = "317" %}{% include {{page.src_path}} %}
+{% include clause.md noo="317" %}
 
-{% assign noo = "370" %}{% include {{page.src_path}} %}
+{% include clause.md noo="370" %}
 
-{% assign noo = "390" %}{% include {{page.src_path}} %}
+{% include clause.md noo="390" %}
 
 
 #### 3) 陰盛戴陽證
 
-{% assign noo = "314" %}{% include {{page.src_path}} %}
+{% include clause.md noo="314" %}
 
-{% assign noo = "315" %}{% include {{page.src_path}} %}
+{% include clause.md noo="315" %}
 
 #### 4) 陽虛身痛證
 
-{% assign noo = "305" %}{% include {{page.src_path}} %}
+{% include clause.md noo="305" %}
 
-{% assign noo = "304" %}{% include {{page.src_path}} %}
+{% include clause.md noo="304" %}
 
 
 #### 5) 陽虛水泛證
 
-{% assign noo = "082" %}{% include {{page.src_path}} %}
+{% include clause.md noo="082" %}
 
-{% assign noo = "316" %}{% include {{page.src_path}} %}
+{% include clause.md noo="316" %}
 
 
 #### 6) 下焦가 收澁하지 못하여 膿血便을 보는 증 43
 
-{% assign noo = "306" %}{% include {{page.src_path}} %}
+{% include clause.md noo="306" %}
 
-{% assign noo = "307" %}{% include {{page.src_path}} %}
+{% include clause.md noo="307" %}
 
 
 
 #### 7) 下焦가 收澁하지 못하여 滑泄하는 증
 
-{% assign noo = "159" %}{% include {{page.src_path}} %}
+{% include clause.md noo="159" %}
 
 
 
@@ -902,7 +901,7 @@ src_path: template_shanghanlun.md
 
 #### 1) 陰虛火旺證
 
-{% assign noo = "303" %}{% include {{page.src_path}} %}
+{% include clause.md noo="303" %}
 
 
 
@@ -910,18 +909,18 @@ src_path: template_shanghanlun.md
 #### 2) 陰虛에 水와 熱이 합쳐진 증
 
 
-{% assign noo = "319" %}{% include {{page.src_path}} %}
+{% include clause.md noo="319" %}
 
 
 
 ### 제4절 少陰咽痛證
 
 
-{% assign noo = "310" %}{% include {{page.src_path}} %}
+{% include clause.md noo="310" %}
 
-{% assign noo = "311" %}{% include {{page.src_path}} %}
+{% include clause.md noo="311" %}
 
-{% assign noo = "312" %}{% include {{page.src_path}} %}
+{% include clause.md noo="312" %}
 
 
 ### 제5절 少陰病의 兼證
@@ -929,58 +928,58 @@ src_path: template_shanghanlun.md
 
 #### 1) 太陽을 겸한 증
 
-{% assign noo = "301" %}{% include {{page.src_path}} %}
+{% include clause.md noo="301" %}
 
-{% assign noo = "302" %}{% include {{page.src_path}} %}
+{% include clause.md noo="302" %}
 
 
 #### 2) 陽明을 겸한 증
 
-{% assign noo = "320" %}{% include {{page.src_path}} %}
+{% include clause.md noo="320" %}
 
-{% assign noo = "321" %}{% include {{page.src_path}} %}
+{% include clause.md noo="321" %}
 
-{% assign noo = "322" %}{% include {{page.src_path}} %}
+{% include clause.md noo="322" %}
 
 
 
 ### 제6절 少陰病에 쓸 수 없는 치법
 
-{% assign noo = "285" %}{% include {{page.src_path}} %}
+{% include clause.md noo="285" %}
 
-{% assign noo = "286" %}{% include {{page.src_path}} %}
+{% include clause.md noo="286" %}
 
 
 ### 제7절 少陰病의 變證
 
 
-{% assign noo = "284" %}{% include {{page.src_path}} %}
+{% include clause.md noo="284" %}
 
-{% assign noo = "293" %}{% include {{page.src_path}} %}
+{% include clause.md noo="293" %}
 
-{% assign noo = "294" %}{% include {{page.src_path}} %}
+{% include clause.md noo="294" %}
 
 
 
 ### 제8절 少陰病의 陰陽消長과 예후
 
-{% assign noo = "287" %}{% include {{page.src_path}} %}
+{% include clause.md noo="287" %}
 
-{% assign noo = "288" %}{% include {{page.src_path}} %}
+{% include clause.md noo="288" %}
 
-{% assign noo = "289" %}{% include {{page.src_path}} %}
+{% include clause.md noo="289" %}
 
-{% assign noo = "295" %}{% include {{page.src_path}} %}
+{% include clause.md noo="295" %}
 
-{% assign noo = "296" %}{% include {{page.src_path}} %}
+{% include clause.md noo="296" %}
 
-{% assign noo = "297" %}{% include {{page.src_path}} %}
+{% include clause.md noo="297" %}
 
-{% assign noo = "298" %}{% include {{page.src_path}} %}
+{% include clause.md noo="298" %}
 
-{% assign noo = "299" %}{% include {{page.src_path}} %}
+{% include clause.md noo="299" %}
 
-{% assign noo = "300" %}{% include {{page.src_path}} %}
+{% include clause.md noo="300" %}
 
 
 
@@ -993,9 +992,9 @@ src_path: template_shanghanlun.md
 
 ### 제1절 厥陰病의 提綱
 
-{% assign noo = "326" %}{% include {{page.src_path}} %}
+{% include clause.md noo="326" %}
 
-{% assign noo = "337" %}{% include {{page.src_path}} %}
+{% include clause.md noo="337" %}
 
 
 
@@ -1004,12 +1003,12 @@ src_path: template_shanghanlun.md
 
 #### 1) 蛔厥證
 
-{% assign noo = "338" %}{% include {{page.src_path}} %}
+{% include clause.md noo="338" %}
 
 
 #### 2) 寒格吐利證
 
-{% assign noo = "359" %}{% include {{page.src_path}} %}
+{% include clause.md noo="359" %}
 
 
 
@@ -1017,60 +1016,60 @@ src_path: template_shanghanlun.md
 
 #### 1) 寒氣의 역상으로 인한 乾嘔‧頭痛證
 
-{% assign noo = "378" %}{% include {{page.src_path}} %}
+{% include clause.md noo="378" %}
 
 
 #### 2) 血虛寒厥證
 
-{% assign noo = "351" %}{% include {{page.src_path}} %}
+{% include clause.md noo="351" %}
 
-{% assign noo = "352" %}{% include {{page.src_path}} %}
+{% include clause.md noo="352" %}
 
 
 
 ### 제4절 厥陰熱利
 
-{% assign noo = "371" %}{% include {{page.src_path}} %}
+{% include clause.md noo="371" %}
 
-{% assign noo = "373" %}{% include {{page.src_path}} %}
+{% include clause.md noo="373" %}
 
 
 
 ### 제5절 氣鬱證
 
-{% assign noo = "318" %}{% include {{page.src_path}} %}
+{% include clause.md noo="318" %}
 
 
 ### 제6절 厥證에 쓸 수 없는 治法
 
-{% assign noo = "330" %}{% include {{page.src_path}} %}
+{% include clause.md noo="330" %}
 
-{% assign noo = "335" %}{% include {{page.src_path}} %}
+{% include clause.md noo="335" %}
 
 
 
 ### 제7절 厥熱勝復證
 
-{% assign noo = "336" %}{% include {{page.src_path}} %}
+{% include clause.md noo="336" %}
 
-{% assign noo = "341" %}{% include {{page.src_path}} %}
+{% include clause.md noo="341" %}
 
-{% assign noo = "342" %}{% include {{page.src_path}} %}
+{% include clause.md noo="342" %}
 
-{% assign noo = "331" %}{% include {{page.src_path}} %}
+{% include clause.md noo="331" %}
 
-{% assign noo = "334" %}{% include {{page.src_path}} %}
+{% include clause.md noo="334" %}
 
 
 
 ### 제8절 厥陰病의 死證
 
-{% assign noo = "344" %}{% include {{page.src_path}} %}
+{% include clause.md noo="344" %}
 
-{% assign noo = "345" %}{% include {{page.src_path}} %}
+{% include clause.md noo="345" %}
 
-{% assign noo = "346" %}{% include {{page.src_path}} %}
+{% include clause.md noo="346" %}
 
-{% assign noo = "369" %}{% include {{page.src_path}} %}
+{% include clause.md noo="369" %}
 
-{% assign noo = "333" %}{% include {{page.src_path}} %}
+{% include clause.md noo="333" %}

@@ -22,3 +22,6 @@ show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
 show_atom_feed: false
+
+a:
+  target: "_blank"
