@@ -60,6 +60,10 @@
 
 {% include clause/SHL_other.md data_src=site.data.clause.GGYL bookinit="金匱" noo=include.noo %}
 
+<!-- 맥경 -->
+{% when "MK" %}
+
+{% include clause/SHL_other.md data_src=site.data.clause.MK bookinit="脈經" noo=include.noo %}
 
 <!-- 상한론 -->
 {% else %}

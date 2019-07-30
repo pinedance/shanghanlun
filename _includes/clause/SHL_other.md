@@ -8,7 +8,11 @@
 
 {% assign items = data_src | where: 'NOO', noo %}
 
-{% if noo contains "-000" %}
+{% if noo contains "-00-" %}
+
+## {{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
+
+{% elsif noo contains "-000" %}
 
 ### {{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
 

@@ -6,9 +6,9 @@ tags: [상한금궤원문, 송본]
 ---
 
 {{ page.desc }}
---------------------
 
-<br>
+***
+
 
 {% assign data_src = site.data.clause.SHL_SongRule %}
 

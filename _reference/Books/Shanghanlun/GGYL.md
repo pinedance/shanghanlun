@@ -8,9 +8,8 @@ conf:
 ---
 
 {{ page.desc }}
---------------------
 
-<br>
+***
 
 {% assign data_src = site.data.clause[ page.conf.book ] %}
 
