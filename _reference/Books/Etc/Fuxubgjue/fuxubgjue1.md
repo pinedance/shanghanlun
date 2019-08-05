@@ -412,7 +412,7 @@ tags: [관련원문, 輔行訣臟腑用藥法要, 보행결장부용약법요]
 
 陶隱居曰：此圖乃《湯液經法》盡要之妙，學者能諳于此，醫道畢矣。
 
-![](img/Books/보행결_도표.gif)
+![]({{site.baseurl}}/img/Books/보행결_도표.gif)
 
 
 REF: [中醫世家](http://www.zysj.com.cn/lilunshuji/fuxingjuezangfuyongyaofayao/index.html)

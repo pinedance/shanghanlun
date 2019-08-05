@@ -32,7 +32,7 @@
 {% assign kor = items | map: 'KOR' | join: " "  %}
 
 <p class="kor" markdown="1">
-	<sup>§</sup>{{ kor }}
+	<sup>§</sup>{{ kor | replace: "URI", site.formulaurl }}
 </p>
 
 {% endif %}
