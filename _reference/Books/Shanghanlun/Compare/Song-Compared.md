@@ -29,6 +29,7 @@ conf:
 {% include compare/SHL-Gabu.md noo=number from=page.conf.from %}
 {% include compare/SHL-Tang.md noo=number from=page.conf.from %}
 {% include compare/SHL-Chunhe.md noo=number from=page.conf.from %}
+{% include compare/SHL-Ogham.md noo=number from=page.conf.from %}
 {% include compare/SHL-GGYL.md noo=number from=page.conf.from %}
 </div>
 

@@ -29,6 +29,7 @@ conf:
 <div class="compared" markdown="1">
 {% include compare/SHL-Tang.md noo=number from=page.conf.from %}
 {% include compare/SHL-Song.md noo=number from=page.conf.from %}
+{% include compare/SHL-Ogham.md noo=number from=page.conf.from %}
 </div>
 
 {% if number contains "-000" %}

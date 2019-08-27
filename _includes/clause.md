@@ -55,6 +55,12 @@
 
 {% include clause/SHL_other.md data_src=site.data.clause.SHL_Tang bookinit="唐翼" noo=include.noo %}
 
+<!-- 금궤옥함경 -->
+{% when "SHL_Ogham" %}
+
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_Ogham bookinit="玉函" noo=include.noo %}
+
+
 <!-- 금궤요략 -->
 {% when "GGYL" %}
 
