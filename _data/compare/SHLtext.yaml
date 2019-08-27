@@ -1460,7 +1460,7 @@
   SongGabu: []
   Geum: []
   Tang: ['08-005']
-  Ogham: []
+  Ogham: ['05-005']
 
 - Chun:
   Song: ['184']
@@ -1492,7 +1492,7 @@
   SongGabu: []
   Geum: []
   Tang: ['08-009']
-  Ogham: []
+  Ogham: ['05-009']
 
 - Chun:
   Song: ['188']
@@ -1572,7 +1572,7 @@
   SongGabu: []
   Geum: []
   Tang: ['08-019']
-  Ogham: []
+  Ogham: ['05-019']
 
 - Chun:
   Song: ['198']
@@ -1580,7 +1580,7 @@
   SongGabu: []
   Geum: []
   Tang: ['08-020']
-  Ogham: []
+  Ogham: ['05-020']
 
 - Chun: ['02-011']
   Song: ['199']
@@ -2228,7 +2228,7 @@
   SongGabu: []
   Geum: []
   Tang: ['10-006']
-  Ogham: []
+  Ogham: ['07-006']
 
 - Chun: ['04-006']
   Song: ['279']
