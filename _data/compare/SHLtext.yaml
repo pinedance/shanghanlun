@@ -1712,8 +1712,8 @@
 
 - Chun: ['02-021']
   Song: ['214']
-  SongRule: ['08-006', '21-043']
-  SongGabu: []
+  SongRule: ['08-006']
+  SongGabu: ['21-043']
   Geum: []
   Tang: ['08-037']
   Ogham: []
