@@ -18,32 +18,32 @@
 <!-- 변맥법 -->
 {% when "SHL_SongBM" %}
 
-{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書/辨脈" noo=include.noo %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書〔辨脈〕" noo=include.noo %}
 
 <!-- 평맥법 -->
 {% when "SHL_SongPM" %}
 
-{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書/平脈" noo=include.noo %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書〔平脈〕" noo=include.noo %}
 
 <!-- 상한례 -->
 {% when "SHL_SongL" %}
 
-{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書/例" noo=include.noo %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書〔例〕" noo=include.noo %}
 
 <!-- 치습갈 -->
 {% when "SHL_SongCSG" %}
 
-{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書/痓濕暍" noo=include.noo %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongEtc bookinit="全書〔痓濕暍〕" noo=include.noo %}
 
 <!-- 가불가 -->
 {% when "SHL_SongGabu" %}
 
-{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongGabu bookinit="全書/可不" noo=include.noo %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongGabu bookinit="全書〔可不〕" noo=include.noo %}
 
 <!-- 법 -->
 {% when "SHL_SongRule" %}
 
-{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongRule bookinit="全書/法" noo=include.noo %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_SongRule bookinit="全書〔法〕" noo=include.noo %}
 
 <!-- 순화본 -->
 {% when "SHL_Chunhe" %}
