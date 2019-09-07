@@ -32,3 +32,4 @@ bundle exec jekyll serve
 * 脉 → 脈
 * 溼 → 濕
 * 清 → 淸
+* 沉 → 沈
