@@ -28,3 +28,7 @@ bundle exec jekyll serve
 ```
 
 * markdown inside html tags : https://stackoverflow.com/a/47432272
+
+* 脉 → 脈
+* 溼 → 濕
+* 清 → 淸
