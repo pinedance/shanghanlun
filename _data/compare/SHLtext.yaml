@@ -4,7 +4,7 @@
   SongGabu: []
   Geum: []
   Tang: ['01-020', '01-021']
-  Ogham: []
+  Ogham: ['03-002', '03-003']
   MK: []
 
 - Chun:
@@ -13,7 +13,7 @@
   SongGabu: []
   Geum: []
   Tang: ['01-022']
-  Ogham: []
+  Ogham: ['03-004']
   MK: []
 
 - Chun:
@@ -22,7 +22,7 @@
   SongGabu: []
   Geum: []
   Tang: ['02-001']
-  Ogham: []
+  Ogham: ['03-006']
   MK: []
 
 - Chun: ['01-001']
@@ -31,7 +31,7 @@
   SongGabu: []
   Geum: []
   Tang: ['02-003']
-  Ogham: []
+  Ogham: ['03-008']
   MK: []
 
 - Chun:
@@ -67,7 +67,7 @@
   SongGabu: []
   Geum: []
   Tang: ['01-026']
-  Ogham: []
+  Ogham: ['03-001']
   MK: []
 
 - Chun:
@@ -103,7 +103,7 @@
   SongGabu: ['16-025']
   Geum: []
   Tang: ['01-029', '13-024']
-  Ogham: []
+  Ogham: ['03-005']
   MK: []
 
 - Chun:
