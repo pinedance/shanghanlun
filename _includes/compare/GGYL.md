@@ -4,13 +4,13 @@
 
 {% assign itemms = site.data.compare.SHLtext | where: include.from, include.noo %}
 
-{% assign targets = itemms | map: 'Chunhe' %}
+{% assign targets = itemms | map: 'GGYL' %}
 
 {% for ts in targets %}
 {% for t in ts %}
 {% if t %}
 
-{% include clause.md book="SHL_Chunhe" noo=t %}
+{% include clause.md book="GGYL" noo=t %}
 
 {% endif %}
 {% endfor %}

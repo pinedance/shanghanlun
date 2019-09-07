@@ -4,9 +4,8 @@ title: "상한론 조문 비교"
 desc: "〔순화본 기준〕"
 tags: [순화본, 조문비교]
 conf:
-  from: "Chun"
+  from: "Chunhe"
 ---
-
 
 {{ page.desc }}
 --------------------

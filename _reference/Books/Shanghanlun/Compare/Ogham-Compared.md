@@ -1,10 +1,10 @@
 ---
 layout: reference
 title: "상한론 조문 비교"
-desc: "〔당본 기준〕"
-tags: [당본, 조문비교]
+desc: "〔옥함경 기준〕"
+tags: [옥함경, 조문비교]
 conf:
-  from: "Tang"
+  from: "Ogham"
 ---
 
 {{ page.desc }}
@@ -12,7 +12,7 @@ conf:
 
 <br>
 
-{% assign data_src = site.data.clause.SHL_Tang %}
+{% assign data_src = site.data.clause.SHL_Ogham %}
 {% for t in data_src %}
 {% assign number = t.NOO %}
 
@@ -22,13 +22,13 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-{% include clause.md book="SHL_Tang" noo=number %}
+{% include clause.md book="SHL_Ogham" noo=number %}
 </div>
 
 <div class="compared" markdown="1">
+{% include compare/SHL-Tang.md noo=number from=page.conf.from %}
 {% include compare/SHL-Chunhe.md noo=number from=page.conf.from %}
 {% include compare/SHL-Song.md noo=number from=page.conf.from %}
-{% include compare/SHL-Ogham.md noo=number from=page.conf.from %}
 </div>
 
 {% if number contains "-000" %}
