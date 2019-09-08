@@ -33,3 +33,4 @@ bundle exec jekyll serve
 * 溼 → 濕
 * 清 → 淸
 * 沉 → 沈
+* 隂 → 陰
