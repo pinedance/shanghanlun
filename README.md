@@ -29,6 +29,7 @@ bundle exec jekyll serve
 
 * markdown inside html tags : https://stackoverflow.com/a/47432272
 
+의미가 같은 글자 병합
 * 脉 → 脈
 * 溼 → 濕
 * 清 → 淸
@@ -45,3 +46,6 @@ bundle exec jekyll serve
 * 凢 → 凡
 * 胷 → 胸
 * 冝 → 宜
+
+의미가 다른 글자 병합
+* 痙 → 痓
