@@ -41,3 +41,7 @@ bundle exec jekyll serve
 * 温 → 溫
 * 青 → 靑
 * 変 → 變
+* 觧 → 解
+* 凢 → 凡
+* 胷 → 胸
+* 冝 → 宜
