@@ -40,3 +40,4 @@ bundle exec jekyll serve
 * 㣲 → 微
 * 温 → 溫
 * 青 → 靑
+* 変 → 變
