@@ -1483,7 +1483,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1493,7 +1493,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1503,7 +1503,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1513,7 +1513,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-05']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1523,7 +1523,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-006']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1533,7 +1533,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-007']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1543,7 +1543,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-008']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1553,7 +1553,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-009']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1563,7 +1563,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-010']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1573,7 +1573,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-011']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1583,7 +1583,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-011', '07-01-012']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1593,27 +1593,10 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['15-013']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['15-013'] => 023
+#  SongGabu: ['15-014'] => 023
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['15-014']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
-
-- MK: []
+- MK: ['07-01-014']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1623,7 +1606,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-014']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1633,7 +1616,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-015']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1643,7 +1626,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-016']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1653,7 +1636,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-017']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1663,7 +1646,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-018']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1673,7 +1656,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-019']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1683,7 +1666,17 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-020']
+  Song: []
+  SongEtc: []
+  SongRule: []
+  SongGabu: ['']
+  Tang: ['13-013']
+  Chunhe: []
+  Ogham: []
+  GGYL: []
+
+- MK: ['07-01-021']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1693,7 +1686,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-022']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1703,7 +1696,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-023']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1713,7 +1706,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-023']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1723,7 +1716,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-025']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1733,7 +1726,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-028']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1743,7 +1736,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-026']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1753,7 +1746,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-029']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1763,7 +1756,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-01-030']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1778,7 +1771,7 @@
 
 ## 辨可發汗病脈證幷治第十六 _合四十一法方一十四首_
 
-- MK: []
+- MK: ['07-02-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1788,7 +1781,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1798,7 +1791,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-003']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1808,7 +1801,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1818,7 +1811,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1828,7 +1821,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-006']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1838,7 +1831,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-007']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1848,7 +1841,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-008']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1858,7 +1851,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-009']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1868,7 +1861,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-010']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1878,7 +1871,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-011']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1888,7 +1881,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-012']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1898,17 +1891,17 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-013']
   Song: []
   SongEtc: []
   SongRule: []
-  SongGabu: ['16-013']
+  SongGabu: ['16-013', '20-012']
   Tang: []
   Chunhe: []
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-014']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1918,17 +1911,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-015']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['16-015']  => 043
 
-- MK: []
+- MK: ['07-02-016']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1938,7 +1923,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-017']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1948,7 +1933,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-018']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1958,7 +1943,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-019']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1968,7 +1953,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-020']
   Song: []
   SongEtc: []
   SongRule: []
@@ -1978,15 +1963,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-021']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['16-021'] => 056
 
 - MK: []
   Song: []
@@ -1998,7 +1975,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-022']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2008,7 +1985,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-023']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2018,7 +1995,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-024']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2028,7 +2005,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-025']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2038,17 +2015,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-027']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['16-027'] => 015
 
-- MK: []
+- MK: ['07-02-027']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2058,7 +2027,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-028']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2068,7 +2037,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-029']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2078,7 +2047,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-030']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2088,7 +2057,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-031']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2098,7 +2067,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-032']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2108,17 +2077,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-034']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['16-034'] => 034
 
-- MK: []
+- MK: ['07-02-034']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2128,7 +2089,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-035']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2138,7 +2099,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-036']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2148,7 +2109,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-040']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2158,7 +2119,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: [07-02-041]
   Song: []
   SongEtc: []
   SongRule: []
@@ -2168,7 +2129,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-037']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2178,7 +2139,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-038']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2188,7 +2149,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-039']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2198,7 +2159,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-042']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2208,7 +2169,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-043']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2218,7 +2179,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-044']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2228,7 +2189,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-045']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2238,7 +2199,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-02-046']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2253,7 +2214,7 @@
 
 ## 辨發汗後病脈證幷治第十七 _合二十五法方二十四首_
 
-- MK: []
+- MK: ['07-03-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2263,7 +2224,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2273,7 +2234,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-003']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2283,7 +2244,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2293,7 +2254,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2303,7 +2264,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-006']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2313,7 +2274,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-007']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2323,7 +2284,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-008']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2333,7 +2294,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-009']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2353,7 +2314,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-010']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2363,7 +2324,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-011']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2373,7 +2334,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-012']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2393,7 +2354,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-013']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2403,7 +2364,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-014']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2413,17 +2374,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-017']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['17-017']  => 063
 
-- MK: []
+- MK: ['07-03-016']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2433,7 +2386,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-017']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2453,7 +2406,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-018']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2473,7 +2426,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-019']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2483,7 +2436,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-020']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2493,7 +2446,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-021']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2503,7 +2456,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-022']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2513,7 +2466,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-023']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2523,7 +2476,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-024']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2533,7 +2486,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-025']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2563,7 +2516,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-026']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2573,7 +2526,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-027']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2593,7 +2546,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-03-028']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2608,7 +2561,7 @@
 
 ## 辨不可吐第十八 _合四證_
 
-- MK: []
+- MK: ['07-04-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2618,7 +2571,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-04-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2628,7 +2581,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-04-003']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2638,7 +2591,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-04-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2654,7 +2607,7 @@
 
 ## 辨可吐第十九 _合二法五證_
 
-- MK: []
+- MK: ['07-05-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2664,7 +2617,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-05-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2674,7 +2627,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-05-003']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2684,7 +2637,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-05-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2694,7 +2647,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-05-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2704,7 +2657,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-05-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2714,7 +2667,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-05-006']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2730,7 +2683,7 @@
 
 ##  辨不可下病脈證幷治第二十 _合四法方六首_
 
-- MK: []
+- MK: ['07-06-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2740,7 +2693,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2750,7 +2703,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-003']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2760,7 +2713,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2770,7 +2723,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2780,7 +2733,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-006']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2790,7 +2743,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-007']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2800,7 +2753,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-008']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2810,7 +2763,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-009', '07-06-010']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2820,7 +2773,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-011']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2830,7 +2783,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-012']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2840,17 +2793,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['20-012']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['20-012']   => 16-013
 
-- MK: []
+- MK: ['07-06-013']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2860,7 +2805,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-014']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2870,7 +2815,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-015']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2880,7 +2825,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-016']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2890,7 +2835,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-017']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2900,7 +2845,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-018']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2910,7 +2855,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-019']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2920,7 +2865,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-020']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2930,7 +2875,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-021']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2940,7 +2885,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-022']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2950,7 +2895,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-023']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2960,7 +2905,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-024']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2970,7 +2915,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-025']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2980,7 +2925,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-025']
   Song: []
   SongEtc: []
   SongRule: []
@@ -2990,17 +2935,17 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-026']
   Song: []
   SongEtc: []
   SongRule: []
-  SongGabu: ['20-027']
+  SongGabu: ['20-027', '22-018']
   Tang: []
   Chunhe: []
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-027']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3010,7 +2955,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-028']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3020,17 +2965,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['20-030']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['20-030'] => 273
 
-- MK: []
+- MK: ['07-06-030']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3040,7 +2977,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-031']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3050,7 +2987,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-032']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3060,7 +2997,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-033']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3070,7 +3007,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-034']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3080,7 +3017,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-035']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3090,7 +3027,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-036']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3100,7 +3037,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-037']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3110,7 +3047,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-038']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3120,7 +3057,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-039']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3130,7 +3067,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-054']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3140,7 +3077,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-043', '07-09-009']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3150,7 +3087,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-040']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3160,7 +3097,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-041']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3170,7 +3107,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-06-042']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3186,7 +3123,7 @@
 
 ## 辨可下病脈證幷治第二十一  _合四十四法 方一十一首_
 
-- MK: []
+- MK: ['07-07-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3196,7 +3133,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3206,7 +3143,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-003']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3216,7 +3153,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3226,7 +3163,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3236,7 +3173,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-006']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3246,7 +3183,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-007']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3266,7 +3203,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-008', '07-07-009']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3326,17 +3263,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-015']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['21-015']  => 255
 
-- MK: []
+- MK: ['07-07-010']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3346,7 +3275,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-011']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3356,7 +3285,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-012']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3366,7 +3295,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-013']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3376,7 +3305,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-014']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3386,7 +3315,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-015']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3396,7 +3325,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-016']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3406,7 +3335,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-017']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3416,7 +3345,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-018']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3426,7 +3355,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-019']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3436,7 +3365,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-020']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3446,7 +3375,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-020']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3456,7 +3385,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-021']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3466,7 +3395,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-022']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3476,27 +3405,12 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-030']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['21-030']  => 374
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-031']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['21-031']  => 251
 
-- MK: []
+
+- MK: ['07-07-023']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3506,7 +3420,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-024']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3516,7 +3430,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-025']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3526,37 +3440,13 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-035']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['21-035'] => 165
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-036']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['21-036'] => 136
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-037']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['21-037'] => 136
 
-- MK: []
+- MK: ['07-07-027']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3566,7 +3456,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-028']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3576,7 +3466,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-029']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3586,7 +3476,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-030']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3596,17 +3486,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-042']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['21-042'] => 208
 
-- MK: []
+- MK: ['07-07-031']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3616,7 +3498,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-032']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3626,7 +3508,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-07-033']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3636,23 +3518,14 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['21-046']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
-
+# SongGabu: ['21-046']  => 241
 
 
 
 
 ## 辨發汗吐下後病脈證幷治第二十二 _合四十八法方三十九首_
 
-- MK: []
+- MK: ['07-08-001']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3662,7 +3535,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-14-007']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3672,7 +3545,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-002']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3682,7 +3555,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-003']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3692,7 +3565,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-004']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3702,7 +3575,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3712,7 +3585,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-006']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3722,17 +3595,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-008']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['22-008'] => 090
 
-- MK: []
+- MK: ['07-08-007']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3742,7 +3607,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-008']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3752,7 +3617,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-009']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3762,7 +3627,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-010']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3772,7 +3637,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-011']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3782,7 +3647,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-012']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3792,7 +3657,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-013']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3802,7 +3667,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-014']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3812,7 +3677,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-015']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3822,17 +3687,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-018']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['22-018']  => gabu20-027
 
-- MK: []
+- MK: ['07-08-016']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3842,17 +3699,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-020']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['22-020']  => 273
 
-- MK: []
+- MK: ['07-08-017']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3862,7 +3711,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-018']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3872,7 +3721,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-019']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3882,17 +3731,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-024']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['22-024'] > 023
 
-- MK: []
+- MK: ['07-08-020']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3902,7 +3743,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-021']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3912,7 +3753,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-022']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3922,7 +3763,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-023']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3932,7 +3773,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-024']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3942,7 +3783,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-025']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3952,7 +3793,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-026']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3962,7 +3803,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-027']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3972,7 +3813,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-028']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3982,7 +3823,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-029']
   Song: []
   SongEtc: []
   SongRule: []
@@ -3992,7 +3833,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-030']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4002,7 +3843,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-032']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4012,7 +3853,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-033']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4022,7 +3863,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-034']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4032,7 +3873,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-035']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4042,7 +3883,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-036']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4052,7 +3893,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-038']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4062,7 +3903,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-039']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4072,7 +3913,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-040']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4082,67 +3923,19 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-044']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['22-044'] => 015
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-045']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['22-045'] => 021
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-046']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['22-046'] => 022
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-047']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['22-047'] => 034
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-048']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['22-048'] => 043
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-049']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['22-049'] => 056
 
-- MK: []
+- MK: ['07-08-042']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4152,7 +3945,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-043']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4162,7 +3955,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-044']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4172,17 +3965,9 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-053']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['22-053'] => 081
 
-- MK: []
+- MK: ['07-08-045']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4192,7 +3977,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-046']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4202,7 +3987,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-047']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4212,7 +3997,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-048']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4222,7 +4007,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-049']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4232,7 +4017,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-050']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4242,7 +4027,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-051']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4252,7 +4037,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-052']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4262,7 +4047,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-053']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4272,7 +4057,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-054']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4282,7 +4067,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-055']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4292,7 +4077,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-056']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4302,27 +4087,11 @@
   Ogham: []
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-066']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['22-066'] => 063
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['22-067']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['22-067']  => 228
 
-- MK: []
+- MK: ['07-08-057']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4332,7 +4101,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-058']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4342,7 +4111,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-059']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4352,7 +4121,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-061']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4362,7 +4131,7 @@
   Ogham: []
   GGYL: []
 
-- MK: []
+- MK: ['07-08-062']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4516,7 +4285,7 @@
   Ogham: ['03-021']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-026']
   Song: ['015']
   SongEtc: []
   SongRule: ['05-004']
@@ -4576,7 +4345,7 @@
   Ogham: ['03-028']
   GGYL: []
 
-- MK: []
+- MK: ['07-08-041']
   Song: ['021']
   SongEtc: []
   SongRule: ['05-008']
@@ -4586,7 +4355,7 @@
   Ogham: ['03-029']
   GGYL: []
 
-- MK: []
+- MK: ['07-08-041']
   Song: ['022']
   SongEtc: []
   SongRule: ['05-009']
@@ -4596,11 +4365,11 @@
   Ogham: ['03-029']
   GGYL: []
 
-- MK: []
+- MK: ['07-01-013']
   Song: ['023']
   SongEtc: []
   SongRule: ['05-010']
-  SongGabu: ['15-014', '22-024']
+  SongGabu: ['15-013', '15-014', '22-024']
   Tang: ['01-054']
   Chunhe: ['06-013']
   Ogham: ['03-030']
@@ -4706,7 +4475,7 @@
   Ogham: ['03-039']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-033']
   Song: ['034']
   SongEtc: []
   SongRule: ['06-004']
@@ -4796,7 +4565,7 @@
   Ogham: ['03-048']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-015']
   Song: ['043']
   SongEtc: []
   SongRule: ['06-013']
@@ -4926,7 +4695,7 @@
   Ogham: ['03-061']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-021']
   Song: ['056']
   SongEtc: []
   SongRule: ['06-022']
@@ -4996,14 +4765,14 @@
   Ogham: ['03-068']
   GGYL: []
 
-- MK: []
-  Song: ['063']
+- MK: ['07-03-015', '07-08-031']
+  Song: ['063', '162']
   SongEtc: []
-  SongRule: ['06-026']
-  SongGabu: ['17-017']
+  SongRule: ['06-026', '07-024']
+  SongGabu: ['17-017', '22-066']
   Tang: ['14-028']
   Chunhe: []
-  Ogham: ['03-069']
+  Ogham: ['03-069', '04-037']
   GGYL: []
 
 - MK: []
@@ -5726,7 +5495,7 @@
   Ogham: ['04-009']
   GGYL: []
 
-- MK: []
+- MK: ['07-07-026']
   Song: ['136']
   SongEtc: []
   SongRule: ['07-004']
@@ -5986,15 +5755,7 @@
   Ogham: ['04-035']
   GGYL: []
 
-- MK: []
-  Song: ['162']
-  SongEtc: []
-  SongRule: ['07-024']
-  SongGabu: ['22-066']
-  Tang: []
-  Chunhe: []
-  Ogham: ['04-037']
-  GGYL: []
+#  Song: ['162'] => 063
 
 - MK: []
   Song: ['163']
@@ -6546,7 +6307,7 @@
   Ogham: ['05-041']
   GGYL: []
 
-- MK: []
+- MK: ['07-01-024']
   Song: ['218']
   SongEtc: []
   SongRule: []
@@ -6646,7 +6407,7 @@
   Ogham: ['05-049']
   GGYL: []
 
-- MK: []
+- MK: ['07-08-037']
   Song: ['228']
   SongEtc: []
   SongRule: ['08-015']
@@ -7096,7 +6857,7 @@
   Ogham: ['06-008']
   GGYL: []
 
-- MK: []
+- MK: ['07-06-029']
   Song: ['273']
   SongEtc: []
   SongRule: []
@@ -7156,7 +6917,7 @@
   Ogham: ['07-006']
   GGYL: []
 
-- MK: []
+- MK: ['07-08-060']
   Song: ['279']
   SongEtc: []
   SongRule: ['10-003']
@@ -7226,7 +6987,7 @@
   Ogham: ['08-005']
   GGYL: []
 
-- MK: []
+- MK: ['07-01-003']
   Song: ['286']
   SongEtc: []
   SongRule: []
