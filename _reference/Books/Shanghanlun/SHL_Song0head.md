@@ -24,7 +24,7 @@ tags: [상한금궤원문, 송본]
 
 {% assign nooTail = idx | prepend: '000' | slice: -3, 3 %}
 {% assign noo = "01-" | append: nooTail %}
-{% include clause.md book="SHL_SongBM" noo=noo %}
+{% include clause.md book="SHL_SongEtc" noo=noo %}
 
 {% endfor %}
 
@@ -36,7 +36,7 @@ tags: [상한금궤원문, 송본]
 
 {% assign nooTail = idx | prepend: '000' | slice: -3, 3 %}
 {% assign noo = "02-" | append: nooTail %}
-{% include clause.md book="SHL_SongPM" noo=noo %}
+{% include clause.md book="SHL_SongEtc" noo=noo %}
 
 {% endfor %}
 
@@ -46,7 +46,7 @@ tags: [상한금궤원문, 송본]
 
 {% assign nooTail = idx | prepend: '000' | slice: -3, 3 %}
 {% assign noo = "03-" | append: nooTail %}
-{% include clause.md book="SHL_SongL" noo=noo %}
+{% include clause.md book="SHL_SongEtc" noo=noo %}
 
 {% endfor %}
 
@@ -57,6 +57,6 @@ tags: [상한금궤원문, 송본]
 
 {% assign nooTail = idx | prepend: '000' | slice: -3, 3 %}
 {% assign noo = "04-" | append: nooTail %}
-{% include clause.md book="SHL_SongCSG" noo=noo %}
+{% include clause.md book="SHL_SongEtc" noo=noo %}
 
 {% endfor %}

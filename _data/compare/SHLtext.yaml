@@ -1583,7 +1583,7 @@
   Ogham: []
   GGYL: []
 
-- MK: ['07-01-05']
+- MK: ['07-01-005']
   Song: []
   SongEtc: []
   SongRule: []
@@ -4752,8 +4752,8 @@
   SongGabu: ['16-006']
   Tang: []
   Chunhe: ['01-018']
-  Ogham: []
-  GGYL: ['03-058']
+  Ogham: ['03-058']
+  GGYL: []
 
 - MK: []
   Song: ['053']

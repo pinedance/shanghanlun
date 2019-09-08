@@ -25,13 +25,16 @@ conf:
 </div>
 
 <div class="compared" markdown="1">
-{% include compare/SHL-SongRule.md noo=number from=page.conf.from %}
-{% include compare/SHL-SongGabu.md noo=number from=page.conf.from %}
 
-{% include compare/SHL-Tang.md noo=number from=page.conf.from %}
-{% include compare/SHL-Chunhe.md noo=number from=page.conf.from %}
-{% include compare/SHL-Ogham.md noo=number from=page.conf.from %}
-{% include compare/GGYL.md noo=number from=page.conf.from %}
+{% include compare.md noo=number from=page.conf.from map='SongRule' book="SHL_SongRule" %}
+{% include compare.md noo=number from=page.conf.from map='SongGabu' book="SHL_SongGabu" %}
+{% include compare.md noo=number from=page.conf.from map='SongEtc' book="SHL_SongEtc" %}
+
+{% include compare.md noo=number from=page.conf.from map='Tang' book="SHL_Tang" %}
+{% include compare.md noo=number from=page.conf.from map='Chunhe' book="SHL_Chunhe" %}
+{% include compare.md noo=number from=page.conf.from map='Ogham' book="SHL_Ogham" %}
+{% include compare.md noo=number from=page.conf.from map='MK' book="MK" %}
+{% include compare.md noo=number from=page.conf.from map='GGYL' book="GGYL" %}
 </div>
 
 {% if number contains "-000" %}
