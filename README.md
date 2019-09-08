@@ -36,3 +36,4 @@ bundle exec jekyll serve
 * 隂 → 陰
 * 数 → 數
 * 虚 → 虛
+* 乆 → 久
