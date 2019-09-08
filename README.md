@@ -38,3 +38,4 @@ bundle exec jekyll serve
 * 虚 → 虛
 * 乆 → 久
 * 㣲 → 微
+* 温 → 溫
