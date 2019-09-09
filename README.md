@@ -52,3 +52,4 @@ bundle exec jekyll serve
 의미가 다른 글자 병합
 * 痙 → 痓
 * 豬 → 猪
+* 姜 → 薑
