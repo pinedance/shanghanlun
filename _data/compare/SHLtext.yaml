@@ -1570,7 +1570,7 @@
   SongGabu: ['15-001']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-001']
   GGYL: []
 
 - MK: ['07-01-001']
@@ -1580,7 +1580,7 @@
   SongGabu: ['15-002']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-002']
   GGYL: []
 
 - MK: ['07-01-002']
@@ -1590,7 +1590,7 @@
   SongGabu: ['15-003']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-003', '13-004']
   GGYL: []
 
 - MK: ['07-01-004']
@@ -1600,7 +1600,7 @@
   SongGabu: ['15-004']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-005']
   GGYL: []
 
 - MK: ['07-01-005']
@@ -1610,7 +1610,7 @@
   SongGabu: ['15-005']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-006']
   GGYL: []
 
 - MK: ['07-01-006']
@@ -1620,7 +1620,7 @@
   SongGabu: ['15-006']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-007']
   GGYL: []
 
 - MK: ['07-01-007']
@@ -1630,7 +1630,7 @@
   SongGabu: ['15-007']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-008']
   GGYL: []
 
 - MK: ['07-01-008']
@@ -1640,7 +1640,7 @@
   SongGabu: ['15-008']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-009']
   GGYL: []
 
 - MK: ['07-01-009']
@@ -1650,7 +1650,7 @@
   SongGabu: ['15-009']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-010']
   GGYL: []
 
 - MK: ['07-01-010']
@@ -1660,7 +1660,7 @@
   SongGabu: ['15-010']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-011']
   GGYL: []
 
 - MK: ['07-01-011']
@@ -1670,7 +1670,7 @@
   SongGabu: ['15-011']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-012']
   GGYL: []
 
 - MK: ['07-01-011', '07-01-012']
@@ -1680,21 +1680,12 @@
   SongGabu: ['15-012']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-013', '13-014']
   GGYL: []
 
 #  SongGabu: ['15-013'] => 023
 #  SongGabu: ['15-014'] => 023
-
-- MK: ['07-01-014']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['15-015']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['15-015'] => 027
 
 - MK: ['07-01-014']
   Song: []
@@ -1703,7 +1694,7 @@
   SongGabu: ['15-016']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-018']
   GGYL: []
 
 - MK: ['07-01-015']
@@ -1713,7 +1704,7 @@
   SongGabu: ['15-017']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-019']
   GGYL: []
 
 - MK: ['07-01-016']
@@ -1723,7 +1714,7 @@
   SongGabu: ['15-018']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-020']
   GGYL: []
 
 - MK: ['07-01-017']
@@ -1733,7 +1724,7 @@
   SongGabu: ['15-019']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-020']
   GGYL: []
 
 - MK: ['07-01-018']
@@ -1743,7 +1734,7 @@
   SongGabu: ['15-020']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-021']
   GGYL: []
 
 - MK: ['07-01-019']
@@ -1753,7 +1744,7 @@
   SongGabu: ['15-021']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-022']
   GGYL: []
 
 - MK: ['07-01-020']
@@ -1763,7 +1754,7 @@
   SongGabu: []
   Tang: ['13-013']
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-023']
   GGYL: []
 
 - MK: ['07-01-021']
@@ -1773,7 +1764,7 @@
   SongGabu: ['15-022']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-025']
   GGYL: []
 
 - MK: ['07-01-022']
@@ -1783,28 +1774,12 @@
   SongGabu: ['15-023']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-026']
   GGYL: []
 
-- MK: ['07-01-023']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['15-024']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['15-024'] => 335
 
-- MK: ['07-01-023']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['15-025']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['15-025'] => 265
 
 - MK: ['07-01-025']
   Song: []
@@ -1813,7 +1788,7 @@
   SongGabu: ['15-026']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-028']
   GGYL: []
 
 - MK: ['07-01-028']
@@ -1823,7 +1798,7 @@
   SongGabu: ['15-027']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-034']
   GGYL: []
 
 - MK: ['07-01-026']
@@ -1833,7 +1808,7 @@
   SongGabu: ['15-028']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-033']
   GGYL: []
 
 - MK: ['07-01-029']
@@ -1843,7 +1818,7 @@
   SongGabu: ['15-029']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-035']
   GGYL: []
 
 - MK: ['07-01-030']
@@ -1853,7 +1828,7 @@
   SongGabu: ['15-030']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-036']
   GGYL: []
 
 
@@ -1868,7 +1843,7 @@
   SongGabu: ['16-001']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-004']
   GGYL: []
 
 - MK: ['07-02-002']
@@ -1878,7 +1853,7 @@
   SongGabu: ['16-002']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-001']
   GGYL: []
 
 - MK: ['07-02-003']
@@ -1888,7 +1863,7 @@
   SongGabu: ['16-003']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-002']
   GGYL: []
 
 - MK: ['07-02-004']
@@ -1898,7 +1873,7 @@
   SongGabu: ['16-004']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-003']
   GGYL: []
 
 - MK: ['07-02-005']
@@ -1908,7 +1883,7 @@
   SongGabu: ['16-005']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-005']
   GGYL: []
 
 - MK: ['07-02-006']
@@ -1918,7 +1893,7 @@
   SongGabu: ['16-006']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-006']
   GGYL: []
 
 - MK: ['07-02-007']
@@ -1928,7 +1903,7 @@
   SongGabu: ['16-007']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-007']
   GGYL: []
 
 - MK: ['07-02-008']
@@ -1938,7 +1913,7 @@
   SongGabu: ['16-008']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-008']
   GGYL: []
 
 - MK: ['07-02-009']
@@ -1948,7 +1923,7 @@
   SongGabu: ['16-009']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-009']
   GGYL: []
 
 - MK: ['07-02-010']
@@ -1958,7 +1933,7 @@
   SongGabu: ['16-010']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-010']
   GGYL: []
 
 - MK: ['07-02-011']
@@ -1968,7 +1943,7 @@
   SongGabu: ['16-011']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-011']
   GGYL: []
 
 - MK: ['07-02-012']
@@ -1978,7 +1953,7 @@
   SongGabu: ['16-012']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-012']
   GGYL: []
 
 - MK: ['07-02-013']
@@ -1988,7 +1963,7 @@
   SongGabu: ['16-013', '20-012']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-013']
   GGYL: []
 
 - MK: ['07-02-014']
@@ -1998,7 +1973,7 @@
   SongGabu: ['16-014']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-014']
   GGYL: []
 
 # SongGabu: ['16-015']  => 043
@@ -2010,7 +1985,7 @@
   SongGabu: ['16-016']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-016']
   GGYL: []
 
 - MK: ['07-02-017']
@@ -2020,7 +1995,7 @@
   SongGabu: ['16-017']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-017']
   GGYL: []
 
 - MK: ['07-02-018']
@@ -2030,28 +2005,12 @@
   SongGabu: ['16-018']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-018']
   GGYL: []
 
-- MK: ['07-02-019']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-019']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['16-019'] => 046
 
-- MK: ['07-02-020']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-020']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['16-020'] => 051
 
 #  SongGabu: ['16-021'] => 056
 
@@ -2062,7 +2021,7 @@
   SongGabu: ['16-022']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-021']
   GGYL: []
 
 - MK: ['07-02-022']
@@ -2072,7 +2031,7 @@
   SongGabu: ['16-023']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-022']
   GGYL: []
 
 - MK: ['07-02-023']
@@ -2082,7 +2041,7 @@
   SongGabu: ['16-024']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-023']
   GGYL: []
 
 - MK: ['07-02-024']
@@ -2092,7 +2051,7 @@
   SongGabu: ['16-025']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-024']
   GGYL: []
 
 - MK: ['07-02-025']
@@ -2102,20 +2061,12 @@
   SongGabu: ['16-026']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-025']
   GGYL: []
 
 #  SongGabu: ['16-027'] => 015
 
-- MK: ['07-02-027']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-028']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['16-028'] => 024
 
 - MK: ['07-02-028']
   Song: []
@@ -2124,7 +2075,7 @@
   SongGabu: ['16-029']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-028']
   GGYL: []
 
 - MK: ['07-02-029']
@@ -2134,7 +2085,7 @@
   SongGabu: ['16-030']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-029']
   GGYL: []
 
 - MK: ['07-02-030']
@@ -2144,7 +2095,7 @@
   SongGabu: ['16-031']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-030']
   GGYL: []
 
 - MK: ['07-02-031']
@@ -2154,7 +2105,7 @@
   SongGabu: ['16-032']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-031']
   GGYL: []
 
 - MK: ['07-02-032']
@@ -2164,7 +2115,7 @@
   SongGabu: ['16-033']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-031']
   GGYL: []
 
 #  SongGabu: ['16-034'] => 034
@@ -2176,7 +2127,7 @@
   SongGabu: ['16-035']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-033']
   GGYL: []
 
 - MK: ['07-02-035']
@@ -2186,7 +2137,7 @@
   SongGabu: ['16-036']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-034']
   GGYL: []
 
 - MK: ['07-02-036']
@@ -2196,7 +2147,7 @@
   SongGabu: ['16-037']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-035']
   GGYL: []
 
 - MK: ['07-02-040']
@@ -2206,7 +2157,7 @@
   SongGabu: ['16-038']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-036']
   GGYL: []
 
 - MK: [07-02-041]
@@ -2216,7 +2167,7 @@
   SongGabu: ['16-039']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-037']
   GGYL: []
 
 - MK: ['07-02-037']
@@ -2226,28 +2177,12 @@
   SongGabu: ['16-040']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-038']
   GGYL: []
 
-- MK: ['07-02-038']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-041']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['16-041'] => 040
 
-- MK: ['07-02-039']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['16-042']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['16-042'] => 041
 
 - MK: ['07-02-042']
   Song: []
@@ -2256,7 +2191,7 @@
   SongGabu: ['16-043']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-030']
   GGYL: []
 
 - MK: ['07-02-043']
@@ -2266,7 +2201,7 @@
   SongGabu: ['16-044']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-031']
   GGYL: []
 
 - MK: ['07-02-044']
@@ -2276,7 +2211,7 @@
   SongGabu: ['16-045']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['13-032']
   GGYL: []
 
 - MK: ['07-02-045']
@@ -2286,7 +2221,7 @@
   SongGabu: ['16-046']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-040']
   GGYL: []
 
 - MK: ['07-02-046']
@@ -2296,7 +2231,7 @@
   SongGabu: ['16-047']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['14-040']
   GGYL: []
 
 
@@ -2311,7 +2246,7 @@
   SongGabu: ['17-001']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-005']
   GGYL: []
 
 - MK: ['07-03-002']
@@ -2321,7 +2256,7 @@
   SongGabu: ['17-002']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-003']
   GGYL: []
 
 - MK: ['07-03-003']
@@ -2331,7 +2266,7 @@
   SongGabu: ['17-003']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-002']
   GGYL: []
 
 - MK: ['07-03-004']
@@ -2341,7 +2276,7 @@
   SongGabu: ['17-004']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-001']
   GGYL: []
 
 - MK: ['07-03-005']
@@ -2351,7 +2286,7 @@
   SongGabu: ['17-005']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-006']
   GGYL: []
 
 - MK: ['07-03-006']
@@ -2361,7 +2296,7 @@
   SongGabu: ['17-006']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-011']
   GGYL: []
 
 - MK: ['07-03-007']
@@ -2371,7 +2306,7 @@
   SongGabu: ['17-007']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-010']
   GGYL: []
 
 - MK: ['07-03-008']
@@ -2381,7 +2316,7 @@
   SongGabu: ['17-008']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-009']
   GGYL: []
 
 - MK: ['07-03-009']
@@ -2391,18 +2326,10 @@
   SongGabu: ['17-009']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-017']
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-010']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['17-010'] => 024
 
 - MK: ['07-03-010']
   Song: []
@@ -2411,7 +2338,7 @@
   SongGabu: ['17-011']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-015']
   GGYL: []
 
 - MK: ['07-03-011']
@@ -2421,7 +2348,7 @@
   SongGabu: ['17-012']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-016']
   GGYL: []
 
 - MK: ['07-03-012']
@@ -2431,28 +2358,13 @@
   SongGabu: ['17-013']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-028']
   GGYL: []
 
-- MK: []
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-014']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['17-014'] => 046
 
-- MK: ['07-03-013']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-015']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['17-015'] => 057
+
 
 - MK: ['07-03-014']
   Song: []
@@ -2461,20 +2373,13 @@
   SongGabu: ['17-016']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-019']
   GGYL: []
 
 #  SongGabu: ['17-017']  => 063
 
-- MK: ['07-03-016']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-018']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['17-018'] => 064
+
 
 - MK: ['07-03-017']
   Song: []
@@ -2483,7 +2388,7 @@
   SongGabu: ['17-019']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-021']
   GGYL: []
 
 - MK: []
@@ -2503,7 +2408,7 @@
   SongGabu: ['17-021']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-023']
   GGYL: []
 
 - MK: []
@@ -2513,7 +2418,7 @@
   SongGabu: ['17-022']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-024']
   GGYL: []
 
 - MK: ['07-03-019']
@@ -2523,38 +2428,14 @@
   SongGabu: ['17-023']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-025']
   GGYL: []
 
-- MK: ['07-03-020']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-024']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['17-024'] => 071
 
-- MK: ['07-03-021']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-025']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['17-025'] => 072
 
-- MK: ['07-03-022']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-026']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+# SongGabu: ['17-026'] => 073
 
 - MK: ['07-03-023']
   Song: []
@@ -2563,7 +2444,7 @@
   SongGabu: ['17-027']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-019', '19-020']
   GGYL: []
 
 - MK: ['07-03-024']
@@ -2573,18 +2454,10 @@
   SongGabu: ['17-028']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-029']
   GGYL: []
 
-- MK: ['07-03-025']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-029']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['17-029'] => 165
 
 - MK: []
   Song: []
@@ -2593,7 +2466,7 @@
   SongGabu: ['17-030']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-031']
   GGYL: []
 
 - MK: []
@@ -2613,18 +2486,11 @@
   SongGabu: ['17-032']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-027']
   GGYL: []
 
-- MK: ['07-03-027']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['17-033']
-  Tang: []
-  Chunhe: []
-  Ogham: []
-  GGYL: []
+#  SongGabu: ['17-033'] => 353
+
 
 - MK: []
   Song: []
@@ -2643,7 +2509,7 @@
   SongGabu: ['17-035']
   Tang: []
   Chunhe: []
-  Ogham: []
+  Ogham: ['19-050']
   GGYL: []
 
 
@@ -4402,7 +4268,7 @@
   SongGabu: ['16-027', '22-044']
   Tang: ['01-033']
   Chunhe: ['01-006']
-  Ogham: ['03-022']
+  Ogham: ['03-022', '14-026']
   GGYL: []
 
 - MK: []
@@ -4482,17 +4348,17 @@
   SongGabu: ['15-013', '15-014', '22-024']
   Tang: ['01-054']
   Chunhe: ['06-013']
-  Ogham: ['03-030', '02-035']
+  Ogham: ['03-030', '02-035', '13-015', '13-016']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-027', '07-13-002']
   Song: ['024']
   SongEtc: []
   SongRule: ['05-011']
   SongGabu: ['16-028', '17-010']
   Tang: ['01-039', '13-101']
   Chunhe: ['01-011']
-  Ogham: ['03-031']
+  Ogham: ['03-031', '14-027']
   GGYL: []
 
 - MK: []
@@ -4515,14 +4381,14 @@
   Ogham: ['03-033']
   GGYL: []
 
-- MK: []
+- MK: ['07-01-014']
   Song: ['027']
   SongEtc: []
   SongRule: ['05-014']
   SongGabu: ['15-015']
   Tang: ['01-056']
   Chunhe: []
-  Ogham: ['03-034']
+  Ogham: ['03-034', '13-017']
   GGYL: []
 
 - MK: []
@@ -4592,7 +4458,7 @@
   SongGabu: ['16-034', '22-047']
   Tang: ['02-016']
   Chunhe: ['01-027']
-  Ogham: ['03-040']
+  Ogham: ['03-040', '14-032']
   GGYL: []
 
 - MK: []
@@ -4645,7 +4511,7 @@
   Ogham: ['03-045']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-038']
   Song: ['040']
   SongEtc: []
   SongRule: ['06-010']
@@ -4655,14 +4521,14 @@
   Ogham: ['03-046']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-039']
   Song: ['041']
   SongEtc: []
   SongRule: ['06-011']
   SongGabu: ['16-042']
   Tang: ['03-004']
   Chunhe: []
-  Ogham: ['03-047']
+  Ogham: ['03-047', '14-039']
   GGYL: []
 
 - MK: []
@@ -4682,7 +4548,7 @@
   SongGabu: ['16-015', '22-048']
   Tang: ['01-041', '02-012']
   Chunhe: []
-  Ogham: ['03-049']
+  Ogham: ['03-049', '14-015']
   GGYL: []
 
 - MK: []
@@ -4705,14 +4571,14 @@
   Ogham: ['03-051']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-019']
   Song: ['046']
   SongEtc: []
   SongRule: ['06-016']
   SongGabu: ['16-019', '17-014']
   Tang: ['02-008']
   Chunhe: ['01-016']
-  Ogham: ['03-052']
+  Ogham: ['03-052', '14-019']
   GGYL: []
 
 - MK: []
@@ -4755,7 +4621,7 @@
   Ogham: ['03-056']
   GGYL: []
 
-- MK: []
+- MK: ['07-02-020']
   Song: ['051']
   SongEtc: []
   SongRule: ['06-017']
@@ -4812,18 +4678,19 @@
   SongGabu: ['16-021', '22-049']
   Tang: ['01-046']
   Chunhe: []
-  Ogham: ['03-062']
+  Ogham: ['03-062', '14-020']
   GGYL: []
 
-- MK: []
+- MK: ['07-03-013']
   Song: ['057']
   SongEtc: []
   SongRule: ['06-023']
   SongGabu: ['17-015']
   Tang: ['01-047']
   Chunhe: ['01-014']
-  Ogham: ['03-063']
+  Ogham: ['03-063', '19-012']
   GGYL: []
+
 
 - MK: []
   Song: ['058']
@@ -4882,17 +4749,17 @@
   SongGabu: ['17-017']
   Tang: ['14-028']
   Chunhe: []
-  Ogham: ['03-069']
+  Ogham: ['03-069', '19-078']
   GGYL: []
 
-- MK: []
+- MK: ['07-03-016']
   Song: ['064']
   SongEtc: []
   SongRule: ['06-027']
   SongGabu: ['17-018']
   Tang: ['14-011']
   Chunhe: []
-  Ogham: ['03-070']
+  Ogham: ['03-070', '19-022']
   GGYL: []
 
 - MK: []
@@ -4955,7 +4822,7 @@
   Ogham: ['03-074']
   GGYL: []
 
-- MK: []
+- MK: ['07-03-020']
   Song: ['071']
   SongEtc: []
   SongRule: ['06-034']
@@ -4965,7 +4832,7 @@
   Ogham: ['03-076']
   GGYL: []
 
-- MK: []
+- MK: ['07-03-021']
   Song: ['072']
   SongEtc: []
   SongRule: ['06-035']
@@ -4975,7 +4842,7 @@
   Ogham: ['03-077']
   GGYL: []
 
-- MK: []
+- MK: ['07-03-022']
   Song: ['073']
   SongEtc: []
   SongRule: ['06-036']
@@ -5870,7 +5737,7 @@
   SongEtc: []
   SongRule: ['07-024']
   SongGabu: ['22-066']
-  Tang: ['14-028']
+  Tang: []
   Chunhe: []
   Ogham: ['04-037']
   GGYL: []
@@ -5895,14 +5762,14 @@
   Ogham: ['04-038']
   GGYL: []
 
-- MK: []
+- MK: ['07-03-025']
   Song: ['165']
   SongEtc: []
   SongRule: ['07-027']
   SongGabu: ['17-029', '21-035']
   Tang: ['04-014']
   Chunhe: []
-  Ogham: ['04-039']
+  Ogham: ['04-039', '18-036']
   GGYL: []
 
 - MK: []
@@ -6895,14 +6762,14 @@
   Ogham: ['06-002']
   GGYL: []
 
-- MK: []
+- MK: ['07-01-023']
   Song: ['265']
   SongEtc: []
   SongRule: []
   SongGabu: ['15-025']
   Tang: ['09-003']
   Chunhe: ['03-005']
-  Ogham: ['06-003']
+  Ogham: ['06-003', '13-029']
   GGYL: []
 
 - MK: []
@@ -7595,14 +7462,14 @@
   Ogham: ['10-005']
   GGYL: []
 
-- MK: []
+- MK: ['07-01-023']
   Song: ['335']
   SongEtc: []
   SongRule: []
   SongGabu: ['15-024']
   Tang: ['12-010']
   Chunhe: []
-  Ogham: ['10-006']
+  Ogham: ['10-006', '13-027']
   GGYL: []
 
 - MK: []
@@ -7775,7 +7642,7 @@
   Ogham: ['10-021']
   GGYL: []
 
-- MK: []
+- MK: ['07-03-027']
   Song: ['353']
   SongEtc: []
   SongRule: ['12-005']
