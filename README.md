@@ -53,3 +53,4 @@ bundle exec jekyll serve
 * 痙 → 痓
 * 豬 → 猪
 * 姜 → 薑
+* 讝 → 譫
