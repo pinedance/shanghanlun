@@ -48,6 +48,7 @@ bundle exec jekyll serve
 * 冝 → 宜
 * 即 → 卽
 * 併 → 倂
+* 乗 → 乘
 
 의미가 다른 글자 병합
 * 痙 → 痓
