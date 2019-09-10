@@ -52,6 +52,7 @@ bundle exec jekyll serve
 * 属 → 屬
 * 卧 → 臥
 * 渇 → 渴
+* 遟 → 遲
 
 의미가 다른 글자 병합
 * 痙 → 痓
