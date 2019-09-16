@@ -68,3 +68,5 @@ bundle exec jekyll serve
 * 豬 → 猪
 * 姜 → 薑
 * 讝 → 譫
+* 毉 → 醫
+* 躰 → 體
