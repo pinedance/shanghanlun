@@ -25,7 +25,7 @@ conf:
 </div>
 
 <div class="compared" markdown="1">
-
+{% include compare.md noo=number from=page.conf.from map='Song' book="SHL_Song" %}
 {% include compare.md noo=number from=page.conf.from map='SongRule' book="SHL_SongRule" %}
 {% include compare.md noo=number from=page.conf.from map='SongGabu' book="SHL_SongGabu" %}
 {% include compare.md noo=number from=page.conf.from map='SongEtc' book="SHL_SongEtc" %}

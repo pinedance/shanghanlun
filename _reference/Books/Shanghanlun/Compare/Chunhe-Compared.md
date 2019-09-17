@@ -32,7 +32,7 @@ conf:
 {% include compare.md noo=number from=page.conf.from map='SongEtc' book="SHL_SongEtc" %}
 
 {% include compare.md noo=number from=page.conf.from map='Tang' book="SHL_Tang" %}
-
+{% include compare.md noo=number from=page.conf.from map='Chunhe' book="SHL_Chunhe" %}
 {% include compare.md noo=number from=page.conf.from map='Ogham' book="SHL_Ogham" %}
 {% include compare.md noo=number from=page.conf.from map='MK' book="MK" %}
 {% include compare.md noo=number from=page.conf.from map='GGYL' book="GGYL" %}
