@@ -9,19 +9,9 @@
 {% for ts in targets %}
 {% for t in ts %}
 
-{% if (include.from == include map) and (t! = include.noo) %}
-
-{% if include.from != include.map or include.noo != t %}
-
-{% include clause.md book=include.book noo=t %}
-
-{% else %}
-
-{% if t %}
+{% if (include.from != include.map) or (include.noo != t) %}
 {% include clause.md book=include.book noo=t %}
 {% endif %}
-
-{$ endif $}
 
 {% endfor %}
 {% endfor %}
