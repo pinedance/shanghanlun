@@ -8,11 +8,19 @@
 
 {% for ts in targets %}
 {% for t in ts %}
-{% if t %}
+
+{% if (include.from == include map) and (t! = include.noo) %}
 
 {% include clause.md book=include.book noo=t %}
 
+{% else %}
+
+{% if t %}
+{% include clause.md book=include.book noo=t %}
 {% endif %}
+
+{$ endif $}
+
 {% endfor %}
 {% endfor %}
 
