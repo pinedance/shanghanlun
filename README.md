@@ -71,3 +71,4 @@ bundle exec jekyll serve
 * 讝 → 譫
 * 毉 → 醫
 * 躰 → 體
+* 濇 → 澁
