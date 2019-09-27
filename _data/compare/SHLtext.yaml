@@ -2549,15 +2549,7 @@
   Ogham: ['15-003']
   GGYL: []
 
-- MK: ['07-04-004']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['18-004']
-  Tang: []
-  Chunhe: []
-  Ogham: ['15-003']
-  GGYL: []
+###
 
 
 
@@ -2843,15 +2835,7 @@
   Ogham: ['17-021']
   GGYL: []
 
-- MK: ['07-06-022']
-  Song: []
-  SongEtc: []
-  SongRule: []
-  SongGabu: ['20-022']
-  Tang: []
-  Chunhe: []
-  Ogham: ['17-022']
-  GGYL: []
+##
 
 - MK: ['07-06-023']
   Song: []
@@ -7366,15 +7350,16 @@
   Ogham: ['09-004', '28-002']
   GGYL: []
 
-- MK: []
+- MK: ['07-04-004', '07-06-022']
   Song: ['330']
   SongEtc: []
   SongRule: []
   SongGabu: ['18-004', '20-022']
   Tang: ['12-005', '13-030']
   Chunhe: []
-  Ogham: ['10-001']
+  Ogham: ['10-001', '15-003', '17-022']
   GGYL: []
+
 
 - MK: []
   Song: ['331']
