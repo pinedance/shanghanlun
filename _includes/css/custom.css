@@ -15,6 +15,11 @@ p.kor {
     margin: 2px 0px 0px 0px;
 }
 
+p.kor > em {
+    font-size: 85%;
+}
+
+
 blockquote p {
 	margin-bottom: 6px;
 }
