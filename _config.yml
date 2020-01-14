@@ -3,7 +3,7 @@ highlighter: rouge
 url: https://pinedance.github.io
 lsi: false
 markdown: kramdown
-exclude: [LICENSE, README.md, .gitignore, Gemfile, Gemfile.lock, _build.rb, _sandbox]
+exclude: [LICENSE, README.md, .gitignore, Gemfile, Gemfile.lock, _build.rb, _sandbox, raw]
 
 # Site Settings
 baseurl:            "/shanghanlun" # Base URL must end WITHOUT a slash, default: ""
