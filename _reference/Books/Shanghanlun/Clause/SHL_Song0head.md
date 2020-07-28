@@ -7,15 +7,15 @@ tags: [상한금궤원문, 송본]
 
 
 
-[刻《仲景全書》序]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/조개미_중경전서_서)
+[刻《仲景全書》序]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본_조개미_서)
 
-[《傷寒論》序]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/임억_상한론_서)
+[《傷寒論》序]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본_임억_서)
 
-[《傷寒卒病論》集]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/상한잡병론_집론)
+[《傷寒卒病論》集]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본_상한잡병론_집론)
 
-[醫林列傳]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/의림열전)
+[醫林列傳]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본_의림열전)
 
-[國子監]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/국자감_상서)
+[國子監]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본_국자감_상서)
 
 
 ## 辨脈法第一

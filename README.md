@@ -72,3 +72,8 @@ bundle exec jekyll serve
 * 毉 → 醫
 * 躰 → 體
 * 濇 → 澁
+
+
+## Test Pages
+
+https://www.drlinkcheck.com/
