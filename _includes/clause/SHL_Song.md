@@ -9,7 +9,7 @@
 	{% assign notype = "NOO.NoA" %}
 {% endunless %}
 
-{% assign compared_path = site.baseurl | append: "/reference/Books/Shanghanlun/Compare/Song-Compared#" | append: noo %}
+{% assign compared_path = site.baseurl | append: "/reference/Books/ShanghanlunCustom/Compare/Song-Compared#" | append: noo %}
 
 {% assign items = site.data.clause.SHL_Song | where:notype, noo %}
 

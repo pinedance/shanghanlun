@@ -1,4 +1,4 @@
-{% assign sites_with_tag = site[ page.index.category ] | where: "tags", page.index.subject %} 
+{% assign sites_with_tag = site[ include.category ] | where: "tags", include.subject %}
 {% for item in sites_with_tag %}
 
 {% if item.desc %}
@@ -9,6 +9,6 @@
 
   [ {{ item.title }} ]( {{site.baseurl}}{{ item.url }} )
 
-{%endif%}
+{% endif %}
 
 {% endfor %}

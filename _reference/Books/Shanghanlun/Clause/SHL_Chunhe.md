@@ -11,10 +11,4 @@ conf:
 
 ***
 
-{% assign data_src = site.data.clause[ page.conf.book ] %}
-
-{% for t in data_src %}
-
-{% include clause.md book=page.conf.book noo=t.NOO %}
-
-{% endfor %}
+{% include book_body.md book=page.conf.book %}

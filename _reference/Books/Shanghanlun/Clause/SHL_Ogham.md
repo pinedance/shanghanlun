@@ -3,16 +3,12 @@ layout: reference
 title: "상한론"
 desc: "금궤옥함경〔金匱玉函經〕"
 tags: [상한금궤원문, 금궤옥함경]
+conf:
+  book: "SHL_Ogham"
 ---
 
 {{ page.desc }}
 
 ***
 
-{% assign data_src = site.data.clause.SHL_Ogham %}
-
-{% for t in data_src %}
-
-{% include clause.md book="SHL_Ogham" noo=t.NOO %}
-
-{% endfor %}
+{% include book_body.md book=page.conf.book %}
