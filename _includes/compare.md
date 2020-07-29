@@ -1,8 +1,10 @@
 
-
 <!--원문인용 시작. 상위에서 include.from, include.map, include.book 지정 필요-->
-
+{% if (include.datatype) and (include.datatype == "auto") %}
+{% assign itemms = site.data.compare.similartext_auto | where: include.from, include.noo %}
+{% else %}
 {% assign itemms = site.data.compare.similartext | where: include.from, include.noo %}
+{% endif %}
 
 {% assign targets = itemms | map: include.map %}
 

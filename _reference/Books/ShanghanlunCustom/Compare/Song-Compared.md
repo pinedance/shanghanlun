@@ -25,7 +25,7 @@ conf:
 </div>
 
 <div class="compared" markdown="1">
-{% include compared.md from=page.conf.from %}
+{% include compared.md number=number from=page.conf.from %}
 </div>
 
 
