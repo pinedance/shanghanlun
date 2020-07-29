@@ -2,7 +2,7 @@
 
 <!--원문인용 시작. 상위에서 include.from, include.map, include.book 지정 필요-->
 
-{% assign itemms = site.data.compare.SHLtext | where: include.from, include.noo %}
+{% assign itemms = site.data.compare.similartext | where: include.from, include.noo %}
 
 {% assign targets = itemms | map: include.map %}
 

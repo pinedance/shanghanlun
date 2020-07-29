@@ -144,7 +144,7 @@ def main():
     sim_group = pair2group( [ [ s[0], s[1] ] for s in sim ] )
     sim_report_group = ( [ add_code( [ data[x][0] for x in sim ] ) for sim in sim_group ] )
 
-    with open("SHLtext_auto.yml", 'w', encoding="utf-8") as fl:
+    with open("similartext_auto.yml", 'w', encoding="utf-8") as fl:
         ym.dump( sim_report_group, fl, transform=tr )
 
     print( "...", time()-t )
