@@ -10,7 +10,7 @@
 {% include clause/SHL_Song.md notype=include.notype noo=include.noo kor=include.kor %}
 
 <!-- 상한론 -->
-{% when "SHL-Song" %}
+{% when "SHL_Song" %}
 {% include clause/SHL_Song.md notype=include.notype noo=include.noo kor=include.kor %}
 
 
