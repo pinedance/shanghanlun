@@ -11,7 +11,7 @@ timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_databa
 
 # Build settings
 host: localhost
-port: 8384
+port: 8383
 
 # Google Analytics
 google_analytics_id : UA-72863252-3
