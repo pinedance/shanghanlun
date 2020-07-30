@@ -54,6 +54,10 @@
 {% when "SHL_Chunhe" %}
 {% include clause/SHL_other.md data_src=site.data.clause.SHL_Chunhe bookinit="淳和" noo=include.noo %}
 
+<!-- 순화본 기타 -->
+{% when "SHL_ChunheEtc" %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_ChunheEtc bookinit="淳和" noo=include.noo %}
+
 <!-- 당본 -->
 {% when "SHL_Tang" %}
 {% include clause/SHL_other.md data_src=site.data.clause.SHL_Tang bookinit="唐翼" noo=include.noo %}

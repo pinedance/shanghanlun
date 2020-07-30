@@ -25,6 +25,11 @@ CJK = re.compile( cjk_range, re.UNICODE)
 
 ######################################
 
+def chdir2cwd( file=__file__ ):
+    # print( os.getcwd() )
+    excute_file_path = os.path.dirname(os.path.realpath( file ))
+    os.chdir( excute_file_path )
+
 def extract_han( text, cjk=CJK ):
     return "".join( re.findall( cjk, text  ) )
 
@@ -77,6 +82,7 @@ def tr(s):
 
 def main():
 
+    chdir2cwd( __file__ )
     data = []
     sim, sim_dic, sim_group = [], {}, []
 
@@ -92,6 +98,8 @@ def main():
                 n = n.get("NoA")
                 if type(n) is not str:
                     n = n[1]
+
+            if ( "-00-" in n ) or ( "-000" in n ): continue
             data.append(  ( filename + "@" + n, extract_han( d.get("TXT") ), d.get("TXT")  ) )
 
     print( "...", time()-t )

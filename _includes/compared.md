@@ -6,6 +6,7 @@
 
 {% include compare.md noo=include.number from=include.from map='Tang' book="SHL_Tang" %}
 {% include compare.md noo=include.number from=include.from map='Chunhe' book="SHL_Chunhe" %}
+{% include compare.md noo=include.number from=include.from map='ChunheEtc' book="SHL_ChunheEtc" %}
 {% include compare.md noo=include.number from=include.from map='Ogham' book="SHL_Ogham" %}
 {% include compare.md noo=include.number from=include.from map='MK' book="MK" %}
 {% include compare.md noo=include.number from=include.from map='GGYL' book="GGYL" %}

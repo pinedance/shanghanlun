@@ -32,6 +32,7 @@ conf:
 {% if number contains "-000" %}
 {% else %}
 </div>
+<br>
 {% endif %}
 
 {% endfor %}
