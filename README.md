@@ -25,6 +25,9 @@ built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://gith
 ```
 bundle exec jekyll build
 bundle exec jekyll serve
+
+# speed up
+bundle exec jekyll serve -I 
 ```
 
 * markdown inside html tags : https://stackoverflow.com/a/47432272
