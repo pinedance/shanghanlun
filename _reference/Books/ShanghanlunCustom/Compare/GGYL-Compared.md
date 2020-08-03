@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: "상한론 조문 비교"
+title: "상한금궤 조문 비교"
 desc: "〔금궤요략 기준〕"
 tags: [금궤요략, 조문비교]
 conf:

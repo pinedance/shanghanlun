@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: "상한론 조문 비교"
+title: "상한금궤 조문 비교"
 desc: "〔송본 가불가 기준〕"
 tags: [송본, 조문비교]
 conf:

@@ -1,6 +1,6 @@
 ---
 layout: handout
-title: "상한론 조문"
+title: "상한금궤 조문"
 desc: "송본상한론〔교재 순서〕"
 tags: 상한론, 원문
 ---

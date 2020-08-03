@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: "상한론 조문 비교"
+title: "상한금궤 조문 비교"
 desc: "〔자동 생성〕"
 tags: [자동, 조문비교]
 conf:

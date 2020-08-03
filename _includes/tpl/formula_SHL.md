@@ -57,7 +57,7 @@
 
 
 
-### 상한론 조문
+### 상한금궤 조문
 
 {% for noo in formula1.NoA %}
 

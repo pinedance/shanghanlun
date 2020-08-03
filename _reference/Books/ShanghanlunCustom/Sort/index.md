@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "상한론 조문 주제별 재구성"
+title: "상한금궤 조문 주제별 재구성"
 tags: [index]
 index:
   category: reference
