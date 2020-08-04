@@ -4,7 +4,8 @@ title: "상한금궤 조문 비교"
 desc: "〔자동 생성〕"
 tags: [자동, 조문비교]
 conf:
-  from: "Auto"
+  method: "Auto"
+  data: "similartext_auto"
 ---
 
 {{ page.desc }}
@@ -16,7 +17,7 @@ conf:
 {% assign books = "Song SongRule SongGabu SongEtc Tang Chunhe ChunheEtc Ogham GGYL MK" | split: " " %}
 {% assign book_cnt = books | size | minus: 1 %}
 
-{% assign data_compared = site.data.compare.similartext_auto %}
+{% assign data_compared = site.data.compare[page.conf.data] %}
 {% for pair in data_compared %}
 
 <div class="compare-set" markdown="1">
