@@ -60,7 +60,7 @@
 
 <!-- 당본 -->
 {% when "SHL_Tang" %}
-{% include clause/SHL_other.md data_src=site.data.clause.SHL_Tang bookinit="唐翼" noo=include.noo %}
+{% include clause/SHL_other.md data_src=site.data.clause.SHL_Tang bookinit="千翼" noo=include.noo %}
 
 <!-- 금궤옥함경 -->
 {% when "SHL_Ogham" %}
