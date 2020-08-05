@@ -1,7 +1,7 @@
 ---
 layout: reference
 title: "맥경"
-desc: "권7, 권8, 권9"
+desc: "〔脈經 卷7、8、9〕"
 tags: [상한금궤원문, 맥경]
 conf:
   book: "MK"

@@ -1,7 +1,7 @@
 ---
 layout: reference
-title: "상한론"
-desc: "순화본 상한론〔太平聖惠方 卷第八〕"
+title: "태평성혜방"
+desc: "淳化本 傷寒論〔太平聖惠方 卷第八〕"
 tags: [상한금궤원문, 순화본]
 conf:
   book: "SHL_Chunhe"
