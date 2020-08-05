@@ -12,7 +12,7 @@ conf:
 
 <br>
 
-{% assign data_src = site.data.clause.GGYL %}
+{% assign data_src = site.data.clause.GGY_GGYL %}
 {% for t in data_src %}
 {% assign number = t.NOO %}
 

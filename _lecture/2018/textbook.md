@@ -1185,13 +1185,13 @@ tags: 상한론, 원문
 
 {% include clause.md noo="143" %}
 
-{% include clause.md book="GGYL" noo="22-001" %}
+{% include clause.md noo="GY-22-001" %}
 
-{% include clause.md book="GGYL" noo="22-002" %}
+{% include clause.md noo="GY-22-002" %}
 
-{% include clause.md book="GGYL" noo="22-003" %}
+{% include clause.md noo="GY-22-003" %}
 
-{% include clause.md book="GGYL" noo="22-004" %}
+{% include clause.md noo="GY-22-004" %}
 
 ☞ [熱入血室]({{site.sympurl}}/열입혈실)
 

@@ -11,7 +11,7 @@
 
 {% assign compared_path = site.baseurl | append: "/reference/Books/ShanghanlunCustom/Compare/Song-Compared#" | append: noo %}
 
-{% assign items = site.data.clause.SHL_Song | where:notype, noo %}
+{% assign items = site.data.clause.SSB_Song | where:notype, noo %}
 
 > <sup><a href="{{compared_path}}" target="{{site.data.theme.a.target}}">《全書》{{noo}}</a></sup>	{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}
 

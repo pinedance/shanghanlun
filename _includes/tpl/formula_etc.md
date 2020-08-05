@@ -23,7 +23,7 @@
 {% if kr_names.size > 0 %}
 {% for name1_kr in kr_names %}
 
-{% assign frm = site.data.clause.bangk | where: "name_kr", name1_kr %}
+{% assign frm = site.data.clause.EBK_bangk | where: "name_kr", name1_kr %}
 {% if frm.size > 0 %}
 ### [{{ name1_kr }} <small>방극/방극산정</small>]( {{site.baseurl}}/reference/Books/Etc/bangk#{{ name1_kr }})
 
