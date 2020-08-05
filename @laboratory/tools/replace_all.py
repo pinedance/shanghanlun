@@ -1,10 +1,11 @@
 import os
+import glob
 
 #####################################
 
-PREFIX = "TES-01-"
-BEGIN, END = "007", "030"
-
+PREFIX = "STB-06-"
+BEGIN, END = "002", "029"
+STEP = 2
 
 
 
@@ -18,45 +19,55 @@ os.chdir( project_file_path )
 cwd = os.getcwd()
 print( cwd )
 
-onlyfiles = [os.path.join(dp, f) for dp, dn, filenames in os.walk( cwd ) for f in filenames if os.path.isfile( os.path.join(dp, f) )]
+# onlyfiles = [os.path.join(dp, f) for dp, dn, filenames in os.walk( cwd ) for f in filenames if os.path.isfile( os.path.join(dp, f) )]
 
-# print( onlyfiles )
+target_files = ['*.yml', '*.yaml', '*.md', '*.txt']
+onlyfiles = []
+for t in target_files:
+    onlyfiles += list( glob.iglob( os.path.join(cwd, '**', t), recursive=True ) )
+
+# print( "\n".join( onlyfiles ) )
 
 def replace_text_infile( a, b, filepath ):
     with open( filepath, 'r', encoding="utf-8" ) as fl:
-        text = fl.read()
+        try:
+            text = fl.read()
+        except Exception as ex:
+            print( "!!Fail", filepath, ex )
+            return False
 
     text_new = text.replace( a, b )
 
     with open( filepath, 'w', encoding="utf-8" ) as fl:
         fl.write( text_new )
 
+    return True
+
 def padding( num, l, pad="0" ):
     raw = ( pad * l ) + str( num )
     start = -1 * l
     return raw[start:]
 
-def get_queue( prefix, begin,end ):
+def get_queue( prefix, begin, end, step=1 ):
     idxlen = len( begin )
     queue = []
-    for i in range( int( end ), int( begin), -1 ):
+    for i in range( int( end ), int( begin )-1 , -1 ):
         bf = prefix + padding( i, idxlen )
-        af = prefix + padding( i+1, idxlen )
+        af = prefix + padding( i+step, idxlen )
         queue.append( (bf, af) )
     return queue
 
 def main():
 
-    queue = get_queue( PREFIX, BEGIN, END )
+    queue = get_queue( PREFIX, BEGIN, END, STEP )
     print( queue )
 
+    for a, b in queue:
+        print( "*", a, "=>", b)
+        for filepath in onlyfiles:
+            status = replace_text_infile( a, b, filepath )
 
-    # for a, b in queue:
-    #     for filepath in onlyfiles:
-    #         replace_text_infile( a, b, filepath )
-    #         print( "*", a, "=>", b)
-    #
-    # print("# End")
+    print("# End")
 
 if __name__ == '__main__':
     main()
