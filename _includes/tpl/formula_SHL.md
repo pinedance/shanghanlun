@@ -1,4 +1,4 @@
-{% assign formulas = site.data.formula.SHL | where: "NameK", page.title %}
+{% assign formulas = site.data.formula.SSB | where: "NameK", page.title %}
 
 {% if formulas.size > 0 %}
 
@@ -61,7 +61,7 @@
 
 {% for noo in formula1.NoA %}
 
-{% include clause.md book="SHL_Song" noo=noo %}
+{% include clause.md noo=noo %}
 
 {% endfor %}
 

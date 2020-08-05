@@ -13,8 +13,8 @@ conf:
 
 <br>
 
-{% assign files = "SHL_Song SHL_SongRule SHL_SongGabu SHL_SongEtc SHL_Tang SHL_Chunhe SHL_ChunheEtc SHL_Ogham GGYL MK" | split: " " %}
-{% assign books = "Song SongRule SongGabu SongEtc Tang Chunhe ChunheEtc Ogham GGYL MK" | split: " " %}
+{% assign files = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK" | split: " " %}
+{% assign books = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK" | split: " " %}
 {% assign book_cnt = books | size | minus: 1 %}
 
 {% assign data_compared = site.data.compare[page.conf.data] %}
@@ -30,7 +30,7 @@ conf:
 {% if noos and noos.size != 0 %}
 
 {% for noo in noos %}
-{% include clause.md book=file noo=noo %}
+{% include clause.md noo=noo %}
 {% endfor %}
 
 {% endif %}

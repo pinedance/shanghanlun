@@ -16,9 +16,7 @@ tags: 상한론, 원문
 
 六經病 證治의 大綱
 
-{% assign noo = "007" %}{% include clause.md noo="007" %}
-
-{% include clause.md noo="007" %}
+{% include clause.md noo="SSB-007" %}
 
 * 양병과 음병을 나누어야 하는 이유? 치법을 선택하기 위해
 * 삼양병과 삼음병을 나누는 기준? 발열의 양상
@@ -26,7 +24,7 @@ tags: 상한론, 원문
 * 外臺秘要 卷第一 > 諸論傷寒八家合一十六首
 > 夫病發熱而惡寒 者發於陽；無熱而惡寒者發於陰。發於陽者可攻其外；發於陰者宜溫其內。發表以桂枝；溫裏宜四逆。
 
-{% include clause.md noo="011" %}
+{% include clause.md noo="SSB-011" %}
 
 * 가열진한, 진열가한의 구분
 
@@ -38,7 +36,7 @@ tags: 상한론, 원문
 
 ### 제1절 太陽病의 提綱
 
-{% include clause.md noo="001" %}
+{% include clause.md noo="SSB-001" %}
 
 * 태양병을 대표하는 증상이지만 태양부증, 태양변증 등을 포괄하지 못함
 * 汗法(특히 계지탕증)을 쓸 수 있는 증상을 일반화한 것으로 보아야 할 듯
@@ -59,21 +57,21 @@ tags: 상한론, 원문
 
 ##### (1) 風寒表虛證
 
-{% include clause.md noo="002" %}
+{% include clause.md noo="SSB-002" %}
 
-{% include clause.md noo="013" %}
+{% include clause.md noo="SSB-013" %}
 
-{% include clause.md noo="012" %}
+{% include clause.md noo="SSB-012" %}
 
 * 脈陰陽：ⓐ尺寸 ⓑ浮沈
 
-{% include clause.md noo="024" %}
+{% include clause.md noo="SSB-024" %}
 
-{% include clause.md noo="057" %}
+{% include clause.md noo="SSB-057" %}
 
-{% include clause.md noo="053" %}
+{% include clause.md noo="SSB-053" %}
 
-{% include clause.md noo="054" %}
+{% include clause.md noo="SSB-054" %}
 
 * 先其時發汗 : ⓐ發熱自汗 하기 전 ⓑ막 發熱自汗할 때 ⓒ傳經 하기 전
 
@@ -82,9 +80,9 @@ tags: 상한론, 원문
 
 ##### (2) 桂枝湯을 쓰면 안되는 경우
 
-{% include clause.md noo="016" %}
+{% include clause.md noo="SSB-016" %}
 
-{% include clause.md noo="017" %}
+{% include clause.md noo="SSB-017" %}
 
 
 ##### (3) 風寒表虛의 兼證
@@ -96,7 +94,7 @@ tags: 상한론, 원문
 
 ###### ① 項背强几几를 겸한 증
 
-{% include clause.md noo="014" %}
+{% include clause.md noo="SSB-014" %}
 
 * 几 : "音殊, 几爲短羽鳥不能飛騰, 動先伸引其頭項."(成無己) ; 掔(견)의 通假字, "拘緊不靈活貌"(钱超尘)
 
@@ -105,25 +103,25 @@ tags: 상한론, 원문
 
 ###### ② 喘證을 겸한 증
 
-{% include clause.md noo="018" %}
+{% include clause.md noo="SSB-018" %}
 
-{% include clause.md noo="043" %}
+{% include clause.md noo="SSB-043" %}
 
 <i class="fa fa-bookmark"></i> [계지가후박행자탕]({{site.formulaurl}}/계지가후박행자탕) : 계지탕 + 후박02냥, 행인50매
 
 
 ###### ③ 營氣가 부족하여 身痛을 겸한 증
 
-{% include clause.md noo="062" %}
+{% include clause.md noo="SSB-062" %}
 
 <i class="fa fa-bookmark"></i> [계지가신가탕]({{site.formulaurl}}/계지가신가탕) : 계지탕 + 작약01냥, 생강01냥, 인삼03냥
 
 
 ###### ④ 胸滿을 겸한 증
 
-{% include clause.md noo="021" %}
+{% include clause.md noo="SSB-021" %}
 
-{% include clause.md noo="022" %}
+{% include clause.md noo="SSB-022" %}
 
 <i class="fa fa-bookmark"></i> [계지거작약탕]({{site.formulaurl}}/계지거작약탕)
 
@@ -132,14 +130,14 @@ tags: 상한론, 원문
 
 ###### ⑤ 陽虛漏汗을 겸한 증
 
-{% include clause.md noo="020" %}
+{% include clause.md noo="SSB-020" %}
 
 <i class="fa fa-bookmark"></i> [계지가부자탕]({{site.formulaurl}}/계지가부자탕) : 계지탕 + 부자01매
 
 
 ###### ⑥ 脾虛水停을 겸한 증
 
-{% include clause.md noo="028" %}
+{% include clause.md noo="SSB-028" %}
 
 <i class="fa fa-bookmark"></i> [계지거계가복령백출탕]({{site.formulaurl}}/계지거계가복령백출탕) : 계지탕 + 복령03냥, 백출03냥
 
@@ -162,20 +160,20 @@ tags: 상한론, 원문
 ##### (1) 風寒表實證
 
 
-{% include clause.md noo="003" %}
+{% include clause.md noo="SSB-003" %}
 
 * 脈陰陽：ⓐ尺寸 ⓑ浮沈
 
-{% include clause.md noo="035" %}
+{% include clause.md noo="SSB-035" %}
 
 * ⓐ發熱 惡風  ⓑ頭痛 身疼 腰痛 骨節疼痛  ⓒ無汗而喘
 
-{% include clause.md noo="046" %}
+{% include clause.md noo="SSB-046" %}
 
 * 047 "⒁太陽病 脈浮緊 發熱 身無汗 自衄者愈."
 * 《惠》"太陽病, 脈浮緊, 無汗, 發熱, 身痛, 心煩目瞑, 劇者必衄, 衄者欲解也, 宜麻黃湯."
 
-{% include clause.md noo="036" %}
+{% include clause.md noo="SSB-036" %}
 
 * 242	"⒁病人小便不利 大便乍難乍易 時有微熱 喘冒不能臥者 有燥屎也 宜大承氣湯"
 * 07-12	"肺癰, 喘不得臥, 葶藶大棗瀉肺湯主之."
@@ -191,32 +189,32 @@ tags: 상한론, 원문
 
 ###### ① 表證에 陽虛 증상, 表證에 營血不足을 겸한 경우
 
-{% include clause.md noo="049" %}
+{% include clause.md noo="SSB-049" %}
 
-{% include clause.md noo="050" %}
+{% include clause.md noo="SSB-050" %}
 
-{% include clause.md noo="088" %}
+{% include clause.md noo="SSB-088" %}
 
 
 ###### ② 陰分을 傷하여 內熱한 경우
 
-{% include clause.md noo="083" %}
+{% include clause.md noo="SSB-083" %}
 
-{% include clause.md noo="084" %}
+{% include clause.md noo="SSB-084" %}
 
-{% include clause.md noo="085" %}
+{% include clause.md noo="SSB-085" %}
 
-{% include clause.md noo="086" %}
+{% include clause.md noo="SSB-086" %}
 
 * ⓐ額上陷, 脈急緊 ⓑ額上陷脈急緊
   - 《脈》 "汗出必額陷, 脈上促急而緊" 《玉》 "汗出則額陷, 脈上促急而緊"
 
-{% include clause.md noo="087" %}
+{% include clause.md noo="SSB-087" %}
 
 
 ###### ③ 胃中이 虛冷한 경우
 
-{% include clause.md noo="089" %}
+{% include clause.md noo="SSB-089" %}
 
 
 
@@ -225,17 +223,17 @@ tags: 상한론, 원문
 
 ###### ① 項背强几几를 겸한 증
 
-{% include clause.md noo="031" %}
+{% include clause.md noo="SSB-031" %}
 
 <i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕) : 계지탕(감량) + 마황(3냥) 갈근(4냥)
 
 ###### ② 嘔逆과 下利를 겸한 증
 
-{% include clause.md noo="032" %}
+{% include clause.md noo="SSB-032" %}
 
 * 逆流挽舟（喻嘉言, 以人蔘敗毒散治痢疾）
 
-{% include clause.md noo="033" %}
+{% include clause.md noo="SSB-033" %}
 
 <i class="fa fa-bookmark"></i> [갈근탕]({{site.formulaurl}}/갈근탕)
 
@@ -253,9 +251,9 @@ tags: 상한론, 원문
 
 ###### ③ 內熱煩躁를 겸한 증
 
-{% include clause.md noo="038" %}
+{% include clause.md noo="SSB-038" %}
 
-{% include clause.md noo="039" %}
+{% include clause.md noo="SSB-039" %}
 
 <i class="fa fa-bookmark"></i> [대청룡탕]({{site.formulaurl}}/대청룡탕)
 
@@ -264,9 +262,9 @@ tags: 상한론, 원문
 
 ###### ④ 水飮咳喘을 겸한 증
 
-{% include clause.md noo="040" %}
+{% include clause.md noo="SSB-040" %}
 
-{% include clause.md noo="041" %}
+{% include clause.md noo="SSB-041" %}
 
 <i class="fa fa-bookmark"></i> [소청룡탕]({{site.formulaurl}}/소청룡탕) : 계지탕(건강代생강, 去대조) + 마황 세신(3냥) 반하(반승) 오미자(반승)
 
@@ -276,11 +274,11 @@ tags: 상한론, 원문
 
 ##### (1) 表鬱不解證
 
-{% include clause.md noo="023" %}
+{% include clause.md noo="SSB-023" %}
 
-{% include clause.md book="SHL_Tang" noo="01-054" %}
+{% include clause.md noo="STB-01-054" %}
 
-{% include clause.md book="SHL_Chunhe" noo="06-013" %}
+{% include clause.md noo="SCB-06-013" %}
 
 
 
@@ -288,20 +286,20 @@ tags: 상한론, 원문
 
 ##### (2) 表鬱內熱證
 
-{% include clause.md noo="027" %}
+{% include clause.md noo="SSB-027" %}
 
 * 《교재》"太陽病，發熱惡寒，熱多寒少，宜桂枝二越婢一湯。脈微弱者，｛此無陽也｝，不可發汗。"로 보아야 함
 
 <i class="fa fa-bookmark"></i> [계지이월비일탕]({{site.formulaurl}}/계지이월비일탕)
 
-{% include clause.md noo="048" %}
+{% include clause.md noo="SSB-048" %}
 
 * 〔轉屬陽明〕 185 ＂⒀本太陽初得病時 發其汗 汗先出不徹 因轉屬陽明也 ⒁傷寒發熱無汗 嘔不能食 而反汗出濈濈然者 是轉屬陽明也。＂
 * 〔陽氣怫鬱〕 《康平》"設面色緣緣正赤者 陽氣怫鬱不得越 其人短氣但坐 更發汗則愈"
 
 #### 4) 溫病
 
-{% include clause.md noo="006" %}
+{% include clause.md noo="SSB-006" %}
 
 * 《康平》＂⒂太陽病，發熱而渴，不惡寒者，爲溫病。風溫爲病，脈陰陽俱浮，自汗出，身重，多眠睡，鼻息必鼾，語言難出。＂
 
@@ -321,11 +319,11 @@ tags: 상한론, 원문
 
 #### 1) 蓄水證
 
-{% include clause.md noo="071" %}
+{% include clause.md noo="SSB-071" %}
 
-{% include clause.md noo="072" %}
+{% include clause.md noo="SSB-072" %}
 
-{% include clause.md noo="074" %}
+{% include clause.md noo="SSB-074" %}
 
 水逆：渴欲飮水，水入則吐（小便不利）
 
@@ -335,15 +333,15 @@ tags: 상한론, 원문
 
 #### 2) 蓄血證
 
-{% include clause.md noo="106" %}
+{% include clause.md noo="SSB-106" %}
 
-{% include clause.md book="SHL_Chunche" noo="01-026" %}
+{% include clause.md noo="SCB-01-026" %}
 
-{% include clause.md noo="124" %}
+{% include clause.md noo="SSB-124" %}
 
-{% include clause.md noo="125" %}
+{% include clause.md noo="SSB-125" %}
 
-{% include clause.md noo="126" %}
+{% include clause.md noo="SSB-126" %}
 
 血證：少腹硬滿，小便自利（，如狂）
 
@@ -358,13 +356,13 @@ tags: 상한론, 원문
 
 ### 제4절 太陽病의 傳變
 
-{% include clause.md noo="004" %}
+{% include clause.md noo="SSB-004" %}
 
-{% include clause.md noo="005" %}
+{% include clause.md noo="SSB-005" %}
 
-{% include clause.md noo="269" %}
+{% include clause.md noo="SSB-269" %}
 
-{% include clause.md noo="270" %}
+{% include clause.md noo="SSB-270" %}
 
 三陰受邪의 증거：ⓐ無大熱，煩躁 ⓑ不能食而嘔
 
@@ -381,21 +379,21 @@ tags: 상한론, 원문
 
 #### 1) 變證의 치료법
 
-{% include clause.md noo="016" %}
+{% include clause.md noo="SSB-016" %}
 
 
 #### 2) 邪熱壅肺證
 
-{% include clause.md noo="063" %}
+{% include clause.md noo="SSB-063" %}
 
-{% include clause.md noo="162" %}
+{% include clause.md noo="SSB-162" %}
 
 <i class="fa fa-bookmark"></i> [마행감석탕]({{site.formulaurl}}/마행감석탕)
 
 
 #### 3) 邪熱下利證
 
-{% include clause.md noo="034" %}
+{% include clause.md noo="SSB-034" %}
 
 <i class="fa fa-bookmark"></i> [갈근황금황련탕]({{site.formulaurl}}/갈근황금황련탕)
 
@@ -408,46 +406,46 @@ tags: 상한론, 원문
 
 ##### (1) 心陽虛 心悸證
 
-{% include clause.md noo="064" %}
+{% include clause.md noo="SSB-064" %}
 
-{% include clause.md noo="075" %}
+{% include clause.md noo="SSB-075" %}
 
 <i class="fa fa-bookmark"></i> [계지감초탕]({{site.formulaurl}}/계지감초탕)
 
 
 ##### (2) 心陽虛 煩躁證
 
-{% include clause.md noo="118" %}
+{% include clause.md noo="SSB-118" %}
 
 <i class="fa fa-bookmark"></i> [계지감초용골모려탕]({{site.formulaurl}}/계지감초용골모려탕)
 
 
 ##### (3) 心陽虛 驚狂證
 
-{% include clause.md noo="112" %}
+{% include clause.md noo="SSB-112" %}
 
 <i class="fa fa-bookmark"></i> [계지거작약가촉칠모려용골구역탕]({{site.formulaurl}}/계지거작약가촉칠모려용골구역탕)
 
 
 ##### (4) 心陽虛 欲作奔豚證
 
-{% include clause.md noo="065" %}
+{% include clause.md noo="SSB-065" %}
 
 <i class="fa fa-bookmark"></i> [영계감조탕]({{site.formulaurl}}/영계감조탕)
 
 
 ##### (5) 心陽虛 奔豚證
 
-{% include clause.md noo="117" %}
+{% include clause.md noo="SSB-117" %}
 
 <i class="fa fa-bookmark"></i> [계지가계탕]({{site.formulaurl}}/계지가계탕)
 
 
 #### 5) 心陰心陽兩虛證
 
-{% include clause.md noo="177" %}
+{% include clause.md noo="SSB-177" %}
 
-{% include clause.md noo="178" %}
+{% include clause.md noo="SSB-178" %}
 
 <i class="fa fa-bookmark"></i> [자감초탕]({{site.formulaurl}}/자감초탕)
 
@@ -467,17 +465,17 @@ tags: 상한론, 원문
 
 ##### (1) 脾虛 水停證
 
-{% include clause.md noo="067" %}
+{% include clause.md noo="SSB-067" %}
 
 <i class="fa fa-bookmark"></i> [영계출감탕]({{site.formulaurl}}/영계출감탕)
 
 ##### (2) 胃虛 水停證
 
-{% include clause.md noo="073" %}
+{% include clause.md noo="SSB-073" %}
 
 * 071 072 073 074 모두 [오령산]({{site.formulaurl}}/오령산) 조문
 
-{% include clause.md noo="356" %}
+{% include clause.md noo="SSB-356" %}
 
 <i class="fa fa-bookmark"></i> [복령감초탕]({{site.formulaurl}}/복령감초탕)
 
@@ -486,18 +484,18 @@ tags: 상한론, 원문
 
 ##### (3) 脾虛 心悸證
 
-{% include clause.md noo="102" %}
+{% include clause.md noo="SSB-102" %}
 
 * [소시소탕]({{site.formulaurl}}/소시호탕)（或胸中煩，或心下悸）의 오기(誤記)?
 
-{% include clause.md noo="100" %}
+{% include clause.md noo="SSB-100" %}
 
 <i class="fa fa-bookmark"></i> [소건중탕]({{site.formulaurl}}/소건중탕)
 
 
 ##### (4) 脾虛 氣滯腹脹證
 
-{% include clause.md noo="066" %}
+{% include clause.md noo="SSB-066" %}
 
 <i class="fa fa-bookmark"></i> [후생반감인탕]({{site.formulaurl}}/후생반감인탕)
 
@@ -507,33 +505,33 @@ tags: 상한론, 원문
 
 ##### (1) 陽虛 煩躁證
 
-{% include clause.md noo="061" %}
+{% include clause.md noo="SSB-061" %}
 
 <i class="fa fa-bookmark"></i> [건강부자탕]({{site.formulaurl}}/건강부자탕)
 
 
 ##### (2) 陽虛 厥逆煩躁證
 
-{% include clause.md noo="069" %}
+{% include clause.md noo="SSB-069" %}
 
 <i class="fa fa-bookmark"></i> [복령사역탕]({{site.formulaurl}}/복령사역탕)
 
 
 #### 8) 火邪傷陰內熱證
 
-{% include clause.md noo="111" %}
+{% include clause.md noo="SSB-111" %}
 
-{% include clause.md noo="115" %}
+{% include clause.md noo="SSB-115" %}
 
-{% include clause.md noo="116" %}
+{% include clause.md noo="SSB-116" %}
 
 
 
 #### 9) 陰傷證과 병이 낫는 기전
 
-{% include clause.md noo="058" %}
+{% include clause.md noo="SSB-058" %}
 
-{% include clause.md noo="059" %}
+{% include clause.md noo="SSB-059" %}
 
 
 
@@ -551,7 +549,7 @@ tags: 상한론, 원문
 
 ##### (1) 陰陽轉化證
 
-{% include clause.md noo="029" %}
+{% include clause.md noo="SSB-029" %}
 
 * [탈수 및 전해질 이상]({{site.sympurl}}/@탈수)?
 * [甘草]({{site.herburl}}/감초) 처방군 _[감초건강탕]({{site.formulaurl}}/감초건강탕)_ _[작약감초탕]({{site.formulaurl}}/작약감초탕)_ _[조위승기탕]({{site.formulaurl}}/조위승기탕)_ _[사역탕]({{site.formulaurl}}/사역탕)_
@@ -563,9 +561,9 @@ tags: 상한론, 원문
 
 ##### (2) 陰陽兩虛證
 
-{% include clause.md noo="068" %}
+{% include clause.md noo="SSB-068" %}
 
-{% include clause.md noo="060" %}
+{% include clause.md noo="SSB-060" %}
 
 <i class="fa fa-bookmark"></i> [작약감초부자탕]({{site.formulaurl}}/작약감초부자탕)
 
@@ -576,17 +574,17 @@ tags: 상한론, 원문
 
 ###### ① 大結胸證
 
-{% include clause.md noo="135" %}
+{% include clause.md noo="SSB-135" %}
 
-{% include clause.md noo="137" %}
+{% include clause.md noo="SSB-137" %}
 
-{% include clause.md noo="136" %}
+{% include clause.md noo="SSB-136" %}
 
-{% include clause.md noo="131" %}
+{% include clause.md noo="SSB-131" %}
 
-{% include clause.md noo="132" %}
+{% include clause.md noo="SSB-132" %}
 
-{% include clause.md noo="133" %}
+{% include clause.md noo="SSB-133" %}
 
 <i class="fa fa-bookmark"></i> [대함흉탕]({{site.formulaurl}}/대함흉탕)
 
@@ -594,19 +592,19 @@ tags: 상한론, 원문
 
 ※ 교재 외 추가조문
 
-{% include clause.md noo="134" %}
+{% include clause.md noo="SSB-134" %}
 
 
 ###### ② 小結胸證
 
-{% include clause.md noo="138" %}
+{% include clause.md noo="SSB-138" %}
 
 <i class="fa fa-bookmark"></i> [소함흉탕]({{site.formulaurl}}/소함흉탕)
 
 
 ##### (2) 寒實結胸
 
-{% include clause.md noo="141" %}
+{% include clause.md noo="SSB-141" %}
 
 <i class="fa fa-bookmark"></i> [삼물백산]({{site.formulaurl}}/삼물백산)
 
@@ -624,9 +622,9 @@ tags: 상한론, 원문
 
 ##### (1) 熱痞
 
-{% include clause.md noo="154" %}
+{% include clause.md noo="SSB-154" %}
 
-{% include clause.md noo="164" %}
+{% include clause.md noo="SSB-164" %}
 
 <i class="fa fa-bookmark"></i> [대황황련사심탕]({{site.formulaurl}}/대황황련사심탕)
 
@@ -634,7 +632,7 @@ tags: 상한론, 원문
 
 ##### (2) 熱痞에 表陽虛를 겸한 증
 
-{% include clause.md noo="155" %}
+{% include clause.md noo="SSB-155" %}
 
 <i class="fa fa-bookmark"></i> [부자사심탕]({{site.formulaurl}}/부자사심탕)
 
@@ -643,7 +641,7 @@ tags: 상한론, 원문
 
 ###### ① 嘔逆하면서 下利하는 痞證
 
-{% include clause.md noo="149" %}
+{% include clause.md noo="SSB-149" %}
 
 흉부증상 감별 증상 및 처방
 * 柴胡湯證(?) _嘔而發熱_ ：소시탕
@@ -656,14 +654,14 @@ tags: 상한론, 원문
 
 ###### ② 水飮과 食滯로 인한 痞證
 
-{% include clause.md noo="157" %}
+{% include clause.md noo="SSB-157" %}
 
 <i class="fa fa-bookmark"></i> [생강사심탕]({{site.formulaurl}}/생강사심탕)
 
 
 ###### ③ 胃虛하여 痞證과 下利가 모두 심한 증
 
-{% include clause.md noo="158" %}
+{% include clause.md noo="SSB-158" %}
 
 * 의안（증례）?
 
@@ -672,27 +670,27 @@ tags: 상한론, 원문
 
 #### 13) 結胸과 臟結 및 痞證
 
-{% include clause.md noo="128" %}
+{% include clause.md noo="SSB-128" %}
 
-{% include clause.md noo="129" %}
+{% include clause.md noo="SSB-129" %}
 
-{% include clause.md noo="130" %}
+{% include clause.md noo="SSB-130" %}
 
-{% include clause.md noo="167" %}
+{% include clause.md noo="SSB-167" %}
 
-{% include clause.md noo="151" %}
+{% include clause.md noo="SSB-151" %}
 
 
 
 #### 14) 上熱下寒證
 
-{% include clause.md noo="173" %}
+{% include clause.md noo="SSB-173" %}
 
 <i class="fa fa-bookmark"></i> [황련탕]({{site.formulaurl}}/황련탕)
 
 #### 15) 胃中不和로 인한 噫氣證
 
-{% include clause.md noo="161" %}
+{% include clause.md noo="SSB-161" %}
 
 <i class="fa fa-bookmark"></i> [선복대자석탕]({{site.formulaurl}}/선복대자탕)
 
@@ -711,7 +709,7 @@ tags: 상한론, 원문
 
 #### 1) 風濕이 肌肉에 유착된 증
 
-{% include clause.md noo="174" %}
+{% include clause.md noo="SSB-174" %}
 
 <i class="fa fa-bookmark"></i> [계지부자탕]({{site.formulaurl}}/계지부자탕)
 
@@ -719,7 +717,7 @@ tags: 상한론, 원문
 
 #### 2) 風濕이 關節에 유착된 증
 
-{% include clause.md noo="175" %}
+{% include clause.md noo="SSB-175" %}
 
 <i class="fa fa-bookmark"></i> [감초부자탕]({{site.formulaurl}}/감초부자탕)
 
@@ -734,16 +732,16 @@ tags: 상한론, 원문
 
 #### 3) 懸飮證
 
-{% include clause.md noo="152" %}
+{% include clause.md noo="SSB-152" %}
 
 <i class="fa fa-bookmark"></i> [십조탕]({{site.formulaurl}}/십조탕)
 
 
 #### 4) 胸膈痰實證
 
-{% include clause.md noo="166" %}
+{% include clause.md noo="SSB-166" %}
 
-{% include clause.md noo="355" %}
+{% include clause.md noo="SSB-355" %}
 
 <i class="fa fa-bookmark"></i> [과체산]({{site.formulaurl}}/과체산)
 
@@ -752,15 +750,15 @@ tags: 상한론, 원문
 ### 제7절 表證과 裏證의 치료 순서
 
 
-{% include clause.md noo="090" %}
+{% include clause.md noo="SSB-090" %}
 
-{% include clause.md noo="056" %}
+{% include clause.md noo="SSB-056" %}
 
-{% include clause.md noo="091" %}
+{% include clause.md noo="SSB-091" %}
 
-{% include clause.md noo="092" %}
+{% include clause.md noo="SSB-092" %}
 
-{% include clause.md noo="387" %}
+{% include clause.md noo="SSB-387" %}
 
 
 * [계지탕]({{site.formulaurl}}/계지탕) ↔ [승기탕]({{site.formulaurl}}/승기탕)
@@ -782,21 +780,21 @@ tags: 상한론, 원문
 ### 제1절 陽明病의 提綱
 
 
-{% include clause.md noo="180" %}
+{% include clause.md noo="SSB-180" %}
 
-{% include clause.md noo="182" %}
+{% include clause.md noo="SSB-182" %}
 
-{% include clause.md noo="186" %}
+{% include clause.md noo="SSB-186" %}
 
 ### 제2절 陽明病의 病因과 病機
 
-{% include clause.md noo="179" %}
+{% include clause.md noo="SSB-179" %}
 
-{% include clause.md noo="181" %}
+{% include clause.md noo="SSB-181" %}
 
-{% include clause.md noo="183" %}
+{% include clause.md noo="SSB-183" %}
 
-{% include clause.md noo="185" %}
+{% include clause.md noo="SSB-185" %}
 
 * 太陽陽明：ⓐ太陽病，亡津液；ⓑ太陽病，汗先出不徹 _脾約？_
 * 正陽陽明：身熱，汗自出，不惡寒，反惡熱 _胃家實_
@@ -808,19 +806,19 @@ tags: 상한론, 원문
 
 #### 1) 胸中煩熱懊憹證
 
-{% include clause.md noo="076" %}
+{% include clause.md noo="SSB-076" %}
 
-{% include clause.md noo="077" %}
+{% include clause.md noo="SSB-077" %}
 
-{% include clause.md noo="078" %}
+{% include clause.md noo="SSB-078" %}
 
-{% include clause.md noo="375" %}
+{% include clause.md noo="SSB-375" %}
 
 虛煩
 * 發汗吐下後；下利後
 * 煩而按之心下濡者
 
-{% include clause.md noo="228" %}
+{% include clause.md noo="SSB-228" %}
 
 <i class="fa fa-bookmark"></i> [치자시탕]({{site.formulaurl}}/치자시탕)
 
@@ -834,25 +832,25 @@ tags: 상한론, 원문
 
 ##### (1) 腹滿을 겸한 증
 
-{% include clause.md noo="079" %}
+{% include clause.md noo="SSB-079" %}
 
 <i class="fa fa-bookmark"></i> [치자후박탕]({{site.formulaurl}}/치자후박탕)
 
 ##### (2) 心下痞塞을 겸한 증
 
-{% include clause.md noo="393" %}
+{% include clause.md noo="SSB-393" %}
 
 <i class="fa fa-bookmark"></i> [지실치자시탕]({{site.formulaurl}}/지실치자시탕)
 
 ##### (3) 中寒을 겸한 증
 
-{% include clause.md noo="080" %}
+{% include clause.md noo="SSB-080" %}
 
 <i class="fa fa-bookmark"></i> [치자건강탕]({{site.formulaurl}}/치자건강탕)
 
 #### 3) 梔子湯을 쓰면 안되는 경우
 
-{% include clause.md noo="081" %}
+{% include clause.md noo="SSB-081" %}
 
 
 <br>
@@ -866,19 +864,19 @@ tags: 상한론, 원문
 
 #### 1) 胃熱證과 胃熱津傷證
 
-{% include clause.md noo="176" %}
+{% include clause.md noo="SSB-176" %}
 
-{% include clause.md noo="350" %}
+{% include clause.md noo="SSB-350" %}
 
-{% include clause.md noo="219" %}
+{% include clause.md noo="SSB-219" %}
 
-{% include clause.md noo="026" %}
+{% include clause.md noo="SSB-026" %}
 
-{% include clause.md noo="168" %}
+{% include clause.md noo="SSB-168" %}
 
-{% include clause.md noo="169" %}
+{% include clause.md noo="SSB-169" %}
 
-{% include clause.md noo="170" %}
+{% include clause.md noo="SSB-170" %}
 
 <i class="fa fa-bookmark"></i> [백호탕]({{site.formulaurl}}/백호탕)
 
@@ -886,7 +884,7 @@ tags: 상한론, 원문
 
 #### 2) 胃熱津傷으로 인한 氣逆證
 
-{% include clause.md noo="397" %}
+{% include clause.md noo="SSB-397" %}
 
 <i class="fa fa-bookmark"></i> [죽엽석고탕]({{site.formulaurl}}/죽엽석고탕)
 
@@ -896,13 +894,13 @@ tags: 상한론, 원문
 
 #### 1) 燥實證
 
-{% include clause.md noo="248" %}
+{% include clause.md noo="SSB-248" %}
 
-{% include clause.md noo="249" %}
+{% include clause.md noo="SSB-249" %}
 
-{% include clause.md noo="207" %}
+{% include clause.md noo="SSB-207" %}
 
-{% include clause.md noo="105" %}
+{% include clause.md noo="SSB-105" %}
 
 <i class="fa fa-bookmark"></i> [조위승기탕]({{site.formulaurl}}/조위승기탕)
 
@@ -917,13 +915,13 @@ tags: 상한론, 원문
 
 #### 2) 痞滿證
 
-{% include clause.md noo="213" %}
+{% include clause.md noo="SSB-213" %}
 
-{% include clause.md noo="214" %}
+{% include clause.md noo="SSB-214" %}
 
-{% include clause.md noo="250" %}
+{% include clause.md noo="SSB-250" %}
 
-{% include clause.md noo="374" %}
+{% include clause.md noo="SSB-374" %}
 
 <i class="fa fa-bookmark"></i> [소승기탕]({{site.formulaurl}}/소승기탕)
 
@@ -932,27 +930,27 @@ tags: 상한론, 원문
 
 #### 3) 痞滿燥實證
 
-{% include clause.md noo="208" %}
+{% include clause.md noo="SSB-208" %}
 
-{% include clause.md noo="220" %}
+{% include clause.md noo="SSB-220" %}
 
-{% include clause.md noo="239" %}
+{% include clause.md noo="SSB-239" %}
 
-{% include clause.md noo="238" %}
+{% include clause.md noo="SSB-238" %}
 
-{% include clause.md noo="215" %}
+{% include clause.md noo="SSB-215" %}
 
-{% include clause.md noo="241" %}
+{% include clause.md noo="SSB-241" %}
 
-{% include clause.md noo="255" %}
+{% include clause.md noo="SSB-255" %}
 
-{% include clause.md noo="212" %}
+{% include clause.md noo="SSB-212" %}
 
-{% include clause.md noo="252" %}
+{% include clause.md noo="SSB-252" %}
 
-{% include clause.md noo="253" %}
+{% include clause.md noo="SSB-253" %}
 
-{% include clause.md noo="254" %}
+{% include clause.md noo="SSB-254" %}
 
 <i class="fa fa-bookmark"></i> [대승기탕]({{site.formulaurl}}/대승기탕)
 
@@ -973,13 +971,13 @@ tags: 상한론, 원문
 #### 4) 下法을 쓰면 안되는 경우
 
 
-{% include clause.md noo="204" %}
+{% include clause.md noo="SSB-204" %}
 
-{% include clause.md noo="205" %}
+{% include clause.md noo="SSB-205" %}
 
-{% include clause.md noo="206" %}
+{% include clause.md noo="SSB-206" %}
 
-{% include clause.md noo="194" %}
+{% include clause.md noo="SSB-194" %}
 
 
 <br>
@@ -990,13 +988,13 @@ tags: 상한론, 원문
 
 ### 제6절 脾約證
 
-{% include clause.md noo="247" %}
+{% include clause.md noo="SSB-247" %}
 
 <i class="fa fa-bookmark"></i> [마자인환]({{site.formulaurl}}/마자인환)
 
 ### 附 : 灌腸法(蜜導法)
 
-{% include clause.md noo="233" %}
+{% include clause.md noo="SSB-233" %}
 
 * 導便法 _[《東醫寶鑑》> 大便](https://mediclassics.kr/books/8/volume/4#content_1311)_
 
@@ -1006,23 +1004,23 @@ tags: 상한론, 원문
 
 #### 1) 濕熱이 裏證을 겸한 發黃
 
-{% include clause.md noo="199" %}
+{% include clause.md noo="SSB-199" %}
 
-{% include clause.md noo="236" %}
+{% include clause.md noo="SSB-236" %}
 
-{% include clause.md noo="260" %}
+{% include clause.md noo="SSB-260" %}
 
 <i class="fa fa-bookmark"></i> [인진호탕]({{site.formulaurl}}/인진호탕)
 
 #### 2) 濕熱이 鬱蒸된 發黃
 
-{% include clause.md noo="261" %}
+{% include clause.md noo="SSB-261" %}
 
 <i class="fa fa-bookmark"></i> [치자백피탕]({{site.formulaurl}}/치자백피탕)
 
 #### 3) 濕熱이 表證을 겸한 發黃
 
-{% include clause.md noo="262" %}
+{% include clause.md noo="SSB-262" %}
 
 <i class="fa fa-bookmark"></i> [마황연초적소두탕]({{site.formulaurl}}/마황연초적소두탕)
 
@@ -1033,25 +1031,25 @@ tags: 상한론, 원문
 
 ### 제8절 陽明病의 辨證
 
-{% include clause.md noo="196" %}
+{% include clause.md noo="SSB-196" %}
 
-{% include clause.md noo="209" %}
+{% include clause.md noo="SSB-209" %}
 
-{% include clause.md noo="210" %}
+{% include clause.md noo="SSB-210" %}
 
-{% include clause.md noo="211" %}
+{% include clause.md noo="SSB-211" %}
 
-{% include clause.md noo="380" %}
+{% include clause.md noo="SSB-380" %}
 
-{% include clause.md noo="202" %}
+{% include clause.md noo="SSB-202" %}
 
-{% include clause.md noo="227" %}
+{% include clause.md noo="SSB-227" %}
 
-{% include clause.md noo="237" %}
+{% include clause.md noo="SSB-237" %}
 
 * 畜血 → 喜忘
 
-{% include clause.md noo="216" %}
+{% include clause.md noo="SSB-216" %}
 
 
 1) 脈
@@ -1081,7 +1079,7 @@ tags: 상한론, 원문
 
 ### 제1절 少陽病의 提綱
 
-{% include clause.md noo="263" %}
+{% include clause.md noo="SSB-263" %}
 
 
 ### 제2절 少陽病證
@@ -1089,23 +1087,23 @@ tags: 상한론, 원문
 #### 1) 少陽病의 主證
 
 <div class="compare-set" markdown="1">
-{% include clause.md noo="096" %}
-{% include clause.md noo="097" %}
-{% include clause.md noo="266" %}
-{% include clause.md noo="267" %}
-{% include clause.md noo="099" %}
-{% include clause.md noo="098" %}
+{% include clause.md noo="SSB-096" %}
+{% include clause.md noo="SSB-097" %}
+{% include clause.md noo="SSB-266" %}
+{% include clause.md noo="SSB-267" %}
+{% include clause.md noo="SSB-099" %}
+{% include clause.md noo="SSB-098" %}
 </div>
 
 <div class="compare-set" markdown="1">
-{% include clause.md noo="229" %}
-{% include clause.md noo="230" %}
-{% include clause.md noo="231" %}
+{% include clause.md noo="SSB-229" %}
+{% include clause.md noo="SSB-230" %}
+{% include clause.md noo="SSB-231" %}
 </div>
 
 <div class="compare-set" markdown="1">
-{% include clause.md noo="379" %}
-{% include clause.md noo="101" %}
+{% include clause.md noo="SSB-379" %}
+{% include clause.md noo="SSB-101" %}
 </div>
 
 <i class="fa fa-bookmark"></i> [소시호탕]({{site.formulaurl}}/소시호탕)
@@ -1121,23 +1119,23 @@ tags: 상한론, 원문
 
 ##### (1) 太陽을 겸한 증
 
-{% include clause.md noo="146" %}
+{% include clause.md noo="SSB-146" %}
 
-{% include clause.md noo="171" %}
+{% include clause.md noo="SSB-171" %}
 
 <i class="fa fa-bookmark"></i> [시호계지탕]({{site.formulaurl}}/시호계지탕)
 
 ##### (2) 陽明을 겸한 증
 
-{% include clause.md noo="104" %}
+{% include clause.md noo="SSB-104" %}
 
-{% include clause.md book="SHL_SongRule" noo="06-054" %}
+{% include clause.md noo="SSR-06-054" %}
 
-{% include clause.md noo="103" %}
+{% include clause.md noo="SSB-103" %}
 
-{% include clause.md book="SHL_SongRule" noo="06-053" %}
+{% include clause.md noo="SSR-06-053" %}
 
-{% include clause.md noo="165" %}
+{% include clause.md noo="SSB-165" %}
 
 <i class="fa fa-bookmark"></i> [시호가망초탕]({{site.formulaurl}}/시호가망초탕)
 
@@ -1145,7 +1143,7 @@ tags: 상한론, 원문
 
 ##### (3) 下利를 겸한 증
 
-{% include clause.md noo="172" %}
+{% include clause.md noo="SSB-172" %}
 
 <i class="fa fa-bookmark"></i> [황금탕]({{site.formulaurl}}/황금탕)
 
@@ -1153,45 +1151,45 @@ tags: 상한론, 원문
 
 ##### (4) 水飮을 겸한 증
 
-{% include clause.md noo="147" %}
+{% include clause.md noo="SSB-147" %}
 
 <i class="fa fa-bookmark"></i> [시호계지건강탕]({{site.formulaurl}}/시호계지건강탕)
 
 ##### (5) 煩驚譫語를 겸한 증
 
-{% include clause.md noo="107" %}
+{% include clause.md noo="SSB-107" %}
 
 <i class="fa fa-bookmark"></i> [시호가용골모려탕]({{site.formulaurl}}/시호가용골모려탕)
 
 ### 제3절 少陽病 치료에 쓸 수 없는 치법
 
-{% include clause.md noo="265" %}
+{% include clause.md noo="SSB-265" %}
 
-{% include clause.md noo="264" %}
+{% include clause.md noo="SSB-264" %}
 
 
 
 ### 제4절 少陽病의 辨證
 
 
-{% include clause.md noo="098" %}
+{% include clause.md noo="SSB-098" %}
 
 
 #### 附: 熱入血室
 
-{% include clause.md noo="144" %}
+{% include clause.md noo="SSB-144" %}
 
-{% include clause.md noo="145" %}
+{% include clause.md noo="SSB-145" %}
 
-{% include clause.md noo="143" %}
+{% include clause.md noo="SSB-143" %}
 
-{% include clause.md noo="GY-22-001" %}
+{% include clause.md noo="GGY-22-001" %}
 
-{% include clause.md noo="GY-22-002" %}
+{% include clause.md noo="GGY-22-002" %}
 
-{% include clause.md noo="GY-22-003" %}
+{% include clause.md noo="GGY-22-003" %}
 
-{% include clause.md noo="GY-22-004" %}
+{% include clause.md noo="GGY-22-004" %}
 
 ☞ [熱入血室]({{site.sympurl}}/열입혈실)
 
@@ -1208,30 +1206,30 @@ tags: 상한론, 원문
 
 ### 제1절 太陰病의 提綱
 
-{% include clause.md noo="273" %}
+{% include clause.md noo="SSB-273" %}
 
 
 ### 제2절 太陰虛寒證
 
-{% include clause.md noo="277" %}
+{% include clause.md noo="SSB-277" %}
 
-{% include clause.md noo="386" %}
+{% include clause.md noo="SSB-386" %}
 
-{% include clause.md noo="396" %}
+{% include clause.md noo="SSB-396" %}
 
 <i class="fa fa-bookmark"></i> [이중환]({{site.formulaurl}}/이중환)
 
 ### 제3절 太陽을 겸한 太陰證
 
-{% include clause.md noo="163" %}
+{% include clause.md noo="SSB-163" %}
 
-{% include clause.md noo="276" %}
+{% include clause.md noo="SSB-276" %}
 
 <i class="fa fa-bookmark"></i> [계지인삼탕]({{site.formulaurl}}/계지인삼탕)
 
 ### 제4절 寒濕으로 인한 發黃
 
-{% include clause.md noo="259" %}
+{% include clause.md noo="SSB-259" %}
 
 
 
@@ -1240,9 +1238,9 @@ tags: 상한론, 원문
 
 #### 1) 太陰腹痛과 陽明腹痛
 
-{% include clause.md noo="279" %}
+{% include clause.md noo="SSB-279" %}
 
-{% include clause.md noo="280" %}
+{% include clause.md noo="SSB-280" %}
 
 <i class="fa fa-bookmark"></i> [계지가작약탕]({{site.formulaurl}}/계지가작약탕)
 
@@ -1250,9 +1248,9 @@ tags: 상한론, 원문
 
 #### 2) 陽明으로 轉屬된 증과 陽氣회복으로 스스로 낫는 증
 
-{% include clause.md noo="187" %}
+{% include clause.md noo="SSB-187" %}
 
-{% include clause.md noo="278" %}
+{% include clause.md noo="SSB-278" %}
 
 
 <br>
@@ -1268,28 +1266,28 @@ tags: 상한론, 원문
 
 ### 제1절 少陰病의 提綱
 
-{% include clause.md noo="281" %}
+{% include clause.md noo="SSB-281" %}
 
 
 ### 제2절 少陰寒化證
 
 #### 1) 陽衰陰盛證
 
-{% include clause.md noo="388" %}
+{% include clause.md noo="SSB-388" %}
 
-{% include clause.md noo="389" %}
+{% include clause.md noo="SSB-389" %}
 
-{% include clause.md noo="353" %}
+{% include clause.md noo="SSB-353" %}
 
-{% include clause.md noo="225" %}
+{% include clause.md noo="SSB-225" %}
 
-{% include clause.md noo="323" %}
+{% include clause.md noo="SSB-323" %}
 
-{% include clause.md noo="385" %}
+{% include clause.md noo="SSB-385" %}
 
-{% include clause.md noo="325" %}
+{% include clause.md noo="SSB-325" %}
 
-{% include clause.md noo="292" %}
+{% include clause.md noo="SSB-292" %}
 
 <i class="fa fa-bookmark"></i> [사역탕]({{site.formulaurl}}/사역탕)
 
@@ -1297,11 +1295,11 @@ tags: 상한론, 원문
 
 #### 2) 陰盛格陽證
 
-{% include clause.md noo="317" %}
+{% include clause.md noo="SSB-317" %}
 
-{% include clause.md noo="370" %}
+{% include clause.md noo="SSB-370" %}
 
-{% include clause.md noo="390" %}
+{% include clause.md noo="SSB-390" %}
 
 <i class="fa fa-bookmark"></i> [통맥사역탕]({{site.formulaurl}}/통맥사역탕)
 
@@ -1316,9 +1314,9 @@ tags: 상한론, 원문
 
 #### 3) 陰盛戴陽證
 
-{% include clause.md noo="314" %}
+{% include clause.md noo="SSB-314" %}
 
-{% include clause.md noo="315" %}
+{% include clause.md noo="SSB-315" %}
 
 <i class="fa fa-bookmark"></i> [백통탕]({{site.formulaurl}}/백통탕)
 
@@ -1326,31 +1324,31 @@ tags: 상한론, 원문
 
 #### 4) 陽虛身痛證
 
-{% include clause.md noo="305" %}
+{% include clause.md noo="SSB-305" %}
 
-{% include clause.md noo="304" %}
+{% include clause.md noo="SSB-304" %}
 
 <i class="fa fa-bookmark"></i> [부자탕]({{site.formulaurl}}/부자탕)
 
 #### 5) 陽虛水泛證
 
-{% include clause.md noo="082" %}
+{% include clause.md noo="SSB-082" %}
 
-{% include clause.md noo="316" %}
+{% include clause.md noo="SSB-316" %}
 
 <i class="fa fa-bookmark"></i> [진무탕]({{site.formulaurl}}/진무탕)
 
 #### 6) 下焦가 收澁하지 못하여 膿血便을 보는 증
 
-{% include clause.md noo="306" %}
+{% include clause.md noo="SSB-306" %}
 
-{% include clause.md noo="307" %}
+{% include clause.md noo="SSB-307" %}
 
 <i class="fa fa-bookmark"></i> [도화탕]({{site.formulaurl}}/도화탕)
 
 #### 7) 下焦가 收澁하지 못하여 滑泄하는 증
 
-{% include clause.md noo="159" %}
+{% include clause.md noo="SSB-159" %}
 
 <i class="fa fa-bookmark"></i> [적석지우여량탕]({{site.formulaurl}}/적석지우여량탕)
 
@@ -1366,7 +1364,7 @@ tags: 상한론, 원문
 
 #### 1) 陰虛火旺證
 
-{% include clause.md noo="303" %}
+{% include clause.md noo="SSB-303" %}
 
 <i class="fa fa-bookmark"></i> [황련아교탕]({{site.formulaurl}}/황련아교탕)
 
@@ -1374,18 +1372,18 @@ tags: 상한론, 원문
 #### 2) 陰虛에 水와 熱이 합쳐진 증
 
 
-{% include clause.md noo="319" %}
+{% include clause.md noo="SSB-319" %}
 
 <i class="fa fa-bookmark"></i> [저령탕]({{site.formulaurl}}/저령탕)
 
 ### 제4절 少陰咽痛證
 
 
-{% include clause.md noo="310" %}
+{% include clause.md noo="SSB-310" %}
 
-{% include clause.md noo="311" %}
+{% include clause.md noo="SSB-311" %}
 
-{% include clause.md noo="312" %}
+{% include clause.md noo="SSB-312" %}
 
 <i class="fa fa-bookmark"></i> [저부탕]({{site.formulaurl}}/저부탕)
 
@@ -1400,9 +1398,9 @@ tags: 상한론, 원문
 
 #### 1) 太陽을 겸한 증
 
-{% include clause.md noo="301" %}
+{% include clause.md noo="SSB-301" %}
 
-{% include clause.md noo="302" %}
+{% include clause.md noo="SSB-302" %}
 
 <i class="fa fa-bookmark"></i> [마황부자세신탕]({{site.formulaurl}}/마황부자세신탕)
 
@@ -1411,63 +1409,63 @@ tags: 상한론, 원문
 
 #### 2) 陽明을 겸한 증
 
-{% include clause.md noo="321" %}
+{% include clause.md noo="SSB-321" %}
 
-{% include clause.md noo="320" %}
+{% include clause.md noo="SSB-320" %}
 
-{% include clause.md noo="322" %}
+{% include clause.md noo="SSB-322" %}
 
 
 
 ### 제6절 少陰病에 쓸 수 없는 치법
 
-{% include clause.md noo="285" %}
+{% include clause.md noo="SSB-285" %}
 
-{% include clause.md book="SHL_Chunhe" noo="05-004" %}
+{% include clause.md noo="SCB-05-004" %}
 
-{% include clause.md noo="286" %}
+{% include clause.md noo="SSB-286" %}
 
 
 ### 제7절 少陰病의 變證
 
 
-{% include clause.md noo="284" %}
+{% include clause.md noo="SSB-284" %}
 
-{% include clause.md book="SHL_Chunhe" noo="05-003" %}
+{% include clause.md noo="SCB-05-003" %}
 
-{% include clause.md noo="293" %}
+{% include clause.md noo="SSB-293" %}
 
-{% include clause.md book="SHL_Chunhe" noo="05-007" %}
+{% include clause.md noo="SCB-05-007" %}
 
-{% include clause.md noo="294" %}
+{% include clause.md noo="SSB-294" %}
 
 
 
 ### 제8절 少陰病의 陰陽消長과 예후
 
-{% include clause.md noo="287" %}
+{% include clause.md noo="SSB-287" %}
 
-{% include clause.md noo="288" %}
+{% include clause.md noo="SSB-288" %}
 
-{% include clause.md book="SHL_Chunhe" noo="05-005" %}
+{% include clause.md noo="SCB-05-005" %}
 
-{% include clause.md noo="289" %}
+{% include clause.md noo="SSB-289" %}
 
-{% include clause.md book="SHL-Tang" noo = "11-009" %}
+{% include clause.md noo="STB-11-009" %}
 
-{% include clause.md book="SHL_Chunhe" noo="05-006" %}
+{% include clause.md noo="SCB-05-006" %}
 
-{% include clause.md noo="295" %}
+{% include clause.md noo="SSB-295" %}
 
-{% include clause.md noo="296" %}
+{% include clause.md noo="SSB-296" %}
 
-{% include clause.md noo="297" %}
+{% include clause.md noo="SSB-297" %}
 
-{% include clause.md noo="298" %}
+{% include clause.md noo="SSB-298" %}
 
-{% include clause.md noo="299" %}
+{% include clause.md noo="SSB-299" %}
 
-{% include clause.md noo="300" %}
+{% include clause.md noo="SSB-300" %}
 
 
 
@@ -1484,9 +1482,9 @@ tags: 상한론, 원문
 
 ### 제1절 厥陰病의 提綱
 
-{% include clause.md noo="326" %}
+{% include clause.md noo="SSB-326" %}
 
-{% include clause.md noo="337" %}
+{% include clause.md noo="SSB-337" %}
 
 
 
@@ -1495,9 +1493,9 @@ tags: 상한론, 원문
 
 #### 1) 蛔厥證
 
-{% include clause.md noo="338" %}
+{% include clause.md noo="SSB-338" %}
 
-{% include clause.md book="SHL_SongRule" noo="12-001" %}
+{% include clause.md noo="SSR-12-001" %}
 
 藏厥 vs 蚘厥
 * 藏厥：躁無暫安時者
@@ -1507,7 +1505,7 @@ tags: 상한론, 원문
 
 #### 2) 寒格吐利證
 
-{% include clause.md noo="359" %}
+{% include clause.md noo="SSB-359" %}
 
 <i class="fa fa-bookmark"></i> [건강황련황금인삼탕]({{site.formulaurl}}/건강황련황금인삼탕)
 
@@ -1515,15 +1513,15 @@ tags: 상한론, 원문
 
 #### 1) 寒氣의 역상으로 인한 乾嘔‧頭痛證
 
-{% include clause.md noo="378" %}
+{% include clause.md noo="SSB-378" %}
 
 <i class="fa fa-bookmark"></i> [오수유탕]({{site.formulaurl}}/오수유탕)
 
 #### 2) 血虛寒厥證
 
-{% include clause.md noo="351" %}
+{% include clause.md noo="SSB-351" %}
 
-{% include clause.md noo="352" %}
+{% include clause.md noo="SSB-352" %}
 
 <i class="fa fa-bookmark"></i> [당귀사역탕]({{site.formulaurl}}/당귀사역탕)
 
@@ -1538,48 +1536,48 @@ tags: 상한론, 원문
 
 ### 제4절 厥陰熱利
 
-{% include clause.md noo="371" %}
+{% include clause.md noo="SSB-371" %}
 
-{% include clause.md noo="373" %}
+{% include clause.md noo="SSB-373" %}
 
 <i class="fa fa-bookmark"></i> [백두옹탕]({{site.formulaurl}}/백두옹탕)
 
 ### 제5절 氣鬱證
 
-{% include clause.md noo="318" %}
+{% include clause.md noo="SSB-318" %}
 
 <i class="fa fa-bookmark"></i> [사역산]({{site.formulaurl}}/사역산)
 
 ### 제6절 厥證에 쓸 수 없는 治法
 
-{% include clause.md noo="330" %}
+{% include clause.md noo="SSB-330" %}
 
-{% include clause.md noo="335" %}
+{% include clause.md noo="SSB-335" %}
 
 
 
 ### 제7절 厥熱勝復證
 
-{% include clause.md noo="336" %}
+{% include clause.md noo="SSB-336" %}
 
-{% include clause.md noo="341" %}
+{% include clause.md noo="SSB-341" %}
 
-{% include clause.md noo="342" %}
+{% include clause.md noo="SSB-342" %}
 
-{% include clause.md noo="331" %}
+{% include clause.md noo="SSB-331" %}
 
-{% include clause.md noo="334" %}
+{% include clause.md noo="SSB-334" %}
 
 
 
 ### 제8절 厥陰病의 死證
 
-{% include clause.md noo="344" %}
+{% include clause.md noo="SSB-344" %}
 
-{% include clause.md noo="345" %}
+{% include clause.md noo="SSB-345" %}
 
-{% include clause.md noo="346" %}
+{% include clause.md noo="SSB-346" %}
 
-{% include clause.md noo="369" %}
+{% include clause.md noo="SSB-369" %}
 
-{% include clause.md noo="333" %}
+{% include clause.md noo="SSB-333" %}

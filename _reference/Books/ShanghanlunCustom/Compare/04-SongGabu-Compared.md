@@ -4,7 +4,7 @@ title: "상한금궤 조문 비교"
 desc: "〔송본 가불가 기준〕"
 tags: [송본, 조문비교]
 conf:
-  from: "SongGabu"
+  from: "SSG"
 ---
 
 {{ page.desc }}
@@ -12,7 +12,7 @@ conf:
 
 <br>
 
-{% assign data_src = site.data.clause.SSG_SongGabu %}
+{% assign data_src = site.data.clause.SSG %}
 {% for t in data_src %}
 {% assign number = t.NOO %}
 
@@ -22,7 +22,7 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-{% include clause.md book="SHL_SongGabu" noo=number %}
+{% include clause.md noo=number %}
 </div>
 
 <div class="compared" markdown="1">

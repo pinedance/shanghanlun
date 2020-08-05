@@ -11,8 +11,7 @@ from tqdm import tqdm
 
 cutoff = 0.85
 
-filenames = ["SHL_Song", "SHL_SongGabu", "SHL_SongRule", "SHL_SongEtc",\
-    "SHL_Tang", "SHL_Chunhe", "SHL_ChunheEtc", "SHL_Ogham", "MK", "GGYL"]
+FILENAMES = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK".split()
 
 basepath = os.path.join( "..", "..", "_data", "clause" )
 
@@ -44,7 +43,8 @@ def match_ratio( text1, text2 ):
     return r
 
 def add_code( lst ):
-    rst = { "MK": [], "Song": [], "SongEtc": [], "SongRule": [], "SongGabu": [], "Tang": [], "Chunhe": [], "ChunheEtc": [], "Ogham": [], "GGYL": [] }
+    rst = {}
+    for f in FILENAMES: rst[f] = []
     for e in lst:
         _book, noo = e.split("@")
         book = _book.split("_")[1] if "_" in _book else _book
@@ -90,7 +90,7 @@ def main():
     ym.default_flow_style = None
 
     print( "# Build Data "); t = time()
-    for filename in filenames:
+    for filename in FILENAMES:
         filepath = os.path.join( basepath, filename + '.yml' )
         with open( filepath, 'r', encoding="utf-8" ) as fl:
             tmp = ym.load( fl )
@@ -136,7 +136,6 @@ def main():
         ym.dump( data_report, fl )
 
     print( "...", time()-t )
-
 
     print( "# Build Report"); t = time()
     # queue = [ 0 for i in range( len(data) ) ]

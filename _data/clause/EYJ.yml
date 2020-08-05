@@ -1,0 +1,372 @@
+# 약징
+
+- name: 石膏
+  name_kr: 석고
+  text: 主治煩渴也，旁治譫語、煩躁、身熱。
+  efficacy: ""
+  main_indications: 主治煩渴也
+  sub_indications: 旁治譫語、煩躁、身熱
+
+- name: 滑石
+  name_kr: 활석
+  text: 主治小便不利也，旁治渴也。
+  efficacy: ""
+  main_indications: 主治小便不利也
+  sub_indications: 旁治渴也
+
+- name: 芒硝
+  name_kr: 망초
+  text: 主耎堅也，故能治心下痞堅、心下石硬、小腹急結、結胸、燥屎、大便硬，而旁治宿食、腹滿、小腹腫痞之等，諸般難解之毒也。
+  efficacy: "主耎堅也"
+  main_indications: 故能治心下痞堅、心下石硬、小腹急結、結胸、燥屎、大便硬
+  sub_indications: 而旁治宿食、腹滿、小腹腫痞之等，諸般難解之毒也
+
+- name: 甘草
+  name_kr: 감초
+  text: 主治急迫也，故治裏急、急痛、攣急，而旁治厥冷、煩躁、衝逆之等，諸般急迫之毒也。
+  efficacy: "主治急迫也"
+  main_indications: 故治裏急、急痛、攣急
+  sub_indications: 而旁治厥冷、煩躁、衝逆之等，諸般急迫之毒也
+
+- name: 黃芪
+  name_kr: 황기
+  text: 主治肌表之水也，故能治黃汗、盗汗、皮水，又旁治身體腫，或不仁者。
+  efficacy: "主治肌表之水也"
+  main_indications: 故能治黃汗、盗汗、皮水
+  sub_indications: 又旁治身體腫，或不仁者
+
+- name: 人蔘
+  name_kr: 인삼
+  text: 主治心下痞堅、痞硬、支結也，旁治不食、嘔吐、喜唾、心痛、腹痛、煩悸。
+  efficacy: ""
+  main_indications: 主治心下痞堅、痞硬、支結也
+  sub_indications: 旁治不食、嘔吐、喜唾、心痛、腹痛、煩悸
+
+- name: 桔梗
+  name_kr: 길경
+  text: 主治濁唾腫膿也，旁治咽喉痛。
+  efficacy: ""
+  main_indications: 主治濁唾腫膿也
+  sub_indications: 旁治咽喉痛
+
+- name: 朮
+  name_kr: 출
+  text: 主利水也，故能治小便自利不利，旁治身煩疼、痰飮、失精、眩冒、下利、喜唾。
+  efficacy: "主利水也"
+  main_indications: 故能治小便自利不利
+  sub_indications: 旁治身煩疼、痰飮、失精、眩冒、下利、喜唾
+
+- name: 白頭翁
+  name_kr: 백두옹
+  text: 主治熱利下重也。
+  efficacy: ""
+  main_indications: 主治熱利下重也
+  sub_indications: ""
+
+- name: 黃連
+  name_kr: 황련
+  text: 主治心中煩悸也，旁治心下痞、吐下、腹中痛。
+  efficacy: ""
+  main_indications: 主治心中煩悸也
+  sub_indications: 旁治心下痞、吐下、腹中痛
+
+- name: 黃芩
+  name_kr: 황금
+  text: 主治心下痞也，旁治胸脇滿、嘔吐、下利也。
+  efficacy: ""
+  main_indications: 主治心下痞也
+  sub_indications: 旁治胸脇滿、嘔吐、下利也
+
+- name: 柴胡
+  name_kr: 시호
+  text: 主治胸脇苦滿也，旁治寒熱往來、腹中痛、脇下痞硬。
+  efficacy: ""
+  main_indications: 主治胸脇苦滿也
+  sub_indications: 旁治寒熱往來、腹中痛、脇下痞硬
+
+- name: 貝母
+  name_kr: 패모
+  text: 主治胸膈鬱結痰飮也。
+  efficacy: ""
+  main_indications: 主治胸膈鬱結痰飮也
+  sub_indications:
+
+- name: 細辛
+  name_kr: 세신
+  text: 主治宿飮停水也，故治水氣在心下而咳滿、或上逆、或脇痛。
+  efficacy: ""
+  main_indications: 主治宿飮停水也
+  sub_indications: 故治水氣在心下而咳滿、或上逆、或脇痛
+
+- name: 當歸
+  name_kr: 당귀
+  text: ""
+  efficacy: ""
+  main_indications: ""
+  sub_indications: ""
+
+- name: 芎藭
+  name_kr: 궁궁
+  text: ""
+  efficacy: ""
+  main_indications: ""
+  sub_indications: ""
+
+- name: 芍藥
+  name_kr: 작약
+  text: 主治結實而拘攣也，旁治腹痛、頭痛、身體不仁、疼痛、腹滿、咳逆、下利、腫膿。
+  efficacy: ""
+  main_indications: 主治結實而拘攣也
+  sub_indications: 旁治腹痛、頭痛、身體不仁、疼痛、腹滿、咳逆、下利、腫膿
+
+- name: 牧丹皮
+  name_kr: 목단피
+  text: ""
+  efficacy: ""
+  main_indications: ""
+  sub_indications: ""
+
+- name: 茵蔯蒿
+  name_kr: 인진호
+  text: 主治發黃也。
+  efficacy: ""
+  main_indications: 主治發黃也
+  sub_indications: ""
+
+- name: 艾
+  name_kr: 애
+  text: ""
+  efficacy: ""
+  main_indications: ""
+  sub_indications: ""
+
+- name: 麻黃
+  name_kr: 마황
+  text: 主治喘咳水氣也，旁治惡風、惡寒、無汗、身疼、骨節痛、一身黃腫。
+  efficacy: ""
+  main_indications: 主治喘咳水氣也
+  sub_indications: 旁治惡風、惡寒、無汗、身疼、骨節痛、一身黃腫
+
+- name: 地黃
+  name_kr: 지황
+  text: 主治血證及水病也。
+  efficacy: ""
+  main_indications: 主治血證及水病也
+  sub_indications: ""
+
+- name: 葶藶
+  name_kr: 정력
+  text: 主治水病也，旁治肺癰、結胸。
+  efficacy: ""
+  main_indications: 主治水病也
+  sub_indications: 旁治肺癰、結胸
+
+- name: 大黃
+  name_kr: 대황
+  text: 主通利結毒也，故能治胸滿、腹滿、腹痛，及便閉、小便不利，旁治發黃、瘀血、腫膿。
+  efficacy: "主通利結毒也"
+  main_indications: 故能治胸滿、腹滿、腹痛，及便閉、小便不利
+  sub_indications: 旁治發黃、瘀血、腫膿
+
+- name: 大戟
+  name_kr: 대극
+  text: 主利水也，旁治掣痛、咳煩。
+  efficacy: "主利水也"
+  main_indications: ""
+  sub_indications: 旁治掣痛、咳煩
+
+- name: 甘遂
+  name_kr: 감수
+  text: 主利水也，旁治掣痛、咳煩、短氣、小便難、心下滿。
+  efficacy: "主利水也"
+  main_indications: ""
+  sub_indications: 旁治掣痛、咳煩、短氣、小便難、心下滿
+
+- name: 附子
+  name_kr: 부자
+  text: 主逐水也，故能治惡寒，身體四肢及骨節疼痛，或沈重，或不仁，或厥冷，而旁治腹痛、失精、下利。
+  efficacy: "主逐水也"
+  main_indications: 故能治惡寒，身體四肢及骨節疼痛，或沈重，或不仁，或厥冷
+  sub_indications: 而旁治腹痛、失精、下利
+
+- name: 半夏
+  name_kr: 반하
+  text: 主治痰飮嘔吐也，旁治心痛、逆滿、咽中痛、咳、悸、腹中雷鳴。
+  efficacy: ""
+  main_indications: 主治痰飮嘔吐也
+  sub_indications: 旁治心痛、逆滿、咽中痛、咳、悸、腹中雷鳴
+
+- name: 芫花
+  name_kr: 원화
+  text: 主逐水也，旁治咳、掣痛。
+  efficacy: "主逐水也"
+  main_indications: ""
+  sub_indications: 旁治咳、掣痛
+
+- name: 五味子
+  name_kr: 오미자
+  text: 主治咳而冒者也。
+  efficacy: ""
+  main_indications: 主治咳而冒者也
+  sub_indications: ""
+
+- name: 瓜蔞實
+  name_kr: 과루실
+  text: 主治胸痹也，旁治痰飮。
+  efficacy: ""
+  main_indications: 主治胸痹也
+  sub_indications: 旁治痰飮
+
+- name: 葛根
+  name_kr: 갈근
+  text: 主治項背强也，旁治喘而汗出。
+  efficacy: ""
+  main_indications: 主治項背强也
+  sub_indications: 旁治喘而汗出
+
+- name: 防己
+  name_kr: 방기
+  text: 主治水也。
+  efficacy: ""
+  main_indications: 主治水也
+  sub_indications:
+
+- name: 香豉
+  name_kr: 향시
+  text: 主治心中懊憹也，旁治心中結痛，及心中滿而煩也。
+  efficacy: ""
+  main_indications: 主治心中懊憹也
+  sub_indications: 旁治心中結痛，及心中滿而煩也
+
+- name: 澤瀉
+  name_kr: 택사
+  text: 主治小便不利冒眩也，旁治渴。
+  efficacy: ""
+  main_indications: 主治小便不利冒眩也
+  sub_indications: 旁治渴
+
+- name: 薏苡仁
+  name_kr: 의이인
+  text: 主治浮腫也。
+  efficacy: ""
+  main_indications: 主治浮腫也
+  sub_indications:
+
+- name: 薤白
+  name_kr: 해백
+  text: 主治心胸痛，而喘息、咳唾也，旁治背痛、心中痞。
+  efficacy: ""
+  main_indications: 主治心胸痛，而喘息、咳唾也
+  sub_indications: 旁治背痛、心中痞
+
+- name: 乾薑
+  name_kr: 건강
+  text: 主治結滯水毒也，旁治嘔吐、咳、下利、厥冷、煩躁、腹痛、胸痛、腰痛。
+  efficacy: ""
+  main_indications: 主治結滯水毒也
+  sub_indications: 旁治嘔吐、咳、下利、厥冷、煩躁、腹痛、胸痛、腰痛
+
+- name: 杏仁
+  name_kr: 행인
+  text: 主治胸間停水也，故治喘咳，而旁治短氣、結胸、心痛、形體浮腫。
+  efficacy: ""
+  main_indications: 主治胸間停水也
+  sub_indications: 故治喘咳，而旁治短氣、結胸、心痛、形體浮腫
+
+- name: 大棗
+  name_kr: 대조
+  text: 主治攣引强急也，旁治咳嗽、奔豚、煩躁、身疼、脇痛、腹中痛。
+  efficacy: ""
+  main_indications: 主治攣引强急也
+  sub_indications: 旁治咳嗽、奔豚、煩躁、身疼、脇痛、腹中痛
+
+- name: 橘皮
+  name_kr: 귤피
+  text: 主治呃逆也，旁治胸痹、停痰。
+  efficacy: ""
+  main_indications: 主治呃逆也
+  sub_indications: 旁治胸痹、停痰
+
+- name: 吳茱萸
+  name_kr: 오수유
+  text: 主治嘔而胸滿也。
+  efficacy: ""
+  main_indications: 主治嘔而胸滿也
+  sub_indications: ""
+
+- name: 瓜蒂
+  name_kr: 과체
+  text: 主治胸中有毒，欲吐而不吐也。
+  efficacy: ""
+  main_indications: 主治胸中有毒，欲吐而不吐也
+  sub_indications: ""
+
+- name: 桂枝
+  name_kr: 계지
+  text: 主治衝逆也，旁治奔豚、頭痛、發熱、惡風、汗出、身痛。
+  efficacy: ""
+  main_indications: 主治衝逆也
+  sub_indications: 旁治奔豚、頭痛、發熱、惡風、汗出、身痛
+
+- name: 厚朴
+  name_kr: 후박
+  text: 主治胸腹脹滿也，旁治腹痛。
+  efficacy: ""
+  main_indications: 主治胸腹脹滿也
+  sub_indications: 旁治腹痛
+
+- name: 枳實
+  name_kr: 지실
+  text: 主治結實之毒也，旁治胸滿、胸痹、腹滿、腹痛。
+  efficacy: ""
+  main_indications: 主治結實之毒也
+  sub_indications: 旁治胸滿、胸痹、腹滿、腹痛
+
+- name: 梔子
+  name_kr: 치자
+  text: 主治心煩也，旁治發黃。
+  efficacy: ""
+  main_indications: 主治心煩也
+  sub_indications: 旁治發黃
+
+- name: 酸棗仁
+  name_kr: 산조인
+  text: 主治胸膈煩躁不能眠也。
+  efficacy: ""
+  main_indications: 主治胸膈煩躁不能眠也
+  sub_indications: ""
+
+- name: 茯苓
+  name_kr: 복령
+  text: 主治悸及肉瞤筋惕也，旁治小便不利、頭眩、煩躁。
+  efficacy: ""
+  main_indications: 主治悸及肉瞤筋惕也
+  sub_indications: 旁治小便不利、頭眩、煩躁
+
+- name: 猪苓
+  name_kr: 저령
+  text: 主治渴而小便不利也。
+  efficacy: ""
+  main_indications: 主治渴而小便不利也
+  sub_indications: ""
+
+- name: 水蛭
+  name_kr: 수질
+  text: 主治血證也。
+  efficacy: ""
+  main_indications: 主治血證也
+  sub_indications: ""
+
+- name: 龍骨
+  name_kr: 용골
+  text: 主治臍下動也，旁治煩驚、失精。
+  efficacy: ""
+  main_indications: 主治臍下動也
+  sub_indications: 旁治煩驚、失精
+
+- name: 牡蠣
+  name_kr: 모려
+  text: 主治胸腹之動也，旁治驚狂、煩躁。
+  efficacy: ""
+  main_indications: 主治胸腹之動也
+  sub_indications: 旁治驚狂、煩躁

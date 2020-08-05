@@ -12,7 +12,7 @@ conf:
 
 <br>
 
-{% assign data_src = site.data.clause.SHL_Tang %}
+{% assign data_src = site.data.clause.STB %}
 {% for t in data_src %}
 {% assign number = t.NOO %}
 
@@ -22,7 +22,7 @@ conf:
 {% endif %}
 
 <div class="origin" markdown="1">
-{% include clause.md book="SHL_Tang" noo=number %}
+{% include clause.md noo=number %}
 </div>
 
 <div class="compared" markdown="1">
