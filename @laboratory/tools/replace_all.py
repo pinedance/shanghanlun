@@ -3,9 +3,9 @@ import glob
 
 #####################################
 
-PREFIX = "SMK-08-14-"
-BEGIN, END = "030", "042"
-STEP = -1
+PREFIX = "GGY-15-"
+BEGIN, END = "022", "003"
+STEP = 2
 
 
 
@@ -55,8 +55,11 @@ def padding( num, l, pad="0" ):
 def get_queue( prefix, begin, end, step=1 ):
     idxlen = len( begin )
     queue = []
-    s = 1 if int( begin ) < int( end ) else -1
-    for i in range( int( begin ), int( end )+1, s ):
+    if int( begin ) < int( end ):
+        rg = range( int( begin ), int( end )+1, 1 )
+    else:
+        rg = range( int( begin ), int( end )-1, -1 )
+    for i in rg:
         bf = prefix + padding( i, idxlen )
         af = prefix + padding( i+step, idxlen )
         queue.append( (bf, af) )
