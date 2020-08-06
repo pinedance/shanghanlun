@@ -45,7 +45,7 @@ def main():
         q_cnt = Counter( q )
         q_items = q_cnt.most_common()
         q_gt1 = [ t for t, n in q_items if n > 1 ]
-        rst[k] = sorted( q_gt1 )
+        rst[k] = sorted( q_gt1, reverse=True )
 
     with open( "duplicated_claus.yml", 'w', encoding="utf-8") as fl:
         # ym.dump( sim_report_group, fl, transform=tr )

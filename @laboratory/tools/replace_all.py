@@ -3,8 +3,8 @@ import glob
 
 #####################################
 
-PREFIX = "SMK-07-08"
-BEGIN, END = "063", "042"
+PREFIX = "SMK-08-14-"
+BEGIN, END = "030", "042"
 STEP = -1
 
 
@@ -29,21 +29,21 @@ for t in target_files:
 # print( "\n".join( onlyfiles ) )
 
 def replace_text_infile( a, b, filepath ):
-    with open( filepath, 'r', encoding="utf-8" ) as fl:
-        try:
+    try:
+        with open( filepath, 'r', encoding="utf-8" ) as fl:
             text = fl.read()
-        except Exception as ex:
-            print( "!!Read Fail", filepath, ex )
-            return False
+    except Exception as ex:
+        print( "!!Read Fail", filepath, ex )
+        return False
 
     text_new = text.replace( a, b )
 
-    with open( filepath, 'w', encoding="utf-8" ) as fl:
-        try:
+    try:
+        with open( filepath, 'w', encoding="utf-8" ) as fl:
             fl.write( text_new )
-        except Exception as ex:
-            print( "!!Write Fail", filepath, ex )
-            return False
+    except Exception as ex:
+        print( "!!Write Fail", filepath, ex )
+        return False
 
     return True
 
@@ -55,8 +55,8 @@ def padding( num, l, pad="0" ):
 def get_queue( prefix, begin, end, step=1 ):
     idxlen = len( begin )
     queue = []
-    s = 1 if int( end ) < int( begin )-1 else -1
-    for i in range( int( end ), int( begin )-1 , s ):
+    s = 1 if int( begin ) < int( end ) else -1
+    for i in range( int( begin ), int( end )+1, s ):
         bf = prefix + padding( i, idxlen )
         af = prefix + padding( i+step, idxlen )
         queue.append( (bf, af) )
