@@ -1,7 +1,17 @@
-{% assign data_src = site.data.clause[ include.book ] %}
+{% if include.classname %}
 
-{% for t in data_src %}
+{% assign clauses = site.data.clause[ include.book ] | where: "CTG", include.classname %}
 
-{% include clause.md noo=t.NOO %}
+{% else %}
+
+{% assign clauses = site.data.clause[ include.book ] %}
+
+{% endif %}
+
+{% for c in clauses %}
+
+{% assign n = c.NOO | first %}
+
+{% include clause.md noo=n %}
 
 {% endfor %}

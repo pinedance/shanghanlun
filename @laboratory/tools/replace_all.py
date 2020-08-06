@@ -39,7 +39,7 @@ def replace_text_infile( a, b, filepath ):
     text_new = text.replace( a, b )
 
     try:
-        with open( filepath, 'w', encoding="utf-8" ) as fl:
+        with open( filepath, 'w', encoding="utf-8", newline="\n" ) as fl:
             fl.write( text_new )
     except Exception as ex:
         print( "!!Write Fail", filepath, ex )

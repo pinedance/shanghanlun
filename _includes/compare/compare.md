@@ -8,14 +8,21 @@
 
 {% assign targets = itemms | map: include.map %}
 
+{% if targets.size > 0 %}
+
+<div class="compare-book-{{ include.map }}" markdown="1">
 {% for ts in targets %}
 {% for t in ts %}
 
-{% if (include.from != include.map) or (include.noo != t) %}
+{% if (include.noo != t) %}
+<div class="compare-clause-{{t}}" markdown="1">
 {% include clause.md noo=t %}
+</div>
 {% endif %}
 
 {% endfor %}
 {% endfor %}
+</div>
 
+{% endif %}
 <!--원문인용 끝-->

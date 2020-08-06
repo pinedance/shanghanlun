@@ -1,7 +1,7 @@
 ---
 layout: reference
 title: "상한론"
-desc: "송본 상한론〔교재 순서〕"
+desc: "宋本 傷寒論〔교재 순서〕"
 tags: [상한금궤원문, 교재]
 ---
 

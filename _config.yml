@@ -3,7 +3,7 @@ highlighter: rouge
 url: https://pinedance.github.io
 lsi: false
 markdown: kramdown
-exclude: [LICENSE, README.md, .gitignore, .jekyll-metadata, Gemfile, Gemfile.lock, _build.rb, _sandbox, raw, '@laboratory/', '@note/']
+exclude: [LICENSE, README.md, .gitignore, '.*', Gemfile, Gemfile.lock, _build.rb, _sandbox, 'raw/', '@laboratory/', '@note/']
 
 # Site Settings
 baseurl:            "/shanghanlun" # Base URL must end WITHOUT a slash, default: ""
@@ -12,6 +12,7 @@ timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_databa
 # Build settings
 host: localhost
 port: 8383
+incremental: true
 
 # Google Analytics
 google_analytics_id : UA-72863252-3

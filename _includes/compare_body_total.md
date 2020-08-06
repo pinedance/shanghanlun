@@ -1,23 +1,11 @@
----
-layout: reference
-title: "상한금궤 조문 비교"
-desc: "〔수동 생성〕"
-tags: [수동, 조문비교]
-conf:
-  method: "Manual"
-  data: "similartext"
----
-
 {{ page.desc }}
 --------------------
-
-<br>
 
 {% assign files = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK" | split: " " %}
 {% assign books = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK" | split: " " %}
 {% assign book_cnt = books | size | minus: 1 %}
 
-{% assign data_compared = site.data.compare[page.conf.data] %}
+{% assign data_compared = site.data.compare[ include.data_src ] %}
 {% for pair in data_compared %}
 
 <div class="compare-set" markdown="1">
@@ -37,5 +25,4 @@ conf:
 {% endfor %}
 </div>
 
-<br>
 {% endfor %}

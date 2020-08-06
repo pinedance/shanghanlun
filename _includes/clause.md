@@ -1,12 +1,13 @@
 <!--원문인용 시작-->
 
-{% assign book = include.noo | split: "-" | first %}
+{% assign bookcode = include.noo | split: "-" | first %}
 
-{% case book %}
+{% case bookcode %}
 
 <!-- 상한론 -->
 {% when "SSB" %}
-{% include clause/SSB.md notype=include.notype noo=include.noo kor=include.kor %}
+{% assign bookinit="全書" %}
+
 
 <!-- 상한례 -->
 {% when "SSE" %}
@@ -17,62 +18,61 @@
 
 <!-- 변맥법 -->
 {% when "01" %}
-{% include clause/SHL.md data_src=site.data.clause.SSE bookinit="全書〔辨脈〕" noo=include.noo %}
+{% assign bookinit="全書|辨脈" %}
 
 <!-- 평맥법 -->
 {% when "02" %}
-{% include clause/SHL.md data_src=site.data.clause.SSE bookinit="全書〔平脈〕" noo=include.noo %}
+{% assign bookinit="全書|平脈" %}
 
 <!-- 상한례 -->
 {% when "03" %}
-{% include clause/SHL.md data_src=site.data.clause.SSE bookinit="全書〔例〕" noo=include.noo %}
+{% assign bookinit="全書|例" %}
 
 <!-- 치습갈 -->
 {% when "04" %}
-{% include clause/SHL.md data_src=site.data.clause.SSE bookinit="全書〔痓濕暍〕" noo=include.noo %}
+{% assign bookinit="全書|痓濕暍" %}
 
 {% else %}
-{% include clause/SHL.md data_src=site.data.clause.SSE bookinit="全書〔外〕" noo=include.noo %}
+{% assign bookinit="全書|外" %}
 {% endcase %}
 <!-- sub case end -->
 
 <!-- 가불가 -->
 {% when "SSG" %}
-{% include clause/SHL.md data_src=site.data.clause.SSG bookinit="全書〔可不〕" noo=include.noo %}
+{% assign bookinit="全書|可不" %}
 
 <!-- 법 -->
 {% when "SSR" %}
-{% include clause/SHL.md data_src=site.data.clause.SSR bookinit="全書〔法〕" noo=include.noo %}
+{% assign bookinit="全書|法" %}
 
 <!-- 순화본 -->
 {% when "SCB" %}
-{% include clause/SHL.md data_src=site.data.clause.SCB bookinit="淳和" noo=include.noo %}
+{% assign bookinit="淳化" %}
 
 <!-- 순화본 기타 -->
 {% when "SCE" %}
-{% include clause/SHL.md data_src=site.data.clause.SCE bookinit="淳和" noo=include.noo %}
+{% assign bookinit="淳化" %}
 
 <!-- 당본 -->
 {% when "STB" %}
-{% include clause/SHL.md data_src=site.data.clause.STB bookinit="千翼" noo=include.noo %}
+{% assign bookinit="千翼" %}
 
 <!-- 금궤옥함경 -->
 {% when "SOB" %}
-{% include clause/SHL.md data_src=site.data.clause.SOB bookinit="玉函" noo=include.noo %}
-
+{% assign bookinit="玉函" %}
 
 <!-- 금궤요략 -->
 {% when "GGY" %}
-{% include clause/SHL.md data_src=site.data.clause.GGY bookinit="金匱" noo=include.noo %}
+{% assign bookinit="金匱" %}
 
 <!-- 맥경 -->
 {% when "SMK" %}
-{% include clause/SHL.md data_src=site.data.clause.SMK bookinit="脈經" noo=include.noo %}
+{% assign bookinit="脈經" %}
 
 <!-- 상한론 -->
 {% else %}
-{% include clause/SSB.md notype=include.notype noo=include.noo kor=include.kor %}
-
+{% assign bookinit="全書" %}
 {% endcase %}
 
+{% include clause/SHL.md bookinit=bookinit bookcode=bookcode linkfile=bookcode noo=include.noo kor=include.kor %}
 <!--원문인용 끝-->
