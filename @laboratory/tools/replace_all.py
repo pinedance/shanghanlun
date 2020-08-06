@@ -1,4 +1,4 @@
-import os
+import os, sys
 import glob
 
 #####################################
@@ -67,10 +67,11 @@ def main():
     queue = get_queue( PREFIX, BEGIN, END, STEP )
     print( queue )
 
-    for a, b in queue:
-        print( "*", a, "=>", b)
-        for filepath in onlyfiles:
-            status = replace_text_infile( a, b, filepath )
+    if len(sys.argv) > 1 and sys.argv[1] == "exe":
+        for a, b in queue:
+            print( "*", a, "=>", b)
+            for filepath in onlyfiles:
+                status = replace_text_infile( a, b, filepath )
 
     print("# End")
 
