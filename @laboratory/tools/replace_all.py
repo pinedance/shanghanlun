@@ -3,9 +3,9 @@ import glob
 
 #####################################
 
-PREFIX = "STB-06-"
-BEGIN, END = "002", "029"
-STEP = 2
+PREFIX = "SMK-07-08"
+BEGIN, END = "063", "042"
+STEP = -1
 
 
 
@@ -33,13 +33,17 @@ def replace_text_infile( a, b, filepath ):
         try:
             text = fl.read()
         except Exception as ex:
-            print( "!!Fail", filepath, ex )
+            print( "!!Read Fail", filepath, ex )
             return False
 
     text_new = text.replace( a, b )
 
     with open( filepath, 'w', encoding="utf-8" ) as fl:
-        fl.write( text_new )
+        try:
+            fl.write( text_new )
+        except Exception as ex:
+            print( "!!Write Fail", filepath, ex )
+            return False
 
     return True
 
@@ -51,7 +55,8 @@ def padding( num, l, pad="0" ):
 def get_queue( prefix, begin, end, step=1 ):
     idxlen = len( begin )
     queue = []
-    for i in range( int( end ), int( begin )-1 , -1 ):
+    s = 1 if int( end ) < int( begin )-1 else -1
+    for i in range( int( end ), int( begin )-1 , s ):
         bf = prefix + padding( i, idxlen )
         af = prefix + padding( i+step, idxlen )
         queue.append( (bf, af) )
