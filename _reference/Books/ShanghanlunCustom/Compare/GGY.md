@@ -1,7 +1,7 @@
 ---
 layout: reference
-title: "상한금궤 조문 비교"
-desc: "〔금궤요략 기준〕"
+title: "금궤요략 조문 비교"
+desc: "〔상한금궤 조문 비교〕"
 tags: [금궤요략, 조문비교]
 conf:
   from: "GGY"

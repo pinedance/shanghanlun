@@ -1,5 +1,6 @@
 {{ page.desc }}
---------------------
+
+***
 
 {% assign data_src = site.data.clause[ include.bookcode ] %}
 {% for t in data_src %}

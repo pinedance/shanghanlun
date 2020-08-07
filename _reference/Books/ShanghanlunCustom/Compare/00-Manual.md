@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: "상한금궤 조문 비교"
+title: "상한금궤 조문 비교3"
 desc: "〔수동 생성〕"
 tags: [수동, 조문비교]
 conf:
