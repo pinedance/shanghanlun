@@ -9,6 +9,13 @@ from tqdm import tqdm
 
 from mylib import chdir2cwd, extract_han, n_gram, flatten, uniq, pair2group
 
+"""
+SequenceMatcher를 이용하여 조문 사이에 유사도를 계산한다.
+계산된 유사도값(r)이 cutoff 이상인 조합을 서로 연관된 조합으로 본다.
+연관된 조합들 사이에 공통된 조문이 있으면 이를 합쳐나간다.
+더이상 합칠 것이 없게 된 조문 조합들이 결과이다. 
+"""
+
 ######################################
 
 cutoff = 0.80
@@ -21,6 +28,7 @@ report_file = "report.yml"
 result_file = "similartext_auto.yml"
 
 ######################################
+
 
 # def match_ratio( text1, text2, metric="diff" ):
 #     if metric is "fuzz":
