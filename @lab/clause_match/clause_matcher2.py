@@ -39,25 +39,19 @@ FILENAMES = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK".split()
 
 basepath = os.path.join( "..", "..", "_data", "clause" )
 
-cjk_range = "[\p{Han}]"
-CJK = re.compile( cjk_range, re.UNICODE)
-
 cutoff = 0.6
 report_file = "report2.yml"
 result_file = "similartext_auto2.yml"
 ######################################
 
-def match_ratio( text_src, text_trg, idf, n=2 ):
+def match_ratio( ngram_src, ngram_trg, idf ):
     # 결과가 비대칭이다.
-    text1, text2 = text_src, text_trg
-    t1g, t2g = n_gram( text1, n), n_gram( text2, n)
-    t1size, t2size = len( t1g ), len( t2g )
-    set_t1g, set_t2g = set( t1g ), set( t2g )
+    set_t1g, set_t2g = set( ngram_src ), set( ngram_trg )
     intersection = list( set_t1g & set_t2g )
     # 분모 ( gram의 idf 가중치 합계 )
-    denominator = sum( [ idf.get(g, 0) for g in t1g ] )
+    denominator = sum( [ idf.get(g, 0) for g in ngram_src ] )
     # 분자 ( 교집합 gram의 idf 가중치 합계 )
-    numerator = sum( [ text_src.count( g ) * idf.get(g, 0) for g in intersection ] )
+    numerator = sum( [ ngram_src.count( g ) * idf.get(g, 0) for g in intersection ] )
     return numerator / denominator
 
 def add_code( lst ):
@@ -93,8 +87,10 @@ def main():
             n = d.get("NOO", "")
             if type(n) is not str: n = n[0]
             if ( "-00-" in n ) or ( "-000" in n ): continue
-            hanzi_only = extract_han( d.get("TXT") )
-            _data.append(  ( n, hanzi_only, d.get("TXT")  ) )
+            txt = d.get("TXT").strip()
+            hanzi_only = extract_han( txt )
+            hanzi_only_gram = n_gram( hanzi_only, 2 )
+            _data.append(  ( n, hanzi_only, txt, hanzi_only_gram ) )
             data_textonly.append( hanzi_only )
 
     # 분할된 조문 합치기
@@ -114,22 +110,25 @@ def main():
     print( "...", time()-t )
 
     print( "# Build Meta-Data (idf) "); t = time()
-    data_size = len( data_textonly )
-    data_gram, data_corpus = [], []
-    for text in data_textonly:
-        tmp_gram = n_gram( text, 2 )
-        data_gram.append( tmp_gram )
-        data_corpus.append( " ".join(tmp_gram) )
+    # data_size = len( data_textonly )
+    # data_gram, data_corpus = [], []
+    # for text in data_textonly:
+    #     tmp_gram = n_gram( text, 2 )
+    #     data_gram.append( tmp_gram )
+    #     data_corpus.append( " ".join(tmp_gram) )
 
-    vectorizer = TfidfVectorizer( )
-    data_vector = vectorizer.fit_transform( data_corpus )
+    vectorizer = TfidfVectorizer( analyzer='char_wb', ngram_range=(2, 2) )
+    data_vector = vectorizer.fit_transform( data_textonly )
     uniq_grams = list( vectorizer.vocabulary_ )
     idf = {}
     for g in uniq_grams:
         i = vectorizer.vocabulary_[g]
-        idf[g] = vectorizer.idf_[i]
+        idf[g] = round( vectorizer.idf_[i], 3 )
 
     # print( idf )
+    idf_items = sorted( idf.items(), key=lambda x: x[1] )
+    print( "* IDF min:", idf_items[:5] )
+    print( "* IDF max:", idf_items[-5:] )
     print( "...", time()-t )
 
 
@@ -139,34 +138,38 @@ def main():
         data = data[:800]
     ######################
     for i, item1 in enumerate( tqdm( data ) ):
-        tmp_sim, tmp_r = [], []
+        tmp_sim = []
         for j in range( len(data) ):
             if i == j : continue
             item2 = data[j]
-            text_src, text_trg = item1[1], item2[1]
+            ngram_src, ngram_trg = item1[3], item2[3]
             try:
-                r = match_ratio( text_src, text_trg, idf )
+                r = match_ratio( ngram_src, ngram_trg, idf )
             except Exception as ex:
-                print( text_src, text_trg, ex, "\n\n" )
+                print( item1[2], item2[2], ex, "\n\n" )
                 r = 0
             if r < cutoff: continue
-            sim.append( (i, j, r) )
-        #     tmp_r.append( r )
-        #     tmp_sim.append( (i, j, r) )
+            # sim.append( (i, j, r) )
+            tmp_sim.append( (i, j, r) )
         #
-        # if len( tmp_r ) == 0 : continue
-        # max_r = max( tmp_r )
-        # for i,j,r in tmp_sim:
-        #     if r == max_r: sim.append( (i, j, r) )
+        if len( tmp_sim ) == 0 : continue
+        if len( tmp_sim ) == 1 :
+            sim += tmp_sim
+            continue
+        tmp_sim_sorted = sorted( tmp_sim, key=lambda x: -x[2] )
+        # 2순위까지 더하기
+        sim += tmp_sim_sorted[:1]
 
-    data_report = [ { "src": [ data[ s[0] ][0], data[ s[0] ][2] ] , "trg": [ data[ s[1] ][0], data[ s[1] ][2] ] , "score": format(s[2], "0.3f") } for s in sim ]
+    # print( sim )
+    sim_sorted = sorted( sim, key=lambda x: -x[2] )
+    sim_report = [ { "src": [ data[ s[0] ][0], data[ s[0] ][2] ] , "trg": [ data[ s[1] ][0], data[ s[1] ][2] ] , "score": format(s[2], "0.3f") } for s in sim_sorted ]
     with open( report_file, 'w', encoding="utf-8") as fl:
-        ym.dump( data_report, fl )
+        ym.dump( sim_report, fl )
 
     print( "...", time()-t )
 
     print( "# Build Report"); t = time()
-
+    # print( sim )
     sim_group = pair2group( [ [ s[0], s[1] ] for s in sim ] )
     sim_report_group = [ add_code( [ data[x][0] for x in sim ] ) for sim in sim_group ]
     ########
