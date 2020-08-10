@@ -31,7 +31,7 @@ tags: 상한론, 강의
 
 ### 상한금궤 조문
 
-* 상한론 서문 [web]( {{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본_상한잡병론_집론 )
+* 상한론 서문 [web]( {{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본03_상한잡병론_집론 )
 * 태양병 개요  [pdf]( {{site.slideurl}}/A03태양병_개요.pdf )
 
 [원문]( {{site.baseurl}}{{textbookurl}}#1-03week ) \(주교재 pp.029-039\)
