@@ -15,7 +15,7 @@
 {% for t in ts %}
 
 {% if (include.noo != t) %}
-<div class="compare-clause-{{t}}" markdown="1">
+<div class="ORG-{{include.noo}}-vs-TRG-{{t}}" markdown="1">
 {% include clause.md noo=t %}
 </div>
 {% endif %}

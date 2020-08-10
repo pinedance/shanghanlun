@@ -7,18 +7,18 @@ import regex as re
 from tqdm import tqdm
 # from fuzzywuzzy import fuzz
 
-from mylib import chdir2cwd, extract_han, n_gram, flatten, uniq, pair2group
+from mylib import chdir2cwd, extract_han, preprocess, n_gram, flatten, uniq, pair2group
 
 """
 SequenceMatcher를 이용하여 조문 사이에 유사도를 계산한다.
 계산된 유사도값(r)이 cutoff 이상인 조합을 서로 연관된 조합으로 본다.
 연관된 조합들 사이에 공통된 조문이 있으면 이를 합쳐나간다.
-더이상 합칠 것이 없게 된 조문 조합들이 결과이다. 
+더이상 합칠 것이 없게 된 조문 조합들이 결과이다.
 """
 
 ######################################
 
-cutoff = 0.80
+cutoff = 0.75
 
 FILENAMES = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK".split()
 
@@ -75,8 +75,9 @@ def main():
             n = d.get("NOO", "")
             if type(n) is not str: n = n[0]
             if ( "-00-" in n ) or ( "-000" in n ): continue
-            hanzi_only = extract_han( d.get("TXT") )
-            data.append(  ( n, hanzi_only, d.get("TXT")  ) )
+            txt = d.get("TXT").strip()
+            hanzi_only = extract_han( preprocess( txt ) )
+            data.append(  ( n, hanzi_only, txt ) )
 
     print( "...", time()-t )
 
@@ -104,8 +105,8 @@ def main():
             #         print( sim_dic[i], j, r )
             # else:
             #     sim_dic[i] = [i, j]
-
-    data_report = [ { "src": [ data[ s[0] ][0], data[ s[0] ][2] ] , "trg": [ data[ s[1] ][0], data[ s[1] ][2] ] , "score": s[2] } for s in sim ]
+    sim_sorted = sorted( sim, key=lambda x: x[2] )
+    data_report = [ { "src": [ data[ s[0] ][0], data[ s[0] ][2] ] , "trg": [ data[ s[1] ][0], data[ s[1] ][2] ] , "score": s[2] } for s in sim_sorted ]
     with open( report_file, 'w', encoding="utf-8") as fl:
         ym.dump( data_report, fl )
 

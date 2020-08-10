@@ -9,16 +9,23 @@
     {% endif %}
   </a>
 
-  <h3 style="text-align: center;">I'm <a href="{{site.data.theme.contact}}/">{{ site.data.theme.name }}</a>.</h3>
+  <h3 style="text-align: center;">I'm <a href="{{site.data.theme.contact}}/">{{ site.data.theme.author.name }}</a>.</h3>
 
-  <!-- <p style="text-align: center;">Please feel free to contact me <em>{{ site.data.theme.email }}</em></a>.</p> -->
+  <!-- <p style="text-align: center;">Please feel free to contact me <em>{{ site.data.theme.author.email }}</em></a>.</p> -->
 
-  <div id="social">
+  <!-- <div id="homepage" class="icons-group">
+      {% include layout/homepage.html %}
+  </div> -->
+
+  <div id="social" class="icons-group">
       {% include layout/social.html %}
   </div>
 
+  <div id="issue" class="icons-group">
+      {% include layout/error-report.html %}
+  </div>
 <!--
-  <div id="contact">
+  <div id="contact" class="icons-group">
       {% include layout/contact.html %}
   </div>
 -->

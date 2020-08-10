@@ -114,14 +114,17 @@ nav h1, nav h2 {
   padding-top: 15px;
 }
 
-#social {
+.icons-group {
   margin-bottom: 10px;
   font-size: 13px;
 }
 
+#social {
+
+}
+
 #contact {
-  margin-bottom: 10px;
-  font-size: 13px;
+
 }
 
 #tags {
@@ -208,24 +211,24 @@ nav h1, nav h2 {
   border-radius: 50%;
 }
 
-#stalker {
+.icons {
   display: inline-block;
   height: 18px;
   margin-left: 5px;
 }
 
-#stalker a {
+.icons a {
   width: 29px;
   overflow: hidden;
   float: left;
 }
 
-#stalker i {
+.icons i {
   font-size: 28px;
   margin-right: 5px;
 }
 
-#stalker a:hover {
+.icons a:hover {
   text-decoration: none;
   color: {{ site.data.theme.highlight_color }};
 }

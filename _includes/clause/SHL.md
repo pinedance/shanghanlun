@@ -7,7 +7,7 @@
 {% assign data = site.data.clause[ include.bookcode ] %}
 {% assign items = data | where: 'NOO', noo %}
 
-{% assign compared_path = site.baseurl | append: "/reference/Books/ShanghanlunCustom/Compare/" | append: include.linkfile | append: "#" | append: noo %}
+{% assign compared_path = site.baseurl | append: "/reference/Books/ShanghanlunCustom/Compare/" | append: include.linkfile | append: "#" | append: "SRC-" | append: noo %}
 
 {% if include.bookcode == "SSB" %}
 <div id="{{noo}}" class="shanghanlun text song">
@@ -17,11 +17,11 @@
 
 {% if noo contains "-00-" %}
 
-<h2 markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}</h2>
+<h2 markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>"}}</h2>
 
 {% elsif noo contains "-000" %}
 
-<h3 markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}</h3>
+<h3 markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>"}}</h3>
 
 {% else  %}
 
@@ -33,7 +33,7 @@
 </p>
 
 <blockquote>
-<p class="clause-body" markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "¶", "<sup>¶</sup>"}}</p>
+<p class="clause-body" markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>"}}</p>
 </blockquote>
 
 {% endif %}
@@ -52,7 +52,7 @@
 
 {% assign kor = items | map: 'KOR' | join: " "  %}
 
-<p class="kor" markdown="1"><sup>§</sup>{{ kor | replace: "URI", site.formulaurl }}</p>
+<p class="kor" markdown="1"><sup>§</sup>{{ kor | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>" }}</p>
 
 {% endif %}
 

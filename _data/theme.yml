@@ -1,5 +1,7 @@
 # Theme customization - please change from the defaults
 title: 상한금궤plus
+description: "오준호 Junho OH 상한금궤플러스 상한금궤plus 상한론 금궤요략 처방 본초 병증 약징 판본"
+application-name: "상한금궤plus 상한금궤플러스"
 
 # Color for top bar, links, etc
 highlight_color: '#3498db'
@@ -12,8 +14,10 @@ social:
 contact: "https://github.com/pinedance/shanghanlun/issues"
 
 # "Hi, I'm _______"
-name: Bruce
-email: pinedance@gmail.com
+author:
+  name: Bruce
+  email: pinedance@gmail.com
+  homepage: https://pinedance.github.io
 #tagline: "weak opinions, strongly held"
 
 

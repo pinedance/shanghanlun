@@ -9,6 +9,12 @@ def chdir2cwd( file=__file__ ):
 cjk_range = "[\p{Han}]"
 CJK = re.compile( cjk_range, re.UNICODE)
 
+def preprocess( text ):
+    new_text = text + ""
+    # 주석 삭제
+    new_text = re.sub( "（.+?）", "", new_text )
+    return new_text
+
 def extract_han( text, cjk=CJK ):
     return "".join( re.findall( cjk, text  ) )
 

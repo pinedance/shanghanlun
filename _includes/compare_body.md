@@ -8,7 +8,7 @@
 
 {% if number contains "-000" %}
 {% else %}
-<div id="{{number}}" class="compare-set">
+<div id="SRC-{{number}}" class="compare-set">
 {% endif %}
 
 <div class="compare-source" markdown="1">
