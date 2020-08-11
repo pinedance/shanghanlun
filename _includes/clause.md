@@ -11,7 +11,7 @@
 
 <!-- 상한례 -->
 {% when "SSE" %}
-{% assign chp = include.noo | slice: 4, 6 %}
+{% assign chp = include.noo | slice: 4, 2 %}
 
 <!-- sub case -->
 {% case chp %}
