@@ -41,7 +41,7 @@ def replace_text_infile( queue, filepath ):
 
     try:
         with open( filepath, 'w', encoding="utf-8", newline="\n" ) as fl:
-            fl.write( text_new )
+            fl.write( text )
     except Exception as ex:
         print( "!!Write Fail", filepath, ex )
         return False
@@ -74,10 +74,7 @@ def main():
     if len(sys.argv) > 1 and sys.argv[1] == "exe":
         for filepath in onlyfiles:
             status = replace_text_infile( queue, filepath )
-            if status:
-                print( "***", filepath )
-            else:
-                print( "!!!", filepath, "fail" )
+            if not status: print( "!!!", filepath, "fail" )
 
     print("# End")
 
