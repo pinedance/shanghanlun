@@ -69,7 +69,7 @@ def get_queue( prefix, begin, end, step=1 ):
 def main():
 
     queue = get_queue( PREFIX, BEGIN, END, STEP )
-    print( queue )
+    for a, b in queue: print( a, "=>", b )
 
     if len(sys.argv) > 1 and sys.argv[1] == "exe":
         for filepath in onlyfiles:
