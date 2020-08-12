@@ -4,7 +4,7 @@
 
 {% assign data_src = site.data.clause[ include.bookcode ] %}
 {% for t in data_src %}
-{% assign number = t.NOO | first %}
+{% assign number = t.NOO | first | uniq %}
 
 {% if number contains "-000" %}
 {% else %}

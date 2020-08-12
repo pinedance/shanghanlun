@@ -9,6 +9,8 @@
 
 {% assign compared_path = site.baseurl | append: "/reference/Books/ShanghanlunCustom/Compare/" | append: include.linkfile | append: "#" | append: "SRC-" | append: noo %}
 
+{% assign clause_body = items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>" %}
+
 {% if include.bookcode == "SSB" %}
 <div id="{{noo}}" class="shanghanlun text song">
 {% else %}
@@ -17,11 +19,11 @@
 
 {% if noo contains "-00-" %}
 
-<h2 markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>"}}</h2>
+<h2 id="h2-{{noo}}" markdown="1">{{ clause_body }}</h2>
 
 {% elsif noo contains "-000" %}
 
-<h3 markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>"}}</h3>
+<h3 id="h3-{{noo}}" markdown="1">{{ clause_body }}</h3>
 
 {% else  %}
 
@@ -33,7 +35,7 @@
 </p>
 
 <blockquote>
-<p class="clause-body" markdown="1">{{ items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>"}}</p>
+<p class="clause-body" markdown="1">{{ clause_body }}</p>
 </blockquote>
 
 {% endif %}
@@ -42,17 +44,21 @@
 
 {% if anns.size > 0  %}
 
-{% assign annd = anns | join: "；" | replace: "；", "  <sup>¶</sup>" %}
-
-<p class="ann" markdown="1"><sup>¶</sup>{{ annd }}</p>
+<p class="ann">
+{% for ann in anns %}
+{% for a in ann %}
+<span markdown="1"><sup>¶</sup>{{ annd }}<span>
+{% endfor %}
+{% endfor %}
+</p>
 
 {% endif %}
 
 {% if include.kor  %}
 
-{% assign kor = items | map: 'KOR' | join: " "  %}
+{% assign kor_body = items | map: 'KOR' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>" %}
 
-<p class="kor" markdown="1"><sup>§</sup>{{ kor | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>" }}</p>
+<p class="kor" markdown="1"><sup>§</sup>{{ kor_body }}</p>
 
 {% endif %}
 

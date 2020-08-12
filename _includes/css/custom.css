@@ -111,24 +111,30 @@ sup {
 
 .subtext.t0::before {
 	content: "（";
+	color: darkgray;
 }
 
 .subtext.t0::after {
 	content: "）";
+	color: darkgray;	
 }
 
 .subtext.t1::before {
 	content: "｛";
+	color: DarkCyan;
 }
 
 .subtext.t1::after {
 	content: "｝";
+	color: DarkCyan;
 }
 
 .subtext.t2::before {
 	content: "〈";
+	color: purple;
 }
 
 .subtext.t2::after {
 	content: "〉";
+	color: purple;
 }

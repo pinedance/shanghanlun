@@ -3,9 +3,9 @@ import glob
 
 #####################################
 
-PREFIX = "GGY-15-"
-BEGIN, END = "022", "003"
-STEP = 2
+PREFIX = "STB-04-"
+BEGIN, END = "015", "006"
+STEP = 1
 
 
 
@@ -28,7 +28,7 @@ for t in target_files:
 
 # print( "\n".join( onlyfiles ) )
 
-def replace_text_infile( a, b, filepath ):
+def replace_text_infile( queue, filepath ):
     try:
         with open( filepath, 'r', encoding="utf-8" ) as fl:
             text = fl.read()
@@ -36,7 +36,8 @@ def replace_text_infile( a, b, filepath ):
         print( "!!Read Fail", filepath, ex )
         return False
 
-    text_new = text.replace( a, b )
+    for a, b in queue:
+        text = text.replace( a, b )
 
     try:
         with open( filepath, 'w', encoding="utf-8", newline="\n" ) as fl:
@@ -71,10 +72,12 @@ def main():
     print( queue )
 
     if len(sys.argv) > 1 and sys.argv[1] == "exe":
-        for a, b in queue:
-            print( "*", a, "=>", b)
-            for filepath in onlyfiles:
-                status = replace_text_infile( a, b, filepath )
+        for filepath in onlyfiles:
+            status = replace_text_infile( queue, filepath )
+            if status:
+                print( "***", filepath )
+            else:
+                print( "!!!", filepath, "fail" )
 
     print("# End")
 
