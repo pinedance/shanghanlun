@@ -11,7 +11,7 @@ index:
 
 {% for fml in formulas %}
 
-### {{ fml.noo }} [{{ fml.name }} <small>（{{ fml.name_kr }}）</small>]({{site.formulaurl}}/{{fml.name_kr}})
+### <small>{{ fml.noo }}</small> [{{ fml.name }} <small>（{{ fml.name_kr }}）</small>]({{site.formulaurl}}/{{fml.name_kr}})
 
 > {{ fml.bangksj}}
 

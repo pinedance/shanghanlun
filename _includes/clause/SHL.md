@@ -7,7 +7,9 @@
 {% assign data = site.data.clause[ include.bookcode ] %}
 {% assign items = data | where: 'NOO', noo %}
 
-{% assign compared_path = site.baseurl | append: "/reference/Books/ShanghanlunCustom/Compare/" | append: include.linkfile | append: "#" | append: "SRC-" | append: noo %}
+{% assign compared_path = site.baseurl | append: "/reference/Books/ShanghanlunCustom/Compare/" | append: include.bookcode | append: "#" | append: "SRC-" | append: noo %}
+
+{% assign origin_path = site.baseurl | append: "/reference/Books/Shanghanlun/Clause/" | append: include.bookcode | append: "#" | append: noo %}
 
 {% assign clause_body = items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>" %}
 
@@ -28,9 +30,12 @@
 {% else  %}
 
 <p class="clause-head">
-<a href="{{compared_path}}" target="{{site.data.theme.a.target}}">
+<a href="{{origin_path}}" target="{{site.data.theme.a.target}}">
 <span class="book-label">《{{bookinit}}》</span>
 <span class="clause-idx">{{noo}}</span>
+</a>
+<a href="{{compared_path}}" target="{{site.data.theme.a.target}}">
+<span class="compare-link">☞diff</span>
 </a>
 </p>
 
@@ -46,9 +51,11 @@
 
 <p class="ann">
 {% for ann in anns %}
+{% if ann.size > 0 %}
 {% for a in ann %}
-<span markdown="1"><sup>¶</sup>{{ annd }}<span>
+<span markdown="1"><sup>¶</sup>{{ a }}</span>
 {% endfor %}
+{% endif %}
 {% endfor %}
 </p>
 

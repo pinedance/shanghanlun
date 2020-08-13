@@ -6,7 +6,9 @@ tags: [관련원문, 방극, 방극산정]
 ---
 
 {% for idx in (1..204) %}
-{% assign key = idx | prepend: '000' | slice: -3, 3 %}
+{% assign noo = idx | prepend: '000' | slice: -3, 3 %}
+{% assign key = "EBK-" | append: noo %}
+
 {% assign frms = site.data.clause.EBK | where: "noo", key %}
 {% for frm in frms %}
 

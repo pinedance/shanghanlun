@@ -10,7 +10,7 @@ index:
 
 ## 상한금궤 원문
 
-{% include page_list.md category=page.index.category subject=page.index.subject %}
+{% include page_list.md category=page.index.category subject=page.index.subject sort=true %}
 
 ## 참고
 

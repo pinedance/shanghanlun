@@ -116,7 +116,7 @@ sup {
 
 .subtext.t0::after {
 	content: "）";
-	color: darkgray;	
+	color: darkgray;
 }
 
 .subtext.t1::before {
@@ -137,4 +137,8 @@ sup {
 .subtext.t2::after {
 	content: "〉";
 	color: purple;
+}
+
+.compare-link {
+	margin-left: 1em;
 }

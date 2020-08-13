@@ -74,5 +74,5 @@
 {% assign bookinit="全書" %}
 {% endcase %}
 
-{% include clause/SHL.md bookinit=bookinit bookcode=bookcode linkfile=bookcode noo=include.noo kor=include.kor %}
+{% include clause/SHL.md bookinit=bookinit bookcode=bookcode linkfile=linkfile noo=include.noo kor=include.kor %}
 <!--원문인용 끝-->
