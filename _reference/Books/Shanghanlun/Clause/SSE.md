@@ -3,7 +3,7 @@ layout: reference
 title: "상한론"
 desc: "宋本 傷寒論1 〔서문 ∽ 辨痓濕暍〕"
 tags: [상한금궤원문, 송본]
-order: 5
+order: 6
 conf:
   book: "SSE"
 ---
