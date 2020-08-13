@@ -58,7 +58,7 @@ def g_fn3( r, size ):
     if size < 2: return 0
     return r ** ( 1 / math.log( size ) )
 
-def match_ratio( ngram_src, ngram_trg, g_fn=None, idf={} ):
+def match_ratio( ngram_src, ngram_trg, idf={}, weight_fn=None ):
     # 결과가 비대칭이다.
     default_val = 1
     set_t1g, set_t2g = set( ngram_src ), set( ngram_trg )
@@ -68,8 +68,8 @@ def match_ratio( ngram_src, ngram_trg, g_fn=None, idf={} ):
     # 분자 ( 교집합 gram의 idf 가중치 합계 )
     numerator = sum( [ min( ngram_src.count( g ), ngram_trg.count(g) ) * idf.get(g, default_val) for g in intersection ] )
     r = numerator / denominator
-    if g_fn:
-        return g_fn( r, len(ngram_src) )
+    if weight_fn:
+        return weight_fn( r, len(ngram_src) )
     else:
         return r
 

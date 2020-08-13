@@ -3,9 +3,10 @@ import glob
 
 #####################################
 
-PREFIX = "STB-04-"
-BEGIN, END = "015", "006"
-STEP = 1
+PREFIX = "SCB-"
+BEGIN, END = "22", "01"
+STEP = 2
+SURFIX = "-"
 
 
 
@@ -53,7 +54,7 @@ def padding( num, l, pad="0" ):
     start = -1 * l
     return raw[start:]
 
-def get_queue( prefix, begin, end, step=1 ):
+def get_queue( prefix, begin, end, surfix="", step=1 ):
     idxlen = len( begin )
     queue = []
     if int( begin ) < int( end ):
@@ -61,14 +62,14 @@ def get_queue( prefix, begin, end, step=1 ):
     else:
         rg = range( int( begin ), int( end )-1, -1 )
     for i in rg:
-        bf = prefix + padding( i, idxlen )
-        af = prefix + padding( i+step, idxlen )
+        bf = prefix + padding( i, idxlen ) + surfix
+        af = prefix + padding( i+step, idxlen ) + surfix
         queue.append( (bf, af) )
     return queue
 
 def main():
 
-    queue = get_queue( PREFIX, BEGIN, END, STEP )
+    queue = get_queue( PREFIX, BEGIN, END, SURFIX, STEP )
     for a, b in queue: print( a, "=>", b )
 
     if len(sys.argv) > 1 and sys.argv[1] == "exe":

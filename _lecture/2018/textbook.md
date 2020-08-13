@@ -278,7 +278,7 @@ tags: 상한론, 원문
 
 {% include clause.md noo="STB-01-054" %}
 
-{% include clause.md noo="SCB-06-013" %}
+{% include clause.md noo="SCB-08-013" %}
 
 
 
@@ -335,7 +335,7 @@ tags: 상한론, 원문
 
 {% include clause.md noo="SSB-106" %}
 
-{% include clause.md noo="SCB-01-026" %}
+{% include clause.md noo="SCB-03-026" %}
 
 {% include clause.md noo="SSB-124" %}
 
@@ -1421,7 +1421,7 @@ tags: 상한론, 원문
 
 {% include clause.md noo="SSB-285" %}
 
-{% include clause.md noo="SCB-05-004" %}
+{% include clause.md noo="SCB-07-004" %}
 
 {% include clause.md noo="SSB-286" %}
 
@@ -1431,11 +1431,11 @@ tags: 상한론, 원문
 
 {% include clause.md noo="SSB-284" %}
 
-{% include clause.md noo="SCB-05-003" %}
+{% include clause.md noo="SCB-07-003" %}
 
 {% include clause.md noo="SSB-293" %}
 
-{% include clause.md noo="SCB-05-007" %}
+{% include clause.md noo="SCB-07-007" %}
 
 {% include clause.md noo="SSB-294" %}
 
@@ -1447,13 +1447,13 @@ tags: 상한론, 원문
 
 {% include clause.md noo="SSB-288" %}
 
-{% include clause.md noo="SCB-05-005" %}
+{% include clause.md noo="SCB-07-005" %}
 
 {% include clause.md noo="SSB-289" %}
 
 {% include clause.md noo="STB-11-009" %}
 
-{% include clause.md noo="SCB-05-006" %}
+{% include clause.md noo="SCB-07-006" %}
 
 {% include clause.md noo="SSB-295" %}
 

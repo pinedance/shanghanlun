@@ -1,8 +1,8 @@
 {{ page.desc }}
 --------------------
 
-{% assign files = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK" | split: " " %}
-{% assign books = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK" | split: " " %}
+{% assign files = "SSB SSR SSG SSE STB SCB SOB GGY SMK" | split: " " %}
+{% assign books = "SSB SSR SSG SSE STB SCB SOB GGY SMK" | split: " " %}
 {% assign book_cnt = books | size | minus: 1 %}
 
 {% assign data_compared = site.data.compare[ include.data_src ] %}

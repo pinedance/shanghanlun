@@ -49,10 +49,6 @@
 {% when "SCB" %}
 {% assign bookinit="淳化" %}
 
-<!-- 순화본 기타 -->
-{% when "SCE" %}
-{% assign bookinit="淳化" %}
-
 <!-- 당본 -->
 {% when "STB" %}
 {% assign bookinit="千翼" %}

@@ -20,7 +20,7 @@ SequenceMatcher를 이용하여 조문 사이에 유사도를 계산한다.
 
 cutoff = 0.75
 
-FILENAMES = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK".split()
+FILENAMES = "SSB SSR SSG SSE STB SCB SOB GGY SMK".split()
 
 basepath = os.path.join( "..", "..", "_data", "clause" )
 
