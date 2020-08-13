@@ -12,20 +12,16 @@
 {% continue %}
 {% endif %}
 
-
 {% if n contains "-00-" or n contains "-000" %}
 <!-- if Title -->
 {% include clause.md noo=n %}
-
 {% else %}
 <!-- if Clause -->
-<div id="SRC-{{number}}" class="compare-set">
-
-<div class="compare-source" markdown="1">
+<div id="SRC-{{n}}" class="compare-set">
+<div class="compare-source">
 {% include clause.md noo=n %}
 </div>
-
-<div class="compare-targets" markdown="1">
+<div class="compare-targets">
 {% include compare/compareGroup.md number=n from=include.bookcode %}
 </div>
 </div>
