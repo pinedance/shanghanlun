@@ -1,6 +1,7 @@
 import os, sys
 from time import time
 from collections import Counter
+import math
 
 from ruamel.yaml import YAML
 import regex as re
@@ -35,7 +36,7 @@ A -> B, B -> A 가 되면 [A,B], [C,D,E]가 된다.
 
 ######################################
 
-FILENAMES = "SSB SSR SSG SSE STB SCB SCE SOB GGY SMK".split()
+FILENAMES = "SSB SSR SSG SSE STB SCB SOB GGY SMK".split()
 BASEPATH = os.path.join( "..", "..", "_data", "clause" )
 MAX_PARARING_TOPN = 3    # or None
 USE_IDF = True
@@ -45,7 +46,19 @@ report_file = "report2.yml"
 result_file = "similartext_auto2.yml"
 ######################################
 
-def match_ratio( ngram_src, ngram_trg, idf={} ):
+def g_fn1( r, size ):
+    if size < 2: return 0
+    return r ** ( 1 / math.sqrt(size-1) )
+
+def g_fn2( r, size ):
+    if size < 2: return 0
+    return r ** ( 1 / (size-1) )
+
+def g_fn3( r, size ):
+    if size < 2: return 0
+    return r ** ( 1 / math.log( size ) )
+
+def match_ratio( ngram_src, ngram_trg, g_fn=None, idf={} ):
     # 결과가 비대칭이다.
     default_val = 1
     set_t1g, set_t2g = set( ngram_src ), set( ngram_trg )
@@ -54,7 +67,11 @@ def match_ratio( ngram_src, ngram_trg, idf={} ):
     denominator = sum( [ idf.get(g, default_val) for g in ngram_src ] )
     # 분자 ( 교집합 gram의 idf 가중치 합계 )
     numerator = sum( [ min( ngram_src.count( g ), ngram_trg.count(g) ) * idf.get(g, default_val) for g in intersection ] )
-    return numerator / denominator
+    r = numerator / denominator
+    if g_fn:
+        return g_fn( r, len(ngram_src) )
+    else:
+        return r
 
 def add_code( lst ):
     uniq_list = uniq( lst )
