@@ -39,24 +39,39 @@ A -> B, B -> A 가 되면 [A,B], [C,D,E]가 된다.
 FILENAMES = "SSB SSR SSG SSE STB SCB SOB GGY SMK".split()
 BASEPATH = os.path.join( "..", "..", "_data", "clause" )
 MAX_PARARING_TOPN = 3    # or None
-USE_IDF = True
 
-CUTOFF = 0.60
+USE_IDF = True
+USE_WEIGHT_FN = False
+DEFAULT_R = 0.1
+CUTOFF = 0.6
+
 report_file = "report2.yml"
 result_file = "similartext_auto2.yml"
+
 ######################################
 
-def g_fn1( r, size ):
-    if size < 2: return 0
-    return r ** ( 1 / math.sqrt(size-1) )
+def g_fn0( r, size ):
+    if size < 2: return DEFAULT_R
+    return r
 
-def g_fn2( r, size ):
-    if size < 2: return 0
+# BAD result
+def g_fn1( r, size ):
+    if size < 2: return DEFAULT_R
     return r ** ( 1 / (size-1) )
 
+# BAD result
+def g_fn2( r, size ):
+    if size < 2: return DEFAULT_R
+    return r ** ( 1 / math.sqrt(size-1) )
+
+# BAD result
 def g_fn3( r, size ):
-    if size < 2: return 0
+    if size < 2: return DEFAULT_R
     return r ** ( 1 / math.log( size ) )
+
+######################################
+WEIGHT_FN = g_fn0
+######################################
 
 def match_ratio( ngram_src, ngram_trg, idf={}, weight_fn=None ):
     # 결과가 비대칭이다.
@@ -136,9 +151,9 @@ def main():
     #     data_gram.append( tmp_gram )
     #     data_corpus.append( " ".join(tmp_gram) )
 
-    vectorizer = TfidfVectorizer( analyzer='char', ngram_range=(2, 2), min_df=5 )
+    vectorizer = TfidfVectorizer( analyzer='char', ngram_range=(2, 2), min_df=4 )
     """
-    * "min_df=5": exclude rare term
+    * "min_df": exclude rare term
     """
     data_vector = vectorizer.fit_transform( data_textonly )
     uniq_grams = list( vectorizer.vocabulary_ )
@@ -168,9 +183,15 @@ def main():
             ngram_src, ngram_trg = item1[3], item2[3]
             try:
                 if USE_IDF:
-                    r = match_ratio( ngram_src, ngram_trg, idf )
+                    if USE_WEIGHT_FN:
+                        r = match_ratio( ngram_src, ngram_trg, idf, weight_fn=WEIGHT_FN )
+                    else:
+                        r = match_ratio( ngram_src, ngram_trg, idf )
                 else:
-                    r = match_ratio( ngram_src, ngram_trg )
+                    if USE_WEIGHT_FN:
+                        r = match_ratio( ngram_src, ngram_trg, weight_fn=WEIGHT_FN )
+                    else:
+                        r = match_ratio( ngram_src, ngram_trg )
             except Exception as ex:
                 print( item1[2], item2[2], ex, "\n\n" )
                 r = 0
