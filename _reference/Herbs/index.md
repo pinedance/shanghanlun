@@ -2,6 +2,7 @@
 layout: index
 title: "상한금궤 본초 목록"
 tags: [index, 본초]
+order: 6
 index:
   category: reference
   subject: 본초

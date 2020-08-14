@@ -1,7 +1,8 @@
 ---
 layout: index
-title: "상한금궤 원문 목록"
+title: "상한금궤 조문 원문 목록"
 tags: [index]
+order: 1
 index:
   category: reference
   subject: 상한금궤원문
@@ -12,7 +13,7 @@ index:
 
 {% include page_list.md category=page.index.category subject=page.index.subject sort=true %}
 
-## 참고
+## word cloud
 
 
 ![상한론 Bigram Wordcloud]( {{site.baseurl}}/img/etc/bigram_wordcloud_from_shanghanlun.svg  )

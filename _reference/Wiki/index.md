@@ -2,6 +2,7 @@
 layout: index
 title: "Wiki 목록"
 tags: [index, wiki]
+order: 10
 index:
   category: reference
   subject: wiki
