@@ -6,7 +6,8 @@ h3 {
 p.ann {
 	font-size: 12px;
 	padding-left: 20px;
-    margin: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+	color: lightslategrey;
 }
 
 p.kor {
@@ -141,4 +142,16 @@ sup {
 
 .compare-link {
 	margin-left: 1em;
+}
+
+.sym-ann::before {
+	content: "¶";
+}
+
+.sym-comma::before {
+	content: "，";
+}
+
+.sym-period::before {
+	content: "。";
 }

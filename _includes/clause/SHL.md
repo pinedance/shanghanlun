@@ -11,7 +11,7 @@
 
 {% assign origin_path = site.baseurl | append: "/reference/Books/Shanghanlun/Clause/" | append: include.bookcode | append: "#" | append: noo %}
 
-{% assign clause_body = items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>" %}
+{% assign clause_body = items | map: 'TXT' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", '<sup class="sym-ann"></sup>' | replace: "，", '<span class="sym-comma"></span>' | replace: "。", '<span class="sym-period"></span>' %}
 
 {% if include.bookcode == "SSB" %}
 <div id="{{noo}}" class="shanghanlun text song">
@@ -63,7 +63,7 @@
 
 {% if include.kor  %}
 
-{% assign kor_body = items | map: 'KOR' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", "<sup>¶</sup>" %}
+{% assign kor_body = items | map: 'KOR' | join: " " | replace: "URI", site.formulaurl | replace: "｛", '<span class="subtext t1">'  | replace: "｝", "</span>"  | replace: "〈", '<span class="subtext t2">'  | replace: "〉", "</span>" | replace: "（", '<span class="subtext t0">'  | replace: "）", "</span>" | replace: "¶", '<sup class="sym-ann"></sup>' %}
 
 <p class="kor" markdown="1"><sup>§</sup>{{ kor_body }}</p>
 
