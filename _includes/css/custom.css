@@ -155,3 +155,15 @@ sup {
 .sym-period::before {
 	content: "。";
 }
+
+.sym-open::before {
+	content: "「";
+	font-size: 0.1em;
+	vertical-align: top;
+}
+
+.sym-close::before {
+	content: "」";
+	font-size: 0.1em;
+	vertical-align: bottom;
+}
