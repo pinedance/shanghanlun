@@ -40,10 +40,12 @@ FILENAMES = "SSB SSR SSG SSE STB SCB SOB GGY SMK".split()
 BASEPATH = os.path.join( "..", "..", "_data", "clause" )
 MAX_PARARING_TOPN = 3    # or None
 
-USE_IDF = True
-USE_WEIGHT_FN = False
+USE_IDF = False
+N_GRAM = 3
+MIN_DF = 5
 DEFAULT_R = 0.1
-CUTOFF = 0.6
+CUTOFF = 0.2
+USE_WEIGHT_FN = False
 
 report_file = "report2.yml"
 result_file = "similartext_auto2.yml"
@@ -123,7 +125,7 @@ def main():
             if ( "-00-" in n ) or ( "-000" in n ): continue
             txt = d.get("TXT").strip()
             hanzi_only = extract_han( preprocess( txt ) )
-            hanzi_only_gram = n_gram( hanzi_only, 2 )
+            hanzi_only_gram = n_gram( hanzi_only, N_GRAM )
             _data.append(  ( n, hanzi_only, txt, hanzi_only_gram ) )
             data_textonly.append( hanzi_only )
 
@@ -151,7 +153,7 @@ def main():
     #     data_gram.append( tmp_gram )
     #     data_corpus.append( " ".join(tmp_gram) )
 
-    vectorizer = TfidfVectorizer( analyzer='char', ngram_range=(2, 2), min_df=4 )
+    vectorizer = TfidfVectorizer( analyzer='char', ngram_range=(N_GRAM, N_GRAM), min_df=MIN_DF )
     """
     * "min_df": exclude rare term
     """
