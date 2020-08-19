@@ -31,7 +31,3 @@
 ## 辨發汗吐下後病脈證幷治第二十二 <small>合四十八法 方三十九首</small>
 
 {% include bookBody/clauses.md book=book classname="한토하후" %}
-
-***
-
-[傷寒論後序]({{site.baseurl}}/reference/Books/Shanghanlun/Foreword/상한론_후서)
