@@ -301,11 +301,31 @@
   lines:
     - ["SSB-327"]
 
+- class: 病人
+  lines:
+    - ["SSB-011"]
+    - ["SSB-054"]
+    - ["SSB-075"]
+    - ["SSB-081"]
+    - ["SSB-089"]
+    - ["SSB-122"]
+    - ["SSB-239"]
+    - ["SSB-240"]
+    - ["SSB-242"]
+    - ["SSB-257"]
+    - ["SSB-283"]
+    - ["SSB-355"]
+    - ["SSB-366"]
+    - ["SSB-398"]
+
 - class: 婦人
   lines:
     - ["SSB-144"]
     - ["SSB-145"]
     - ["SSB-143"]
+
+- class: 其人
+  lines:
 
 - class: 火法
   lines:
