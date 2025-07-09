@@ -2,7 +2,7 @@
 highlighter: rouge
 lsi: false
 markdown: kramdown
-exclude: [LICENSE, README.md, .gitignore, Gemfile, Gemfile.lock, _build.rb, _sandbox, 'raw/', '.*', '@*']
+exclude: [LICENSE, README.md, .gitignore, vendor, Gemfile, Gemfile.lock, _build.rb, _sandbox, 'raw/', '.*', '@*']
 excerpt_separator: ""  # 요약문 생성시 사용되는 구분자, 요약문 생성하지 않음
 
 # Site Settings
