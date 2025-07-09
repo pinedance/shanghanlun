@@ -1,13 +1,16 @@
 # General Jekyll Config
 highlighter: rouge
-url: https://pinedance.github.io
 lsi: false
 markdown: kramdown
 exclude: [LICENSE, README.md, .gitignore, Gemfile, Gemfile.lock, _build.rb, _sandbox, 'raw/', '.*', '@*']
+excerpt_separator: ""  # 요약문 생성시 사용되는 구분자, 요약문 생성하지 않음
 
 # Site Settings
-baseurl:            "/shanghanlun" # Base URL must end WITHOUT a slash, default: ""
-timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# url: https://pinedance.github.io
+# baseurl:            "/shanghanlun" # Base URL must end WITHOUT a slash, default: ""
+url: https://shanghanlun.pinedance.click
+baseurl: "" # Base URL must end WITHOUT a slash, default: ""
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Build settings
 host: localhost
@@ -33,9 +36,14 @@ collections:
         author: host
 
 # Global Variables
-formulaurl: "/shanghanlun/reference/Formulas"
-herburl: "/shanghanlun/reference/Herbs"
-sympurl: "/shanghanlun/reference/Symptoms"
-slideurl: "/shanghanlun/lecture/Slides"
+# formulaurl: "/shanghanlun/reference/Formulas"
+# herburl: "/shanghanlun/reference/Herbs"
+# sympurl: "/shanghanlun/reference/Symptoms"
+# slideurl: "/shanghanlun/lecture/Slides"
+# Domain URL 사용에 따라 수정함
+formulaurl: "/reference/Formulas"
+herburl: "/reference/Herbs"
+sympurl: "/reference/Symptoms"
+slideurl: "/lecture/Slides"
 
 github: [metadata]
