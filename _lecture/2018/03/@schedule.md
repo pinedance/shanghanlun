@@ -2,13 +2,14 @@
 layout: handout
 title: 2018년 1학기 상한론 강의 계획
 tags: 상한론, 강의
+shortcut:
+  book_text: "/lecture/2018/textbook"
+  book_mingli: "/reference/Books/Etc/상한명리론"
 ---
 
 일시 : 2018년 1학기, 목요일 13:30-15:20
 
 장소 : 원광대학교 한의과대학
-
-{% assign textbookurl = "/lecture/2018/textbook.html" %}
 
 ## 01주 〔180308〕
 
@@ -26,7 +27,6 @@ tags: 상한론, 강의
 * 상한론의 성립과 전승  [pdf]( {{site.slideurl}}/A02a상한론의_성립과_전승.pdf )
 * 상한론이라는 책들 [pdf]( {{site.slideurl}}/A02b상한론이라는_책들.pdf )
 
-
 ## 03주 〔180322〕：태양병
 
 ### 상한금궤 조문
@@ -34,7 +34,7 @@ tags: 상한론, 강의
 * 상한론 서문 [web]( {{site.baseurl}}/reference/Books/Shanghanlun/Foreword/송본03_상한잡병론_집론 )
 * 태양병 개요  [pdf]( {{site.slideurl}}/A03태양병_개요.pdf )
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-03week ) \(주교재 pp.029-039\)
+[원문]( {{page.shortcut.book_text}}#1-03week ) \(주교재 pp.029-039\)
 
 * <i class="fa fa-book"></i> 육경병증치의 대강
 * <i class="fa fa-book"></i> 태양병의 제강
@@ -45,12 +45,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [대조]({{site.herburl}}/대조)
 * <i class="fa fa-pagelines"></i> [생강]({{site.herburl}}/생강), [건강]({{site.herburl}}/건강)
 
-
 ## 04주 〔180329〕：태양병
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-04week ) \(주교재 pp.039-055\)
+[원문]( {{page.shortcut.book_text}}#1-04week ) \(주교재 pp.039-055\)
 
 * <i class="fa fa-book"></i> 태양경증-태양중풍증
 
@@ -70,12 +69,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [계지]({{site.herburl}}/계지)
 * <i class="fa fa-pagelines"></i> [작약]({{site.herburl}}/작약)
 
-
 ## 05 〔180405〕：태양병
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-05week ) \(주교재 pp.055-068\)
+[원문]( {{page.shortcut.book_text}}#1-05week ) \(주교재 pp.055-068\)
 
 * <i class="fa fa-book"></i> 태양경증-태양상한증(1)
 
@@ -90,12 +88,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [마황]({{site.herburl}}/마황)
 * <i class="fa fa-pagelines"></i> [갈근]({{site.herburl}}/갈근)
 
-
 ## 06 〔180412〕：태양병
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-06week ) \(주교재 pp.068-082\)
+[원문]( {{page.shortcut.book_text}}#1-06week ) \(주교재 pp.068-082\)
 
 * <i class="fa fa-book"></i> 태양경증-태양상한증(2)
 * <i class="fa fa-book"></i> 태양경증-태양경증
@@ -113,12 +110,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [석고]({{site.herburl}}/석고)
 * <i class="fa fa-pagelines"></i> [세신]({{site.herburl}}/세신)
 
-
 ## 07 〔180419〕：태양병
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-07week ) \(주교재 pp.082-092\)
+[원문]( {{page.shortcut.book_text}}#1-07week ) \(주교재 pp.082-092\)
 
 * <i class="fa fa-book"></i> 태양부증
 * <i class="fa fa-book"></i> 태양병의 전변
@@ -138,18 +134,15 @@ tags: 상한론, 강의
 
 ### Review 01-07
 
-
 ## 08 〔180426〕：중간고사
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)
-
-
 
 ## 09 〔180503〕：태양병
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-09week ) \(주교재 pp.092-106\)
+[원문]( {{page.shortcut.book_text}}#1-09week ) \(주교재 pp.092-106\)
 
 * <i class="fa fa-book"></i> 태양병의 변증(1)
 
@@ -169,13 +162,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [행인]({{site.herburl}}/행인)
 * <i class="fa fa-pagelines"></i> [황련]({{site.herburl}}/황련)
 
-
-
 ## 10주 〔180510〕：태양병
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-10week ) \(주교재 pp.106-121\)
+[원문]( {{page.shortcut.book_text}}#1-10week ) \(주교재 pp.106-121\)
 
 * <i class="fa fa-book"></i> 태양병의 변증(2)
 
@@ -195,12 +186,11 @@ tags: 상한론, 강의
 * <i class="fa fa-pagelines"></i> [복령]({{site.herburl}}/복령)
 * <i class="fa fa-pagelines"></i> [부자]({{site.herburl}}/부자)
 
-
 ## 11주 〔180517〕：태양병
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-11week ) \(주교재 pp.121-132\)
+[원문]( {{page.shortcut.book_text}}#1-11week ) \(주교재 pp.121-132\)
 
 * <i class="fa fa-book"></i> 태양병의 변증(3)
 
@@ -223,7 +213,7 @@ tags: 상한론, 강의
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-12week ) \(주교재 pp.132-147\)
+[원문]( {{page.shortcut.book_text}}#1-12week ) \(주교재 pp.132-147\)
 
 * <i class="fa fa-book"></i> 태양병의 변증(4)
 
@@ -250,7 +240,7 @@ tags: 상한론, 강의
 
 ### 상한금궤 조문
 
-[원문]( {{site.baseurl}}{{textbookurl}}#1-13week ) \(주교재 pp.147-169\)
+[원문]( {{page.shortcut.book_text}}#1-13week ) \(주교재 pp.147-169\)
 
 * <i class="fa fa-book"></i> 태양병 유사증
 * <i class="fa fa-book"></i> 표증과 리증의 치료 순서

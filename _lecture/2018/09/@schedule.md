@@ -3,8 +3,8 @@ layout: handout
 title: 2018년 2학기 상한론 강의 계획
 tags: 상한론, 강의
 shortcut:
-  book_text: "/shanghanlun/lecture/2018/textbook"
-  book_mingli: "/shanghanlun/reference/Books/Etc/상한명리론"
+  book_text: "/lecture/2018/textbook"
+  book_mingli: "/reference/Books/Etc/상한명리론"
 ---
 
 일시 : 2018년 2학기, 목요일 13:30-15:20
@@ -12,8 +12,8 @@ shortcut:
 장소 : 원광대학교 한의과대학
 
 소통
-* 물끄럼노트：[쓰기](https://goo.gl/forms/QOZ7UWiu5My3PT873) / [전체 보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
 
+* 물끄럼노트：[쓰기](https://goo.gl/forms/QOZ7UWiu5My3PT873) / [전체 보기](https://docs.google.com/spreadsheets/d/10wT810ewlXE1N0ys0cGIhKy_K-kjTAl2Eh2I6JzvFi0/edit?usp=sharing)
 
 ## 01 〔180830〕：양명병
 
@@ -34,13 +34,11 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [치자후박탕]({{site.formulaurl}}/치자후박탕)
 * <i class="fa fa-bookmark"></i> [치자건강탕]({{site.formulaurl}}/치자건강탕)
 
-
 ### 상한론 본초
 
 * <i class="fa fa-pagelines"></i> [치자]({{site.herburl}}/치자)
 * <i class="fa fa-pagelines"></i> [해백]({{site.herburl}}/해백)
 * <i class="fa fa-pagelines"></i> [과루실]({{site.herburl}}/과루실)
-
 
 ## 02 〔180906〕：양명병
 
@@ -50,7 +48,7 @@ shortcut:
 
 * <i class="fa fa-book"></i> 陽明經證
 * <i class="fa fa-book"></i> 陽明腑證
-  - 燥實證
+  * 燥實證
 
 ### 상한론 처방
 
@@ -58,7 +56,6 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [백호가인삼탕]({{site.formulaurl}}/백호가인삼탕)
 * <i class="fa fa-bookmark"></i> [죽엽석고탕]({{site.formulaurl}}/죽엽석고탕)
 * <i class="fa fa-bookmark"></i> [조위승기탕]({{site.formulaurl}}/조위승기탕)
-
 
 ### 상한론 본초
 
@@ -71,7 +68,6 @@ shortcut:
 * [상한 치험례]({{site.slideurl}}/B01상한의_치료_치험례.pdf)
 * 현대 임상례
 
-
 ## 03 〔180913〕：양명병
 
 ### 상한금궤 조문
@@ -79,8 +75,8 @@ shortcut:
 [원문]( {{page.shortcut.book_text}}#2-03week ) \(주교재 pp.190-201\)
 
 * <i class="fa fa-book"></i> 陽明腑證
-  - 痞滿證
-  - 痞滿燥實證
+  * 痞滿證
+  * 痞滿燥實證
 * <i class="fa fa-book"></i> 不可下證
 
 ### 상한론 처방
@@ -88,18 +84,17 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [소승기탕]({{site.formulaurl}}/소승기탕)
 * <i class="fa fa-bookmark"></i> [대승기탕]({{site.formulaurl}}/대승기탕)
 
-
 ### 상한론 병증
 
 * [傷寒明理論 소개]({{page.shortcut.book_mingli}}#소개)
 
 寒、熱
+
 * <i class="fa fa-comment-dots"></i> [發熱]({{page.shortcut.book_mingli}}#발열)
 * <i class="fa fa-comment-dots"></i> [惡寒]({{page.shortcut.book_mingli}}#오한)
 * <i class="fa fa-comment-dots"></i> [惡風]({{page.shortcut.book_mingli}}#오풍)
 * <i class="fa fa-comment-dots"></i> [寒熱]({{page.shortcut.book_mingli}}#한열)
 * <i class="fa fa-comment-dots"></i> [潮熱]({{page.shortcut.book_mingli}}#조열)
-
 
 ## 04 〔180920〕：양명병
 
@@ -118,11 +113,10 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [치자백피탕]({{site.formulaurl}}/치자백피탕)
 * <i class="fa fa-bookmark"></i> [마황연초적소두탕]({{site.formulaurl}}/마황연초적소두탕)
 
-
-
 ### 상한론 병증
 
 汗
+
 * <i class="fa fa-comment-dots"></i> [自汗]({{page.shortcut.book_mingli}}#자한)
 * <i class="fa fa-comment-dots"></i> [盜汗]({{page.shortcut.book_mingli}}#도한)
 * <i class="fa fa-comment-dots"></i> [頭汗]({{page.shortcut.book_mingli}}#두한)
@@ -139,28 +133,26 @@ shortcut:
 
 * <i class="fa fa-book"></i> 少陽病의 提綱
 * <i class="fa fa-book"></i> 少陽病證
-  - 少陽病의 主證
+  * 少陽病의 主證
 
 ### 상한론 처방
 
 * <i class="fa fa-bookmark"></i> [소시호탕]({{site.formulaurl}}/소시호탕)
 
-
-
 ### 상한론 병증
 
 頭項
+
 * <i class="fa fa-comment-dots"></i> [頭痛]({{page.shortcut.book_mingli}}#두통)
 * <i class="fa fa-comment-dots"></i> [項强]({{page.shortcut.book_mingli}}#항강)
 * <i class="fa fa-comment-dots"></i> [頭眩]({{page.shortcut.book_mingli}}#두현)
 
 滿
+
 * <i class="fa fa-comment-dots"></i> [胸脇滿]({{page.shortcut.book_mingli}}#흉협만)
 * <i class="fa fa-comment-dots"></i> [心下滿]({{page.shortcut.book_mingli}}#심하만)
 * <i class="fa fa-comment-dots"></i> [腹滿]({{page.shortcut.book_mingli}}#복만)
 * <i class="fa fa-comment-dots"></i> [少腹滿]({{page.shortcut.book_mingli}}#소복만)
-
-
 
 ## 07 〔181011〕：소양병
 
@@ -169,7 +161,7 @@ shortcut:
 [원문]( {{page.shortcut.book_text}}#2-06week ) \(주교재 pp.234-252\)
 
 * <i class="fa fa-book"></i> 少陽病證
-  - 少陽病의 兼證
+  * 少陽病의 兼證
 
 ### 상한론 처방
 
@@ -181,10 +173,10 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [시호계지건강탕]({{site.formulaurl}}/시호계지건강탕)
 * <i class="fa fa-bookmark"></i> [시호가용골모려탕]({{site.formulaurl}}/시호가용골모려탕)
 
-
 ### 상한론 병증
 
 煩
+
 * <i class="fa fa-comment-dots"></i> [煩熱]({{page.shortcut.book_mingli}}#번열)
 * <i class="fa fa-comment-dots"></i> [虛煩]({{page.shortcut.book_mingli}}#허번)
 * <i class="fa fa-comment-dots"></i> [煩躁]({{page.shortcut.book_mingli}}#번조)
@@ -192,12 +184,9 @@ shortcut:
 
 ### Review 01-07
 
-
 ## 08 〔181018〕：중간고사
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd56S4DsgEC4vWuFFS9MsUDZA7mSdERHRb6IsywMcI5FuBW6F)
-
-
 
 ## 09 〔181025〕：태음병
 
@@ -211,14 +200,12 @@ shortcut:
 * <i class="fa fa-book"></i> 寒濕으로 인한 發黃
 * <i class="fa fa-book"></i> 太陰病의 辨證
 
-
 ### 상한론 처방
 
 * <i class="fa fa-bookmark"></i> [이중환]({{site.formulaurl}}/이중환)
 * <i class="fa fa-bookmark"></i> [계지인삼탕]({{site.formulaurl}}/계지인삼탕)
 * <i class="fa fa-bookmark"></i> [계지가작약탕]({{site.formulaurl}}/계지가작약탕)
 * <i class="fa fa-bookmark"></i> [계지가대황탕]({{site.formulaurl}}/계지가대황탕)
-
 
 ### 상한론 병증
 
@@ -228,8 +215,6 @@ shortcut:
 * <i class="fa fa-comment-dots"></i> [咳]({{page.shortcut.book_mingli}}#해)
 * <i class="fa fa-comment-dots"></i> [喘]({{page.shortcut.book_mingli}}#천)
 
-
-
 ## 10 〔181101〕：소음병
 
 ### 상한금궤 조문
@@ -238,9 +223,8 @@ shortcut:
 
 * <i class="fa fa-book"></i> 少陰病의 提綱
 * <i class="fa fa-book"></i> 少陰寒化證
-  - 陽衰陰盛證
-  - 陰盛格陽證
-
+  * 陽衰陰盛證
+  * 陰盛格陽證
 
 ### 상한론 처방
 
@@ -248,7 +232,6 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [사역가인삼탕]({{site.formulaurl}}/사역가인삼탕)
 * <i class="fa fa-bookmark"></i> [통맥사역탕]({{site.formulaurl}}/통맥사역탕)
 * <i class="fa fa-bookmark"></i> [통맥사역가저담즙탕]({{site.formulaurl}}/통맥사역가저담즙탕)
-
 
 ### 상한론 병증
 
@@ -258,7 +241,6 @@ shortcut:
 * <i class="fa fa-comment-dots"></i> [振]({{page.shortcut.book_mingli}}#진)
 * <i class="fa fa-comment-dots"></i> [戰慄]({{page.shortcut.book_mingli}}#전율)
 
-
 ## 11 〔181108〕：소음병
 
 ### 상한금궤 조문
@@ -266,12 +248,11 @@ shortcut:
 [원문]( {{page.shortcut.book_text}}#2-10week ) \(주교재 pp.285-296\)
 
 * <i class="fa fa-book"></i> 少陰寒化證
-  - 陰盛戴陽證
-  - 陽虛身痛證
-  - 陽虛水泛證
-  - 下焦가 收澁하지 못하여 膿血便을 보는 증
-  - 下焦가 收澁하지 못하여 滑泄하는 증
-
+  * 陰盛戴陽證
+  * 陽虛身痛證
+  * 陽虛水泛證
+  * 下焦가 收澁하지 못하여 膿血便을 보는 증
+  * 下焦가 收澁하지 못하여 滑泄하는 증
 
 ### 상한론 처방
 
@@ -290,7 +271,6 @@ shortcut:
 * <i class="fa fa-comment-dots"></i> [譫語]({{page.shortcut.book_mingli}}#섬어)
 * <i class="fa fa-comment-dots"></i> [短氣]({{page.shortcut.book_mingli}}#단기)
 
-
 ## 12 〔181115〕：소음병
 
 ### 상한금궤 조문
@@ -298,16 +278,15 @@ shortcut:
 [원문]( {{page.shortcut.book_text}}#2-11week ) \(주교재 pp.296-313\)
 
 * <i class="fa fa-book"></i> 少陰熱化證
-  - 陰虛火旺證
-  - 陰虛에 水와 熱이 합쳐진 증
+  * 陰虛火旺證
+  * 陰虛에 水와 熱이 합쳐진 증
 * <i class="fa fa-book"></i> 少陰咽痛證
 * <i class="fa fa-book"></i> 少陰病의 兼證
-  - 太陽을 겸한 증
-  - 陽明을 겸한 증
+  * 太陽을 겸한 증
+  * 陽明을 겸한 증
 * <i class="fa fa-book"></i> 少陰病에 쓸 수 없는 치법
 * <i class="fa fa-book"></i> 少陰病의 變證
 * <i class="fa fa-book"></i> 少陰病의 陰陽消長과 예후
-
 
 ### 상한론 처방
 
@@ -320,7 +299,6 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [마황부자세신탕]({{site.formulaurl}}/마황부자세신탕)
 * <i class="fa fa-bookmark"></i> [마황부자감초탕]({{site.formulaurl}}/마황부자감초탕)
 
-
 ### 상한론 병증
 
 * <i class="fa fa-comment-dots"></i> [搖頭]({{page.shortcut.book_mingli}}#요두)
@@ -328,7 +306,6 @@ shortcut:
 * <i class="fa fa-comment-dots"></i> [不仁]({{page.shortcut.book_mingli}}#불인)
 * <i class="fa fa-comment-dots"></i> [直視]({{page.shortcut.book_mingli}}#직시)
 * <i class="fa fa-comment-dots"></i> [鬱冒]({{page.shortcut.book_mingli}}#울모)
-
 
 ## 13 〔181122〕：궐음병
 
@@ -340,7 +317,6 @@ shortcut:
 * <i class="fa fa-book"></i> 寒熱이 뒤섞인 증
 * <i class="fa fa-book"></i> 寒證
 
-
 ### 상한론 처방
 
 * <i class="fa fa-bookmark"></i> [오매환]({{site.formulaurl}}/오매환)
@@ -348,7 +324,6 @@ shortcut:
 * <i class="fa fa-bookmark"></i> [오수유탕]({{site.formulaurl}}/오수유탕)
 * <i class="fa fa-bookmark"></i> [당귀사역탕]({{site.formulaurl}}/당귀사역탕)
 * <i class="fa fa-bookmark"></i> [당귀사역가오수유생강탕]({{site.formulaurl}}/당귀사역가오수유생강탕)
-
 
 ### 상한론 병증
 
@@ -358,14 +333,11 @@ shortcut:
 * <i class="fa fa-comment-dots"></i> [熱入血室]({{page.shortcut.book_mingli}}#열입혈실)
 * <i class="fa fa-comment-dots"></i> [發黃]({{page.shortcut.book_mingli}}#발황)
 
-
 ## 14 〔181129〕：조별과제발표
 
 ![boss vs leader](https://i0.wp.com/phildourado.com/wp-content/uploads/2016/06/BossLeaderInfographic.jpg?resize=300%2C300)
 
-
 ## 15 〔181206〕：궐음병
-
 
 ### 상한금궤 조문
 
@@ -388,8 +360,6 @@ shortcut:
 * <i class="fa fa-comment-dots"></i> [霍亂]({{page.shortcut.book_mingli}}#곽란)
 * <i class="fa fa-comment-dots"></i> [蓄血]({{page.shortcut.book_mingli}}#축혈)
 * <i class="fa fa-comment-dots"></i> [勞復]({{page.shortcut.book_mingli}}#노복)
-
-
 
 ## 16 〔181213〕：기말고사
 

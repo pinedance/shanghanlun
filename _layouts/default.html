@@ -2,7 +2,9 @@
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html> <!--<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html> <!--<![endif]-->
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,13 +19,19 @@
   <link href="//fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
   <!-- <link rel="shortcut icon" href="{{site.baseurl}}/favicon.png"> -->
   <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.title }}" href="{{ site.url }}{{site.baseurl}}/atom.xml" />
+  {% if site.data.theme.show_atom_feed %}
+  <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.title }}"
+    href="{{ site.url }}{{site.baseurl}}/atom.xml" />
+  {% endif %}
 
   <!-- <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css"> -->
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/all.css">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"
+    integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg=="
+    crossorigin="anonymous">
 
 </head>
+
 <body>
   <div class="container">
     <div class="four columns sidebar">
@@ -38,9 +46,9 @@
         {% include layout/footer.html %}
       </div>
 
-	  <div id="searchBar" class="bar4search">
+      <div id="searchBar" class="bar4search">
         {% include layout/search.html %}
-	  </div>
+      </div>
 
     </div>
 
@@ -53,4 +61,5 @@
 
 
 </body>
+
 </html>
