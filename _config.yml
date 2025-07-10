@@ -18,14 +18,14 @@ port: 8383
 incremental: true
 
 # Google Analytics
-google_analytics_id : UA-72863252-3
+google_analytics_id : G-NF4SXDEVS3
 
 # Plugins
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+
 # ref : https://jekyllrb.com/docs/collections/
 collections:
   reference:
