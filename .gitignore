@@ -7,6 +7,6 @@ _site/
 .*.swp
 .idea
 .bundle
-Gemfile.lock
+# Gemfile.lock
 .jekyll-metadata
 __pycache__/
